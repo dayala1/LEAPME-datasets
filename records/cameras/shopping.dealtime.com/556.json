@@ -1,0 +1,23 @@
+{
+    "flashtype": "Built-in flash",
+    "tax": "Calculate",
+    "displaytype": "LCD",
+    "additionalfeatures": "Blink Detection      \u2022           Resizing an Image      \u2022           Exif Print Support      \u2022           Digital Image Rotation      \u2022           DPOF Support      \u2022           Smile Capture      \u2022           USB 2.0 Compatibility      \u2022           Audio Recording      \u2022           Cropping An Image      \u2022           Automatic Face Tracking      \u2022           Direct Print      \u2022           Motion Panorama      \u2022           720p HD Movie Recording      \u2022           Digital Image Stabilization      \u2022           Red eye Fix      \u2022           Automatic Scene Recognition (SR Auto)",
+    "baseprice": "$199.00 $95.99",
+    "category": "camera",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "redeyereduction": "Yes",
+    "autofocustype": "TTL contrast detection",
+    "type": "Point & Shoot",
+    "brand": "Fujifilm",
+    "sensortype": "CCD",
+    "totalprice": "$95.99",
+    "digitalvideoformat": "MJPEG      \u2022           AVI",
+    "microphoneoperationmode": "Mono",
+    "batteryformfactor": "Manufacturer specific",
+    "shootingmodes": "Frame Movie Mode",
+    "exposuremodes": "Automatic      \u2022           Program",
+    "shipping": "Free Shipping",
+    "supportedflashmemory": "SDHC Memory Card      \u2022           SD Memory Card"
+}

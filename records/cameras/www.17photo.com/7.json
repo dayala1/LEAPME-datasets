@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "colorspaces": "Not Specified By Manufacturer",
+    "bitdepth": "14-bit",
+    "pixels": "Actual: 24.7 Megapixel Effective: 24.3 Megapixel",
+    "imagestabilization": "Optical & Digital",
+    "maxresolution": "24MP: 6000 x 4000 @ 3:2",
+    "aspectratio": "3:2, 16:9",
+    "otherresolutions": "23MP: 12416 x 1856 20MP: 6000 x 3376 @ 16:9 15MP: 8192 x 1856 12MP: 5536 x 2160 10MP: 3936 x 2624 @ 3:2 8.7MP: 3936 x 2216 @ 16:9 8.4MP: 3872 x 2160 @ 16:9 4.6MP: 2640 x 1760 @ 3:2 3.9MP: 2640 x 1488 @ 16:9",
+    "sensor": "Full Frame\u00a0(35.8 x 23.9 mm) CMOS",
+    "fileformats": "Still Images: JPEG, RAW Movies: MPEG-4, MPEG-4 AVCHD"
+}

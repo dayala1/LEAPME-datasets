@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "dimensions": "113mm (W) x65.4mm (H) x 48mm (D)",
+    "power": "BLS-5 Battery",
+    "memorysize": "SD Memory Card(SDHC, SDXC, UHS-I compatible), Eye-Fi, FlashAir",
+    "sensitivity": "100 - 12800",
+    "flash": "Built-In Flash",
+    "storage": "SD Memory Card(SDHC, SDXC, UHS-I compatible), Eye-Fi, FlashAir",
+    "zoom": "10.7 x Optical Zoom",
+    "weight": "Approx. 346g",
+    "megapixel": "12 Megapixel",
+    "standoutfeature1": "TruePic VI Image Processor",
+    "screensize": "3.0\" LCD Screen",
+    "ccd": "BSI CMOS Sensor",
+    "shutterspeed": "60sec - 1/2000"
+}

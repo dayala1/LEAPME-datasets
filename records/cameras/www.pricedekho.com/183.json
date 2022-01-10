@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "whitebalancing": "NA",
+    "facedetection": "Yes",
+    "flashrange": "(ISO Auto) : Wide : 0.2 - 3.2m, Telephoto : 0.5 - 1.8m",
+    "shootingmodes": "Smart Auto, Program, Scene, Simple Shot, App (Magic Frame Shot, Beauty Shot, Object Highlight, Night Shot, Close-Up, Vignetting,Photo Filter, Movie, Smart Movie",
+    "builtinflash": "Yes",
+    "redeyereduction": "Yes",
+    "metering": "Centre Weighted, Face Detection AE, Multi, Spot",
+    "selftimer": "10 / 2 sec, Double",
+    "flashmodes": "Fill-in, Slow Sync Flash"
+}

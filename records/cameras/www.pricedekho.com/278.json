@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Daylight, Fluorescent-1, Fluorescent-2, Fluorescent-3, One-Touch, Overcast, Tungsten",
+    "videodisplayresolution": "1280 x 720 pixels (HD) @ 30 fps",
+    "audioformats": "WAV",
+    "shootingmodes": "iAuto, Program Auto",
+    "isorating": "Auto / High Auto / 100 / 200 / 400 / 800 / 1600",
+    "aperturerange": "f/3.0 - f/7.9 (W), f/5.9 - f/15.4 (T)",
+    "redeyereduction": "Yes",
+    "metering": "ESP Light",
+    "selftimer": "2 sec, 10 sec",
+    "displaytype": "TFT LCD",
+    "additionalfeatures": "Auto Noise Reduction, Beach and Snow, CCD Contrast Detection Focus System, CCD Shift Motion Blur Suppression, Candle, Cuisine, Documents, Drawing, Event, Exposure Compensation: +/- 2 EV Increment in 1/3 EV, Fast-Forward, Fire Works, Fish Eye, Frame-by-Frame, Image Playback Still Image: Single, Index Display (5x4), Indoor, Landscape, Magic Filters: Pop Art, Movie: Normal, Night Scene, Night with Portrait, PC Panorama, Pet, Pin Hole, Punk, Reverse, Scene Modes: Portrait, Self Portrait, Slideshow, Soft Focus, Sparkle, Sport, Sunset, Voice Playback, up to 10x Enlargement",
+    "imageformat": "JPEG (EXIF 2.2, DCF, DPOF)",
+    "screensize": "3 Inches",
+    "imagedisplayresolution": "460000 dots",
+    "facedetection": "Yes; Up to 8 Faces",
+    "videoformat": "AVI Motion JPEG"
+}

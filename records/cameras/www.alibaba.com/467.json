@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "worktemperature": "DEGREES(-20~70)",
+    "framerate": "640(H) x 480 (V) pixels\u00a0\u00a0\u00a0 MJPEG 60fps\u00a0\u00a0\u00a0\u00a0 \u00a0 YUY2 30fps 480(H) x 480 (V) pixels\u00a0\u00a0\u00a0 MJPEG 30fps\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0YUY2 30fps 450(H) x 450 (V) pixels\u00a0\u00a0\u00a0 MJPEG 30fps\u00a0 \u00a0 \u00a0\u00a0 YUY2 30fps 352(H) x 288 (V) pixels\u00a0\u00a0\u00a0 MJPEG 30fps\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0YUY2 30fps 320(H) x 240 (V) pixels\u00a0\u00a0\u00a0 MJPEG 30fps\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0YUY2 30fps 288(H) x 288 (V) pixels\u00a0\u00a0\u00a0 MJPEG 30fps\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0YUY2 30fps 240(H) x 240 (V) pixels\u00a0\u00a0\u00a0 MJPEG 30fps\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0YUY2 30fps",
+    "lenssize": "1/4 inch",
+    "current": "120mA",
+    "nightvision": "optional, can choose IR board",
+    "voltage": "DC 5V",
+    "pictureformat": "YUY2 MJPEG",
+    "maxresolution": "640X480 VGA",
+    "sensor": "OV7725",
+    "viewangle": "30-150 degree optional",
+    "size": "32x32mm\u00a0 26x26mm"
+}

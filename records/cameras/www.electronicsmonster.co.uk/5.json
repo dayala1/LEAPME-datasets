@@ -1,0 +1,23 @@
+{
+    "modelname": "HDR-AS30V",
+    "indooroutdoor": "Indoor/Outdoor",
+    "shutterspeeds": "1/30 to 1/10000 Seconds",
+    "lenstype": "Carl Zeiss",
+    "producttype": "Digital Camcorder",
+    "category": "camera",
+    "dimensions": "2.45cm (W) x 8.2cm (D) x 4.7cm (H) - Weight 0.65kg",
+    "stillimageformat": "JPEG",
+    "usbports": "1 x USB Mini-B",
+    "aperture": "F2.8",
+    "focallength": "2.5mm 15.3mm",
+    "brightnesscontrol": "Yes",
+    "minimumillumination": "6 lux",
+    "barcode": "4905524945027",
+    "focusmodes": "Auto",
+    "hdmiports": "1 x HDMI",
+    "casecolour": "Black",
+    "externalmicrophone": "Stereo built in",
+    "resolutionpixels": "1920 x 1080",
+    "ccd": "CMOS x 1/2.3ins",
+    "whitebalance": "Auto"
+}

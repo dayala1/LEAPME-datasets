@@ -1,0 +1,826 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="newegg.com:newegg.com#"
+     xml:base="newegg.com:newegg.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:newegg="newegg.com:">
+    <owl:Ontology rdf:about="newegg.com:newegg.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- newegg.com:Additional-Function -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Additional-Function">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Additional Function</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Audio -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Audio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Audio-Connectors -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Audio-Connectors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Connectors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Auto-Focus -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Auto-Focus">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auto Focus</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Battery-Capacity -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Battery-Capacity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Capacity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Battery-Type -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Battery-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Bluetooth-Support -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Bluetooth-Support">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth Support</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Brand -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Built-in-Storage -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Built-in-Storage">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Storage</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:CPU -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:CPU">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CPU</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Camera-Primary -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Camera-Primary">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera Primary</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Compatible-Carrier&#45;&#45;Service -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Compatible-Carrier--Service">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compatible Carrier &amp; Service</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Data-transfer -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Data-transfer">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data transfer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Dimensions-H-x-W-x-D -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Dimensions-H-x-W-x-D">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dimensions (H x W x D)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Dual-SIM -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Dual-SIM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual SIM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Features -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Flash -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Flash">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flash</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Form-Factor -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Form-Factor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Form Factor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Front-Facing-Camera -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Front-Facing-Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front-Facing Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:GPS-Integrated -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:GPS-Integrated">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Integrated</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:HD-Video-Capture -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:HD-Video-Capture">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Video Capture</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Main-Display-Color -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Main-Display-Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Main Display Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Main-Display-Format -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Main-Display-Format">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Main Display Format</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Main-Display-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Main-Display-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Main Display Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Main-Display-Size -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Main-Display-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Main Display Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Message -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Message">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Message</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Mobile-Frequencies -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Mobile-Frequencies">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Frequencies</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Model -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:OS -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:OS">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OS</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Operating-System -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Operating-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Other-Connection -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Other-Connection">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Other Connection</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Part-Number -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Part-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Part Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Pixel-Density -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Pixel-Density">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pixel Density</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Processor -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Processor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Processor-Core -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Processor-Core">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processor Core</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Qwerty-Keyboard -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Qwerty-Keyboard">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qwerty Keyboard</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:RAM -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:RAM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Rear-Camera -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Rear-Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:SIM-Card-Type -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:SIM-Card-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM Card Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Sensors -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Sensors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Series -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Series">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Series</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Software&#45;&#45;App -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Software--App">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software &amp; App</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Specifications -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Specifications">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Specifications</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:System-Chip -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:System-Chip">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">System Chip</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Talk-Time -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Talk-Time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Talk Time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Technology -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Touch-Screen -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Touch-Screen">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touch Screen</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:USB -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:USB">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Wi-Fi-Support -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Wi-Fi-Support">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi Support</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:WiFi -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:WiFi">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WiFi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:tagline -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:tagline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tagline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- newegg.com:0 -->
+
+    <owl:NamedIndividual rdf:about="newegg.com:0">
+        <newegg:Camera-Primary rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16 MP, Secondary: 5 MP</newegg:Camera-Primary>
+        <newegg:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Android OS, v5.0.2 (Lollipop)</newegg:OS>
+        <newegg:Specifications rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Fingerprint sensor (PayPal certified) Samsung Pay (Visa, MasterCard certified) Corning Gorilla Glass 4 TouchWiz UI Geo-tagging, touch focus, face detection, Auto HDR, panorama Wireless charging (Qi/PMA) - market dependent ANT+ support S-Voice natural language commands and dictation Smart stay OneDrive (115 GB cloud storage) Active noise cancellation with dedicated mic</newegg:Specifications>
+        <newegg:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2.1 GHz</newegg:CPU>
+        <newegg:Rear-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP</newegg:Rear-Camera>
+        <newegg:Main-Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16M</newegg:Main-Display-Color>
+        <newegg:HD-Video-Capture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</newegg:HD-Video-Capture>
+        <newegg:Battery-Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2550mAh</newegg:Battery-Capacity>
+        <newegg:Main-Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440</newegg:Main-Display-Resolution>
+        <newegg:Mobile-Frequencies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2G: GSM 850 / 900 / 1800 / 1900 MHz 3G: UMTS 850 / 1700 / 1900 / 2100 MHz 4G (LTE ) 1, 2, 3, 4, 5, 7, 12, 17, 20</newegg:Mobile-Frequencies>
+        <newegg:Audio-Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm jack</newegg:Audio-Connectors>
+        <newegg:Built-in-Storage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</newegg:Built-in-Storage>
+        <newegg:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB</newegg:RAM>
+        <newegg:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.87 oz.</newegg:Weight>
+        <newegg:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</newegg:Technology>
+        <newegg:Main-Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot;</newegg:Main-Display-Size>
+        <newegg:Dimensions-H-x-W-x-D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.65&quot; x 2.78&quot; x 0.27&quot;</newegg:Dimensions-H-x-W-x-D>
+        <newegg:Pixel-Density rdf:datatype="http://www.w3.org/2001/XMLSchema#string">577 ppi</newegg:Pixel-Density>
+        <newegg:GPS-Integrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-GPS, GLONASS, Beidou</newegg:GPS-Integrated>
+        <newegg:Main-Display-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AMOLED</newegg:Main-Display-Format>
+        <newegg:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2</newegg:Sensors>
+        <newegg:Form-Factor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar Phones</newegg:Form-Factor>
+        <newegg:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black Sapphire</newegg:Color>
+        <newegg:Bluetooth-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth v4.1, A2DP, LE, apt-X</newegg:Bluetooth-Support>
+        <newegg:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive touchscreen</newegg:Touch-Screen>
+        <newegg:Processor-Core rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Double Quad-Core</newegg:Processor-Core>
+        <newegg:System-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exynos 7420</newegg:System-Chip>
+        <newegg:Compatible-Carrier--Service rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM compatible.</newegg:Compatible-Carrier--Service>
+        <newegg:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6</newegg:Series>
+        <newegg:Data-transfer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps</newegg:Data-transfer>
+        <newegg:Flash rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</newegg:Flash>
+        <newegg:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium Ion Battery</newegg:Battery-Type>
+        <newegg:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP3, WAV ringtones MP3/WAV/WMA/eAAC+/FLAC player</newegg:Audio>
+        <newegg:Software--App rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP4/DivX/XviD/WMV/H.264 player Photo/video editor Document editor</newegg:Software--App>
+        <newegg:Other-Connection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC, Infrared port</newegg:Other-Connection>
+        <newegg:SIM-Card-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</newegg:SIM-Card-Type>
+        <newegg:Qwerty-Keyboard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</newegg:Qwerty-Keyboard>
+        <newegg:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2.1 GHz Cortex-A57 CPU, Mali-T760 GPU</newegg:Processor>
+        <newegg:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SM-G920TZKAXAR</newegg:Model>
+        <newegg:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</newegg:Brand>
+        <newegg:Dual-SIM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">See description for details.</newegg:Dual-SIM>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USA version</newegg:tagline>
+        <newegg:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 23 hour(s) (3G)</newegg:Talk-Time>
+        <newegg:Wi-Fi-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot</newegg:Wi-Fi-Support>
+        <newegg:Additional-Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi/GPS/NFC</newegg:Additional-Function>
+        <newegg:WiFi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:WiFi>
+        <newegg:Message rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iMessage, SMS, MMS, Email, Push Email</newegg:Message>
+        <newegg:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB v2.0</newegg:USB>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- newegg.com:1 -->
+
+    <owl:NamedIndividual rdf:about="newegg.com:1">
+        <newegg:Rear-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP</newegg:Rear-Camera>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP Rear Camera 5 MP, 1440p Front-Facing Camera</newegg:tagline>
+        <newegg:Main-Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16M</newegg:Main-Display-Color>
+        <newegg:HD-Video-Capture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</newegg:HD-Video-Capture>
+        <newegg:Main-Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440</newegg:Main-Display-Resolution>
+        <newegg:Audio-Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm jack</newegg:Audio-Connectors>
+        <newegg:Battery-Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3000mAh</newegg:Battery-Capacity>
+        <newegg:Built-in-Storage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</newegg:Built-in-Storage>
+        <newegg:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</newegg:Technology>
+        <newegg:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4GB</newegg:RAM>
+        <newegg:Front-Facing-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 MP, 1440p</newegg:Front-Facing-Camera>
+        <newegg:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.40 oz.</newegg:Weight>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7&quot;</newegg:tagline>
+        <newegg:Main-Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7&quot;</newegg:Main-Display-Size>
+        <newegg:Pixel-Density rdf:datatype="http://www.w3.org/2001/XMLSchema#string">518 ppi</newegg:Pixel-Density>
+        <newegg:Dimensions-H-x-W-x-D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.08&quot; x 2.98&quot; x 0.27&quot;</newegg:Dimensions-H-x-W-x-D>
+        <newegg:GPS-Integrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-GPS, GLONASS, Beidou</newegg:GPS-Integrated>
+        <newegg:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2</newegg:Sensors>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.1 Lollipop</newegg:tagline>
+        <newegg:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.1 Lollipop</newegg:Operating-System>
+        <newegg:Form-Factor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar Phones</newegg:Form-Factor>
+        <newegg:Bluetooth-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth v4.2, A2DP, LE, apt-X</newegg:Bluetooth-Support>
+        <newegg:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive touchscreen</newegg:Touch-Screen>
+        <newegg:Specifications rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corning Gorilla Glass 4 back panel Fingerprint sensor (PayPal certified) Samsung Pay (Visa, MasterCard certified) Corning Gorilla Glass 4 TouchWiz UI Curved edge screen Browser: HTML5 ANT+ support S-Voice natural language commands and dictation Active noise cancellation with dedicated mic</newegg:Specifications>
+        <newegg:System-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exynos 7420</newegg:System-Chip>
+        <newegg:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G928G</newegg:Model>
+        <newegg:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G928G 32GB GOLD</newegg:Part-Number>
+        <newegg:Data-transfer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPRS, EDGE, HSDPA, LTE, Wi-Fi</newegg:Data-transfer>
+        <newegg:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6 Edge+</newegg:Series>
+        <newegg:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gold</newegg:Color>
+        <newegg:Flash rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</newegg:Flash>
+        <newegg:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP3/WAV/WMA/eAAC+/FLAC player</newegg:Audio>
+        <newegg:Other-Connection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC</newegg:Other-Connection>
+        <newegg:SIM-Card-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</newegg:SIM-Card-Type>
+        <newegg:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-removable Li-Ion Battery</newegg:Battery-Type>
+        <newegg:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2.1 GHz Cortex-A57, Mali-T760MP8 GPU</newegg:Processor>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2.1 GHz Cortex-A57, Mali-T760MP8 GPU Processor</newegg:tagline>
+        <newegg:Message rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SMS, MMS, Email, Push Email, IM</newegg:Message>
+        <newegg:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</newegg:Brand>
+        <newegg:Main-Display-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super AMOLED</newegg:Main-Display-Format>
+        <newegg:Wi-Fi-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot</newegg:Wi-Fi-Support>
+        <newegg:Additional-Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi/GPS/NFC</newegg:Additional-Function>
+        <newegg:WiFi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:WiFi>
+        <newegg:Auto-Focus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:Auto-Focus>
+        <newegg:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB v2.0</newegg:USB>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- newegg.com:2 -->
+
+    <owl:NamedIndividual rdf:about="newegg.com:2">
+        <newegg:Mobile-Frequencies rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2G: GSM 850 / 900 / 1800 / 1900 3G: HSDPA 850 / 900 / 1700 / 1900 / 2100 4G: LTE 700 / 800 / 850 / 900 / 1700 (AWS) / 1800 / 1900 / 2100 / 2600 (Bands 1, 2, 3, 4, 5, 7, 8, 17, 20)</newegg:Mobile-Frequencies>
+        <newegg:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Infrared remote control S Finder Private Mode Ultra Power Saving Mode Download booster Quick connect  Adaptive Fast Charging SoundAlive</newegg:Features>
+        <newegg:Rear-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP</newegg:Rear-Camera>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP Rear Camera 5 MP Front-Facing Camera</newegg:tagline>
+        <newegg:Main-Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16M</newegg:Main-Display-Color>
+        <newegg:HD-Video-Capture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</newegg:HD-Video-Capture>
+        <newegg:Main-Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440</newegg:Main-Display-Resolution>
+        <newegg:Audio-Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm jack</newegg:Audio-Connectors>
+        <newegg:Built-in-Storage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</newegg:Built-in-Storage>
+        <newegg:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB</newegg:RAM>
+        <newegg:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.87 oz.</newegg:Weight>
+        <newegg:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</newegg:Technology>
+        <newegg:Front-Facing-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 MP</newegg:Front-Facing-Camera>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1</newegg:tagline>
+        <newegg:Main-Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot;</newegg:Main-Display-Size>
+        <newegg:Dimensions-H-x-W-x-D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.65&quot; x 2.78&quot; x 0.27&quot;</newegg:Dimensions-H-x-W-x-D>
+        <newegg:Pixel-Density rdf:datatype="http://www.w3.org/2001/XMLSchema#string">577 ppi</newegg:Pixel-Density>
+        <newegg:GPS-Integrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-GPS, GLONASS, BeiDou</newegg:GPS-Integrated>
+        <newegg:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, ambient light sensor, proximity sensor, digital compass, barometer, gyro sensor, hall sensor, heart rate</newegg:Sensors>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.0 Lollipop</newegg:tagline>
+        <newegg:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.0 Lollipop</newegg:Operating-System>
+        <newegg:Form-Factor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar Phones</newegg:Form-Factor>
+        <newegg:Bluetooth-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth v4.1</newegg:Bluetooth-Support>
+        <newegg:System-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exynos 7420</newegg:System-Chip>
+        <newegg:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G920A 32GB WHITE</newegg:Part-Number>
+        <newegg:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G920a</newegg:Model>
+        <newegg:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6</newegg:Series>
+        <newegg:Data-transfer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps</newegg:Data-transfer>
+        <newegg:Specifications rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Integrated Components: </newegg:Specifications>
+        <newegg:Flash rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</newegg:Flash>
+        <newegg:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-touch</newegg:Touch-Screen>
+        <newegg:SIM-Card-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</newegg:SIM-Card-Type>
+        <newegg:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-removable Li-Ion Battery</newegg:Battery-Type>
+        <newegg:Processor-Core rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa-core</newegg:Processor-Core>
+        <newegg:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2.1 GHz Cortex-A57 CPU, Mali-T760MP8 GPU</newegg:Processor>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2.1 GHz Cortex-A57 CPU, Mali-T760MP8 GPU Processor</newegg:tagline>
+        <newegg:Message rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SMS, MMS, Email, Push Email, IM</newegg:Message>
+        <newegg:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</newegg:Brand>
+        <newegg:Main-Display-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super AMOLED</newegg:Main-Display-Format>
+        <newegg:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 17 hour(s)</newegg:Talk-Time>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 17 hour(s) Talk Time</newegg:tagline>
+        <newegg:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WAV, WMA, AAC, Ogg Vorbis, AMR, MP3, FLAC, XMF, AAC +, OGG, eAAC+, MIDI, M4A, apt-X</newegg:Audio>
+        <newegg:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</newegg:Color>
+        <newegg:Wi-Fi-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot</newegg:Wi-Fi-Support>
+        <newegg:Additional-Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi/GPS/NFC</newegg:Additional-Function>
+        <newegg:WiFi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:WiFi>
+        <newegg:Auto-Focus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:Auto-Focus>
+        <newegg:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB v2.0</newegg:USB>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- newegg.com:3 -->
+
+    <owl:NamedIndividual rdf:about="newegg.com:3">
+        <newegg:Rear-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP</newegg:Rear-Camera>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP Rear Camera 5 MP, 1440p Front-Facing Camera</newegg:tagline>
+        <newegg:Main-Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16M</newegg:Main-Display-Color>
+        <newegg:HD-Video-Capture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</newegg:HD-Video-Capture>
+        <newegg:Main-Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440</newegg:Main-Display-Resolution>
+        <newegg:Audio-Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm jack</newegg:Audio-Connectors>
+        <newegg:Battery-Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3000mAh</newegg:Battery-Capacity>
+        <newegg:Built-in-Storage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</newegg:Built-in-Storage>
+        <newegg:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</newegg:Technology>
+        <newegg:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4GB</newegg:RAM>
+        <newegg:Front-Facing-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 MP, 1440p</newegg:Front-Facing-Camera>
+        <newegg:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.40 oz.</newegg:Weight>
+        <newegg:Main-Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7&quot;</newegg:Main-Display-Size>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7&quot;</newegg:tagline>
+        <newegg:Pixel-Density rdf:datatype="http://www.w3.org/2001/XMLSchema#string">518 ppi</newegg:Pixel-Density>
+        <newegg:Dimensions-H-x-W-x-D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.08&quot; x 2.98&quot; x 0.27&quot;</newegg:Dimensions-H-x-W-x-D>
+        <newegg:GPS-Integrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-GPS, GLONASS, Beidou</newegg:GPS-Integrated>
+        <newegg:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2</newegg:Sensors>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.1 Lollipop</newegg:tagline>
+        <newegg:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.1 Lollipop</newegg:Operating-System>
+        <newegg:Form-Factor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar Phones</newegg:Form-Factor>
+        <newegg:Bluetooth-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth v4.2, A2DP, LE, apt-X</newegg:Bluetooth-Support>
+        <newegg:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive touchscreen</newegg:Touch-Screen>
+        <newegg:Specifications rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corning Gorilla Glass 4 back panel Fingerprint sensor (PayPal certified) Samsung Pay (Visa, MasterCard certified) Corning Gorilla Glass 4 TouchWiz UI Curved edge screen Browser: HTML5 ANT+ support S-Voice natural language commands and dictation Active noise cancellation with dedicated mic</newegg:Specifications>
+        <newegg:System-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exynos 7420</newegg:System-Chip>
+        <newegg:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G928G</newegg:Model>
+        <newegg:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G928G 32GB GOLD</newegg:Part-Number>
+        <newegg:Data-transfer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPRS, EDGE, HSDPA, LTE, Wi-Fi</newegg:Data-transfer>
+        <newegg:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6 Edge+</newegg:Series>
+        <newegg:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gold</newegg:Color>
+        <newegg:Flash rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</newegg:Flash>
+        <newegg:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP3/WAV/WMA/eAAC+/FLAC player</newegg:Audio>
+        <newegg:Other-Connection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC</newegg:Other-Connection>
+        <newegg:SIM-Card-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</newegg:SIM-Card-Type>
+        <newegg:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-removable Li-Ion Battery</newegg:Battery-Type>
+        <newegg:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2.1 GHz Cortex-A57, Mali-T760MP8 GPU</newegg:Processor>
+        <newegg:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2.1 GHz Cortex-A57, Mali-T760MP8 GPU Processor</newegg:tagline>
+        <newegg:Message rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SMS, MMS, Email, Push Email, IM</newegg:Message>
+        <newegg:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</newegg:Brand>
+        <newegg:Main-Display-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super AMOLED</newegg:Main-Display-Format>
+        <newegg:Wi-Fi-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot</newegg:Wi-Fi-Support>
+        <newegg:Additional-Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi/GPS/NFC</newegg:Additional-Function>
+        <newegg:WiFi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:WiFi>
+        <newegg:Auto-Focus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:Auto-Focus>
+        <newegg:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB v2.0</newegg:USB>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- newegg.com:4 -->
+
+    <owl:NamedIndividual rdf:about="newegg.com:4">
+        <newegg:Rear-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP</newegg:Rear-Camera>
+        <newegg:Main-Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16M</newegg:Main-Display-Color>
+        <newegg:HD-Video-Capture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</newegg:HD-Video-Capture>
+        <newegg:Main-Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440</newegg:Main-Display-Resolution>
+        <newegg:Battery-Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2600mAh</newegg:Battery-Capacity>
+        <newegg:Mobile-Frequencies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2G: GSM 850 / 900 / 1800 / 1900 3G: HSDPA 850 / 900 / 1900 / 2100 4G: LTE 700 / 800 / 850 / 900 / 1700 (AWS) / 1800 / 1900 / 2100 / 2600 (Bands 1, 2, 3, 4, 5, 7, 8, 17, 20)</newegg:Mobile-Frequencies>
+        <newegg:Audio-Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm jack</newegg:Audio-Connectors>
+        <newegg:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB</newegg:RAM>
+        <newegg:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.66 oz.</newegg:Weight>
+        <newegg:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</newegg:Technology>
+        <newegg:Front-Facing-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 MP</newegg:Front-Facing-Camera>
+        <newegg:Main-Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot;</newegg:Main-Display-Size>
+        <newegg:Dimensions-H-x-W-x-D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.59&quot; x 2.76&quot; x 0.28&quot;</newegg:Dimensions-H-x-W-x-D>
+        <newegg:Pixel-Density rdf:datatype="http://www.w3.org/2001/XMLSchema#string">518 ppi</newegg:Pixel-Density>
+        <newegg:Built-in-Storage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64GB</newegg:Built-in-Storage>
+        <newegg:GPS-Integrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-GPS, GLONASS, Beidou</newegg:GPS-Integrated>
+        <newegg:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2</newegg:Sensors>
+        <newegg:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android v5.0.2 (Lollipop)</newegg:Operating-System>
+        <newegg:Form-Factor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar Phones</newegg:Form-Factor>
+        <newegg:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</newegg:Color>
+        <newegg:Bluetooth-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth v4.1, A2DP, LE, apt-X</newegg:Bluetooth-Support>
+        <newegg:Specifications rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Browser: HTML5 16 Megapixel Camera (2988 x 5312 pixels) + Front-Facing 5 Megapixel Camera w/ Dual-Video Fingerprint sensor (PayPal certified) Samsung Pay (Visa, MasterCard certified) Corning Gorilla Glass 4 TouchWiz UI Curved edge screen</newegg:Specifications>
+        <newegg:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive touchscreen</newegg:Touch-Screen>
+        <newegg:System-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exynos 7420</newegg:System-Chip>
+        <newegg:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G925A</newegg:Model>
+        <newegg:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G925A 64GB BLK</newegg:Part-Number>
+        <newegg:Data-transfer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPRS, EDGE, HSDPA, LTE, Wi-Fi</newegg:Data-transfer>
+        <newegg:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6 Edge</newegg:Series>
+        <newegg:Flash rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</newegg:Flash>
+        <newegg:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP3/WAV/WMA/eAAC+/FLAC player</newegg:Audio>
+        <newegg:Other-Connection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC</newegg:Other-Connection>
+        <newegg:SIM-Card-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</newegg:SIM-Card-Type>
+        <newegg:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-removable Li-Ion Battery</newegg:Battery-Type>
+        <newegg:Processor-Core rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa-core</newegg:Processor-Core>
+        <newegg:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-Core 1.5 GHz Cortex-A53 + Quad-Core 2.1 GHz Cortex-A57 Processor, Mali-T760MP8 GPU</newegg:Processor>
+        <newegg:Message rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SMS, MMS, Email, Push Email, IM</newegg:Message>
+        <newegg:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</newegg:Brand>
+        <newegg:Main-Display-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super AMOLED Curved Edge</newegg:Main-Display-Format>
+        <newegg:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 18 hour(s) (3G)</newegg:Talk-Time>
+        <newegg:Wi-Fi-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot</newegg:Wi-Fi-Support>
+        <newegg:Additional-Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi/GPS/NFC</newegg:Additional-Function>
+        <newegg:Auto-Focus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:Auto-Focus>
+        <newegg:WiFi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:WiFi>
+        <newegg:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB v2.0</newegg:USB>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- newegg.com:5 -->
+
+    <owl:NamedIndividual rdf:about="newegg.com:5">
+        <newegg:Rear-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP</newegg:Rear-Camera>
+        <newegg:Main-Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16M</newegg:Main-Display-Color>
+        <newegg:HD-Video-Capture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</newegg:HD-Video-Capture>
+        <newegg:Main-Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440</newegg:Main-Display-Resolution>
+        <newegg:Battery-Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2600mAh</newegg:Battery-Capacity>
+        <newegg:Mobile-Frequencies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2G: GSM 850 / 900 / 1800 / 1900 3G: HSDPA 850 / 900 / 1900 / 2100 4G: LTE 700 / 800 / 850 / 900 / 1700 (AWS) / 1800 / 1900 / 2100 / 2600 (Bands 1, 2, 3, 4, 5, 7, 8, 17, 20)</newegg:Mobile-Frequencies>
+        <newegg:Audio-Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm jack</newegg:Audio-Connectors>
+        <newegg:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB</newegg:RAM>
+        <newegg:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.66 oz.</newegg:Weight>
+        <newegg:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</newegg:Technology>
+        <newegg:Front-Facing-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 MP</newegg:Front-Facing-Camera>
+        <newegg:Main-Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot;</newegg:Main-Display-Size>
+        <newegg:Dimensions-H-x-W-x-D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.59&quot; x 2.76&quot; x 0.28&quot;</newegg:Dimensions-H-x-W-x-D>
+        <newegg:Pixel-Density rdf:datatype="http://www.w3.org/2001/XMLSchema#string">518 ppi</newegg:Pixel-Density>
+        <newegg:Built-in-Storage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64GB</newegg:Built-in-Storage>
+        <newegg:GPS-Integrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-GPS, GLONASS, Beidou</newegg:GPS-Integrated>
+        <newegg:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2</newegg:Sensors>
+        <newegg:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android v5.0.2 (Lollipop)</newegg:Operating-System>
+        <newegg:Form-Factor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar Phones</newegg:Form-Factor>
+        <newegg:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</newegg:Color>
+        <newegg:Bluetooth-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth v4.1, A2DP, LE, apt-X</newegg:Bluetooth-Support>
+        <newegg:Specifications rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Browser: HTML5 16 Megapixel Camera (2988 x 5312 pixels) + Front-Facing 5 Megapixel Camera w/ Dual-Video Fingerprint sensor (PayPal certified) Samsung Pay (Visa, MasterCard certified) Corning Gorilla Glass 4 TouchWiz UI Curved edge screen</newegg:Specifications>
+        <newegg:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive touchscreen</newegg:Touch-Screen>
+        <newegg:System-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exynos 7420</newegg:System-Chip>
+        <newegg:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G925A</newegg:Model>
+        <newegg:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G925A 64GB BLK</newegg:Part-Number>
+        <newegg:Data-transfer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPRS, EDGE, HSDPA, LTE, Wi-Fi</newegg:Data-transfer>
+        <newegg:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6 Edge</newegg:Series>
+        <newegg:Flash rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</newegg:Flash>
+        <newegg:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP3/WAV/WMA/eAAC+/FLAC player</newegg:Audio>
+        <newegg:Other-Connection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC</newegg:Other-Connection>
+        <newegg:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-removable Li-Ion Battery</newegg:Battery-Type>
+        <newegg:Processor-Core rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa-core</newegg:Processor-Core>
+        <newegg:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-Core 1.5 GHz Cortex-A53 + Quad-Core 2.1 GHz Cortex-A57 Processor, Mali-T760MP8 GPU</newegg:Processor>
+        <newegg:Message rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SMS, MMS, Email, Push Email, IM</newegg:Message>
+        <newegg:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</newegg:Brand>
+        <newegg:Main-Display-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super AMOLED Curved Edge</newegg:Main-Display-Format>
+        <newegg:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 18 hour(s) (3G)</newegg:Talk-Time>
+        <newegg:Wi-Fi-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot</newegg:Wi-Fi-Support>
+        <newegg:Additional-Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi/GPS/NFC</newegg:Additional-Function>
+        <newegg:Auto-Focus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:Auto-Focus>
+        <newegg:WiFi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:WiFi>
+        <newegg:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB v2.0</newegg:USB>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- newegg.com:6 -->
+
+    <owl:NamedIndividual rdf:about="newegg.com:6">
+        <newegg:Rear-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 MP</newegg:Rear-Camera>
+        <newegg:Main-Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16M</newegg:Main-Display-Color>
+        <newegg:HD-Video-Capture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</newegg:HD-Video-Capture>
+        <newegg:Main-Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440</newegg:Main-Display-Resolution>
+        <newegg:Battery-Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2600mAh</newegg:Battery-Capacity>
+        <newegg:Mobile-Frequencies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2G: GSM 850 / 900 / 1800 / 1900 3G: HSDPA 850 / 900 / 1900 / 2100 4G: LTE 700 / 800 / 850 / 900 / 1700 (AWS) / 1800 / 1900 / 2100 / 2600 (Bands 1, 2, 3, 4, 5, 7, 8, 17, 20)</newegg:Mobile-Frequencies>
+        <newegg:Audio-Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm jack</newegg:Audio-Connectors>
+        <newegg:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB</newegg:RAM>
+        <newegg:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.66 oz.</newegg:Weight>
+        <newegg:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</newegg:Technology>
+        <newegg:Front-Facing-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 MP</newegg:Front-Facing-Camera>
+        <newegg:Main-Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot;</newegg:Main-Display-Size>
+        <newegg:Dimensions-H-x-W-x-D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.59&quot; x 2.76&quot; x 0.28&quot;</newegg:Dimensions-H-x-W-x-D>
+        <newegg:Pixel-Density rdf:datatype="http://www.w3.org/2001/XMLSchema#string">518 ppi</newegg:Pixel-Density>
+        <newegg:Built-in-Storage rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64GB</newegg:Built-in-Storage>
+        <newegg:GPS-Integrated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-GPS, GLONASS, Beidou</newegg:GPS-Integrated>
+        <newegg:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2</newegg:Sensors>
+        <newegg:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android v5.0.2 (Lollipop)</newegg:Operating-System>
+        <newegg:Form-Factor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar Phones</newegg:Form-Factor>
+        <newegg:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</newegg:Color>
+        <newegg:Bluetooth-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth v4.1, A2DP, LE, apt-X</newegg:Bluetooth-Support>
+        <newegg:Specifications rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Browser: HTML5 16 Megapixel Camera (2988 x 5312 pixels) + Front-Facing 5 Megapixel Camera w/ Dual-Video Fingerprint sensor (PayPal certified) Samsung Pay (Visa, MasterCard certified) Corning Gorilla Glass 4 TouchWiz UI Curved edge screen</newegg:Specifications>
+        <newegg:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive touchscreen</newegg:Touch-Screen>
+        <newegg:System-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exynos 7420</newegg:System-Chip>
+        <newegg:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G925A</newegg:Model>
+        <newegg:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G925A 64GB BLK</newegg:Part-Number>
+        <newegg:Data-transfer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPRS, EDGE, HSDPA, LTE, Wi-Fi</newegg:Data-transfer>
+        <newegg:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6 Edge</newegg:Series>
+        <newegg:Flash rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</newegg:Flash>
+        <newegg:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MP3/WAV/WMA/eAAC+/FLAC player</newegg:Audio>
+        <newegg:Other-Connection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC</newegg:Other-Connection>
+        <newegg:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-removable Li-Ion Battery</newegg:Battery-Type>
+        <newegg:Processor-Core rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa-core</newegg:Processor-Core>
+        <newegg:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-Core 1.5 GHz Cortex-A53 + Quad-Core 2.1 GHz Cortex-A57 Processor, Mali-T760MP8 GPU</newegg:Processor>
+        <newegg:Message rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SMS, MMS, Email, Push Email, IM</newegg:Message>
+        <newegg:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</newegg:Brand>
+        <newegg:Main-Display-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super AMOLED Curved Edge</newegg:Main-Display-Format>
+        <newegg:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 18 hour(s) (3G)</newegg:Talk-Time>
+        <newegg:Wi-Fi-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot</newegg:Wi-Fi-Support>
+        <newegg:Additional-Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi/GPS/NFC</newegg:Additional-Function>
+        <newegg:WiFi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:WiFi>
+        <newegg:Auto-Focus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</newegg:Auto-Focus>
+        <newegg:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB v2.0</newegg:USB>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

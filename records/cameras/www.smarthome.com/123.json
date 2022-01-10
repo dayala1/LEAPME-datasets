@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p Composite Output, 750",
+    "shuttercontrol": "Auto Electric Shutter (AES), 1/60 - 1/100,000 second",
+    "dimensions": "3.7\" D x 3.12\" H",
+    "weight": "14 ounces",
+    "gammacorrection": "0.45",
+    "minimumillumination": "0.02 Lux (LEDs off) 0 Lux (LEDs on)",
+    "snratio": "Over 48 dB (AGC off)",
+    "currentconsumption": "100mA (LED off) 270mA (LEDs on)",
+    "sync": "Internal",
+    "pictureelements": "768 x 494 pixels",
+    "horizontalresolution": "540 TV Lines",
+    "operatingtemperature": "14\u00b0F - 122\u00b0F (-10\u00b0C - 50\u00b0C)",
+    "powersupply": "12VDC",
+    "gaincontrol": "Auto",
+    "chipset": "1/3\" Sony Super HAD CCD",
+    "upc": "676544009948",
+    "whitebalance": "AWB",
+    "manufacturer": "SECO-LARM"
+}

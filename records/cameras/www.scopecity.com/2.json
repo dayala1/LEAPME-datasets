@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "shutter": "Standard",
+    "power": "40W maximum power with shutter open and cooling maximum. AC/DC \"brick\" supply with int'l AC input plug (100-240V, 50-60 Hz). Alternate 12V input from user's source.",
+    "mounting": "3.5\" bolt circle. 2\" 24 tpi thread. Optional Nikon F-mount or Canon FD mount.",
+    "cameraheadsize": "D02. Aluminum, hard blue anodized. 6\" x 6\" x 2.5\" (15 x 15 x 6.35 cm) Weight",
+    "label5": "Exposure Time 30 milliseconds to 183 minutes (2.56 microsecond increments)",
+    "cablelength": "Standard",
+    "backfocaldistance": "Standard",
+    "pcinterface": "USB 2.0",
+    "operatingenvironment": "-22 degree to 27 degree C. Relative humidity"
+}

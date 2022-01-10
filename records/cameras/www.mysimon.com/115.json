@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Rotating",
+    "facedetection": "Yes",
+    "focusadjustment": "Autofocus & Manual Focus",
+    "flashtype": "Pop-up Flash",
+    "stillimageformat": "RAW + JPEG",
+    "brand": "Canon",
+    "redeyereduction": "Yes",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "opticalviewfindertype": "Eye-level mirror pentaprism",
+    "specialeffects": "Portrait",
+    "viewfindertype": "Optical",
+    "supportedflashmemory": "SDXC Memory Card",
+    "type": "Digital SLR",
+    "hdmioutput": "Yes"
+}

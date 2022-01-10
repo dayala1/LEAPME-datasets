@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "weightg": "310",
+    "operatinghumidity": "0 ~ 90",
+    "powerconsumption": "4.0 W",
+    "brand": "Samsung",
+    "zoom": "Yes",
+    "backlightcompensation": "Yes",
+    "autoiris": "Yes",
+    "autogaincontrol": "Yes",
+    "lensmount": "C/CS",
+    "whitebalance": "Yes"
+}

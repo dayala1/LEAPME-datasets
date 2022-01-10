@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "power": "Li-ion Battery Pack (3.6V, 1,250 mAh, 4.5 Wh) AC Adaptor (Input: 110 - 240V AC) (Included, connect with USB cable, playback only)",
+    "sensorsizetotalpixelsfilter": "1/2.3-inch High Sensitivity MOS sensor / 18.9 Total Megapixels / Primary Color Filter",
+    "focallength": "f = 4.3 - 86.0 mm (24 - 480 mm in 35 mm equiv.) (28 - 560 mm in 35 mm equiv. in video recording)",
+    "builtinflash": "Auto, Auto / Red-eye Reduction, Forced On, Slow Sync. / Red-eye Reduction, Forced Off 0.6 - 6.4 m (Wide / ISO Auto), 1.0 - 3.3 m (Tele / ISO Auto)",
+    "opticalzoom": "20x",
+    "lens": "LEICA DC VARIO-ELMAR 12 elements in 10 groups (3 Aspherical Lenses / 6 Aspherical Surfaces / 2 ED Lenses)",
+    "recordingmedia": "Built-in Memory, SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "lcd": "3.0\" (7.5 cm) TFT Touch Screen LCD Display (920K dots), Multi-Touch Field of View: Approx. 100%",
+    "builtinmemory": "Approx. 12 MB *",
+    "cameraeffectivepixels": "18.1 Megapixels",
+    "motionpicturerecording": "HD Video: 1,920 x 1,080 pixels [NTSC Model] AVCHD, 60p (FHD: 28Mbps) (Sensor output is 60fps) AVCHD, 60i (FHD: 17Mbps) (Sensor output is 60fps) MP4, 30fps (FHD: 20Mbps) [PAL Model] AVCHD, 50p (FHD: 28Mbps) (Sensor output is 50fps) AVCHD, 50i (FHD: 17Mbps) (Sensor output is 50fps) MP4, 25fps (FHD: 20Mbps) 1,280 x 720 pixels [NTSC Model] AVCHD, 60p (HD: 17Mbps) (Sensor output is 60fps) MP4, 30fps (HD: 10Mbps) [PAL Model] AVCHD, 50p (HD: 17Mbps) (Sensor output is 50fps) MP4, 25fps (HD: 10Mbps) STD Video:? 640 x 480 pixels (VGA) [NTSC Model] MP4, 30fps (4Mbps) [PAL Model] MP4, 25fps (4Mbps) High Speed Video: 1,280 x 720 pixels [NTSC Model] MP4, 120fps (HD) [PAL Model] MP4, 100fps (HD) 640 x 480 pixels [NTSC Model] MP4, 240fps (VGA) [PAL Model] MP4, 200fps (VGA) (Max. of approx. 4 GB of continuous motion picture can be recorded in MP4. In AVCHD, recording may be continued until the card is full.)",
+    "aperture": "F3.3 - 6.4 / Multistage Iris Diaphragm (F3.3 - 8.0 (W), F6.4 - 8.0 (T))",
+    "digitalzoom": "4x (When Digital Zoom is used simultaneously with Intelligent Zoom, you can only increase the zoom ratio up to 2x.)",
+    "dimensionswxhxdapprox": "(Approx.)\u00a0108.3 x 58.9 x 27.7 mm",
+    "shutterspeed": "Approx. 4 - 1/2,000 sec",
+    "whitebalance": "Auto / Daylight / Cloudy / Shade / Incandescent / White Set / White Balance Adjustment (Except Auto)",
+    "isosensitivitystandardoutputsensitivity": "Auto / i.ISO / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400* (*Extended ISO)",
+    "focusingarea": "Normal: Wide 50 cm - infinity / Tele 200 cm - infinity Macro / Intelligent Auto / Motion Picture: Wide 3 cm - infinity / Tele 100 cm - infinity"
+}

@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "function": "220MB NAND Flash for user",
+    "drivers": "SDROM, Flash, Serial ports, RTC, 4.3\" and 7\" including Touch Screen, MMC/SD, High-Speed SD Card, User Buttons, I2C, SPI, JPEG, MFC, TV-Out, LCD Display Rotate, USB Host, USB Device, 2D/3D Hardware Decode, OpenGL ES1.1 & 2.0, D3DM",
+    "system": "CharacteristicKITL kernel debug, Reboot, Watchdog, RTC",
+    "applications": "Alarm Clock, ASTR0, Mediaplayer, Music, Picsay, Gallery, Browser, Panda Reader",
+    "filesystem": "FormatYaffs2 (Androidfs-sdk-m5-rc15)",
+    "lcddisplay": "none 4.3 in. (+US$40.00) 7 in. (+US$60.00)",
+    "os": "ItemFeatureDescription"
+}

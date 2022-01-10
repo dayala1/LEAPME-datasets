@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "lcdsize": "2 inch",
+    "videodisplayresolution": "1080p / 960p / 720p / 480p",
+    "brand": "ISAW",
+    "upgradeablememory": "Yes",
+    "opticalsensorresolution": "12 Megapixels",
+    "memorycardtype": "microSDHC / SDXC",
+    "lenstype": "High Precision f/2.4 Lens",
+    "dimensionswxdxh": "61 (W) x 43 (H) x 32 (D) mm",
+    "lcddisplay": "Yes",
+    "batterytype": "Lithium Battery 1200 mAh",
+    "usbcable": "USB",
+    "continuousshots": "Continuous Recording (2 hrs Running Time)"
+}

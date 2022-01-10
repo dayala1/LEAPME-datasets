@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "focusadjustment": "Automatic",
+    "flashtype": "Built-in flash",
+    "stillimageformat": "JPEG",
+    "brand": "Vivitar",
+    "sensortype": "CMOS",
+    "flashmodes": "Auto Mode",
+    "additionalfeatures": "USB 2.0 Compatibility",
+    "viewfindertype": "None",
+    "digitalvideoformat": "AVI",
+    "supportedflashmemory": "SDHC Memory Card",
+    "type": "Point & Shoot",
+    "microphoneoperationmode": "Mono"
+}

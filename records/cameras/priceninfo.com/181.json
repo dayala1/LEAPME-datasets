@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videorecordingformat": "Progressive Recording",
+    "microphone": "2 ch Stereo, Zoom Microphone",
+    "analogoutput": "No",
+    "dimensions": "51.5x59x108mm",
+    "weight": "193gm",
+    "focallength": "2.38-81.0mm",
+    "imagesensor": "1/5.8? MOS",
+    "imagestabilizer": "HYBRID O.I.S. [Optical Image Stabilizer]",
+    "focus": "Auto / Manual",
+    "inputoutput": "mini HDMI, USB Cable, AV multi Cable, AC Cable",
+    "digitalzoom": "90x / 200x (The maximum value of zoom magnification)",
+    "lensconfiguration": "F1.8(WIDE)/4(TELE) Panasonic Lens",
+    "shutterspeedrange": "ON",
+    "memory": "SD/SDHC/SDXC Memory Card",
+    "lcdmonitor": "2.7? Wide LCD ( 230,400 dots)",
+    "whitebalance": "Auto / Indoor1 / Indoor2 / Sunny / Cloudy / White set",
+    "battery": "1790 mAh / Lithium-Ion"
+}

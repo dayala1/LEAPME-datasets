@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "dustreduction": "NA",
+    "imagedisplayresolution": "230000 dots",
+    "videodisplayresolution": "1280 x 720 pixels (HD) @ 30 fps x 2",
+    "flashrange": "Wide : 0.3 - 4.0m, Telephoto : 0.5 - 2.0m, Wide : 0.3 - 3.9m, Telephoto : 0.4 - 2.0m",
+    "shootingmodes": "Auto, Beach, Best Image Selection, Color Accent, Color Swap, Fireworks, Fish-Eye Effect, Foliage, Handheld Night Scene, High-Speed Burst, Kids & Pets, Long Shutter, Low Light, Miniature Effect, Monochrome, Movie Digest, Night Snapshot, Program, Portrait, Poster Effect, Smart Shutter, Snow, Stitch Assist, Super Slow Motion Movie, Super Vivid, Toy Camera Effect, Underwater",
+    "isorating": "Auto / ISO 80 / 100 / 200 / 400 / 800 / 1600 / 3200 (In P Mode)",
+    "imagestabilizer": "Lens-shift type",
+    "whitebalancing": "Auto, Cloudy, Custom, Daylight, Fluorescent, Fluorescent-H, Tungsten",
+    "metering": "Center-Weighted Average, Evaluative, Spot",
+    "selftimer": "2 sec, 10 sec",
+    "flashmodes": "Auto, Slow Sync Flash",
+    "builtinflash": "NA",
+    "continuousshots": "Up to 3.4 fps (In Program Mode), 8.2 fps (in High-Speed Burst mode)",
+    "facedetection": "Yes",
+    "screensize": "3 Inches"
+}

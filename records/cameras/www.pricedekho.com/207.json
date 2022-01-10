@@ -1,0 +1,8 @@
+{
+    "category": "camera",
+    "dustreduction": "NA",
+    "metering": "NA",
+    "facedetection": "Yes",
+    "imagestabilizer": "Sensor-Shift-Type (SR : Shake Reduction), Dual (SR & Pixel Track SR),",
+    "whitebalancing": "Auto, Daylight, Fluorescent (D: Daylight Color, Manual, N: Daylight White, Shade, Tungsten, W: White Light)"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "dimensions": "112.10 x 62.40 x 27.55mm (Dimension excluding the Projection Part)",
+    "power": "SLB-10A (1,030mAh), Micro USB(7 pin)",
+    "memorysize": "SD card, SDHC card, SDXC card",
+    "sensitivity": "Auto, ISO 80, ISO 100, ISO 200, ISO 400, ISO 800, ISO 1600, ISO 3200, ISO 6400*, ISO 12800* (* Available only when ISO Expansion is activated)",
+    "flash": "Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash Off, Red-eye fix",
+    "storage": "SD card, SDHC card, SDXC card",
+    "zoom": "3.3x Optical Zoom",
+    "weight": "286g (without battery and memory card media)",
+    "megapixel": "12.4 Megapixel",
+    "lens": "F1.4 lens",
+    "standoutfeature1": "Wi-Fi Connectivity",
+    "screensize": "3\" LCD Screen",
+    "ccd": "1/1.7\" BSI CMOS",
+    "exposuresystem": "Program AE, Aperture Priority AE, Shutter Priority AE, Manual Exposure",
+    "shutterspeed": "Smart Auto"
+}

@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "sensortype": "CMOS",
+    "effectiveresolution": "36.3MP",
+    "isosensitivityrange": "ISO 64-12800",
+    "typeofcamera": "DSLR",
+    "whitebalance": "Auto (2 types), incandescent, fluorescent (7 types), direct sunlight, flash, cloudy, shade, preset manual (up to 6 values can be stored, spot white balance measurement available during live view), choose color temperature (2500 K -10000 K), all with fine-tuning",
+    "imagingprocessor": "EXPEED 4"
+}

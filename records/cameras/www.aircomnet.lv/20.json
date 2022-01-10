@@ -1,0 +1,19 @@
+{
+    "memorycard": "SD Memory Card (SDHC, SDXC, UHS-I compatible) Class 6 is recommended for Movie shooting",
+    "shutter": "Self timer 12s / 2s Shutter speed range 1/2000 - 60s (up to 16 min in Bulb mode)",
+    "lcdmonitor": "Monitor type Tiltable LCD - Touch Panel Monitor size 7.6cm / 3.0'' (3:2) Resolution 920000 dots Colour balance +/- 7 levels Brightness adjustment +/- 7 levels",
+    "dimensions": "113 x 65.4 x 48mm",
+    "weight": "346g",
+    "exposurecontrol": "Modes Programme automatic Shutter priority Aperture priority Manual i-Auto Scene Modes Movie Art Filter Exposure compensation +/- 3EV ( 1/3 steps ) Exposure bracketing 2 / 3 frames ( +/- 1/3, 2/3, 1 EV steps ) Enhancement function Mechanical Image Stabiliser Face Detection Technology Shadow Adjustment Technology",
+    "color": "Black",
+    "imagesensor": "Type 1/1.7'' CMOS Effective pixels 12 Megapixels Filter array Primary colour filter (RGB) Aspect ratio & area 4:3 / Full resolution 12.76 Megapixels",
+    "flash": "Internal Flash Type pop-up Modes AUTO TTL-Auto Manual",
+    "powersupply": "Battery LI-90B Lithium-Ion Battery Sleep mode Available (1min, 3min, 5min) Live View shooting Approx. 310images (100% with Live View)",
+    "lens": "Focal length (equiv. 35mm) 28 - 112mm Maximum aperture 1.8 - 2.5 Focal length 6.0 - 24.0mm Optical zoom 4x",
+    "focusing": "Method Contrast Detection AF system Focus areas 35 points / Automatic and manual selection AF lock Yes , Locked by first position of shutter release button in single AF mode Modes Manual focus Single AF Continuous AF AF Tracking Face Detection AF SuperMacro mode AF illuminator Yes Standard mode 0.6m - \u221e (wide) / 0.6m - \u221e (tele) Macro mode 0.1m - \u221e (wide) / 0.3m - \u221e (tele)",
+    "shooting": "Speed 5fps Recordable frames 200",
+    "interface": "Media SD Memory Card (SDHC, SDXC, UHS-I compatible) Class 6 is recommended for Movie shooting HDMI\u2122 Yes Micro connector (Type D) * USB 2.0 High Speed Yes Combined V & USB output Yes NTSC or PAL selectable Wireless connectivity Eye-Fi Card compatible FlashAir",
+    "whitebalance": "AUTO WB system Yes One-touch white balance 2 custom settings can be registered White balance adjustment +/- 7 in each A-B / G-M axis (in Auto WB, preset WB mode & one-touch WB) Custom WB 1 setting can be registered at Kelvin temperature (2000K - 14000K) Preset values Tungsten Flourescent 1 Sunlight Flash Overcast Shade Under Water Auto",
+    "category": "camera",
+    "features": "A perfectionist in image quality Enhanced image quality Extra-bright zoom lens FAST AF & Touch operation"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "label9": "CMOS Shift Image Stabilizer",
+    "dimensions": "109.2 x 61.8 x 30.6 mm",
+    "weight": "208 gm",
+    "internalmemory": "43MB",
+    "focallength": "24-300mm on a 35mm camera equivalent",
+    "isosensitivity": "ISO 80/100/200/400/1600/3200/6400",
+    "recordingmedia": "SD, SDHC, SDXC, UHS-i Card",
+    "opticalzoom": "12.5x",
+    "selftimer": "2 sec / 12 sec",
+    "battery": "Li-50B",
+    "digitalzoom": "50x",
+    "screensize": "3.0? inch TFT Color Touch LCD Display with 460k dots",
+    "label12": "GPS Navigation",
+    "numberofeffectivepixels": "16 Million Pixels",
+    "focusrange": "0.1m to infinity (W), 0.9m to infinity (T)",
+    "maximumaperture": "F(3.0) \u2013 F(5.9)"
+}

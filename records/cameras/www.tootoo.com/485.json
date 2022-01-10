@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "code": "Please enter the security code as they are shown in the image right",
+    "from": "Please enter the email. Please enter your correct business Email.",
+    "dimensions": "72*135*85mm",
+    "to": "NEXT DIGITAL PHOTO SUPPLIES COMPANY",
+    "guidenumber": "38 (at 35mm focal length,ISO 100 in meters)",
+    "topic": "Your message's topic must be 1-150 characters in length.",
+    "colortemperature": "5600k",
+    "flashmode": "M, S1, S2",
+    "powersource": "4pcs AA-size Battery - alkaline, Lithium, or Rechargeble Ni-MH usable",
+    "recyclingtime": "Approx. 0.1-5 Sec., with fresh AA size alkaline batteries",
+    "netweight": "250g",
+    "message": "Your message must be 20-2000 characters in length. Account Characters:",
+    "powersaving": "30Mins to Power off, or 60mins to Power off on the optical slave mode"
+}

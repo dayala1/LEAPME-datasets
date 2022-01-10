@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "builtinmemorysize": "Non",
+    "iscustomized": "Yes",
+    "package": "No",
+    "style": "Hidden Camera",
+    "opticalzoom": "< 10x",
+    "mediatype": "HDD / Flash Memory",
+    "memorycardtype": "MicroSD / TF",
+    "modelnumber": "U8",
+    "brandname": "OEM",
+    "type": "Video Camera",
+    "highdefinitionsupport": "480P",
+    "videoformat": "AVI"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p composite, 75 Ohms",
+    "powerrequirement": "12VDC/24VAC Dual Voltage (1000 mA Minimum)",
+    "operatingtemperature": "14\u00b0 F ~ 122\u00b0 F (-10\u00b0 C ~ +50\u00b0 C)",
+    "minillumination": "Day/Night",
+    "operatinghumidity": "Within 85% RH",
+    "powerconsumption": "3 Watts (IR LEDs Off) / 6 Watts (IR LEDs On)",
+    "lens": "9-22mm",
+    "snratio": "More than 50dB AGC OFF at 50IRE",
+    "weatherproof": "IP68",
+    "whitebalance": "2000~8000 K Automatic Tracking",
+    "electronicshutter": "1/60 ~ 1/100,000",
+    "horizontalresolution": "550 TV Lines",
+    "effectivepixels": "768(H) x 494(V)",
+    "scanningsystem": "2",
+    "irleds": "35 LEDs with up to 90' Range",
+    "syncsystem": "Internal",
+    "imagesensor": "1/3 Sony New Structure Super HAD CCD",
+    "gamma": "0.45"
+}

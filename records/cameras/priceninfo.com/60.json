@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "cardreader": "SD",
+    "dimensions": "3.9 x 2.3 x 0.7 inch",
+    "focallength": "27-270 mm",
+    "imagesensor": "BSI CMOS sensor",
+    "effectivepixel": "Approx. 16 Mega pixel",
+    "opticalzoom": "10X",
+    "lcdscreensize": "3.0? inches",
+    "lens": "10.00x zoom (27-270mm eq.)",
+    "maxaperture": "3.1",
+    "videoformat": "MPEG-4",
+    "ports": "USB 2.0 High Speed, Video out",
+    "label13": "Wireless LAN",
+    "aspectratio": "16",
+    "label11": "Built-in Flash",
+    "aperturerange": "f/3.1 (wide) / f/5.6 (tele)",
+    "color": "Black, Red, Silver, Purple",
+    "movieresolution": "(1280 x 720) Pixels"
+}

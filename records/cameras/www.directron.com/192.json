@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "irled": "21 Units up to 49 Feet",
+    "imagedevice": "1/2.8\" Panasonic CMOS",
+    "iprating": "IP66",
+    "operatingtemperature": "-10C / +45C",
+    "minimumillumination": "0 Lux (with IR LED ON)",
+    "megapixels": "1080P",
+    "electronicshutter": "Auto",
+    "effectivepixels": "1920 (H) x 1080 (V)",
+    "powersource": "12VDC 300ma",
+    "videooutputlevel": "HD-SDI / 1.0 Vp-p composite, 75\u03a9",
+    "type": "HD-SDI",
+    "osd": "Yes",
+    "lens": "2.8 - 12mm"
+}

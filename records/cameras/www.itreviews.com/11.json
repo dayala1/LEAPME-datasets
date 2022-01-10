@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "interfaceports": "micro USB, micro HDMI",
+    "touchscreen": "No",
+    "shutterlag": "0.03 seconds",
+    "mediaformat": "Secure Digital, Secure Digital High Capacity, Secure Digital Extended Capacity",
+    "dimensions": "2.3 x 3.9 x 1.3 inches",
+    "weight": "7.3 oz",
+    "maximumiso": "12800",
+    "videoresolution": "720p, 1080p",
+    "lcdsize": "3 inches",
+    "megapixels": "12 MP",
+    "opticalzoom": "4 x",
+    "sensorsize": "2/3\" (8.8 x 6.6mm) mm",
+    "sensortype": "X-Trans CMOS",
+    "viewfindertype": "None",
+    "imagestabilization": "Optical",
+    "recycletime": "0.08 seconds",
+    "type": "Compact",
+    "gps": "No"
+}

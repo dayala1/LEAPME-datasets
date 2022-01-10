@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "functions": "video recorder, picture camera, voice recorder, watch",
+    "usbjack": "USB 2.0",
+    "weight": "3.5 oz",
+    "power": "rechargeable battery / PC charge with USB cable",
+    "color": "black",
+    "camerapixels": "1.3 MP",
+    "videoencoding": "M-JPEG",
+    "photoformat": "JPG",
+    "memory": "4 Gb built-in memory",
+    "videoformat": "AVI",
+    "videoresolution": "640 x 480",
+    "operatingsystem": "Windows ME / 2000 / XP / 2003 / vista; Mac os 10.4; Linux",
+    "dimensions": "2.5\u201d x 1.8\u201d x 0.6\u201d"
+}

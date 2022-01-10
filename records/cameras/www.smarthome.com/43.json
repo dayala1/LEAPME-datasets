@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "lens": "Manual Iris 4mm - 9mm",
+    "iriscontrol": "Manual",
+    "netweight": "0.26 LB's (w/Sunshield & Bracket)",
+    "minillumination": "0.1 Lux/F1.6",
+    "imagesensor": "1/3\" SONY SUPER HAD 480TVL",
+    "snratio": "More than 45dB (AGC Off)",
+    "dimensionswxhxd": "1\" x 1\" x 3.25\" (w/Sunshield)",
+    "backlightcompensation": "On",
+    "gaincontrol": "4dB - 32dB - Auto",
+    "videooutputlevel": "1.0Vp-p (75ohms, Composite)",
+    "powersource": "DC12V 60mA",
+    "whitebalance": "2,100\u00b0 K - 9200\u00b0 K - Auto",
+    "gamma": "r = 0.45"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "NA",
+    "audioformats": "WAV",
+    "inbuiltmemory": "25 MB",
+    "focallength": "4.5 - 36 mm (35 mm Equivalent to 25 - 200 mm)",
+    "isorating": "ISO 80-1600",
+    "upgradeablememory": "Yes",
+    "metering": "Center-Weighted, Multi, Spot",
+    "selftimer": "2 sec, 10 sec",
+    "displaytype": "TFT LCD",
+    "supportedaspectratio": "16:9, 1:1",
+    "lenstype": "Nikkor Lens",
+    "imageformat": "JPEG (DCF, EXIF 2.3, DPOF)",
+    "screensize": "2.7 Inches",
+    "memorycardtype": "SD, SDHC, SDXC",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "230000 Dots",
+    "facedetection": "NA",
+    "videoformat": "AVI"
+}

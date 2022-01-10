@@ -1,0 +1,18 @@
+{
+    "dots": "Approx. 1,040K-dot",
+    "continuousshootingspeed": "\"Approx. 8.0 fps (JPEG : max. approx. 47 frames) Approx. 3.0 fps (JPEG : up to the capacity of the card)\"",
+    "startuptime": "\"Approx. 0.5 sec., when High Performance mode set to ON Approx. 1.0 sec., when High Performance mode set to OFF\"",
+    "shuttertype": "Focal Plane Shutter",
+    "exposurecontrol": "TTL 256-zone metering, Multi / Spot / Average",
+    "exposurecompensation": "\"-3.0EV - +3.0EV, 1/3EV step (movie recording : -2.0EV - +2.0EV)\"",
+    "megapixels": "16.3 MP",
+    "shutterspeeds": "\"(P mode) 1/4 sec. to 1/4000 sec., (All other modes) 30 sec. to 1/4000 sec. Bulb (max. 60 min.) Time (2 sec. to 30 sec.) Synchronized shutter speed for flash : 1/180 sec. or slower\"",
+    "selftimer": "10 sec. / 2 sec. Delay",
+    "displaytype": "Tilt type color LCD monitor (approx. 100% coverage)",
+    "screensize": "3.0\"",
+    "coverage": "Approx. 100%",
+    "isospeed": "\"AUTO (Control available up to ISO 6400) Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) Extended output sensitivity : Equivalent ISO 100, 12800, 25600 and 51200\"",
+    "viewfinder": "0.5-in., approx. 2.360K-dot OLED color viewfinder",
+    "category": "camera",
+    "batterytype": "NP-W126 Li-ion battery (included)"
+}

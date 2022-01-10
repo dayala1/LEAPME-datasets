@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videostreaming": "Controllable frame rate and bandwidth Multi-stream H.264, Motion JPEG and MPEG-4 Part 2 H.264/MPEG-4 Part 2: 1 stream in full frame rate and resolution, Motion JPEG: 2 individually configured streams in full frame rate and resolution, more streams in either compression if identical or limited in frame rate/resolution VBR/CBR H.264 & MPEG-4 Part 2",
+    "casing": "Metal camera module holder, plastic camera module casing, plastic transparent cover and white cover ring",
+    "lens": "3.0 mm, F2.0, fixed iris Horizontal angle of view: 66\u00b0",
+    "power": "Power over Ethernet IEEE 802.3af Class 1",
+    "weight": "260 g (0.57 lb.)",
+    "shuttertime": "1/5000 s to 1/4 s",
+    "approvals": "EN 55022 Class B, EN 61000-3-2, EN 61000-3-3, EN 55024, FCC Part 15 Subpart B Class B, ICES-003 Class B, VCCI Class B, C-tick AS/NZS CISPR 22, MIC Class B, EN 60950-1",
+    "imagesensor": "1/4 \u201d Progressive scan RGB CMOS VGA",
+    "cameratype": "Ultra-discreet, recessed-mount w/ fixed dome design",
+    "framerate": "H.264: 30 fps in all resolutions Motion JPEG: 30 fps in all resolutions MPEG-4 Part 2: 30 fps in all resolutions",
+    "supportedprotocols": "IPv4/v6, HTTP, HTTPS*, QoS Layer 3 DiffServ, FTP, SMTP, Bonjour, UPnP, SNMPv1/v2c/v3(MIB-II), DNS, DynDNS, NTP, RTSP, RTP, TCP, UDP, IGMP, RTCP, ICMP, DHCP, ARP, SOCKS",
+    "operatingconditions": "Humidity 20 - 80% RH (non-condensing) 0 \u2013 50 \u00baC (32 \u2013 122 \u00baF)",
+    "videocompression": "H.264 (MPEG-4 Part 10/AVC) Motion JPEG MPEG-4 Part 2 (ISO/IEC 14496-2)",
+    "pantiltzoom": "N/A",
+    "security": "Password protection, IP address filtering, HTTPS* encryption, digest authentication, user access log",
+    "resolutions": "640x480 to 160x120",
+    "imagesettings": "Compression, color, brightness, sharpness, contrast, white balance, exposure control, exposure zones, backlight compensation, fine tuning of behavior at low light, rotation Text and image overlay Privacy mask",
+    "connectors": "RJ-45 10BASE-T/100BASE-TX PoE"
+}

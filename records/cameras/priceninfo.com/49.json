@@ -1,0 +1,22 @@
+{
+    "videooutput": "AV",
+    "weight": "120.3 gms",
+    "battery": "BP70A",
+    "externalmemory": "SD (Up to 4GB)",
+    "flashmode": "Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync,",
+    "dcinput": "4.2V",
+    "label13": "Flash Off, Red-eye fix",
+    "category": "camera",
+    "microphone": "Yes",
+    "dimensions": "96.8 x 57.5 x 20.2mm",
+    "selftimer": "2-10 seconds",
+    "digitaloutput": "USB 2.0",
+    "focallength": "Samsung 5x Lens f = 5.1-25.5mm (35mm film equivalent",
+    "label4": "28.2-141.0mm)",
+    "movieclip": "AVI (MJPEG)",
+    "imagesensor": "Approx. 2.3? CCD",
+    "effectivepixel": "Approx. 12.2 Mega pixels",
+    "lcdscreensize": "2.7? inches 230,400 dots TFT LCD",
+    "digitalzoom": "Still Image mode",
+    "audio": "WAV"
+}

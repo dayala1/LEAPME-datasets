@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1.0 Vp-p Composite 75 ohms",
+    "whitebalance": "Auto",
+    "dimensions": "2 3/4\"(H) x 2 1/2\"(W) x 6 7/8\" (L)",
+    "weight": "1.5 lbs",
+    "resolution": "550 TV Lines, High Resolution",
+    "imagesensor": "1/3\" Vertical Double Interline CCD",
+    "synchronizingsystem": "Internal",
+    "powersupply": "12V DC/ 24V AC",
+    "lens": "4mm-9mm",
+    "electronicshutter": "1/60-1/100,000 Sec",
+    "autogaincontrol": "On",
+    "daynight": "True Day & Night",
+    "minimumillumination": "0 lux with Infrared on",
+    "blc": "Auto"
+}

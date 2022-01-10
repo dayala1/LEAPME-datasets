@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio",
+    "productdescription": "Nikon Coolpix S3600 - digital camera",
+    "minfocusdistance": "50 cm",
+    "weight": "125 g",
+    "focusadjustment": "Automatic",
+    "colour": "Silver",
+    "lenssystem": "8 x zoom lens - 4.5 - 36 mm - f/3.6-6.6",
+    "cameraflash": "Built-in flash",
+    "imagestabiliser": "Optical",
+    "digitalzoom": "4 x",
+    "sensorresolution": "20.1 Megapixel",
+    "supportedbattery": "1 x Nikon EN-EL19 Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - compact",
+    "dimensionswxdxh": "9.71 cm x 1.99 cm x 5.79 cm",
+    "imageprocessor": "EXPEED C2",
+    "display": "LCD display - 2.7\"",
+    "maxvideoresolution": "1280 x 720",
+    "memorycardslot": "SD card"
+}

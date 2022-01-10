@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "flashtype": "Pop-up Flash",
+    "stillimageformat": "DNG (RAW) + JPEG",
+    "brand": "Pentax",
+    "redeyereduction": "Yes",
+    "sensortype": "CMOS",
+    "displaytype": "TFT LCD",
+    "opticalviewfindertype": "Fixed eye-level pentaprism",
+    "specialeffects": "Water Colour",
+    "viewfindertype": "Optical",
+    "digitalvideoformat": "MJPEG",
+    "supportedflashmemory": "Eye-Fi card",
+    "type": "Digital SLR",
+    "hdmioutput": "Yes"
+}

@@ -1,0 +1,14 @@
+{
+    "videoframerate": "30fps",
+    "category": "camera",
+    "storagesupport": "Micro SD(TF) card, up to 32GB",
+    "chargingtime": "About 2 hours",
+    "chargingvoltage": "DC-5V, 300mAh",
+    "videoencoding": "M-JPEG",
+    "mediaplayingsoftware": "Attached software in the operating system, or the mainstream video playing softwares",
+    "item": "Parameters",
+    "pictureformat": "1280*720 JPG",
+    "videoresolution": "1920*1080 VGA",
+    "imageratio": "16:9",
+    "videoformat": "AVI"
+}

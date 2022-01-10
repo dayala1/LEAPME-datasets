@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "whitebalance": "Auto Tracking",
+    "snratio": ">45 db",
+    "imagesensor": "1/4\u201d micron sensor",
+    "videorecordingmodes": "Continuous, Motion, and Scheduled Recording",
+    "label1": "Video Compression H.264",
+    "sensitivity": ">11.5V/lux-s @ 550nm",
+    "label3": "Recording Frame Rate 6/8, 13/15, 25/30 fps",
+    "label7": "Operation temperature 0~+50C",
+    "label6": "Firmware Upgrade through Micro SD card",
+    "label5": "IR remote control",
+    "videosystem": "NTSC",
+    "label12": "Recording Quality 4 Levels adjustable (Super, High, Normal, Standard)",
+    "label13": "Recording Storage Micro SD card (support SDHC) up to 32GB",
+    "label10": "Playback mode via device itself or Secure Play back with bundled software",
+    "label11": "Playback Search By Time, By Event",
+    "resolution": "740x480 pixels",
+    "label2": "Record Resolution 720x240 (NTSC) / 720x288 (PAL)"
+}

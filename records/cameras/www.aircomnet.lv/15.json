@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "audio": "Voice playback Yes Sound recording Yes , format: PCM Image footage 4s Speaker Yes",
+    "lcdmonitor": "Resolution 460000 dots Monitor size 7.6cm / 3.0'' Monitor type LCD Frame assistance Yes Brightness adjustment +/- 2 levels Protection panel Yes",
+    "dimensions": "107.9 x 69.7 x 39.9mm",
+    "weight": "227g",
+    "exposurecontrol": "Modes i-Auto Programme automatic Beauty Super Macro Scene Modes Magic Filter Panorama Movie Shutter speed 1/4 - 1/2000s /",
+    "color": "Black",
+    "imagesensor": "Effective pixels 16 Megapixels Filter array Primary colour filter (RGB) Full resolution 16.5 Megapixels Type 1/2.3'' CCD sensor",
+    "flash": "Internal Flash Modes AUTO Red-eye reduction Fill-in Off Working range (wide) 0.2 - 6.9m (ISO 800) Working range (tele) 0.4 - 3.0m (ISO 800)",
+    "powersupply": "Battery LI-50B Lithium-Ion Battery Internal Charging Yes",
+    "lens": "Optical zoom 24x (WIDE) Focal length 4.5 - 108.0mm Focal length (equiv. 35mm) 25 - 600mm Maximum aperture 3.0 - 6.9 Structure 11 lenses / 10 groups Aspherical glass elements 3 ED glass elements 3",
+    "imageprocessor": "Noise reduction Yes Pixel mapping Yes Engine TruePic III+ Shading compensation Yes Distortion compensation Yes",
+    "memorycard": "Removable Media SD / SDHC / SDXC (UHS-I class supported) Eye-Fi Card compatible Yes Internal memory 43MB",
+    "focusing": "Focusing System Method TTL iESP auto focus with contrast detection Modes iESP Face Detection AF Spot AF Tracking Standard mode 0.2m - \u221e (wide) / 0.4m - \u221e (tele) Super Macro Mode Closest focusing distance: 3cm AF illuminator Yes",
+    "packagecontent": "This kit contains:  LI-50B Lithium-Ion Battery F-2AC AC Adapter CB-USB8 USB Cable Hand Strap Instruction Manual World Wide Warranty Card Olympus Viewer 3 Software CD-ROM",
+    "shooting": "Sequential shooting mode (high speed) 30fps / 28 frames (in 3MP mode) 10fps / 28 frames (in 3MP mode) Sequential shooting mode 1.5fps / 200 frames (Full Image Size) 3.0fps / 3 frames (Full Image Size)",
+    "interface": "DC input Yes Combined A/V & USB output Yes USB 2.0 High Speed Yes HDMI\u2122 Yes Mini connector",
+    "whitebalance": "AUTO WB system Yes Preset values Overcast Sunlight Tungsten Flourescent 1 One-touch white balance 1 custom settings can be registered",
+    "features": "Perfect Shot Preview Yes Self timer 2 / 12s Pet auto shutter Menu guide Yes Panorama function Smart Panorama Date imprint Yes SNS upload Yes"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "shutter": "1/8,000 to 30 s in steps of 1/3 or 1/2 EV, bulb, time (requires optional Remote Control ML-L3), X250",
+    "shooting": "6 fps continuous shooting: capture fast-moving action at six frames per second",
+    "lcdmonitor": "Large 7.5 cm (3-in.), 920k-dot, high-resolution LCD monitor with reinforced glass makes it easy to view essential camera information, and a pleasure to review and edit your photos and movies",
+    "dimensions": "(W \u00d7 H \u00d7 D): 132 \u00d7 105 \u00d7 77 mm",
+    "weight": "690 g - body only",
+    "imagesensor": "23.6 x 15.6 mm CMOS sensor; Effective pixels 16.2 million",
+    "flash": "X = 1/250 s; synchronizes with shutter at 1/320 s or slower (flash range drops at speeds between 1/250 and 1/320 s)",
+    "memorycard": "Storage media SD (Secure Digital), SDHC and SDXC memory cards; Slot 2 can be used for overflow or backup storage or for separate storage of copies created using NEF+JPEG; pictures can be copied between cards",
+    "lens": "AF-S DX Nikkor 18-105mm f/3.5-5.6G ED VR",
+    "interface": "Hi-Speed USB; Video output NTSC, PAL; Type C mini-pin HDMI connector",
+    "focusing": "Razor-sharp 39-point Autofocus system with nine cross-type sensors in the center. Offers fast and precise autofocus coverage across the frame. Four AF-area modes, including 3D-tracking AF, deliver sharp results, whether your subject is off-center, moving fast or completely unpredictable.",
+    "viewfinder": "Eye-level pentaprism single-lens reflex viewfinder; Frame coverage Approx. 100% horizontal and 100% vertical",
+    "imageprocessor": "EXPEED 2",
+    "whitebalance": "Auto (2 types), Incandescent, Fluorescent (7 types), Direct Sunlight, Flash, Cloudy, Shade, preset manual (up to 5 values can be stored), choose color temperature (2,500 K to 10,000 K), all with fine tuning; white balance bracketing: 2 to 3 frames in steps of 1, 2 or 3",
+    "exposurecontrol": "-5 to +5 EV in increments of 1/3 or 1/2 EV; ISO 100 to 6400 in steps of 1/3 or 1/2 EV"
+}

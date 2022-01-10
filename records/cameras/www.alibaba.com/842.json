@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "supportedos": "Windows 98/ ME/ 2000/ XP/ 2003/ VISTA / MACOS / linux.",
+    "remote": "Power: 27A, 12V",
+    "power": "Built in rechargeable polymer Li-battery 500mA",
+    "color": "Blue - with White & light Blue Squares",
+    "buttons": "Power ON/OFF",
+    "poweradapter": "USB Wall Adapter - AC 100 - 250V, DC5V, 200 - 400mA",
+    "workingtime": "Up to 3 hrs, standby up to 2 days depending on use",
+    "interface": "USB Por",
+    "framespersecond": "30FPS",
+    "flashmemory": "2GB-32GB",
+    "videocaptureresolution": "1280*720p at 30FPS",
+    "audiocodec": "PCM Audio, 8000Hz 64 kb/s (1 chnl)"
+}

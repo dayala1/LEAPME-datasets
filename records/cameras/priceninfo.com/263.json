@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "sensortype": "1/2.3-inch CMOS Image Sensor with primary color filter",
+    "batterylife": "300 Frames",
+    "exposurecontrol": "TTL 256-zones Metering",
+    "weight": "195 gm",
+    "exposurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "battery": "Li-ion NP-50A",
+    "isosensitivity": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "focallength": "f=5.0 \u2013 25.0mm, equivalent to 28 \u2013 140mm on a 35mm camera",
+    "opticalzoom": "5x",
+    "selftimer": "10sec., 2sec. delay / Group Timer / Couple Timer",
+    "recordingmedia": "SD, SDHC, SDXC Memory Card",
+    "effectivepixels": "14.4 Million Pixels",
+    "focusrange": "60 cm to infinity / 2.0 ft to infinity (Wide), 1.0 m to infinity / 3.3 ft ot infinity (Telephoto)",
+    "fullaperture": "F3.9(Wide) \u2013 F4.9(Telephoto)",
+    "shutterspeed": "1/4 sec. to 1/2000 sec.(Auto), 4 sec. to 1/2000 sec.(All other modes)",
+    "size": "102.7 x 71.3 x 27.4 mm"
+}

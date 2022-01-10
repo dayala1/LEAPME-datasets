@@ -1,0 +1,19 @@
+{
+    "warranty": "1 Year Warranty",
+    "category": "camera",
+    "cameraweight": "3 oz.",
+    "weight": "approx. 85 g (3 oz.)",
+    "fullwellcapacity": "Greater than 50,000 e- (unbinned)",
+    "series": "Starlight Xpress Lodestar",
+    "colororbw": "Monochrome (B&W)",
+    "spectralresponse": "QE max at 620nM (~77%), 45% at 400nM and 770nM",
+    "interface": "USB 2.0",
+    "sensormanufacturer": "Sony",
+    "sku": "SX-LODESTAR-X2",
+    "darkcurrent": "Dark frame saturation time greater than 1 hour. Less than 0.1 electrons/second @ + 10C ambient",
+    "computerinterface": "Built-in USB 2.0 compatible interface",
+    "manufacturer": "Starlight Xpress",
+    "ccdtype": "ICX829AL Sony Exview interline CCD with very low dark current and vertical anti-blooming",
+    "powerrequirements": "USB powered",
+    "size": "32 x 86mm black anodized aluminium barrel with 1\u201d x 32tpi \u2018C mount\u2019 thread at the CCD window end & input/output plugs at rear"
+}

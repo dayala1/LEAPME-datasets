@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "microphone": "Monaural Microphone",
+    "videodisplayresolution": "NA",
+    "facedetection": "Yes",
+    "audioformats": "WAV",
+    "continuousshots": "Up to 1.7 fps",
+    "isorating": "Auto/ 64 / 100 / 200 / 400 / 800 / 1600",
+    "imagestabilizer": "CCD Shift",
+    "redeyereduction": "Yes",
+    "whitebalancing": "Auto, Day White Fluorescent, Daylight, Daylightfluorescent, Manual, Overcast, Shade, Tungsten",
+    "metering": "Multi Pattern",
+    "selftimer": "10 sec / 2 sec, Triple Self Timer",
+    "imageformat": "JPEG",
+    "screensize": "2.7 Inches",
+    "pictureangle": "26 mm Wide Angle",
+    "imagedisplayresolution": "230400 dots",
+    "videoformat": "IMA-ADPCM, AVI, Motion JPEG"
+}

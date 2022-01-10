@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "code": "Please enter the security code as they are shown in the image right",
+    "from": "Please enter the email. Please enter your correct business Email.",
+    "weight": "Approx. 193g (Including battery & memory card)",
+    "to": "SALON CAMERA & RADIO CO., LIMITED",
+    "color": "Black",
+    "type": "Compact",
+    "opticalzoom": "2x - 7x",
+    "megapixel": "10.0 - 20.0MP",
+    "topic": "Your message's topic must be 1-150 characters in length.",
+    "memorycardtype": "SD Card",
+    "brandname": "Canon",
+    "imagestabilization": "Yes",
+    "screensize": "2\\' - 3\\'",
+    "dimensionswxhxd": "99.8 x 58.4 x 29.5mm",
+    "message": "Your message must be 20-2000 characters in length. Account Characters:",
+    "batterytype": "Rechargeable Battery Pack",
+    "modelnumber": "S95",
+    "videocapture": "Yes"
+}

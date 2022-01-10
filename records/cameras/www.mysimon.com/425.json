@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Folding",
+    "facedetection": "Yes",
+    "flashtype": "Detachable flash",
+    "stillimageformat": "RAW + JPEG",
+    "brand": "Olympus",
+    "redeyereduction": "Yes",
+    "sensortype": "Live MOS",
+    "specialeffects": "Water Colour",
+    "viewfindertype": "Electronic",
+    "digitalvideoformat": "MOV",
+    "supportedflashmemory": "SDXC Memory Card",
+    "type": "Mirrorless Interchangeable Lens"
+}

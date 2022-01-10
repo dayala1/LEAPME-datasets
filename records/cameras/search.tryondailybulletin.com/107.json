@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "approx": "0.8 shots/sec. (In P Mode)",
+    "macro": "1.2 in. - 2.0 ft. (3-60cm) (W)",
+    "stillimages": "Exif 2.3 (JPEG)",
+    "auto": "1.2 in. (3cm) - infinity (W), 3.9 ft. (1.2m) - infinity (T)",
+    "otherthantheabove": "1280 x 720 (25 fps), 640 x 480 (30 fps*3)",
+    "normal": "2.0 in. (5cm) - infinity (W), 3.9 ft. (1.2m) - infinity (T)",
+    "miniatureeffect": "1280 x 720*1, 640 x 480*2",
+    "large": "4608 x 3456",
+    "movies": "MOV (Image data",
+    "near": "Bridgewater, NJ(Change)",
+    "iframemovie": "1280 x 720 (25 fps)",
+    "small": "640 x 480",
+    "medium1": "3264 x 2448",
+    "medium2": "1600 x 1200",
+    "widescreen": "4608 x 2592"
+}

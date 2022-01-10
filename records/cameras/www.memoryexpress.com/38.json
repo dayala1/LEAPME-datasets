@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "wirelessconnectivity": "802.11n Wireless",
+    "sdram": "N/A",
+    "videocodecs": "H.264 MJPEG JPEG for still images",
+    "lens": "Focal length: 3.5 mm, F2.8",
+    "dimensions": "Camera including bracket and stand: 27.2 x 607 x 96 mm (2.6\" x 2.6\" x 5\")",
+    "weight": "72 g (0.16 lbs)",
+    "irled": "None",
+    "videofeatures": "Adjustable image size and quality Time stamp and text overlay Flip and Mirror",
+    "pantiltrange": "None",
+    "networkingprotocol": "IPV4, ARP, TCP, UDP, ICMP DHCP Client NTP Client (D-Link) DNS Client DDNS Client (Dyndns and D-Link) SMTP Client FTP Client HTTP Server PPPoE UPnP Port Forwarding LLTD",
+    "attr3acontrol": "N/A",
+    "power": "Input: 100-240 V AC, 50/60 Hz Output: 5 V DC, 1 A",
+    "digitalzoom": "Up to 4x",
+    "certifications": "FCC C-Tick IC CE",
+    "resolution": "640 x 480 at up to 30 fps 320 x 240 at up to 30 fps 160 x 112 at up to 30 fps",
+    "flashmemory": "N/A",
+    "viewingangle": "Horizontal: 45.3\u00b0 Vertical: 34.5\u00b0 Diagonal: 54.9\u00b0"
+}

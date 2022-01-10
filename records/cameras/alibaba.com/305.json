@@ -1,0 +1,23 @@
+{
+    "warranty": "2 years",
+    "videooutput": "Vp-p,75ohm,BNC",
+    "powerconsumption": "80mA/400mA(IR ON)",
+    "powersupply": "DC12V\u00b1 5%",
+    "storagetemperature": "-20\u00b0C~ 60\u00b0C",
+    "osd": "English, Chinese",
+    "category": "camera",
+    "electronicshutter": "1/50(1/60)_1/100,000(Sec.)",
+    "snratio": ">52dB",
+    "lens": "Focus lens: 4/6/8/12/16 mm optional",
+    "packing": "Color gift box",
+    "signalsystem": "PAL/NTSC",
+    "irdistance": "40\u00a0m",
+    "model": "VT-8049ZVT-8349ZVT-8449ZVT-8549ZVT8649ZVT-8849Z",
+    "irled": "2\u00a0pc\u00a0ir array\u00a0leds",
+    "operatingtemperature": "-20\u00b0C ~ 50\u00b0C",
+    "resolution": "420Tvl600Tvl700Tvl800Tvl900Tvl1200Tvl",
+    "imagesensor": "1/3\" SONY 6331/3\"CMOS 30051/3\"SONY EFFIO-E1/3\" CMOS\u00a090121/3\" CMOS 90131/3\" SONY 138",
+    "item": "Fixed\u00a0Focus\u00a0IR Camera",
+    "weatherresistance": "IP66",
+    "syncsystem": "Internal Sync"
+}

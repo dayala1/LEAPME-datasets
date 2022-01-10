@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "shutter": "Type: Electronic & Mechanical Speed: 30 - 1/4000 sec",
+    "lcdmonitor": "3\" Rear Touchscreen Tilting Live Preview LCD Screen Coverage : 100%",
+    "videorecording": "Full HD",
+    "liveview": "Yes",
+    "isosensitivity": "Auto, 100-12800 (Extended Mode: 25600-)",
+    "autofokus": "Yes",
+    "whitebalance": "Auto, Cloudy, Custom, Daylight, Flash, Fluorescent (White), Shade, Sunset, Tungsten, Twilight",
+    "externalflash": "Hot Shoe",
+    "exposurecompensation": "-5 EV to +5 EV (in 1/3 or 1/2 EV steps)",
+    "internalflash": "Built-in Flash",
+    "playback": "Single Image, Index Display (4, 9, 36, 100 images), Jump Display (1/10/100 images, by date, by folder, movies only, stills only, by rating)",
+    "viewfinder": "Pentamirror, Optical Viewfinder Coverage : 95% Viewfinder Magnification : 0.81x",
+    "lensmount": "Canon EF-S",
+    "imageprocessor": "The DIGIC 5",
+    "sensor": "CMOS",
+    "model": "APS-C Digital SLR",
+    "dustreductionsystem": "Yes"
+}

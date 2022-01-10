@@ -1,0 +1,22 @@
+{
+    "videodisplayresolution": "640 x 480 pixels (VGA)",
+    "metering": "256-Segment Matrix, Center-Weighted, Spot",
+    "displaytype": "TFT LCD",
+    "additionalfeatures": "250 Shots (Alkaline Batteries), 30 cm Normal Focus Range, 30 mins Video Recording Time, 320 x 240 (QVGA) Video Size, 420 Shots (EN-MH2 Batteries (Based on CIPA Standard)), 660 Shots (Lithium Batteries), Backlighting, Beach, Black and White Copy, Chinese (Simplified and Traditional), Close-up, Czech, Danish, Dusk / Dawn, Dutch, English, Finnish, Fireworks Show, Food, French, German, Greek, Hungarian, Indonesian, Italian, Japanese, Korean, Landscape, Museum, Night Landscape, Night Portrait, Norwegian, Panorama Assist), Party / Indoor, Polish, Portuguese, Romanian, Russian, Scene Modes (Portrait, Snow, Spanish, Sports, Sunset, Supported Languages (Arabic, Swedish, Thai, Turkish, Ukrainian)",
+    "continuousshots": "Up to 4 Shots at 1.4 fps",
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Daylight, Flash, Fluorescent, Incandescent, Manual",
+    "facedetection": "NA",
+    "redeyereduction": "Yes",
+    "selftimer": "10 sec",
+    "autofocus": "Contrast Detection AF",
+    "focallength": "4 - 20 mm",
+    "isorating": "Auto (Auto Gain ISO 80-1600)",
+    "dustreduction": "NA",
+    "screensize": "2.7 Inches",
+    "supportedlanguages": "26 Languages",
+    "aperturerange": "f/2.7 - f/6.8",
+    "shootingmodes": "Auto, Easy Auto, Movie, Scene, Smart Portrait",
+    "lenstype": "Nikkor Lens",
+    "imagedisplayresolution": "230000 dots"
+}

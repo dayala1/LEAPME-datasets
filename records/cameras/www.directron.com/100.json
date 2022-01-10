@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "irled": "20 Meters (with 23 Unit Infared LED)",
+    "imagedevice": "1/3\" Panasonic CMOS",
+    "videooutputlevel": "HD-SDI / 1.0 Vp-p composite, 75ohm",
+    "dimensions": "118 (mm) x 96.5(mm)",
+    "bodycolor": "White",
+    "minimumillumination": "0 Lux (with IR LED ON)",
+    "megapixels": "1080P",
+    "electronicshutter": "Auto",
+    "effectivepixels": "1944(H) x 1092(V)",
+    "powersource": "12VDC 300ma",
+    "type": "HD-SDI",
+    "lens": "4mm",
+    "operatingtemperature": "-10\u00b0C / +45\u00b0C"
+}

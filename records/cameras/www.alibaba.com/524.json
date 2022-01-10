@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "recordingframerate": "30fps",
+    "operationtemperature": "-10~+60\u00a0\u00baC",
+    "imagesensor": "Color CMOS WXGA /1 megapixel resolution",
+    "viewangle": "120 angle",
+    "currentconsumption": "Type:180mA, Max.230mA",
+    "powersupply": "+3.7~+5V",
+    "videocompressionformat": "M-PEG4",
+    "recordingformat": "AVI",
+    "recordingresolution": "720P(1280*720)",
+    "storagetemperature": "-30~+85 \u00baC",
+    "dimension": "30*35MM",
+    "minimumillumination": "1Lux",
+    "avoutput": "VGA 640*480\u00a0 PAL/1Vp-p"
+}

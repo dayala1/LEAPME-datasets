@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "movierecordingsize": "VGA, QVGA",
+    "ccdsize": "1/2.33 inch",
+    "flashfunctions": "Auto, Red-Eye Reduction, Fill-in, OFF",
+    "weight": "123 gm",
+    "label0": "2.36-inch TFT colour LCD monitor",
+    "label2": "10.8MB Internal Memory",
+    "whitebalance": "Auto, Preset 6 types",
+    "powersupply": "LI-80B Battery",
+    "lightmeteringsystem": "ESP",
+    "selftimer": "2seconds, 12seconds",
+    "exposurecompensation": "\u00b12 EV in 1/3 EV steps",
+    "recordingfileformat": "JPEG",
+    "scenemode": "Portrait, Landscape, Night, Night+Portrait, Sport, Indoor, Candle, Self portrait, Sunset, Fireworks, Cuisine, Documents, Pet",
+    "dimensionwxhxd": "93.0 x 60.0 x 23.3mm",
+    "aperturerange": "f3.1(W) \u2013 5.9(T)",
+    "afmode": "iESP, Spot, Face Detect, tracking"
+}

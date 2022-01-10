@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "label8": "TTL auto focus",
+    "videoout": "AV",
+    "exposurecontrol": "Program AE, Shutter AE, Aperture Priority AE or Manual Exposure AE Lock (TBD)",
+    "weight": "210.7gm",
+    "label0": "24mm Ultra Wide Angle Lens",
+    "label1": "15X Optical Zoom",
+    "label2": "12 Megapixels",
+    "label3": "Built-in GPS and Geo-Tagging capability",
+    "label4": "3\u201d inch AMOLED Display",
+    "label5": "HD Movie recording with built-in HDMI",
+    "internalmemory": "128MB",
+    "compensation": "\u00b12EV (1/3EV steps)",
+    "iso": "Auto, 80, 100, 200, 400, 800, 1600, 3200",
+    "rechargeablebattery": "SLB-11A (1,100mAh) Adaptor",
+    "dimensionswxhxd": "106.6 x 60.5 x 28.0mm",
+    "label11": "Metering Multi, Spot, Centre Weighted, Face Detection AE",
+    "imagesensor": "1/2.3? (1.10cm) CCD",
+    "label15": "SD/SDHC Memory Card Slot"
+}

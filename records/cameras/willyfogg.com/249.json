@@ -1,0 +1,7 @@
+{
+    "category": "camera",
+    "ports": "- 2 x Internal Serial Ports (DB9 Male) - 1 x External Parallel Port (DB25 Female)",
+    "interface": "PCI",
+    "model": "UGT-PC2S1P",
+    "dimension": "142x120x18mm"
+}

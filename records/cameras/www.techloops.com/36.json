@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "maximumstillframeratefps": "30",
+    "minimumaperture": "f/3.5",
+    "productline": "Lumix",
+    "color": "Pink",
+    "colorclass": "Pink",
+    "cameraresolutionmegapixel": "14.1",
+    "opticalzoomrangex": "2.0 - 4.9",
+    "focusmode": "Auto",
+    "lcdsizein": "2.7",
+    "lcdsizerange": "2.5 - 2.9\"",
+    "cameramegapixels": "10 - 14 Megapixel",
+    "imagestabilizationtype": "Optical",
+    "opticalzoomx": "4",
+    "resolution": "4320 x 3240",
+    "aspectratio": "169",
+    "digitalzoomx": "4"
+}

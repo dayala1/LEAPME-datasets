@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "imageresolution": "8,000,000,pixels",
+    "photoformat": "Jpeg",
+    "operationsystem": "Microsoft Windows 2000, XP, Vista",
+    "color": "24 bit real color",
+    "wideangle": "100 degree",
+    "powersupply": "Built-in Lithium\u00a02400mA",
+    "lens": "1,000,000 High definition optical lens",
+    "powerconsumption": "Normal:150mA\u00a0 IR video mode:250mA",
+    "workingtime": "Working 8 hourse, the stand-by time is above 500 hours.",
+    "workingenvironment": "-25\u00b0C~70\u00b0C",
+    "videoresolution": "720*576,640*480,352*288 for adjustable"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "sensortype": "1/2.3? inch CCD with primary color filter",
+    "dimensions": "118 x 80.9 x 99.8 mm",
+    "weight": "543 gm",
+    "exposurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "focallength": "f=4.3mm \u2013 129.0mm, equivalent to 24 \u2013 720mm on a 35 mm camera",
+    "shutterspeed": "1/4 sec. to 1/2000 sec., 8 sec. to 1/2000 sec.",
+    "isoequivalent": "ISO 64/100/200/400/800/1600/3200/6400",
+    "opticalzoom": "30x",
+    "selftimer": "2 sec. / 10 sec. delay",
+    "recordingmedia": "SD/SDHC/SDXC Card",
+    "digitalzoom": "6.7x",
+    "maximumaperture": "F3.1 (Wide) \u2013 F5.9 (Telephoto)",
+    "screensize": "3? inch TFT Color LCD Display (230k dots)",
+    "focusdistance": "Approx. 40 cm to infinity/1.3ft to infinity(Wide), Approx. 2.8m to infinity/9.1ft to infinity (Telephoto)",
+    "battery": "4 x AA type Alkaline",
+    "numberofeffectivepixels": "14.0 Megapixels"
+}

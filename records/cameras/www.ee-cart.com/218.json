@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "dramaticbw": "Creates bold B & W movies with high contrast and grain",
+    "vivid": "Accentuates primary colors for a bright, cheerful look",
+    "title": "*",
+    "sepia": "Uses a sepia tint for an antique, faded look",
+    "oldmovie": "Gives movies the aged look of old cinema",
+    "cinemastandard": "Tones down highlights slightly, boosts shadows slightly and adds warmth for a cinematic look",
+    "memory": "Adds a faded, misty look to create flashback scenes",
+    "yourname": "*",
+    "message": "*",
+    "nostalgic": "Recreates the look of old '70s TV programs",
+    "email": "*",
+    "cool": "Adds a bluish tint for cool, futuristic-looking scenes"
+}

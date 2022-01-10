@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "interfaceports": "micro USB",
+    "shutterlag": "0.2 seconds",
+    "mediaformat": "microSD, microSDHC, microSDXC",
+    "dimensions": "1.2 x 2.5 inches",
+    "weight": "3.2 oz",
+    "maximumiso": "3200",
+    "videoresolution": "1080p",
+    "megapixels": "18 MP",
+    "opticalzoom": "10 x",
+    "sensorsize": "1/2.3\" (6.2 x 4.6mm) mm",
+    "sensortype": "CMOS",
+    "imagestabilization": "Optical",
+    "recycletime": "2.7 seconds",
+    "type": "Compact",
+    "gps": "No"
+}

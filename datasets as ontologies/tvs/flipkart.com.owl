@@ -1,0 +1,738 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="flipkart.com:flipkart.com#"
+     xml:base="flipkart.com:flipkart.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:flipkart="flipkart.com:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:flipkart2="flipkart.com:3">
+    <owl:Ontology rdf:about="flipkart.com:flipkart.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- flipkart.com:Additional-Features -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Additional-Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Additional Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Analog-TV-Reception -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Analog-TV-Reception">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Analog TV Reception</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Aspect-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Aspect-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aspect Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Audio-Codec -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Audio-Codec">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Codec</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Audio-Out -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Audio-Out">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Out</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Backlight -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Backlight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Backlight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Brand -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Brightness -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Brightness">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brightness</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Component-In-RGB-Cable -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Component-In-RGB-Cable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Component In (RGB Cable)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Composite-In-Audio-Video-Cable -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Composite-In-Audio-Video-Cable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite In (Audio Video Cable)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Connectivity -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Connectivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connectivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Contrast-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Contrast-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contrast Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Depth -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Depth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Display -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Display">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Display-Size -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Display-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:HD -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:HD">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:HD-Technology&#45;&#45;Resolution-HD-Ready -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:HD-Technology--Resolution-HD-Ready">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Technology &amp; Resolution HD Ready</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:HDMI -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:HDMI">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Headphone-Jack -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Headphone-Jack">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headphone Jack</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Height -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Height">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Height</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Horizontal-Scanning-Frequencies -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Horizontal-Scanning-Frequencies">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horizontal Scanning Frequencies</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Horizontal-Viewing-Angle -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Horizontal-Viewing-Angle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horizontal Viewing Angle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:In-the-Box -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:In-the-Box">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In the Box</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:LED-Display-Type -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:LED-Display-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED Display Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Launch-Year -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Launch-Year">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Launch Year</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Model-Name -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Model-Name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Mounting-Features -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Mounting-Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mounting Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Number-of-Colors -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Number-of-Colors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of Colors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Number-of-Speakers -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Number-of-Speakers">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of Speakers</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:OSD-Languages-Supported -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:OSD-Languages-Supported">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OSD Languages Supported</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Other-Display-Features -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Other-Display-Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Other Display Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Other-Features -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Other-Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Other Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Other-Video-Features -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Other-Video-Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Other Video Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Panel-Type -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Panel-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panel Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Picture-Engine -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Picture-Engine">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Picture Engine</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Pixel-Pitch -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Pixel-Pitch">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pixel Pitch</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Power-Consumption -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Power-Consumption">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Consumption</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Power-Requirement -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Power-Requirement">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Requirement</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Power-Type -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Power-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:RF-Capable -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:RF-Capable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF Capable</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:RF-Connectivity-Input -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:RF-Connectivity-Input">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF Connectivity Input</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Refresh-Rate -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Refresh-Rate">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refresh Rate</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Resolution -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Response-Time -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Response-Time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Response Time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Sales-Package -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Sales-Package">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sales Package</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Screen-Type -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Screen-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Smart-TV -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Smart-TV">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart TV</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Sound-Mode -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Sound-Mode">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Mode</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Sound-Optimizer -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Sound-Optimizer">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Optimizer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Sound-Technology -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Sound-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Speaker-Output -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Speaker-Output">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speaker Output</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:USB -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:USB">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Vertical-Viewing-Angle -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Vertical-Viewing-Angle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertical Viewing Angle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Warranty -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Warranty">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Warranty</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Weight-without-stand -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Weight-without-stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight (without stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Width -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Width">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Width</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Width-x-Height-x-Depth-with-stand -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Width-x-Height-x-Depth-with-stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Width x Height x Depth (with stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:Width-x-Height-x-Depth-without-stand -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:Width-x-Height-x-Depth-without-stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Width x Height x Depth (without stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:connectivity -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:connectivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">connectivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:display_resolution -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:display_resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">display_resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:display_type -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:display_type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">display_type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:image_contrast_ratio -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:image_contrast_ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">image_contrast_ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:viewable_size -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:viewable_size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">viewable_size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- flipkart.com:3D -->
+
+    <owl:DatatypeProperty rdf:about="flipkart.com:3D">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- flipkart.com:0 -->
+
+    <owl:NamedIndividual rdf:about="flipkart.com:0">
+        <flipkart:display_resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1366 x 768 px Res</flipkart:display_resolution>
+        <flipkart:Brightness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 nits</flipkart:Brightness>
+        <flipkart:viewable_size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.99 cm Monitor</flipkart:viewable_size>
+        <flipkart:image_contrast_ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5000000:1 Contrast Ratio</flipkart:image_contrast_ratio>
+        <flipkart:display_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Display</flipkart:display_type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- flipkart.com:1 -->
+
+    <owl:NamedIndividual rdf:about="flipkart.com:1">
+        <flipkart:Brightness rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 200 nits</flipkart:Brightness>
+        <flipkart:Pixel-Pitch rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.3 mm</flipkart:Pixel-Pitch>
+        <flipkart:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Limited Warranty (Parts / Labour / Backlit)</flipkart:Warranty>
+        <flipkart:Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 W (Operational)</flipkart:Power-Consumption>
+        <flipkart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1366 x 768 pixels</flipkart:Resolution>
+        <flipkart:display_resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1366 x 768 px Res</flipkart:display_resolution>
+        <flipkart:Number-of-Colors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.7 M Colors</flipkart:Number-of-Colors>
+        <flipkart:Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">168 mm</flipkart:Depth>
+        <flipkart:OSD-Languages-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17 Languages</flipkart:OSD-Languages-Supported>
+        <flipkart:Display rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19 inch LED Backlit LCD Display</flipkart:Display>
+        <flipkart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.1 kg</flipkart:Weight>
+        <flipkart:Brightness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 nits (2D)</flipkart:Brightness>
+        <flipkart:Horizontal-Scanning-Frequencies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30 - 61 kHz (Analog)</flipkart:Horizontal-Scanning-Frequencies>
+        <flipkart:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">349 mm</flipkart:Height>
+        <flipkart:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">441 mm</flipkart:Width>
+        <flipkart:viewable_size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.99 cm Monitor</flipkart:viewable_size>
+        <flipkart:Response-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 ms</flipkart:Response-Time>
+        <flipkart:Contrast-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5000000:1</flipkart:Contrast-Ratio>
+        <flipkart:image_contrast_ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5000000:1 Contrast Ratio</flipkart:image_contrast_ratio>
+        <flipkart:Vertical-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65° (2D)</flipkart:Vertical-Viewing-Angle>
+        <flipkart:Horizontal-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90° (2D)</flipkart:Horizontal-Viewing-Angle>
+        <flipkart:Power-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adapter, Power Consumption S/W Off: 0.3 W Under</flipkart:Power-Type>
+        <flipkart:display_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Display</flipkart:display_type>
+        <flipkart:Other-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligent Auto (Auto Resolution), DDC/CI, Flicker Safe, Reader Mode, Smart Energy Saving</flipkart:Other-Features>
+        <flipkart:Backlight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED Backlight</flipkart:Backlight>
+        <flipkart:In-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Monitor, Power Chord, D-sub and Warranty Documents</flipkart:In-the-Box>
+        <flipkart:Mounting-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stand Tilt, Base Detachable</flipkart:Mounting-Features>
+        <flipkart:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VGA Yes, D-sub</flipkart:Connectivity>
+        <flipkart:Other-Display-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertical Scanning Frequency (Analog): 56 - 75 Hz, LED Color: White,Color Wizard</flipkart:Other-Display-Features>
+        <flipkart:HD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</flipkart:HD>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- flipkart.com:2 -->
+
+    <owl:NamedIndividual rdf:about="flipkart.com:2">
+        <flipkart:Brightness rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 200 nits</flipkart:Brightness>
+        <flipkart:Pixel-Pitch rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.3 mm</flipkart:Pixel-Pitch>
+        <flipkart:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Limited Warranty (Parts / Labour / Backlit)</flipkart:Warranty>
+        <flipkart:Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 W (Operational)</flipkart:Power-Consumption>
+        <flipkart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1366 x 768 pixels</flipkart:Resolution>
+        <flipkart:display_resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1366 x 768 px Res</flipkart:display_resolution>
+        <flipkart:Number-of-Colors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.7 M Colors</flipkart:Number-of-Colors>
+        <flipkart:Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">168 mm</flipkart:Depth>
+        <flipkart:OSD-Languages-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17 Languages</flipkart:OSD-Languages-Supported>
+        <flipkart:Display rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19 inch LED Backlit LCD Display</flipkart:Display>
+        <flipkart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.1 kg</flipkart:Weight>
+        <flipkart:Brightness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 nits (2D)</flipkart:Brightness>
+        <flipkart:Horizontal-Scanning-Frequencies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30 - 61 kHz (Analog)</flipkart:Horizontal-Scanning-Frequencies>
+        <flipkart:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">349 mm</flipkart:Height>
+        <flipkart:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">441 mm</flipkart:Width>
+        <flipkart:viewable_size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46.99 cm Monitor</flipkart:viewable_size>
+        <flipkart:Response-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 ms</flipkart:Response-Time>
+        <flipkart:Contrast-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5000000:1</flipkart:Contrast-Ratio>
+        <flipkart:image_contrast_ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5000000:1 Contrast Ratio</flipkart:image_contrast_ratio>
+        <flipkart:Vertical-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65° (2D)</flipkart:Vertical-Viewing-Angle>
+        <flipkart:Horizontal-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90° (2D)</flipkart:Horizontal-Viewing-Angle>
+        <flipkart:Power-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adapter, Power Consumption S/W Off: 0.3 W Under</flipkart:Power-Type>
+        <flipkart:display_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Display</flipkart:display_type>
+        <flipkart:Other-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligent Auto (Auto Resolution), DDC/CI, Flicker Safe, Reader Mode, Smart Energy Saving</flipkart:Other-Features>
+        <flipkart:Backlight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED Backlight</flipkart:Backlight>
+        <flipkart:In-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Monitor, Power Chord, D-sub and Warranty Documents</flipkart:In-the-Box>
+        <flipkart:Mounting-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stand Tilt, Base Detachable</flipkart:Mounting-Features>
+        <flipkart:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VGA Yes, D-sub</flipkart:Connectivity>
+        <flipkart:Other-Display-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertical Scanning Frequency (Analog): 56 - 75 Hz, LED Color: White,Color Wizard</flipkart:Other-Display-Features>
+        <flipkart:HD rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</flipkart:HD>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- flipkart.com:3 -->
+
+    <owl:NamedIndividual rdf:about="flipkart.com:3">
+        <flipkart:Sound-Optimizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3 Modes (Off, Stand Type, Wall Mounted Type)</flipkart:Sound-Optimizer>
+        <flipkart:Audio-Codec rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> AC3 (Dolby Digital), AAC, Mpeg, MP3, PCM</flipkart:Audio-Codec>
+        <flipkart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</flipkart:USB>
+        <flipkart:Audio-Out rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 </flipkart:Audio-Out>
+        <flipkart:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 (RCA Analog Audio Output)</flipkart:Headphone-Jack>
+        <flipkart:RF-Connectivity-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 (Rear)</flipkart:RF-Connectivity-Input>
+        <flipkart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 (Side)</flipkart:USB>
+        <flipkart:HD-Technology--Resolution-HD-Ready rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1366 x 768</flipkart:HD-Technology--Resolution-HD-Ready>
+        <flipkart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:09</flipkart:Aspect-Ratio>
+        <flipkart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</flipkart:HDMI>
+        <flipkart:Number-of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</flipkart:Number-of-Speakers>
+        <flipkart:connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 x HDMI, 1 x USB</flipkart:connectivity>
+        <flipkart:Launch-Year rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</flipkart:Launch-Year>
+        <flipkart:Model-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32LF550A</flipkart:Model-Name>
+        <flipkart:Weight-without-stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7 kg</flipkart:Weight-without-stand>
+        <flipkart:Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 W, 0.3 W (Stand By)</flipkart:Power-Consumption>
+        <flipkart:Width-x-Height-x-Depth-without-stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">731 mm x 442 mm x 56.5 mm</flipkart:Width-x-Height-x-Depth-without-stand>
+        <flipkart:Width-x-Height-x-Depth-with-stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">731 mm x 480 mm x 208 mm</flipkart:Width-x-Height-x-Depth-with-stand>
+        <flipkart:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80 cm (32)</flipkart:Display-Size>
+        <flipkart:Power-Requirement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AC 100 - 240 V, 50/60 Hz</flipkart:Power-Requirement>
+        <flipkart:Other-Video-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Active Noise Reduction,Dynamic Clear White,Dynamic Color Enhancer,Picture Mode: 5 Modes (Vivid, Standard, Cinema, Cricket, Game),Wide Angle Viewing,Display Type: Flat</flipkart:Other-Video-Features>
+        <flipkart:Panel-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced IPS LED LCD Panel</flipkart:Panel-Type>
+        <flipkart:Component-In-RGB-Cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Component Input (Y, Pb, Pr + Audio): 1 (Composite / Component Common)</flipkart:Component-In-RGB-Cable>
+        <flipkart:Composite-In-Audio-Video-Cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite Input (CVBS + Audio): 2 (1 Exclusive, 1 Composite / Component Common)</flipkart:Composite-In-Audio-Video-Cable>
+        <flipkart:Sound-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital Decoder</flipkart:Sound-Technology>
+        <flipkart:display_resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Ready, 1366 x 768</flipkart:display_resolution>
+        <flipkart:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</flipkart:Screen-Type>
+        <flipkart:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</flipkart:Brand>
+        <flipkart:Smart-TV rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</flipkart:Smart-TV>
+        <flipkart2:D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</flipkart2:D>
+        <flipkart:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMI (Picture Mastering Index): 300 Hz</flipkart:Refresh-Rate>
+        <flipkart:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RMS 5 W x 2</flipkart:Speaker-Output>
+        <flipkart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear</flipkart:HDMI>
+        <flipkart:LED-Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slim LED</flipkart:LED-Display-Type>
+        <flipkart:Sound-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standard, Bollywood, Cinema, Cricket, Game</flipkart:Sound-Mode>
+        <flipkart:Sales-Package rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV Unit, Remote</flipkart:Sales-Package>
+        <flipkart:Picture-Engine rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triple XD Engine</flipkart:Picture-Engine>
+        <flipkart:Additional-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB DivX (SD/HD): DivX HD,Picture: JPEG,Subtitle for DivX (Language): 10 Languages (English, French, Vietnamese, Russian, Thai, Hebrew,Arab, Korean, Persian, Kudur),All Round Protection Plus,Regional Languages Option,Built-in Games,Motion Eco Sensor,Smart Energy Saving,Input Labeling,OSD Languages: Total 17, Indian: 5 (Hindi, Marathi, Bengali, Tamil, Telugu) Subject to Updation Regularly,Local Key Type: Jogstick,Flexi Mount Bracket,Metallic Design,Slim Depth and Narrow Bezel,Cricket Mode</flipkart:Additional-Features>
+        <flipkart:Analog-TV-Reception rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</flipkart:Analog-TV-Reception>
+        <flipkart:RF-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</flipkart:RF-Capable>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- flipkart.com:4 -->
+
+    <owl:NamedIndividual rdf:about="flipkart.com:4">
+        <flipkart:Sound-Optimizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3 Modes (Off, Stand Type, Wall Mounted Type)</flipkart:Sound-Optimizer>
+        <flipkart:Audio-Codec rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> AC3 (Dolby Digital), AAC, Mpeg, MP3, PCM</flipkart:Audio-Codec>
+        <flipkart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</flipkart:USB>
+        <flipkart:Audio-Out rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 </flipkart:Audio-Out>
+        <flipkart:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 (RCA Analog Audio Output)</flipkart:Headphone-Jack>
+        <flipkart:RF-Connectivity-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 (Rear)</flipkart:RF-Connectivity-Input>
+        <flipkart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 (Side)</flipkart:USB>
+        <flipkart:HD-Technology--Resolution-HD-Ready rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1366 x 768</flipkart:HD-Technology--Resolution-HD-Ready>
+        <flipkart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:09</flipkart:Aspect-Ratio>
+        <flipkart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</flipkart:HDMI>
+        <flipkart:Number-of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</flipkart:Number-of-Speakers>
+        <flipkart:connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 x HDMI, 1 x USB</flipkart:connectivity>
+        <flipkart:Launch-Year rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</flipkart:Launch-Year>
+        <flipkart:Model-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32LF550A</flipkart:Model-Name>
+        <flipkart:Weight-without-stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7 kg</flipkart:Weight-without-stand>
+        <flipkart:Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 W, 0.3 W (Stand By)</flipkart:Power-Consumption>
+        <flipkart:Width-x-Height-x-Depth-without-stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">731 mm x 442 mm x 56.5 mm</flipkart:Width-x-Height-x-Depth-without-stand>
+        <flipkart:Width-x-Height-x-Depth-with-stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">731 mm x 480 mm x 208 mm</flipkart:Width-x-Height-x-Depth-with-stand>
+        <flipkart:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80 cm (32)</flipkart:Display-Size>
+        <flipkart:Power-Requirement rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AC 100 - 240 V, 50/60 Hz</flipkart:Power-Requirement>
+        <flipkart:Other-Video-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Active Noise Reduction,Dynamic Clear White,Dynamic Color Enhancer,Picture Mode: 5 Modes (Vivid, Standard, Cinema, Cricket, Game),Wide Angle Viewing,Display Type: Flat</flipkart:Other-Video-Features>
+        <flipkart:Panel-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Advanced IPS LED LCD Panel</flipkart:Panel-Type>
+        <flipkart:Component-In-RGB-Cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Component Input (Y, Pb, Pr + Audio): 1 (Composite / Component Common)</flipkart:Component-In-RGB-Cable>
+        <flipkart:Composite-In-Audio-Video-Cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite Input (CVBS + Audio): 2 (1 Exclusive, 1 Composite / Component Common)</flipkart:Composite-In-Audio-Video-Cable>
+        <flipkart:Sound-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital Decoder</flipkart:Sound-Technology>
+        <flipkart:display_resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Ready, 1366 x 768</flipkart:display_resolution>
+        <flipkart:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</flipkart:Screen-Type>
+        <flipkart:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</flipkart:Brand>
+        <flipkart2:D rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</flipkart2:D>
+        <flipkart:Smart-TV rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</flipkart:Smart-TV>
+        <flipkart:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PMI (Picture Mastering Index): 300 Hz</flipkart:Refresh-Rate>
+        <flipkart:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RMS 5 W x 2</flipkart:Speaker-Output>
+        <flipkart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear</flipkart:HDMI>
+        <flipkart:LED-Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slim LED</flipkart:LED-Display-Type>
+        <flipkart:Sound-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standard, Bollywood, Cinema, Cricket, Game</flipkart:Sound-Mode>
+        <flipkart:Sales-Package rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV Unit, Remote</flipkart:Sales-Package>
+        <flipkart:Picture-Engine rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triple XD Engine</flipkart:Picture-Engine>
+        <flipkart:Additional-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB DivX (SD/HD): DivX HD,Picture: JPEG,Subtitle for DivX (Language): 10 Languages (English, French, Vietnamese, Russian, Thai, Hebrew,Arab, Korean, Persian, Kudur),All Round Protection Plus,Regional Languages Option,Built-in Games,Motion Eco Sensor,Smart Energy Saving,Input Labeling,OSD Languages: Total 17, Indian: 5 (Hindi, Marathi, Bengali, Tamil, Telugu) Subject to Updation Regularly,Local Key Type: Jogstick,Flexi Mount Bracket,Metallic Design,Slim Depth and Narrow Bezel,Cricket Mode</flipkart:Additional-Features>
+        <flipkart:RF-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</flipkart:RF-Capable>
+        <flipkart:Analog-TV-Reception rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</flipkart:Analog-TV-Reception>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

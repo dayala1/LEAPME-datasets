@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "interfaceports": "mini USB, mini HDMI, Mic, Remote, Headphone",
+    "touchscreen": "No",
+    "shutterlag": "0.1 seconds",
+    "dimensions": "4.4 x 5.6 x 3.2 inches",
+    "weight": "1.7 lb",
+    "maximumiso": "25600",
+    "videoresolution": "720p, 1080p",
+    "lcdsize": "3.2 inches",
+    "megapixels": "24 MP",
+    "sensorsize": "Full-Frame (24 x 36mm) mm",
+    "sensortype": "CMOS",
+    "viewfindertype": "Optical",
+    "mediaformat": "Secure Digital, Secure Digital High Capacity, Secure Digital Extended Capacity",
+    "lensmount": "Nikon F",
+    "recycletime": "0.16 seconds",
+    "type": "D-SLR",
+    "gps": "No"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "audiooutput": "1-ch, RCA (Linear, 1k Ohm)",
+    "capacity": "Up to 4TB for each disk",
+    "workinghumidity": "10% ~ 90%",
+    "powerconsumption": "= 10 W (without hard disk)",
+    "framerate": "- Main stream",
+    "powersupply": "48V DC",
+    "networkinterface": "1 RJ-45 10 / 100 / 1000 Mbps self-adaptive Ethernet interface",
+    "remoteconnection": "128",
+    "workingtemperature": "14\u00b0F~131\u00b0F(-10 \u00b0C ~ +55 \u00b0C)",
+    "recordingresolution": "5MP / 3MP / 1080P / UXGA / 720P / VGA/ 4CIF / DCIF / 2CIF / CIF / QCIF",
+    "standard": "AF and AT",
+    "dimension": "12.4\"x 9.1\"x 1.8\"(315 x 230 x 45mm)",
+    "usbinterface": "1x USB 2.0 and 1x USB 3.0"
+}

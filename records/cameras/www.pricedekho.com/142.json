@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "facedetection": "Yes",
+    "shootingmodes": "Portrait, Soft Skin, Scenery, Architecture, Sports, Flower, Food, Objects, Low-Light, Party, Sunset",
+    "isorating": "Auto / Intelligent ISO / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400",
+    "aperturerange": "f/2.5",
+    "imagestabilizer": "Yes",
+    "redeyereduction": "Yes",
+    "metering": "NA",
+    "selftimer": "Yes",
+    "continuousshots": "Up to 3.2 fps, 2.5 fps"
+}

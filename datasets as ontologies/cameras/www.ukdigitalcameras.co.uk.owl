@@ -1,0 +1,2161 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="www.ukdigitalcameras.co.uk:www.ukdigitalcameras.co.uk#"
+     xml:base="www.ukdigitalcameras.co.uk:www.ukdigitalcameras.co.uk"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:www="www.ukdigitalcameras.co.uk:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:www2="www.ukdigitalcameras.co.uk:35">
+    <owl:Ontology rdf:about="www.ukdigitalcameras.co.uk:www.ukdigitalcameras.co.uk"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:brand -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:camera-resolution -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:camera-resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camera resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:colour -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:colour">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">colour</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:features -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:hd-video -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:hd-video">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hd video</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:included-lens -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:included-lens">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">included lens</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:lcd-size -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:lcd-size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lcd size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:lens-tele-mm -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:lens-tele-mm">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lens tele mm</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:lens-wide-mm -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:lens-wide-mm">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lens wide mm</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:mpn -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:mpn">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mpn</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:optical-zoom -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:optical-zoom">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optical zoom</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:optical-zoom-range -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:optical-zoom-range">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optical zoom range</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:variangle-lcd -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:variangle-lcd">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">variangle lcd</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:waterproof-depth -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:waterproof-depth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">waterproof depth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:35mm-equivalent -->
+
+    <owl:DatatypeProperty rdf:about="www.ukdigitalcameras.co.uk:35mm-equivalent">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35mm equivalent</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:0 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:0">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8596B027AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">n/a</www:optical-zoom-range>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:1 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:1">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.3 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35mm</www2:mm-equivalent>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35mm</www:lens-wide-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCRX1R/B</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Semi-Pro
+Wide-Angle</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">n/a</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:10 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:10">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.2 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</www:optical-zoom>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCWX350B.CEH</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:11 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:11">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-720mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720</www:lens-tele-mm>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9545B002</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1280 x 720p)</www:hd-video>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:12 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:12">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1000</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1000mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super-Zoom
+Wide-Angle</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA640E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:13 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:13">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-450mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">450</www:lens-tele-mm>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9340B011</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:14 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:14">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18m</www:waterproof-depth>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-110mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact
+Waterproof</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA311E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:15 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:15">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105</www:lens-tele-mm>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10m</www:waterproof-depth>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21-105mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact
+Waterproof</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V104150SE00</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:16 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:16">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.8&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23mm</www2:mm-equivalent>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC09330A</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Wide-Angle</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:17 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:17">
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&apos;&apos;</www:lcd-size>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-200mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA551E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:18 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:18">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">140</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.4 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&apos;&apos;</www:lcd-size>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-140mm</www2:mm-equivalent>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6m</www:waterproof-depth>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blue</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact
+Wifi
+Waterproof</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC12630A</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:19 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:19">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-120mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact
+High-Speed Shooting
+Wide-Angle</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA491E1</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:2 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:2">
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">07987</www:mpn>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1248</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1248mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super-Zoom</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:20 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:20">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1365</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21-1365mm</www2:mm-equivalent>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21-1365mm</www:included-lens>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65</www:optical-zoom>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9543B009AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semi-Pro
+Super-Zoom
+Wide-Angle</www:features>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:21 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:21">
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</www:optical-zoom>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x 17x</www:included-lens>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x to 17x</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300</www:lens-tele-mm>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline
+Wide-Angle</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA190E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:22 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:22">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:variangle-lcd>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50x</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC12730A</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super-Zoom
+Wide-Angle
+Raw Shooting</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:23 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:23">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-480mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">480</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-TZ55EB-R</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red</www:colour>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:24 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:24">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">128mm</www:lens-tele-mm>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13m</www:waterproof-depth>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 Megapixels</www:camera-resolution>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-128mm</www2:mm-equivalent>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:lens-wide-mm>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.6x</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:included-lens>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-FT5EB-K</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS
+Waterproof</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:25 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:25">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23-483</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">483</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+Wide-Angle</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EC-WB350FBPNE1</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:26 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:26">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-450mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">450</www:lens-tele-mm>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9341B011</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:27 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:27">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-550mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">550</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+Wide-Angle</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA502E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:28 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:28">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 Megapixels</www:camera-resolution>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:variangle-lcd>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50x</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC12730A</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Wide-Angle
+Super-Zoom</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:29 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:29">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-100mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC11760A</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Wide-Angle</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:3 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:3">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCRX10.CEH</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super-Zoom
+Vari-Angle LCD</www:features>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:30 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:30">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.0 Megapixels</www:camera-resolution>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-720mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720</www:lens-tele-mm>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manual Controls
+Semi-Pro
+Super-Zoom</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC09950A</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:31 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:31">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300</www:lens-tele-mm>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA522E1</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:32 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:32">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18m</www:waterproof-depth>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-110mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camo</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact
+Waterproof</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA593E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:33 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:33">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">140</www:lens-tele-mm>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25m</www:waterproof-depth>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-140mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;&apos;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9337B012AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blue</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterproof</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:34 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:34">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-750mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">750</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+Wide-Angle
+Wi-Fi</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA650E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:35 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:35">
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10x</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&quot;</www:lcd-size>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-240mm</www2:mm-equivalent>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9357B006</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720p)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:36 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:36">
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&apos;&apos;</www:lcd-size>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-200mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA551E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:37 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:37">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1440</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1440mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60x</www:optical-zoom>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA481E1</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:38 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:38">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300</www:lens-tele-mm>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pink</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA523E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:39 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:39">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA291E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:4 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:4">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.1 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-100mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.6</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x or less</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCRX100M3.CEH</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Semi-Pro
+Wide-Angle</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:40 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:40">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.1 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-720mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+Wi-Fi</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-TZ60EB-K</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:41 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:41">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.1</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-LF1EB-K</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Semi-Pro
+Wide-Angle</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:42 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:42">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100mm</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 Megapixels</www:camera-resolution>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-100mm</www2:mm-equivalent>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25mm</www:lens-wide-mm>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:included-lens>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7m</www:waterproof-depth>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blue</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-FT25EB-A</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterproof</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:43 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:43">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x to 17x</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8207B008AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:44 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:44">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-100mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9546B009AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semi-Pro</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:45 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:45">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-750mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">750</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+Wi-Fi
+Wide-Angle</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA652E1</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:46 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:46">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&apos;&apos;</www:lcd-size>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-550mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:lens-wide-mm>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x or less</www:optical-zoom-range>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blue</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA453E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:47 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:47">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.8 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-120mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1</www:optical-zoom>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4K HD</www:hd-video>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x or less</www:optical-zoom-range>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-LX100EBS</www:mpn>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Semi-Pro
+Wide-Angle</www:features>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:48 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:48">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23-483</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.8&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">483</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+Wide-Angle</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EK-GC200ZKABTU</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:49 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:49">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.3 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC11740A</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Wide-Angle</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:5 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:5">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">130</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26-130mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Mode
+Slimline
+Wide-Angle</www:features>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSC-TX30/B</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:50 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:50">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VBA330K001</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:51 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:51">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50x</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Macro Mode</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V103070BE000</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:52 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:52">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-550mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">550</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+Wide-Angle</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA501E1</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:53 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:53">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105</www:lens-tele-mm>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10m</www:waterproof-depth>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21-105mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact
+Waterproof</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V104150BE000</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:54 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:54">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23-481</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.8&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">481</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+GPS
+Wide-Angle</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EK-GC100ZWABTU</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:55 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:55">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.8 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-120mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9167B012AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semi-Pro</www:features>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:56 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:56">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-100mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</www:optical-zoom>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC11770A</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Wide-Angle</www:features>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:57 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:57">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-480mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">480</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-TZ55EB-K</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:58 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:58">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-600mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-FZ200EBK</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manual Controls
+Super-Zoom</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:59 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:59">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.8 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-120mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.1</www:optical-zoom>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4K HD</www:hd-video>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x or less</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-LX100EBK</www:mpn>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Wide-Angle
+Semi-Pro</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:6 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:6">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-100mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.6</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x or less</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCRX100.CEH</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Semi-Pro
+Wide-Angle</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:60 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:60">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-600mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V107080WE000</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:61 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:61">
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12762</www:mpn>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22-580mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</www:optical-zoom>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">580</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super-Zoom</www:features>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:62 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:62">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105</www:lens-tele-mm>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10m</www:waterproof-depth>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21-105mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact
+Waterproof</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V104150WE000</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:63 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:63">
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x to 17x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</www:optical-zoom>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.1 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-400mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">400</www:lens-tele-mm>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4K HD</www:hd-video>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-FZ1000EB</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Manual Controls
+Semi-Pro
+Super-Zoom</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:64 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:64">
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&apos;&apos;</www:lcd-size>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-200mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA551E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:65 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:65">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plum</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA542E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:66 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:66">
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-720mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCHX60V/B</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wide-Angle
+GPS
+3D Mode</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:67 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:67">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-450mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">450</www:lens-tele-mm>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9342B011</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:68 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:68">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.2 Megapixels</www:camera-resolution>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manual Controls
+Semi-Pro
+Super-Zoom</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC12610A</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:69 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:69">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-480mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">480</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-TZ55EB-W</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:7 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:7">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">130</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26-130mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCTX30D.CE3</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wide-Angle
+3D Mode
+Slimline</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:70 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:70">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23-481</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.8&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">481</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EK-GC100ZKABTU</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wide-Angle
+Compact Super-Zoom
+GPS</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:71 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:71">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&apos;&apos;</www:lcd-size>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-550mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:lens-wide-mm>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x or less</www:optical-zoom-range>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90</www:lens-tele-mm>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA450E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:72 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:72">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&quot;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">224</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-224mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9148B006</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720p)</www:hd-video>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:73 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:73">
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&apos;&apos;</www:lcd-size>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-200mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pink</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA554E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:74 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:74">
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">102x</www:optical-zoom>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 Megapixels</www:camera-resolution>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20-1200mm</www2:mm-equivalent>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2040</www:lens-tele-mm>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-FZ72LENSKIT</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Manual Controls
+Semi-Pro
+Super-Zoom</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:75 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:75">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7&apos;&apos;</www:lcd-size>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-550mm</www2:mm-equivalent>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:lens-wide-mm>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x or less</www:optical-zoom-range>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90</www:lens-tele-mm>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pink</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA452E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:76 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:76">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x to 17x</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9354B007AA</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pink</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:77 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:77">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">130</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26-130mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Mode
+Slimline
+Wide-Angle</www:features>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blue</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCTX30L.CE3</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:78 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:78">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1008</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1008mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42</www:optical-zoom>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9544B002</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:79 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:79">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8x to 11x</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA660E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:8 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:8">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.2 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manual Controls
+Semi-Pro
+Super-Zoom</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC12710A</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:80 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:80">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">128mm</www:lens-tele-mm>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13m</www:waterproof-depth>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 Megapixels</www:camera-resolution>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-128mm</www2:mm-equivalent>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:lens-wide-mm>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0\\\&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.6x</www:optical-zoom>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:included-lens>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-FT5EB-D</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS
+Waterproof</www:features>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orange</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:81 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:81">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">128mm</www:lens-tele-mm>
+        <www:waterproof-depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13m</www:waterproof-depth>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 Megapixels</www:camera-resolution>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-128mm</www2:mm-equivalent>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:lens-wide-mm>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.6x</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:included-lens>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-FT5EB-S</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS
+Waterproof</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:82 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:82">
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22-924mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42x</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">924</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-LZ40EB-K</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manual Controls
+Semi-Pro
+Super-Zoom</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:83 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:83">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">140</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-140mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8406B012AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semi-Pro</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:84 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:84">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20-1200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60x</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manual Controls
+Raw Shooting
+Semi-Pro
+Super-Zoom</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:85 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:85">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA520E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:86 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:86">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">175749</www:mpn>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ricoh</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semi-Pro</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:87 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:87">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-750mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</www:optical-zoom>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">750</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom
+Wi-Fi
+Wide-Angle</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Red</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA651E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:88 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:88">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.4 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCHX400VB.CEH</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super-Zoom
+Vari-Angle LCD</www:features>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:89 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:89">
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x to17x</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-288mm</www2:mm-equivalent>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">288</www:lens-tele-mm>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-SZ8EB-K</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD (720P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:brand>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:9 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:9">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.2 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:included-lens>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</www:optical-zoom>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manual Controls
+Semi-Pro
+Super-Zoom</www:features>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC12720A</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:90 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:90">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-600mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600</www:lens-tele-mm>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V107080BE00</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:91 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:91">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:optical-zoom>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-600mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600</www:lens-tele-mm>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Super-Zoom</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:brand>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V107080SE00</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:92 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:92">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1200</www:lens-tele-mm>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.8&quot;</www:lcd-size>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www2:mm-equivalent>
+        <www:included-lens rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1200mm</www:included-lens>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</www:optical-zoom>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6352B012AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semi-Pro
+Super-Zoom
+Wide-Angle</www:features>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:93 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:93">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.8&apos;&apos;</www:lcd-size>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:lens-wide-mm>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</www:lens-tele-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23mm</www2:mm-equivalent>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P10NC13260A</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Wide-Angle</www:features>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:94 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:94">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1440</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 Megapixels</www:camera-resolution>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18x and higher</www:optical-zoom-range>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-1440mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60x</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA480E1</www:mpn>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:95 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:95">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x to 17x</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9351B007AA</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Purple</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:96 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:96">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-120mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x to 7x</www:optical-zoom-range>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact
+High-Speed Shooting
+Wide-Angle</www:features>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:brand>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VNA490E1</www:mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:97 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:97">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x to 17x</www:optical-zoom-range>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-300mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&quot;</www:lcd-size>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9348B007AA</www:mpn>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080p)</www:hd-video>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</www:colour>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slimline</www:features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:98 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:98">
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Megapixels</www:camera-resolution>
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120</www:lens-tele-mm>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-120mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0\&quot;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</www:optical-zoom>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8407B012AA</www:mpn>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:brand>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manual Controls
+Semi-Pro
+Wide-Angle</www:features>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:variangle-lcd>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.ukdigitalcameras.co.uk:99 -->
+
+    <owl:NamedIndividual rdf:about="www.ukdigitalcameras.co.uk:99">
+        <www:lens-tele-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100</www:lens-tele-mm>
+        <www:camera-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2 Megapixels</www:camera-resolution>
+        <www:lens-wide-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</www:lens-wide-mm>
+        <www2:mm-equivalent rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-100mm</www2:mm-equivalent>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0&apos;&apos;</www:lcd-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.6</www:optical-zoom>
+        <www:optical-zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x or less</www:optical-zoom-range>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</www:colour>
+        <www:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCRX100M2CDN.YG</www:mpn>
+        <www:hd-video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD (1080P)</www:hd-video>
+        <www:features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raw Shooting
+Semi-Pro
+Wide-Angle</www:features>
+        <www:brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:brand>
+        <www:variangle-lcd rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:variangle-lcd>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "videooutput": "NTSC or PAL",
+    "weight": "4.7 lb (2.1 kg)",
+    "operatingtemp": "-26\u00c2\u00b0 to +131\u00c2\u00b0F (-32\u00c2\u00b0C to +55\u00c2\u00b0C)",
+    "focallength": "6.3 mm",
+    "fieldofview": "52\u00c2\u00b0 x 40\u00c2\u00b0",
+    "standards": "IP 66 & Mil-Std 810E",
+    "sensortype": "Long-life, uncooled VOx 160 x 120 Microbolometer",
+    "powerconsumption": "4W nominal, 9W at 24VAC",
+    "spectralrange": "7.5 to 13.5 um",
+    "powerrequirements": "14-32VDC or 18-27VAC",
+    "size": "8\" x 4.25\" x 5.2\" (203 mm x 108 mm x 135 mm)"
+}

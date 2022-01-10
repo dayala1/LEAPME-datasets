@@ -1,0 +1,22 @@
+{
+    "operationtemperature": "-20 to +60 Degree Celsius",
+    "powerconsumption": "150mA",
+    "chargingtime": "7 Hour",
+    "powersource": "8\u00c3\u0097AA Batteries or 4\u00c3\u0097AA Batteries",
+    "videoformat": "AVI",
+    "category": "camera",
+    "outputcurrent": "800mAh (Maximum)",
+    "mounting": "Rope, Belt, Python Lock",
+    "delay": "0 Seconds to 60 Minutes",
+    "fps": "15 to 30 FPS",
+    "attr3g": "WCDMA",
+    "pictureresolution": "4000x3000,3200x2400,2592\u00c3\u00971944, 1280x720",
+    "label6": "PIR Sensitivity Adjustable",
+    "label20": "Operation Humidity\u00ef\u00bc\u009a 5% to 95%",
+    "batterycapacity": "1500mAh",
+    "imageformat": "JPG",
+    "label28": "Polycrystalline Plate Solar Panel",
+    "attr2g": "GSM 850/900/1800/1900MHz",
+    "videoresolution": "1440x1080, 1280x720, 320x240",
+    "pirsensor": "Multi Zone"
+}

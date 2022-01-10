@@ -1,0 +1,8 @@
+{
+    "category": "camera",
+    "antenna": "Single, internal",
+    "productname": "Wifi IP Camera",
+    "wirelesssecurity": "WEP 64/128, WPA, WPA2",
+    "userinterface": "Menu driven via Embedded Web server on module",
+    "model": "Ai-ball"
+}

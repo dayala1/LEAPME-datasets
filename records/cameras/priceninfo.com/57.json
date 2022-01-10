@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "selftimer": "10 sec, 3 images / 2 sec / 10 sec",
+    "weight": "267 gm",
+    "batterylife": "Approx. 360 images",
+    "exposurecompensation": "1/3 EV Step, \u00b13 EV",
+    "focallength": "f = 14 mm to 42 mm (35 mm camera equivalent 28 mm to 84 mm)",
+    "isoequivalent": "Auto, Intelligent ISO, 160, 200, 400, 800, 1600, 3200, 6400, 12800 (Extended) (Changeable to 1/3 EV step)",
+    "lcdscreen": "3.0? inch TFT LCD Touch Display (920k dots)",
+    "focusmode": "AFF (Flexible), AFS (Single), AFC (Continuous), MF",
+    "recordingmedia": "SD/SDHC/SDXC Memory Card",
+    "flashmode": "Forced On, Slow Sync., Auto, Auto / Red-eye Reduction, Forced On / Red-eye Reduction, Slow Sync. / Red-eye Reduction, Forced Off",
+    "ioports": "mini HDMI, USB 2.0 High Speed, Audio/Video Output, Microphone",
+    "maximumaperture": "F3.5 (Wide) \u2013 F5.6 (Tele)",
+    "digitalzoom": "2x, 4x",
+    "numberofeffectivepixels": "12.10 Megapixels",
+    "shutterspeed": "Still Images",
+    "imagesensor": "Live MOS Sensor",
+    "battery": "940mAh",
+    "dimensions": "107.7 x 66.6 x 36.8 mm"
+}

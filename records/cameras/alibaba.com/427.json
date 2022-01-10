@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1.0vp-p/75\u03a9",
+    "backlightcompensation": "Auto",
+    "lens": "3.6/6mm",
+    "waterproofrate": "IP67",
+    "weight": "500g",
+    "operationtemperature": "\u201320\u00b0C-50\u00b0C",
+    "gammacorrection": ">0.45",
+    "minillumination": "0Lux/F1.2",
+    "resolution": "700TVL",
+    "snratio": ">48dB",
+    "pickupdevice": "1/3\" SONY CCD",
+    "electronicshutter": "1/50-1/100,000sec",
+    "power": "DC 12V, 500mA",
+    "leds": "48pcs \u03a65",
+    "syncsystem": "Internal",
+    "whitebalance": "Auto",
+    "dimensions": "138*81*70mm"
+}

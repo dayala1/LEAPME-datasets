@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "afmode": "iESP Auto, Spot AF, Face Detection AF, AF Tracking",
+    "dimensions": "105.9 x 67.3 x 37.9mm",
+    "weight": "215 gms",
+    "digitalopticalzoom": "5.0 X/ 18 X",
+    "focallength": "5.0\u201390 mm",
+    "shutterspeed": "1/2000 sec",
+    "aperturerange": "f3.1 (W) / f4.4 (T)",
+    "imagestabilizer": "Shift Image",
+    "lcdscreensize": "3.0? LCD 460,000 dots",
+    "connectivity": "HDMI",
+    "maximumisosensitivity": "1600",
+    "removablememory": "SD/SDHC/SDXC",
+    "movierecording": "MP4",
+    "resolution": "14.0 MP",
+    "imagesensor": "14 Megapixels (effective), 1/2.3?",
+    "battery": "Li-ion Rechargeable Battery (LI-50B)"
+}

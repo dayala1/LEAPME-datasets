@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "leds": "4 lights to indicate battery and memory status",
+    "capacity": "8GB memory",
+    "dimensions": "36x36x9 mm (1.42x1.42x0.35 inches)",
+    "weight": "20 grams (0.7 oz)",
+    "cameratype": "Ultra-Compact",
+    "brand": "Narrative",
+    "buttons": "The Narrative Clip has no buttons. You double-tap the Narrative Clip for battery indication and to take an extra photo. Place the Clip face down on a flat surface, or in total darkness, to put it in sleep mode.",
+    "connectivity": "Micro USB",
+    "sensorresolution": "5.0 MP",
+    "model": "Clip"
+}

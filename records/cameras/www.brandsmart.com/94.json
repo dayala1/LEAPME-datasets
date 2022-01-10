@@ -1,0 +1,23 @@
+{
+    "weight": "1 lbs",
+    "digitalcameratype": "Point & Shoot",
+    "height": "2.38 in",
+    "imagestabilization": "Yes",
+    "category": "camera",
+    "removablemediacompatibility": "Memory Stick Duo microSD microSDHC microSDXC",
+    "facedetection": "Yes",
+    "panoramamode": "Yes",
+    "digitalzoom": "32x",
+    "stabilizationtype": "Optical",
+    "width": "3.19 in",
+    "lcdscreen": "Yes",
+    "megapixelsmp": "20.1",
+    "burstmode": "Yes",
+    "builtinflash": "Yes",
+    "opticalzoom": "8x",
+    "lcdscreensize": "2.7\"",
+    "flashmodes": "Auto Flash On Flash Off Slow Sync",
+    "depth": "4.44 in",
+    "imagestitching": "Yes",
+    "selftimer": "Yes"
+}

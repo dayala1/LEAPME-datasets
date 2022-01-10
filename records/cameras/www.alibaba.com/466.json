@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p/75\u03a9",
+    "lens": "Varifocal 2.8-12mm Lens (2m Pixels)",
+    "pixels": "PAL:752H\u00d7582V NTSC:768H\u00d7494V",
+    "operationtemperature": "-10\u00b0C--50\u00b0C",
+    "gammacorrection": "0.45",
+    "irviewdistance": "50m",
+    "exposuremode": "EE",
+    "snratio": "\u226548dB",
+    "agc": "Auto",
+    "powersupply": "DC12V\u00b15%",
+    "backlightcompensation": "Auto",
+    "horizontalresolution": "700TVL",
+    "electronicshutter": "PAL:1/50-- 1/100000sec NTSC: 1/60--1/100000sec",
+    "whitebalance": "Auto",
+    "scanningsystem": "PAL/NTSC",
+    "model": "GS-W7018m",
+    "syncsystem": "Internal Synchronization",
+    "minimumillumination": "0LUX/IR ON"
+}

@@ -1,0 +1,23 @@
+{
+    "videooutput": "1.0V p-p Composite 75\u2126",
+    "powerrequirement": "12VDC, 24VAC",
+    "weight": "27.5oz (780g)",
+    "powerconsumption": "750mA",
+    "effectivepixels": "NTSC: 768x494 PAL: 752x582",
+    "category": "camera",
+    "dimensions": "5.1\" dia x 5.8\" (130 dia x 148mm)",
+    "tilt": "2\u00b0 ~ 95\u00b0 0.1\u00b0 to 300\u00b0/sec",
+    "gammacorrection": "0.45",
+    "alarmio": "4 In, 1 Out",
+    "approvals": "CE, FCC, VCCI, RoHS Compliance",
+    "minimumillumination": "Color: 0.7 lux BW: 0.02 lux",
+    "snratio": "50dB AGC Off, Weight On",
+    "manufacturer": "Weldex",
+    "operatingtemperature": "32\u00b0 to 122\u00b0F (0\u00b0 to 50\u00b0C)",
+    "operatinghumidity": "0 ~ 90% Non-Condensing",
+    "optics": "10x f=3.8 to 38mm (F1.8)",
+    "imagesensor": "1/4\" Interline Transfer CCD",
+    "minimumfocusdistance": "1m",
+    "weatherresistance": "IP67",
+    "resolution": "500TV Lines"
+}

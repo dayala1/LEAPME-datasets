@@ -1,0 +1,22 @@
+{
+    "exposurecontrol": "TTL 256-zones metering, Multi, Spot, Average",
+    "weight": "730 gms",
+    "battery": "4xAA type alkaline batteries",
+    "sensitivity": "ISO 12800",
+    "effectivepixels": "16.0 million pixels",
+    "category": "camera",
+    "dimensions": "130.6(W) x 90.7(H) x 126.0(D) mm",
+    "selftimer": "Approx. 10sec. / 2sec. delay",
+    "movierecording": "1920 x 1080 pixels (30frames/sec.)/ 1280 x 720 pixels (60frames/sec.)/ 640 x 480 pixels (30frames/sec.) with stereo sound",
+    "focusdistance": "Normal- Wide",
+    "exposuremode": "Programmed AE, Aperture Priority AE, Shutter Priority AE, Manual",
+    "focallength": "f=4.2 \u2013 126mm, equivalent to 24-720mm on a 35mm camera",
+    "imagestabilizer": "CMOS shift type",
+    "lens": "Fujinon 30x optical zoom lens",
+    "storagemedia": "SD / SDHC / SDXC(UHS-I) memory card",
+    "shutterspeed": "(Auto mode) 1/4sec. to 1/4000sec., (All other modes) 30sec. to 1/4000sec",
+    "imagesensor": "1/2-inch EXR CMOS with primary color filter",
+    "lcdscreensize": "3.0-inch, approx. 460,000 dots, TFT color LCD monitor, approx. 100% coverage",
+    "exporsurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "aperturerange": "F2.8-F11 (Wide) F5.6-F11(Telephoto) 1/3EV step"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "outputformat": "\u00c2\u00a0Analog - SMPTE-170 (cf. NTSC monochrome) on rear outlet jack",
+    "startuptime": "\u00c2\u00a0~ 5 sec",
+    "operatingtemperature": "\u00c2\u00a0-4\u00c2\u00b0F to 140\u00c2\u00b0F (-20\u00c2\u00b0C to 60\u00c2\u00b0C)",
+    "weight": "\u00c2\u00a013 oz (381g), batteries installed",
+    "pixelcount": "\u00c2\u00a0160 x 120",
+    "focallengthmm": "\u00c2\u00a025 mm",
+    "spectralresponse": "\u00c2\u00a07-14 \u00c2\u00b5m (filter bandwidth)",
+    "minimumfocusdistance": "\u00c2\u00a0~ 3ft. (1 meter)",
+    "eyecup": "\u00c2\u00a0Integral to camera body with 2\" eye relief",
+    "waterresistance": "\u00c2\u00a0Waterproof to 9ft (3m) submersion, buoyant in fresh water",
+    "powersource": "\u00c2\u00a02 AA batteries",
+    "storagetemperature": "\u00c2\u00a0-4\u00c2\u00b0F to 176\u00c2\u00b0F (-20\u00c2\u00b0C to 80\u00c2\u00b0C)",
+    "viewfinderdisplay": "\u00c2\u00a0Monochrome LCD (320x240 pixels)",
+    "thermalsensitivity": "\u00c2",
+    "size": "\u00c2\u00a05 1/4\" L x 4 1/2\" W x 2\" H (13.4 x 11.4 x 5.1 cm)"
+}

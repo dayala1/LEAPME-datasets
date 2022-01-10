@@ -1,0 +1,23 @@
+{
+    "weight": "272 g",
+    "battery": "Lithium-Ion NP-BX1, 400CIPA",
+    "effectivepixels": "20.4 megapixels",
+    "storagetypes": "SD/SDHC/SDXC/Memory Stick Pro Duo",
+    "category": "camera",
+    "placethistagwhereyouwantthe1buttontorender": "Place this tag after the last +1 button tag.(function() {      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;      po.src = 'https://apis.google.com/js/plusone.js';      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);    })();",
+    "dimensions": "108 x 64 x 38 mm",
+    "sensorsize": "1/2.3 Inch",
+    "minshutterspeed": "30 sec",
+    "format": "MPEG-4, AVCHD",
+    "sensortype": "BSI-CMOS",
+    "connectivity": "USB 2.0, Wireless, HDMI",
+    "screendots": "921,000",
+    "screensize": "3 Inch",
+    "focallengthequiv": "24\u2013720 mm",
+    "bodytype": "Compact",
+    "maxshutterspeed": "1/4000 sec",
+    "opticalzoom": "30\u00d7",
+    "iso": "Auto, 100, 200, 400, 800, 1600, 3200, (6400, 12800 with boost)",
+    "articulatedlcd": "Fixed",
+    "maxresolution": "5184 x 2920"
+}

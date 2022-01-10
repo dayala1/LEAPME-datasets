@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "usb": "USB 2.0 to transfer files and to charge battery",
+    "weight": "approx. 124 g / 4.4 oz.",
+    "battery": "Internal, 1000 mAh rechargeable Li-Ion",
+    "sensor": "HD CMOS Sensor with 1080p resolution",
+    "storage": "SDHC card up to 32 GB",
+    "lens": "Fixed focus 2.9 mm wide angle",
+    "width": "35mm / 1.4 in.",
+    "length": "110 mm / 4.3 in.",
+    "video": "HD Video",
+    "angleofview": "135\u00b0",
+    "aperture": "f/2.2",
+    "videoformat": "H.264 compression in MOV format",
+    "resolution": "1080p (Full HD) or 720p",
+    "whitebalance": "Automatic",
+    "exposure": "Automatic"
+}

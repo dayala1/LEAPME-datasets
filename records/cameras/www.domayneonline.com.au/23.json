@@ -1,0 +1,22 @@
+{
+    "videooutput": "HDMI NTSC PAL",
+    "color": "Black",
+    "displaytype": "LCD",
+    "producttype": "Digital SLR Cameras",
+    "batterytype": "LithiumIon",
+    "videoformat": "H.264 , MOV , MPEG-4",
+    "category": "camera",
+    "imagesizespixels": "6000 x 4000",
+    "stillimageformat": "JPEG , RAW",
+    "videosize": "HD 1920 x 1080",
+    "tripodmount": "Yes",
+    "brand": "Nikon",
+    "mediatype": "SD , SDHC , SDXC",
+    "connectivity": "HDMI , USB",
+    "shutterspeed": "1/4000",
+    "displaysizeinch": "3",
+    "shootingmodes": "10",
+    "isosensitivitymax": "25600",
+    "flashmodes": "9",
+    "model": "D3300"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Canon EOS Rebel T5i - digital camera - body only",
+    "memorycardslot": "SD card",
+    "weight": "18.5 oz",
+    "cameraflash": "Pop-up flash",
+    "microsoftcertification": "Compatible with Windows 7",
+    "sensorresolution": "18.0 Megapixel",
+    "supportedbattery": "1 x Canon LP-E8 Li-ion rechargeable battery - 1120 mAh ( included )",
+    "producttype": "Digital camera - SLR with Live View mode, movie recording",
+    "dimensionswxdxh": "5.2 in x 3.1 in x 3.9 in",
+    "lensincluded": "Body only",
+    "viewfinder": "Optical - fixed eye-level pentamirror",
+    "imageprocessor": "DIGIC 5",
+    "display": "LCD display - 3\"",
+    "maxvideoresolution": "1920 x 1080"
+}

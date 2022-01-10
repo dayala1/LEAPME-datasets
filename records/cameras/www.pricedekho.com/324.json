@@ -1,0 +1,23 @@
+{
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 24 fps",
+    "metering": "Center-Weighted Average, Evaluative, Spot",
+    "lenstype": "7 Elements in 6 Groups (1 Double-Sided Aspherical Lens, 1 Double-Sided Aspherical UA Lens, 1 Single-Sided Aspherical Lens)",
+    "manualfocus": "Yes",
+    "continuousshots": "Up to 2.3 fps (Program Mode), 9.6 fps (High-speed Burst HQ Mode)",
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Custom, Daylight, Flash, Fluorescent, Fluorescent-H, Tungsten, Underwater",
+    "facedetection": "Yes",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "flashrange": "Wide : 0.5 - 7.0m, Telephoto : 0.5 - 2.3m",
+    "focallength": "5.2 - 26 mm (35 mm Equivalent to 24 - 120 mm)",
+    "isorating": "Auto / ISO 80 / 100 / 125 / 160 / 200 / 250 / 320 / 400 / 500 / 640 / 800 / 1000 / 1250 / 1600 / 2000 / 2500 / 3200 / 4000 / 5000 / 6400",
+    "imagestabilizer": "Lens-shift type",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "screensize": "3 Inches",
+    "externalflash": "Yes",
+    "builtinflash": "Yes",
+    "shootingmodes": "Auto, Shutter Priority , C, Creative Filters, Manual, Movie, Program, SCN, Shutter Priority",
+    "flashmodes": "Auto, Slow Sync Flash",
+    "imagedisplayresolution": "461000 dots"
+}

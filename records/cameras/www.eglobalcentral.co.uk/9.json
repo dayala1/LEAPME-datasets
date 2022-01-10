@@ -1,0 +1,22 @@
+{
+    "battery": "Lithium-Ion rechargeable battery & charger",
+    "isosensitivity": "Auto, 200-25600",
+    "effectivepixels": "16 megapixels",
+    "manualfocus": "Yes",
+    "category": "camera",
+    "usb": "USB 2.0 (480 Mbit/sec)",
+    "sensorsize": "Four Thirds (17.3 x 13 mm)",
+    "moviesize": "1920 x 1080 (60i, 50i, 24p), 1280 x 720p (60p, 50p), 640 x 480 (30p, 25p)",
+    "dimensionswxhxd": "99 x 55 x 30 mm (3.88 x 2.16 x 1.2\u2033)",
+    "gps": "None",
+    "aspectratio": "1:1, 4:3, 3:2, 16:9",
+    "totalpixels": "17 megapixels",
+    "hdmi": "Yes (micro HDMI Type D)",
+    "sensortype": "CMOS",
+    "lensmount": "Micro 4/3 Lens Mount",
+    "shutterspeed": "60 sec - 1/16000 sec",
+    "wireless": "Built-In",
+    "storagetype": "SD/SDHC/SDXC",
+    "maxresolution": "4592 x 3448",
+    "lcdtype": "Fixed"
+}

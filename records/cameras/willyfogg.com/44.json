@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "certifications": "EMC / CE EN 55022 Class B EN 55024 Class A",
+    "usb": "Hub for up to 4 devices USB2.0 USB1.1 compatible Up to 10MBytes/sec throughput",
+    "powersupply": "5V via barrel jack or PoE IEEE802.3af",
+    "supportedprotocols": "IP TCP UDP ICMP ARP LPR DHCP BOOTP HTML HTTP",
+    "temperaturerange": "-10\u00c2\u00b0C to +70\u00c2\u00b0C",
+    "dimensions": "100 \u00c3\u0097 65 mm"
+}

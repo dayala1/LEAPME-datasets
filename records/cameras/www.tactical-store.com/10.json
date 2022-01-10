@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "spectralband": "\u00c2\u00a07.5 - 13.5 nm",
+    "iprating": "\u00c2\u00a0IP X6",
+    "dimensions": "\u00c2\u00a012\u00c2\u00b0\u00c2\u00b1 D x 9\u00c2\u00b0\u00c2\u00b1 H",
+    "operatingtemp": "\u00c2\u00a0-32\u00c2\u00b0C to 55\u00c2\u00b0C",
+    "productcode": "UPCSKUFLIR Patrol IR Pro Infra Red Thermal Imaging Camera 35-50mm, NTSC Options",
+    "powerconsumption": "\u00c2",
+    "fieldofview": "\u00c2\u00a014\u00c2\u00b0 H x 10\u00c2\u00b0 V",
+    "connectortypes": "\u00c2\u00a0Proprietary connector",
+    "sensortype": "\u00c2\u00a0320 x 240 Microbolometer",
+    "storagetemp": "\u00c2\u00a0-50\u00c2\u00b0C to 80\u00c2\u00b0C",
+    "video": "\u00c2\u00a0NTSC or PAL Video",
+    "powerrequirements": "\u00c2\u00a024 VDC",
+    "cameraweight": "\u00c2"
+}

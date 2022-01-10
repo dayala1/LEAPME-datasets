@@ -1,0 +1,22 @@
+{
+    "videooutput": "1 Vp-p composite output (75 \u03a9/BNC)",
+    "availablecolors": "Black, ( White )",
+    "powerconsumption": "Max.5W",
+    "powersupply": "12V DC",
+    "horizontalresolution": "700 TVL",
+    "effectivepixels": "720(H)x480(V)",
+    "category": "camera",
+    "workingtemperature": "-40\u00b0C - 60 \u00b0C",
+    "daynight": "ICR",
+    "weatherproofrating": "IP66",
+    "snratio": "More than 62dB",
+    "lens": "2.8-12mm",
+    "synchronization": "Internal synchronization",
+    "shutterspeed": "- NTSC",
+    "minillumination": "0.14 Lux @ (AGC ON),0 Lux with IR",
+    "imagesensor": "Aptina Sensor",
+    "humidity": "90% or less (non-condensing)",
+    "signalsystem": "NTSC / PAL",
+    "irrange": "131ft(40m)",
+    "dimension": "134.2 x 123.9 x 88.1mm(5.28\" x 4.88\" x 3.47\")"
+}

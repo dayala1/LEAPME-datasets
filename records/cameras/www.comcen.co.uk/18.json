@@ -1,0 +1,23 @@
+{
+    "warranty": "2 years",
+    "modelname": "DCS-5222L",
+    "weatherproof": "No",
+    "producttype": "Security Camera",
+    "rfnetworkstandard": "802.11n",
+    "category": "camera",
+    "builtinmicrophone": "Yes",
+    "dimensions": "11.5cm (W) x 11.4cm (D) x 12.5cm (H) - Weight 0.54kg",
+    "tilt": "-25  to 90\u00c2\u00b0",
+    "operatingsystemssupported": "Microsoft Windows XP (SP3)/Vista/7",
+    "focallength": "4.57mm",
+    "barcode": "0790069380228",
+    "environmental": "Operating Temperature 0 to 40\u00c2\u00b0C - Humidity -20 to 70%",
+    "networkprotocol": "IPv4, ARP, TCP, UDP, ICMP, DHCP Client, NTP Client (D-Link), DNS Client, DDNS Client (D-Link), SMTP Client, FTP Client, HTTP Server, PPPoE, RTP, RTSP, RTCP, 3GPP",
+    "certifications": "FCC Class B \u00e2\u0080\u00a2 CE \u00e2\u0080\u00a2 CE LV D \u00e2\u0080\u00a2 C-Tick",
+    "videofeatures": "Image size, quality, frame rate, and bit rate \u00e2\u0080\u00a2 Shutter speed, brightness, saturation, contrast, mirror, flip \u00e2\u0080\u00a2 Time stamp and text overlays \u00e2\u0080\u00a2 Motion detection windows \u00e2\u0080\u00a2 Three configurable privacy mask zones",
+    "casecolour": "White",
+    "productfamily": "Cloud Camera 5000",
+    "digitalzoom": "4x",
+    "security": "Administrator and User Group Protected \u00e2\u0080\u00a2 Password Authentication \u00e2\u0080\u00a2 HTTP and RTSP Digest Encryption",
+    "imagesensor": "CMOS"
+}

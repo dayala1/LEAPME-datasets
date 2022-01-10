@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "attr10": "14,61\u00a0\u20ac146,10\u00a0\u20ac9,47 %9,9 %",
+    "touchscreen": "Nein",
+    "attr12": "12,27\u00a0\u20ac147,24\u00a0\u20ac9,47 %9,9 %",
+    "wlan": "Nein",
+    "usb": "2.0",
+    "hdmi": "Ja",
+    "farbe": "schwarz",
+    "selbstauslser": "Ja",
+    "typ": "LCD",
+    "stromversorgung": "Standardbatterien",
+    "microdrive": "Nein",
+    "memorystick": "Nein",
+    "sensorchip": "CMOS",
+    "attr6": "23,98\u00a0\u20ac143,88\u00a0\u20ac9,47 %9,9 %",
+    "optischersucher": "Nein",
+    "mmc": "Nein",
+    "sd": "SD / SDHC / SDXC"
+}

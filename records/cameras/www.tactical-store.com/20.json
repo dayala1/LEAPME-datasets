@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "productcode": "UPCSKUFLIR SR-100A Thermal Camera Options",
+    "powerconsumption": "36 W peak, at 24 VAC",
+    "fieldofview": "4.6\u00c2\u00b0 x 3.7\u00c2\u00b0",
+    "detectortype": "Long-Life, Uncooled VOx Microbolometer",
+    "zoom": "2x E-zoom",
+    "focallength": "100 mm",
+    "spectralrange": "7.5 \u03bcm to 13.5 \u03bcm",
+    "powerrequirements": "14-32 VDC or18-27 VAC",
+    "focusrange": "Athermalized; Focus-free",
+    "serial": "RS-422/-232",
+    "effectiveresolution": "76,800"
+}

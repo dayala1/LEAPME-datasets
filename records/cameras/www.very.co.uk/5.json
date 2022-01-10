@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "wirelessconnection": "IEEE 802.11b/g/n",
+    "productdescription": "Panasonic Lumix DMC-TZ55 - digital camera",
+    "minfocusdistance": "50 cm",
+    "weight": "224 g",
+    "focusadjustment": "Automatic",
+    "colour": "Black",
+    "lenssystem": "20 x zoom lens - 4.3 - 86 mm - f/3.3-6.4",
+    "cameraflash": "Built-in flash",
+    "digitalzoom": "4 x",
+    "sensorresolution": "16.0 Megapixel",
+    "supportedbattery": "1 x Li-ion rechargeable battery - 1250 mAh ( included )",
+    "imagestabiliser": "Optical (POWER O.I.S. with Active Mode)",
+    "dimensionswxdxh": "10.68 cm x 3.24 cm x 6.22 cm",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1920 x 1080",
+    "display": "LCD display - 3\"",
+    "memorycardslot": "SD card"
+}

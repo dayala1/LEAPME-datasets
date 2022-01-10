@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "minimumfocusingdistance": "0.45 m",
+    "aperturewithminfocallength": "f/22",
+    "dimensions": "68.2 x 41 mm (Diameter x Length)",
+    "weight": "130 g",
+    "filterattachmentsize": "52 mm",
+    "color": "Black",
+    "maximummagnificationx": "0.15",
+    "maximumfocallength": "50 mm",
+    "lensconstructionelementsgroups": "6 Elements in 5 Groups",
+    "name": "Standard",
+    "angleofview": "Diagonal: 46\u00b0, Horizontal: 40\u00b0, Vertical: 27\u00b0",
+    "aperturewithmaxfocallength": "f/1.8",
+    "drivesystem": "MM",
+    "model": "EF 50 mm f/1.8 II",
+    "minimumaperture": "22",
+    "type": "Prime",
+    "brand": "Canon",
+    "attr3months": "15%Rs. 2,731Rs. 8,191"
+}

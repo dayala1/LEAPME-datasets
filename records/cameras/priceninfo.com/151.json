@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "motion": "JPEG",
+    "minshutterspeed": "30 sec",
+    "bodytype": "Compact SLR",
+    "usb": "USB 2.0 (480 Mbit/sec)",
+    "format": "H.264",
+    "maxshutterspeed": "1/4000 sec",
+    "weightincbatteries": "580 g (1.28 lb / 20.46 oz)",
+    "sensortype": "CMOS",
+    "dimensions": "133 x 100 x 79 mm (5.24 x 3.94 x 3.11?)",
+    "screendots": "1,040,000",
+    "effectivepixels": "18.0 megapixels",
+    "screensize": "3?",
+    "storagetypes": "SD/SDHC/SDXC",
+    "articulatedlcd": "Fully articulated",
+    "maxresolution": "5184 x 3456",
+    "lensmount": "Canon EF/EF-S mount",
+    "sensorsize": "APS-C (22.3 x 14.9 mm)",
+    "gps": "Optional"
+}

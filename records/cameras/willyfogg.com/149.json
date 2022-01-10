@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "touchscreen": "4-wire Resistive Touch Screen driver",
+    "ethernet": "10/100Mbps Ethernet driver",
+    "led": "GPIO LED and PWM LED driver",
+    "usb": "2x USB Host, USB-OTG",
+    "hdmi": "HDMI driver (source code not provided)",
+    "feature": "SAMA5D31SAMA5D33SAMA5D34SAMA5D35SAMA5D36",
+    "filesystem": "Android file systemAndroid 4.0.4",
+    "gpio": "GPIO driver",
+    "lcddisplay": "none 4.3 in. (+US$60.00) 7 in. (+US$99.00)"
+}

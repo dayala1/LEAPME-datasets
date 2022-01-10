@@ -1,0 +1,10 @@
+{
+    "weightg": "2",
+    "operatingtemperaturerange": "-25\u00b0C to 85\u00b0C",
+    "powerrequirement": "2.7V-3.6V",
+    "heightmm": "32",
+    "depthmm": "2,1",
+    "interface": "UHS1 (SDR104)",
+    "widthmm": "24",
+    "category": "camera"
+}

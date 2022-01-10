@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "shuttercontrol": "1/10000s to 1/4s",
+    "security": "Password protection, IP address filtering,HTTPS a encryption, IEEE 802.1X network access control, Digest authentication, User access log",
+    "type": "Dome Camera",
+    "brand": "AXIS",
+    "framerate": "H.264: Up to 25/30 fps (50/60Hz) in all resolutions Motion JPEG: Up to 25/30 fps (50/60Hz) in all resolutions",
+    "poweroverethernet": "Yes",
+    "connectiontype": "RJ45",
+    "pantiltzoom": "Pan: 360 degree  endless,0.05 degree -450 degree /s; Tilt: 220 degree , 0.05 degree -450 degree /s 30x optical zoom and 12x digital zoom, total 360x zoom",
+    "lenstype": "f=4.4-132mm, F1.4-4.6,autofocus Horizontal angle of view: 62.9 degree - 2.2 degree",
+    "maxresolution": "1280 x 720",
+    "model": "Q6044-E",
+    "sensor": "1/3\" progressive scan CCD",
+    "ports": "Cable"
+}

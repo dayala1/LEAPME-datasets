@@ -1,0 +1,23 @@
+{
+    "productcode": "DCS-930LEEU",
+    "category": "camera",
+    "minimumsystemrequirements": "Wired (10/100 Fast Ethernet Network)",
+    "sensor": "VGA 1/5 inch CMOS Sensor",
+    "flashmemory": "4 MB",
+    "wirelessconnectivity": "802.11b/g/n Wireless with WEP/WPA/WPA2 security",
+    "attr3acontrol": "AGC (Auto Gain Control)",
+    "wirelesstransmitoutputpower": "16dbm for 11b, 12dbm for 11g, 12dbm for 11n (typical)",
+    "minimumillumination": "1 Lux @ F2.8",
+    "sdram": "32 MB",
+    "resetbutton": "Reset to factory default",
+    "lens": "Focal length: 5.01 mm, F2.8",
+    "networkprotocol": "IPV4, ARP, TCP, UDP, ICMP",
+    "videocodecs": "MJPEG",
+    "builtinnetworkinterface": "10/100Base-TX Fast Ethernet",
+    "videofeatures": "Adjustable image size and quality",
+    "digitalzoom": "Up to 4x",
+    "packagecontents": "Wireless N Network Camera",
+    "resolution": "Up to 20 frames at 640x480",
+    "viewangle": "Horizontal: 45.3\u00b0",
+    "browser": "Internet Explorer v6.0 or above, Firefox 3.5 or above, Safari 4, Chrome, Java"
+}

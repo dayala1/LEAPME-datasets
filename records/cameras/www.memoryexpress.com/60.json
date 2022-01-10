@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "wirelessconnectivity": "802.11b/g/n Wireless with WEP / WPA / WPA2 security",
+    "sensor": "VGA 1/5 inch CMOS Sensor",
+    "videocodecs": "MJPEG JPEG for Still Images",
+    "builtinnetworkinterface": "10/100Base-TX Fast Ethernet LLTD",
+    "attr3acontrol": "AGC (Auto Grain Control)",
+    "videofeatures": "Adjustable image size and quality Time stamp and text overlay Flip and Mirror",
+    "minimumillumination": "1 Flux @ F2.8",
+    "lens": "Focal length: 5.01 mm, F2.8",
+    "digitalzoom": "Up to 4x",
+    "wirelesstransmitoutputpower": "16dbm for 11b, 12dbm for 11g, 12dbm for 11n (typical)",
+    "networkprotocol": "IPV4, ARP, TCP, UDP, ICMP DHCP Client NTP Client (D-Link) DNS Client DDNS Client (Dynds and D-Link) SMTP Client FTP Client HTTP Server",
+    "memory": "SDRAM 32MB Flash Memory 4MB",
+    "resolution": "Up to 20 frames at 640x480 Up to 30 frames at 320x240 Up to 30 frames at 160x120",
+    "viewangle": "Horizontal: 45.3\u00b0 Vertical: 34.5\u00b0 Diagonal: 54.9\u00b0",
+    "browser": "Internet Explorer v6.0 or above, Firefox 3.5 or above, Safari 4, Chrome, Java"
+}

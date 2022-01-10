@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "osdlanguage": "English,     Spanish",
+    "microphone": "Monaural",
+    "exposurecompensation": "1/3 EV step, \u00c2\u00b12 EV",
+    "builtinflash": "- Auto - Auto/Red-eye Reduction - Forced On - Slow Sync./Red-eye Reduction - Forced Off",
+    "isosensitivity": "Auto,     100-1600 High Sensitivity Mode (1600 - 6400)",
+    "opticalzoom": "5x,     Digital",
+    "selftimer": "2 sec / 10     sec",
+    "recordingmedia": "- Built-in Memory - micro SD Memory Card - micro SDHC Memory Card",
+    "recordingformat": "- Audio Recording w/ Video, Mono - Video Recording",
+    "speaker": "Monaural",
+    "interface": "- Digital",
+    "meteringmode": "Multi",
+    "focusingarea": "- Normal",
+    "whitebalance": "Auto /     Daylight / Cloudy / Shade / Incandescent / Preset     Manual",
+    "exposure": "Programmed     Auto"
+}

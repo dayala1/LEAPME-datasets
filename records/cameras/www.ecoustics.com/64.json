@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "fnumber": "F3.2 (W) to F5.7 (T)",
+    "monitorscreen": "2.7-inch TFT color LCD (Super Clear LCD), 230,400 dots (960 x 240)",
+    "stillimages": "JPEG (Exif Version 2.2, DCF 1.0 standard, DPOF compliant)",
+    "powerconsumption": "3.7 DC, Approx 2.6W",
+    "imagesensor": "1/2.3-inch square pixel CCD",
+    "lensconstruction": "11 lenses in 10 groups, including aspherical lens",
+    "focallength": "f=4.3 to 43.0mm",
+    "opticalzoom": "10X",
+    "movies": "AVI format, Motion JPEG, IMA-ADPCM (monaural)",
+    "recordingmedia": "SDHC Memory Card, SD Memory Card",
+    "digitalzoom": "4X (40X in combination with optical zoom)",
+    "attr35mmfilmequivalent": "Approx. 24mm ultra-wide to 240mm tele.",
+    "totalpixels": "12.39 million",
+    "powerrequirements": "Rechargeable lithium ion battery (NP-80) x 1",
+    "numberofeffectivepixels": "12.10 million"
+}

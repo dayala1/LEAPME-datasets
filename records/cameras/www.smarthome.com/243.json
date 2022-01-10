@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "lens": "3.6mm",
+    "powerrequirement": "5VDC 2A",
+    "upc": "610563606139",
+    "approvals": "FCC, CE",
+    "imagesensor": "CMOS",
+    "simultaneousviewers": "4",
+    "agc": "Yes",
+    "networkinterface": "RJ45 10/100",
+    "backlightcompensation": "Auto",
+    "nightvision": "IR LEDs Range: Up to 33' (10m)",
+    "compressionformat": "M-JPEG",
+    "resolution": "640x480 or 320x240 25fps",
+    "pantilt": "Pan 270\u00b0, Tilt 90\u00b0 16 Presets",
+    "supportedprotocols": "TCP/IP, HTTP, ICMP, DHCP, FTP, SMTP, PPPoE",
+    "shutterspeed": "Auto",
+    "whitebalance": "Auto",
+    "manufacturer": "Mini Gadgets"
+}

@@ -1,0 +1,23 @@
+{
+    "weight": "Approx. 269 gm",
+    "exposuremode": "iAuto, P",
+    "exposurecompensation": "\u00b13 EV in 1/3, 1/2, 1 EV Steps Selectable",
+    "effectivepixels": "16.1 Million Pixels",
+    "label17": "BLS-5 Li-Ion Battery",
+    "category": "camera",
+    "dimensions": "109.8 x 64.2 x 33.8 mm",
+    "batterylife": "360 Shots",
+    "selftimer": "Operation Time",
+    "totalpixels": "Approx. 17.2 Million Pixels",
+    "isosensitivity": "AUTO ISO 200-25600 (Customizable, Default 200-1600), Manual ISO 200-25600, 1/3 or 1 EV Steps Selectable",
+    "imagestabilizer": "Electronic Image Stabilizer",
+    "sensortype": "4/3 Live MOS",
+    "fileformat": "RAW (12-Bit Lossless Compression), JPEG, RAW+JPEG, MPO (3D Still)",
+    "movieformat": "MOV (MPEG-4AVC/H.264) , AVI (Motion JPEG)",
+    "shutterspeed": "1/4000-60 sec. (1/3, 1/2, or 1EV Steps Selectable), Bulb/Time",
+    "monitor": "3.0? Inch Wide Monitor, Approx. 460k Dots (16",
+    "whitebalance": "Auto WB, 7 Preset WBs, 2 Capture WBs, Custom WB (Kelvin Setting)",
+    "focusmode": "Single AF (S-AF)/Continuous AF(C-AF)/Manual Focus (MF)/S-AF + MF/AF Tracking (C-AF + TR",
+    "exposuremetering": "Digital ESP Metering, Center Weighted Average Metering, Spot Metering, Spot Metering With Highlight Control, Spot Metering With Shadow Control",
+    "ports": "Micro HDMI (Type-D), USB v2.0 Hi-Speed, VIDEO-OUT"
+}

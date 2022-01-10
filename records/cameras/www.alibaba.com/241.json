@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p (75\u03a9, composite)",
+    "lens": "2.8/3.6/6mm Lens Optional",
+    "operationtemperature": "-10 \u00b0C ~60 \u00b0C",
+    "gammacorrection": ">0.45",
+    "numberofpixels": "NTSC:811(H) x 508(V) 410K, PAL:795(H) x 596(V) 470K",
+    "minimumillumination": "0Lux",
+    "snratio": "More than 48Db (AGC off)",
+    "agc": "Auto",
+    "pickupdevice": "1/4\" Color HD CMOS Image Sensor",
+    "backlightcompensation": "Auto",
+    "powerconsumption": "DC12V, \u2264150mA",
+    "horizontalresolution": "800TV Line",
+    "electronicshutter": "NTSC: 1/60~1/10.000Sec\u00a0 PAL: 1/50~1/10.000Sec",
+    "model": "NTS-602",
+    "syncsystem": "Internal/System",
+    "whitebalance": "Auto"
+}

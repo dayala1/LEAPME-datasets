@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "whitebalance": "Auto / Daylight / Cloudy / Tungsten / Fluorescent 1 / Fluorescent 2 / Customer",
+    "moviemode": "HD 720p (1280 x 720) / VGA (640 x 480), 30 fps, Continuous recording with sound",
+    "dimensions": "103.2 X 58.5 X 21.2 mm",
+    "weight": "160 gm",
+    "storagetype": "Built-in Approx. 13.6 MB, SD( Up to 4GB)/SDHC(Up to 32GB)/SDXC (Up to 64GB)",
+    "flash": "Auto Flash, Forced Off, Forced On, Red-eye Reduction",
+    "opticalzoom": "12.5X",
+    "display": "2.7\u201c inch 230k pixels LCD",
+    "lens": "f = 4.24 ( W ) ~ 53 ( T ) mm, F= 3.0 (W) ~ 5.9 (T),?f = 24~300mm, 35mm equivalent?",
+    "digitalzoom": "Up to 4X(Preview) / Up to 8X(Playback)",
+    "effectivepixels": "Sony 16 Mega Pixels, 1/2.3 inch CCD",
+    "iso": "Auto / 64 / 100 / 200 / 400 / 800 / 1600",
+    "focusrange": "Normal",
+    "powersource": "CIPA approx. 200 based on bundle Li-ION battery",
+    "interface": "Digital output",
+    "shutterspeed": "Auto 1/2000 ~ 1/2 sec. (Night Scene 1/2000 ~ 4 sec.)",
+    "fileformat": "still Image",
+    "exposure": "\u20132.0 ~ +2.0 EV (0.3EV / step)"
+}

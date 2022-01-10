@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "Support CVBS video output and overlying DDNS, user name, password and other info.",
+    "sensor": "CMOS sensor, CVBS output",
+    "protocol": "1 * RJ45, 10/100M; Support TCP/IP HTTP/RTSP/FTP/PPPOE/DHCP/DNS/DDNS/NTP/UPnP",
+    "minillumination": "Color:0.6Lux\u00a0(F1.2, AGC\u00a0ON),0 LUX with IR Black/white: 0.08Lux\u00a0(F1.2, AGC ON), 0LUX with\u00a0IR",
+    "protectionlevel": "IP66",
+    "videobitrate": "100Kbps~6Mbps",
+    "workingcondition": "-50~60 degree. humidity\u00a0 less\u00a0 than\u00a0 90%(non-condensing)",
+    "resolution": "Main stream: 1080*720",
+    "storage": "Network",
+    "powersupply": "DC 12V 2A",
+    "intelligentalarm": "Motion\u00a0detect, video lost, network break, IP conflict, storage\u00a0device full\u00a0or error",
+    "lens": "6mm F1.2\u00a0(3.6mm/8mm/12mm optional)",
+    "videocompression": "H. 264\u00a0High Profile, support dual stream, AVI format; support 0.1M~6Mpbs bit rate adjustable; support 1~30fps adjustable.",
+    "imagesetting": "Saturation, brightness, contrast\u00a0can\u00a0be\u00a0adjusted\u00a0via\u00a0client\u00a0side\u00a0or\u00a0IE\u00a0browser",
+    "framerate": "50Hz: 25fps (1080*720) 11fps(1920*1080)/ 60Hz: 30fps (1080*720) 15fps(1920*1080)",
+    "basic": "Support WEB remote configuration, OSD, motion detect, alarm input active to record, snapshot",
+    "shutter": "1/50(1/60)s\u00a0 to\u00a0 1/100, 000s",
+    "daynight": "IR-CUT filter double light switch ,automatically\u00a0shift\u00a0 from color to\u00a0B/W, Night vision 40M"
+}

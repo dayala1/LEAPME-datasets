@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "toycameraeffect": "Simulates photos taken with ?toy? or pinhole cameras, darkening the image at the edges to create a vignette effect.",
+    "fireworks": "Grab brilliant images of skyrocketing fireworks.",
+    "fisheyeeffect": "Add a classic photo distortion without a fisheye lens.",
+    "postereffect": "Combines several similar shades into one color, turning subtle gradations into eye-catching, scene-popping contrasts.",
+    "supervivid": "Intensifies existing hues, saturating the scene with bright colors.",
+    "creativefilters": "This setting provides easy access to special filter effects and scene modes, such as Toy Camera Effect, Poster Effect, Monochrome and more.",
+    "miniatureeffect": "for Movies & Stills Emphasizes perspectives for a miniature effect by blurring upper and lower portions of the image.",
+    "snow": "Shoot clear snow scenes without darkened subjects or an unnatural bluish tint.",
+    "smartauto": "The camera automatically selects the best shooting settings for optimal quality based on subjects and environmental factors to provide point-and-shoot simplicity.",
+    "program": "Access advanced exposure compensation features while shooting mostly automatically.",
+    "longshutter": "Use to blur moving subjects for artistic effect, ideal for urban night photography.",
+    "movie": "Record video in monaural sound. Unwanted scenes can be deleted in playback mode.",
+    "portrait": "The camera sets a large aperture, focusing on the subject and artistically blurring the background to make your subject \"pop\".",
+    "monochrome": "Choose from three single-tone effects",
+    "lowlight": "For high quality image capture in an amazing range of dimly lit situations.",
+    "liveviewcontrol": "Enables Brightness, Color, and Tone adjustments to your images using easy-to-understand controls.",
+    "faceselftimer": "The camera waits for a face to enter the frame before releasing the shutter."
+}

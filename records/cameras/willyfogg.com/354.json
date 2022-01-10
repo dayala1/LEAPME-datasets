@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "function": "220MB NAND Flash for user",
+    "applications": "Alarm clock, ASTR0, Mediaplayer, Music, Picsay, Gallery, Browser, Panda Reader",
+    "drivers": "SDROM, Flash, Serial ports, RTC, 4.3\" and 7\" LCD including Touch Screen, MMC/SD, High-Speed SD card, user buttons",
+    "system": "CharacteristicKITL kernel debug, Reboot, Watchdog, RTC",
+    "application": "H.264 display, MPEG-4 display, H.263 display, VC-1 display, 4-window display, Camera preview & MFC encoding, MFC decoding & Camera preview, Camera input and JPEG encoding, JPEG decoding and display, MFC decoding & Camera preview through TV, H.264 decoding through TV-Out",
+    "filesystem": "File System FormatExt3 rootfs",
+    "lcddisplay": "none 4.3 in. (+US$40.00) 7 in. (+US$60.00)",
+    "os": "ItemFeatureDescription"
+}

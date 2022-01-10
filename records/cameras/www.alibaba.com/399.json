@@ -1,0 +1,19 @@
+{
+    "motiondetection": "support",
+    "category": "camera",
+    "lens": "4.0 mm 2MP lens",
+    "compression": "H.264 Multiple stream",
+    "powerconsumption": "<5W",
+    "frame": "0-30fps",
+    "cpu": "TI DM365",
+    "storage": "TF Card / Remote P2P NVR and Computer end user software",
+    "powersupply": "DC 5V 2A",
+    "imagerotation": "inversion",
+    "modelno": "RM-C8720-DHRM-C8960-HD",
+    "alarmaction": "External alarm/ Photoed/ alarm ring on the mobile phone",
+    "workingtemperature": "-10~50\u00b0C",
+    "audio": "The USA ForteMedia echo cancellation scheme, Two-way voice",
+    "resolution": "720P(1280*720) D1(640*480)960P(1280*960)D1(640*480)",
+    "pantiltangle": "Level:320\u00b0 Tilt:90\u00b0",
+    "workinghumidity": "10%~80% no condensation"
+}

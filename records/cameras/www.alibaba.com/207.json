@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "videooutput": "main stream:1920\u00d71080,1280 \u00d7960",
+    "power": "5W",
+    "framerate": "1megapixel 25 frame(full-time) support to adjust 1~25framerate",
+    "powersupply": "DC12V/1A",
+    "networkinterface": "1*RJ45 Ethernet interface, 10/100M self-adaptation and can resist 6kv static electricity",
+    "lens": "4 ,6,8 3MP Megapixel Lens Optional",
+    "irdistance": "2 \u00d7 LED Array , IR distance 40M",
+    "others": "Package Size",
+    "model": "TV-657H2/IP",
+    "sensor": "1 megapixel 1/3\u201d CMOS; color 1.0 lux&F1.2; black and white 0.1 lux&F1.2, support day and night switch"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "label8": "Frame rate up to 30 fps/second",
+    "dimensions": "70x40x40mm",
+    "imageformat": "YUY2, YYUVY, RGB24",
+    "minlux": "1 LUX",
+    "focusdistance": "30mm~infinity",
+    "label3": "Live video resolution 640X 480 (compression is need it, 2meg online chatting not good on bandwidth)",
+    "label4": "Video resolution 1600x1200",
+    "label5": "Still picture resolution 2.0M",
+    "viewingangle": "60-90 degree",
+    "imagecontrol": "Automatic exposure control/automatic plus control/automatic white gamma correction",
+    "attr100199": "US$8.4210.71%",
+    "label15": "Auto white balance",
+    "label16": "Auto color correction",
+    "label17": "Webcam driver less, plug&play, (Windows XP SP2/VISTA/Windows 7)",
+    "label14": "Auto exposing control",
+    "videoformat": "24 bit real color VGA/CIF format"
+}

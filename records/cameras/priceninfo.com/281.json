@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "internalstorage": "50MB",
+    "dimensions": "90.65 x 54.90 x 19.60 mm",
+    "weight": "123 gm",
+    "focallength": "F= 4.7 \u2013 23.5 mm",
+    "isosensitivity": "Auto 80/100/200/400/800/1600/3200",
+    "opticalzoom": "5x",
+    "sensortype": "7.76 mm CCD Sensor",
+    "exposurecompensation": "\u00b12EV (1/3EV steps)",
+    "flashmode": "Fill-in flash, Flash off, Slow sync, Auto, Auto & Red-eye reduction, Red eye fix",
+    "screensize": "2.7? inch Main Display & 1.5? inch Front Display",
+    "externalmemory": "Up to 2GB(MicroSD), Up to 8GB(Micro SDHC)",
+    "shutterspeed": "Auto",
+    "label10": "Digital Image Stabilization",
+    "battery": "700mAh (BP70)",
+    "numberofeffectivepixels": "16.1 Mega Pixels"
+}

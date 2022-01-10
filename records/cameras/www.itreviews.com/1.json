@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "interfaceports": "mini USB",
+    "touchscreen": "No",
+    "dimensions": "4 x 2.5 x 2.3 inches",
+    "weight": "8.5 oz",
+    "lcdsize": "2 inches",
+    "megapixels": "5 MP",
+    "sensorsize": "1/3.2\" (4.5 x 3.4mm) mm",
+    "sensortype": "CMOS",
+    "mediaformat": "Secure Digital, Secure Digital High Capacity, Secure Digital Extended Capacity",
+    "maximumiso": "100",
+    "type": "Compact"
+}

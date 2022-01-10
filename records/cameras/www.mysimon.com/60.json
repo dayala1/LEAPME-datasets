@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Folding",
+    "facedetection": "Yes",
+    "stillimageformat": "RAW + JPEG",
+    "brand": "Sony",
+    "sensortype": "Exmor CMOS",
+    "displaytype": "LCD",
+    "specialeffects": "Pop Color",
+    "viewfindertype": "OLED",
+    "digitalvideoformat": "AVCHD",
+    "supportedflashmemory": "SDXC Card",
+    "type": "Mirrorless Interchangeable Lens",
+    "hdmioutput": "Yes"
+}

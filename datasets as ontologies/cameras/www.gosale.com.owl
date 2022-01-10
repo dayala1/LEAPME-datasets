@@ -1,0 +1,1821 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="www.gosale.com:www.gosale.com#"
+     xml:base="www.gosale.com:www.gosale.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:www="www.gosale.com:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="www.gosale.com:www.gosale.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.gosale.com:camera-type -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:camera-type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camera type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:deal-first-added-on -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:deal-first-added-on">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">deal first added on</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:dimensions -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:dimensions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dimensions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:ean13 -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:ean13">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ean13</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:ean14 -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:ean14">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ean14</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:feature -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:feature">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">feature</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:last-updated -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:last-updated">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">last updated</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:lcd-screen-size -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:lcd-screen-size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lcd screen size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:manufactured-in -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:manufactured-in">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">manufactured in</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:manufacturer -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:manufacturer">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">manufacturer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:megapixel-range -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:megapixel-range">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">megapixel range</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:megapixels -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:megapixels">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">megapixels</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:optical-zoom -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:optical-zoom">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optical zoom</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:product-name -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:product-name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">product name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:product-number-mpn -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:product-number-mpn">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">product number mpn</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:redeye-reduction -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:redeye-reduction">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">redeye reduction</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:retail-price -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:retail-price">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">retail price</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:upc -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:upc">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">upc</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.gosale.com:weight -->
+
+    <owl:DatatypeProperty rdf:about="www.gosale.com:weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.gosale.com:0 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:0">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$329.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208262472</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208262472</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 MP</www:megapixels>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 x</www:optical-zoom>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-July-2011</www:deal-first-added-on>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S9100 12.1 MP CMOS Digital Camera with 18x Zoom and Full HD Video (Silver)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S9100 Silver</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:1 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:1">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$400.00</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00013803079371</www:ean14>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2044B002</www:product-number-mpn>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.3 x 2.5 x 2.5 in.</www:dimensions>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6-April-2008</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S 55-250mm f/4.0-5.6 IS Telephoto Zoom Lens for Canon Digital SLR Cameras (2044B002)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&apos;0662425809073&apos;, &apos;0013803079371&apos;]</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&apos;662425809073&apos;, &apos;013803079371&apos;]</www:upc>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:10 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:10">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$29.95</www:retail-price>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-December-2010</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ButterflyPhoto</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tripod Kit Includes 52 Inch Pro Tripod + LCD Clear Screen Protectors For The Panasonic Lumix DMC-G10 12.1 MP Digital Camera</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:11 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:11">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$419.99</www:retail-price>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.5 lbs.</www:weight>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803052046</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803052046</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0557B001</www:product-number-mpn>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23-February-2005</www:deal-first-added-on>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5 x 2.1 x 0.8 in.</www:dimensions>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0 - 5.9 Megapixels</www:megapixel-range>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon Powershot SD400 5MP Digital Elph Camera with 3x Optical Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:12 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:12">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$379.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208264599</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208264599</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6-May-2014</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix P340 12.2 MP Digital Camera with 5x Zoom, Wi-Fi, and Full HD 1080p Video (Black)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:13 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:13">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$549.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425827596</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27-October-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425827596</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BVI</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus XZ-1 10 MP Digital Camera with f1.8 Lens and 3-Inch OLED Monitor (Black) + Extended Life Battery + 8GB SDHC Class 10 Memory Card + USB Card Reader + Memory Card Wallet + Deluxe Case w/Strap + Shock Proof Deluxe Case + Mini HDMI to HDMI Cable + Pro</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">XZ1 Black, 2280</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:14 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:14">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$399.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0885170016057</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12-December-2010</www:deal-first-added-on>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.1 MP</www:megapixels>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24 x</www:optical-zoom>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">885170016057</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-FZ40K</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-FZ40 14.1MP Digital Camera with 24x IS Zoom</www:product-name>
+        <www:redeye-reduction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:redeye-reduction>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:15 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:15">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$365.00</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00027242728929</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242728929</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242728929</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15-October-2008</www:deal-first-added-on>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 lbs.</www:weight>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.19 x 2.69 x 1.94 in.</www:dimensions>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.0 - 8.9 Megapixels</www:megapixel-range>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCH10/B</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSC-H10 8.1MP Digital Camera with 10x Optical Zoom with Super Steady Shot</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:16 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:16">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$999.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0050332182738</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">050332182738</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22-June-2013</www:deal-first-added-on>
+        <www:manufactured-in rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Made in Japan</www:manufactured-in>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus OM-D E-M5 16MP Micro 4/3 Mirrorless Camera (Black, Body Only)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V204040BU000</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:17 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:17">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$179.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00018208261031</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208261031</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208261031</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11-August-2008</www:deal-first-added-on>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 lbs.</www:weight>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5 x 0.8 x 2.2 in.</www:dimensions>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.0 - 8.9 Megapixels</www:megapixel-range>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S210 8MP Digital Camera with 3x Optical Zoom (Plum)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:18 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:18">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$249.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803145649</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803145649</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4-May-2012</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6039B001</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon PowerShot ELPH 110 HS 16.1MP Digital Camera with 5x IS Zoom and 1080p Video (Black)</www:product-name>
+        <www:manufactured-in rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Made in Japan</www:manufactured-in>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:19 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:19">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$399.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0885170117167</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31-July-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">885170117167</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-TS5S</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-TS5 16.1MP Tough Digital Camera with 9.3x Zoom and Wi-Fi (Silver)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:2 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:2">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$299.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242736030</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242736030</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-February-2009</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSC-T77 10.1 MP HD Digital Camera w/ 4x Optical Zoom
+(Black)</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T77 Black</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:20 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:20">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$229.95</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00013803075892</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803075892</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803075892</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-April-2007</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1778B001</www:product-number-mpn>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 lbs.</www:weight>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.0 - 6.9 Megapixels</www:megapixel-range>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon PowerShot A460 5.0MP Digital Camera with 4x Optical Zoom (Silver)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:21 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:21">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$159.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803134667</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803134667</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11-February-2013</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5035B001</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon Powershot A3300 16MP Digital Camera with 5x Zoom (Black)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:22 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:22">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$499.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0074101023961</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">074101023961</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15-March-2014</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FinePix S1</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Photo Film</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix S1 16MP Weather Resistant Digital Camera</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Underwater</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:23 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:23">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$179.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208263493</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208263493</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9-December-2012</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S01 10.1MP Digital Camera with 3x Zoom (White)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:24 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:24">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$1199.92</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0609728170592</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27-July-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">609728170592</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS Digital Rebel T3i 18MP SLR Camera with 18-55mm &amp; 75-300mm Lens Kit</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EOS_Rebel_T3i</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:25 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:25">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$299.99</www:retail-price>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027075086661</www:upc>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.5 lbs.</www:weight>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B0002XNT7G</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax Optio S50 5MP Digital Camera with 3x Optical Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:26 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:26">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$249.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00013803119534</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803119534</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803119534</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25-March-2010</www:deal-first-added-on>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 x</www:optical-zoom>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon PowerShot SD1300 IS Digital Elph 12.1MP Camera with 4x Wide Angle O.I.S Zoom (Silver)</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SD1300IS Silver</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:27 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:27">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$799.00</www:retail-price>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16-February-2012</www:deal-first-added-on>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4022243181519</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">799429181512</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leica Camera</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leica D-LUX 5 10.1MP Compact Digital Camera with Super-Fast f/2.0 3.8x O.I.S. Zoom Lens</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:28 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:28">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$749.00</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00018208254200</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208254200</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1-March-2007</www:deal-first-added-on>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.5 inches</www:lcd-screen-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 x</www:optical-zoom>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 lbs.</www:weight>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 x 2.5 x 3.7 in.</www:dimensions>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.1 MP</www:megapixels>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D40 6.1MP Digital SLR Camera Kit with 18-55mm f/3.5-5.6G ED II AF-S DX Zoom-Nikkor Lens</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:redeye-reduction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:redeye-reduction>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&apos;018208254200&apos;, &apos;018208254163&apos;]</www:upc>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:29 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:29">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$299.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0815361016542</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18-December-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">815361016542</www:upc>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instant</www:camera-type>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polaroid</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polaroid Z2300 10MP Digital Instant Print Camera (White)</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Z 2300</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:3 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:3">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$129.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242808560</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242808560</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.1 MP</www:megapixels>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.7 inches</www:lcd-screen-size>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2300810</www:camera-type>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 x</www:optical-zoom>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5-May-2011</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCW530/B</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-Shot DSC-W530 14.1MP Digital Camera with 4x Zoom Lens (Black)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:30 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:30">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$279.99</www:retail-price>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3-May-2012</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Photo Film</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix S4200 Digital Camera with 24x Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:31 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:31">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$499.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242726765</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242726765</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.0 - 10.9 Megapixels</www:megapixel-range>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6-April-2008</www:deal-first-added-on>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7 lbs.</www:weight>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.3 x 6.6 x 2.2 in.</www:dimensions>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCT300/B</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSCT300/B 10.1MP Digital Camera with 5x Optical Zoom with Super Steady Shot (Black)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:32 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:32">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$399.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00050332173583</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0050332173583</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">050332173583</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18-June-2010</www:deal-first-added-on>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30 x</www:optical-zoom>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus SP-800UZ 14MP Digital Camera with 30x Wide Angle Dual IS Zoom</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SP-800UZ</www:product-number-mpn>
+        <www:redeye-reduction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:redeye-reduction>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:33 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:33">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$2117.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00018208254323</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208254323</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208254323</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11-October-2007</www:deal-first-added-on>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7 lbs.</www:weight>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.3 x 8 x 6.3 in.</www:dimensions>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D300 DX Digital SLR Camera (Body Only)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:34 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:34">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425833566</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11-December-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425833566</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha NEX-7 Interchangeable Lens Digital Camera (Body Only) Package 1</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:35 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:35">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$129.95</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00041778891971</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0041778891971</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">041778891971</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 x 10 x 5 in.</www:dimensions>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-June-2005</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8891970</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kodak</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kodak EasyShare C300 3MP Digital Camera</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:36 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:36">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425833450</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-December-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425833450</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLT-A77</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha SLT-A77 DSLR Digital Camera (Body Only) Package 2</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:37 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:37">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425833498</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-December-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425833498</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLT-A77</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha SLT-A77 DSLR Digital Camera (Body Only) Package 6</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:38 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:38">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$449.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0044701012993</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">044701012993</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19-November-2010</www:deal-first-added-on>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 x</www:optical-zoom>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung TL500 Digital Camera 10MP, 3x Zoom, Ultra-Wide 24mm F1.8 Schneider KREUZNACH Lens</www:product-name>
+        <www:redeye-reduction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:redeye-reduction>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:39 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:39">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$679.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00037988988129</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0037988988129</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">037988988129</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-November-2008</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-LX3 Silver</www:product-number-mpn>
+        <www:manufactured-in rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Made in Japan</www:manufactured-in>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic DMC-LX3 10.1MP Digital Camera with 2.5x Wide Angle IS Zoom (Silver)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:4 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:4">
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22-October-2010</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ButterflyPhoto</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS 60D Digital SLR Battery Kit Includes Extended Replacement LP-E6 (2600 mAH) Battery + Ac/Dc Rapid Travel Battery Charger + LCD Screen Protectors</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:40 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:40">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$899.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425827978</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425827978</www:upc>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9-December-2012</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BVI</www:manufacturer>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K-01 w/ 40mm Wh</www:product-number-mpn>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax K-01 16MP APS-C CMOS Compact System Camera With 40mm Lens (White) + Extended Life Battery + 32GB SDHC Class 10 Memory Card + USB Card Reader + Memory Card Wallet + Deluxe Case w/Strap + Shock Proof Deluxe Case + Mini HDMI to HDMI Cable + 3 Piece Pr</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:41 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:41">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$449.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00050332158245</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0050332158245</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">050332158245</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 lbs.</www:weight>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">225840</www:product-number-mpn>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-August-2006</www:deal-first-added-on>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.0 - 7.9 Megapixels</www:megapixel-range>
+        <www:feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image Stabilization</www:feature>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Stylus 730 7.1MP Digital Camera with Digital Image Stabilized 3x Optical Zoom (Silver)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:42 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:42">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$349.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00013803099850</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803099850</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803099850</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-November-2008</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A2000IS</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon Powershot A2000IS 10MP Digital Camera with 6x Optical Image Stabilized Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:43 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:43">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0854928003144</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6-November-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">854928003144</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lytro</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lytro Light Field Camera (8GB, Electric Blue)</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M01-100006-US</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:44 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:44">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$249.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242844124</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242844124</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23-November-2012</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCWX150/B</www:product-number-mpn>
+        <www:manufactured-in rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Made in USA</www:manufactured-in>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSC-WX150 18.2MP Digital Camera with 10x Optical Zoom (Black)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:45 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:45">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0628586183223</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26-September-2010</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">628586183223</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ButterflyPhoto</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultimate Gripster Bundle For Canon PowerShot SX130 IS Digital Camera Includes Gripster + 16GB High Speed SD Memory card + 4AA (2900 mAH) Rechargable NIMH Baterries And Charger + Deluxe Carrying Case + Clear LCD Screen Protectors</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:46 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:46">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$329.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208262489</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208262489</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 MP</www:megapixels>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 x</www:optical-zoom>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5-May-2011</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S9100 12.1MP CMOS Digital Camera with 18x ED Zoom Lens and Full HD 1080p Video (Black)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S9100 Black</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:47 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:47">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0616316805583</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-December-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">616316805583</www:upc>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS 6D Digital SLR Camera 2 Lens Kit with IS 24-105mm, Canon 70-200mm IS II, 32 GB and More</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EOS 6D</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GID</www:manufacturer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:48 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:48">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$749.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425827824</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425827824</www:upc>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9-December-2012</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BVI</www:manufacturer>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K-01 YELLOW</www:product-number-mpn>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax K-01 16MP APS-C CMOS Compact System Camera [Body] (Yellow) + Extended Life Battery + 32GB SDHC Class 10 Memory Card + USB Card Reader + Memory Card Wallet + Deluxe Case w/Strap + Shock Proof Deluxe Case + Mini HDMI to HDMI Cable + Accessory Saver B</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:49 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:49">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$169.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00027242776548</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242776548</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242776548</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.1 MP</www:megapixels>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 x</www:optical-zoom>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9-March-2010</www:deal-first-added-on>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-W330 14.1MP Digital Camera with 4x Wide Angle IS Zoom (Black)</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W330 Black</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:5 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:5">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0175825127093</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1-November-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">175825127093</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-HX300 Digital Camera With CS Starters Kit: Includes 8GB SDHC Memory Card, SD Card Reader, Sony NP-BX1 Replacement Battery, Rapid Charger, Case, 3 Year Extended Warranty, Cleaning Kit, Lens Pen and More...</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:50 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:50">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$399.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027075225183</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027075225183</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16-December-2013</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MX-1 black</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax MX-1 12 MP Digital Camera with 4x IS Zoom (Black)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:51 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:51">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$749.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00027075159617</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027075159617</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027075159617</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.4 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16-December-2009</www:deal-first-added-on>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 x</www:optical-zoom>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K-x 18-55mm Whi</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax K-x DSLR Camera with 12.4MP and 18-55mm f/3.5-5.6 AL Lens</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:52 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:52">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$449.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00013803107845</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803107845</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803107845</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 x</www:optical-zoom>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21-May-2009</www:deal-first-added-on>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon PowerShot SX200IS 12MP Camera w/ 12x Wide Angle Optical IS Zoom (color: Blue)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SX200IS Blue</www:product-number-mpn>
+        <www:redeye-reduction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:redeye-reduction>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:53 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:53">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$199.95</www:retail-price>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-December-2010</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ButterflyPhoto</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flash Kit For The Panasonic Lumix DMC-G10 12.1 MP Digital Camera Includes Vivitar DF-293 TTL LCD Bounce Zoom Swivel DSLR AF Flash + Mini Tripod</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:54 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:54">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$4900.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803056853</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803056853</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0296B002</www:product-number-mpn>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6-September-2005</www:deal-first-added-on>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9 x 7 x 6.75 in.</www:dimensions>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS 5D 12.8 MP Digital SLR Camera (Body Only)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&apos;00013803056853&apos;, &apos;00013803568530&apos;]</www:ean14>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:55 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:55">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$549.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00027242679160</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242679160</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242679160</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 x 5 x 0.25 in.</www:dimensions>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5-January-2006</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSC-M2</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSC-M2 5.1MP Digital Camera with 3x Optical Wide Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:56 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:56">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$699.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0074101012248</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">074101012248</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3-December-2013</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Photo Film</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm X-S1 12MP EXR CMOS Digital Camera with f2.8-5.6 Telephoto Lens and 26x Manual Zoom (24-624mm)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:57 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:57">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$548.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242882362</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242882362</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18-September-2014</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ILCE5100/B</www:product-number-mpn>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony a5100 Mirrorless Digital Camera (Black, Body Only)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:58 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:58">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$199.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00027242723986</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242723986</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242723986</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15-October-2008</www:deal-first-added-on>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5 x 2.25 x 0.88 in.</www:dimensions>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.0 - 7.9 Megapixels</www:megapixel-range>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCW120</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSCW120 7.2MP Digital Camera with 4x Optical Zoom with Super Steady Shot (Silver)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:59 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:59">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$249.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00018208255542</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208255542</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208255542</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31-August-2006</www:deal-first-added-on>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.7 x 5.7 x 3.3 in.</www:dimensions>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S9 6MP Digital Camera with 3x Optical Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:6 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:6">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$449.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0079767493264</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">079767493264</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19-November-2010</www:deal-first-added-on>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 x</www:optical-zoom>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casio</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casio Exilim EX-FH25 10.1MP Digital Camera with 20x IS Zoom</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FH25 Black</www:product-number-mpn>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:60 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:60">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$1999.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425820085</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20-July-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425820085</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FINEPIX X100, 1</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm X100 12.3 MP APS-C CMOS EXR Digital Camera with 23mm Fujinon Lens and 2.8-Inch LCD w/32GB SDHC Memory + 2 Extended Life Batteries + USB Card Reader + Deluxe Case w/Strap + Full Size Tripod + Memory Card Wallet + Advanced Accessory Saver Bundle! I</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:61 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:61">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$44995.00</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00043325995613</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0043325995613</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">043325995613</www:upc>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2734-301</www:product-number-mpn>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0 - 5.9 Megapixels</www:megapixel-range>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.43 x 3.31 x 2.44 in.</www:dimensions>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Konica Minolta</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Konica Minolta Dimage X50 5MP Digital Camera with 2.8x Optical Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:62 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:62">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$999.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0074101023442</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">074101023442</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11-December-2013</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Photo Film</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm X-E2 16.3MP Compact System Digital Camera (Body Only, Silver)</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm X-E2 B</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:63 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:63">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$89.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0628586165441</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16GB Bundle For Canon PowerShot SX130 IS Digital Camera Includes 16GB High Speed SD Memory card + USB 2.0 High Speed Card Reader + Deluxe Carrying Case + Mini Tripod + Clear LCD Screen Protectors + More</www:product-name>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26-September-2010</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">628586165441</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ButterflyPhoto</www:manufacturer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:64 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:64">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$772.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00018208254248</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208254248</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208254248</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.0 - 10.9 Megapixels</www:megapixel-range>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6-April-2008</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D40X 10.2MP Digital SLR Camera (Body Only)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:65 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:65">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425833610</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11-December-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425833610</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha NEX-7 Interchangeable Lens Digital Camera (Body Only) Package 6</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:66 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:66">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$399.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0845251035902</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1-November-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">845251035902</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon PowerShot SX280 HS 12.1 MP CMOS Digital Camera with 20x IS Zoom Bundle with 16 GB SDHC Memory Card, BP-6L Battery Pack, Carrying Case, SD USB Card Reader</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E3CNPS280</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:67 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:67">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425833443</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-December-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425833443</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLT-A77</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha SLT-A77 DSLR Digital Camera (Body Only) Package 1</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:68 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:68">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$299.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425801381</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28-March-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425801381</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUJI XP30 ORANG</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Photo Film</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix XP30 14 MP Waterproof Digital Camera with Fujinon 5x Optical Zoom Lens and GPS Geo-Tagging Function (Orange) 8GB SD HC Card Battery and More Accessory Saver Bundle</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:69 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:69">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$698.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242882379</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242882379</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18-September-2014</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ILCE5100L/B</www:product-number-mpn>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony a5100 Mirrorless Digital Camera with 16-50mm Power Zoom Lens (Black)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:7 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:7">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$1399.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242833067</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242833067</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-December-2013</www:deal-first-added-on>
+        <www:manufactured-in rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Made in USA</www:manufactured-in>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLTA77V</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha SLT-A77 Translucent Mirror Digital SLR Camera (Body Only)</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:70 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:70">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$229.95</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00855712000608</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0855712000608</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 lbs.</www:weight>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.0 - 6.9 Megapixels</www:megapixel-range>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">855712000608</www:upc>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9-May-2008</www:deal-first-added-on>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">INTOVA INWD-IC600 6.0MP Digital Camera with Waterproof Housing -180FT</www:product-name>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intova</www:manufacturer>
+        <www:feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterproof</www:feature>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:71 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:71">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$899.95</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00037988263851</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0037988263851</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">037988263851</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27-March-2010</www:deal-first-added-on>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-GF1C-K</www:product-number-mpn>
+        <www:manufactured-in rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Made in Japan</www:manufactured-in>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-GF1 12.1MP Micro Four-Thirds Lens Digital Camera with LUMIX G 20mm f/1.7 Aspherical Lens</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:redeye-reduction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:redeye-reduction>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:72 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:72">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$499.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00027242767171</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242767171</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242767171</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 x</www:optical-zoom>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26-August-2009</www:deal-first-added-on>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.1 MP</www:megapixels>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSC-HX1</www:product-number-mpn>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSC-HX1 9.1MP Digital Camera with 20x IS Zoom and 3.0&quot; LCD</www:product-name>
+        <www:redeye-reduction rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:redeye-reduction>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:73 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:73">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$1499.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208254743</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208254743</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.2 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2-December-2010</www:deal-first-added-on>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.8 x</www:optical-zoom>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D7000 18-105mm</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D7000 Digital SLR Kit w/18-105mm f/3.5-5.6 DX VR Nikkor Lens</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:74 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:74">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$2599.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208133055</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208133055</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-November-2013</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D610 24.3MP FX-Format Digital SLR Camera Kit with 24-85mm f/3.5-4.5G ED VR AF-S Lens</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:75 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:75">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$369.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425822560</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12-June-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425822560</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-ZS15K 8GB K</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-ZS15 12.1 MP Digital Camera with 16x Optical Zoom (Silver) BigVALUEInc Accessory Saver 16GB Bundle</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:76 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:76">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$649.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803217452</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803217452</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11-July-2014</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6609B074</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS M 18MP Mirrorless Camera with EF-M 18-55mm IS STM Lens</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:77 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:77">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$49.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0628586165151</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2-June-2011</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">628586165151</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ButterflyPhoto</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Replacement Battery For Sony Alpha NEX-3 Nex-5 SLR NP-FW50 Batteries 1500 mAH + Lens Cleaning Kit</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:78 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:78">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$899.00</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0050332179509</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">050332179509</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26-July-2012</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus PEN E-P3 12MP Live MOS Camera with 14-42mm Interchangeable Zoom Lens (Silver)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V204031SU000</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:79 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:79">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$469.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425823901</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12-June-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425823901</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-ZS15K</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-ZS15 12.1 MP Digital Camera with 16x Optical Zoom (Black) + Extended Life BCG10 Battery + Deluxe Case w/strap + USB Card Reader + Accessory Saver Bundle!</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:8 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:8">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0616316805385</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-December-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">616316805385</www:upc>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS 6D Digital SLR Camera with 24-105mm IS, 24 GB and More</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EOS 6D</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GID</www:manufacturer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:80 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:80">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$204.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242678187</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242678187</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 x 2 x 1.5 in.</www:dimensions>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5-January-2006</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCS600</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSC-S600 6MP Digital Camera with 3x Optical Zoom</www:product-name>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&apos;00027242690431&apos;, &apos;00027242678187&apos;]</www:ean14>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:81 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:81">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0022099764434</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">022099764434</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-May-2012</www:deal-first-added-on>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS Rebel T3i T3-i 600D Digital SLR Camera (Body) + 32GB Deluxe Accessory Kit</www:product-name>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ZEEMO</www:manufacturer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:82 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:82">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$329.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0074101023695</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">074101023695</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15-March-2014</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FinePix S9200</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Photo Film</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix S9200 16MP Digital Camera</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:83 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:83">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$1399.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0610074527824</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">610074527824</www:upc>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7-December-2011</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-HG2</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-GH2 16.05 MP Live MOS Interchangeable Lens Camera with 3-Inch Free-Angle Touch Screen LCD (Black Only) with WSP Mini tripod and Cleaning kit</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:84 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:84">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$528.95</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00027075121751</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027075121751</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027075121751</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19181</www:product-number-mpn>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5-October-2006</www:deal-first-added-on>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.0 - 7.9 Megapixels</www:megapixel-range>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax Optio T20 7MP Digital Camera with 3x Optical Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:85 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:85">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$349.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00050332154278</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0050332154278</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">050332154278</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">225670</www:product-number-mpn>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 lbs.</www:weight>
+        <www:megapixel-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0 - 5.9 Megapixels</www:megapixel-range>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-March-2005</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Camedia D630 5MP Digital Camera with 3x Optical Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:86 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:86">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0050332177505</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">050332177505</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1-February-2012</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Tough TG-610 Waterproof 14MP Digital Camera with 5x Zoom (Blue)</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TG-610</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:87 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:87">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$329.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0027242843936</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242843936</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4-May-2012</www:deal-first-added-on>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DSCHX10V/B</www:product-number-mpn>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-HX10V 18.2MP Digital Camera with 16x Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:88 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:88">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0616316805750</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-December-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">616316805750</www:upc>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS 6D Digital SLR Camera with IS 24-105mm, 24 GB and More</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EOS 6D</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GID</www:manufacturer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:89 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:89">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$329.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0074101012026</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">074101012026</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20-July-2012</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Photo Film</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix S4200 14MP Digital Camera with 24x Zoom</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:9 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:9">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0662425801244</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20-July-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">662425801244</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FINEPIX X100 16</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm X100 12.3 MP APS-C CMOS EXR Digital Camera with 23mm Fujinon Lens and 2.8-Inch LCD 8GB SDHC Super Accessory Saver Kit</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:90 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:90">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$349.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0885170033245</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2-July-2012</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">885170033245</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DMC-ZS10A</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-ZS10 14.1MP Digital Camera with 16x IS Zoom and Built-In GPS (Blue)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:91 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:91">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$1499.99</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0616932796227</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3-August-2013</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">616932796227</www:upc>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8575B003 Packag</www:product-number-mpn>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS Rebel SL1 DSLR Camera with EF-S 18-55mm f/3.5-5.6 IS STM Lens with Canon EF-S 55-250mm f/4-5.6 IS II Lens for Digital SLR Cameras 32GB Package 2</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">digital-slr-camera</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:92 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:92">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$524.50</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00018208261703</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208261703</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208261703</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 MP</www:megapixels>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15 x</www:optical-zoom>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21-May-2009</www:deal-first-added-on>
+        <www:lcd-screen-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 inches</www:lcd-screen-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 lbs.</www:weight>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix L100 10MP Digital Camera w/ 15x VR Zoom</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:93 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:93">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$399.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00079767493660</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0079767493660</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">079767493660</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 x</www:optical-zoom>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6-July-2010</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casio</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casio Exilim EX-FH100 10.1MP Camera with 10x Ultra Wide Angle IS Zoom</www:product-name>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FH100 Black</www:product-number-mpn>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:94 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:94">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$399.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00013803114973</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803114973</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803114973</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1 MP</www:megapixels>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2-September-2009</www:deal-first-added-on>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 x</www:optical-zoom>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon PowerShot SD940 IS Digital ELPH 12.1MP Camera w/ 4x Wide Angle Optical IS Zoom (Silver)</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SD940IS Silver</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:95 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:95">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$379.99</www:retail-price>
+        <www:ean14 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00013803109580</www:ean14>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0013803109580</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">013803109580</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 lbs.</www:weight>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11-July-2009</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon PowerShot SD780 IS Digital Elph 12.1MP Digi Cam w/ 3x Optical IS Zoom (Black)</www:product-name>
+        <www:manufactured-in rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Made in Japan</www:manufactured-in>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SD780IS Black</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:96 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:96">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$99.95</www:retail-price>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-December-2010</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ButterflyPhoto</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens Kit Includes 52mm 3pc High Resolution Multi Coated Filter Kit + HD 2X Telephoto Lens + 4 piece Close-up Filter Set Includes +1 +2 +4 +10 + More For The Panasonic Lumix DMC-G1, DMC-G10 12.1 MP Digital Camera</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:97 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:97">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$189.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0041771342807</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">041771342807</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27-July-2012</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kodak</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kodak EasyShare Z5010 14MP Digital Camera with 21x Zoom</www:product-name>
+        <www:manufactured-in rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Made in USA</www:manufactured-in>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:98 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:98">
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0799429183912</www:ean13>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29-November-2011</www:deal-first-added-on>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">799429183912</www:upc>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leica Camera</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leica V-LUX 20 Digital Camera with 12.1mp, 12x Wide Angle Zoom</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Point-and-Shoot</www:camera-type>
+        <www:product-number-mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V-LUX 20</www:product-number-mpn>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.gosale.com:99 -->
+
+    <owl:NamedIndividual rdf:about="www.gosale.com:99">
+        <www:retail-price rdf:datatype="http://www.w3.org/2001/XMLSchema#string">$1399.95</www:retail-price>
+        <www:ean13 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0018208133031</www:ean13>
+        <www:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">018208133031</www:upc>
+        <www:last-updated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09-October-2014</www:last-updated>
+        <www:deal-first-added-on rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24-November-2013</www:deal-first-added-on>
+        <www:manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:manufacturer>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D5300 24.2MP Digital SLR Camera with 18-140mm f/3.5-5.6G ED VR AF-S DX Zoom Lens</www:product-name>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

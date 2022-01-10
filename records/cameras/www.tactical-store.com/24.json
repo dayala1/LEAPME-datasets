@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "productcode": "UPCSKUThermal Eye 2400xp Advanced II IR Camera Fixed Base 9HFOV Options",
+    "communicationsprotocol": "Pelco D (RS-422/Rs-485 4 Wire Full Duplex) IP Addressability Option (Pan & Tilt Control)",
+    "startuptime": "~30 seconds (typical)",
+    "weight": "50lbs (23kg) with pan/tilt",
+    "color": "White with Black Pedestal",
+    "lensoptions": "2.4mm (wide); 6.0mm (tele)",
+    "sensitivity": "1.0 lux (0.01 low light)",
+    "spectralresponse": "350nm-740nm",
+    "framerate": "30Hz NTSC/25 Hz PAL",
+    "weatherproofing": "Ingress Protection Rating IP66",
+    "zoom": "26x optical zoom plus 12x digital zoom",
+    "monitortype": "2-phase precision stepper",
+    "focusmethod": "Electronic focus (automatic flicker compensation & focusing system)",
+    "storagetemperature": "-4\u00c2\u00b0F to + 140\u00c2\u00b0F (-20\u00c2\u00b0C to 60\u00c2\u00b0C) - Visible camera limitation",
+    "inputvoltage": "12 to 32VDC, Regulated",
+    "videooutputformat": "NTSC or PAL",
+    "size": "19.4\"Lx20.7\"Wx18.6\"H (49.3cm x 52.6cm x 47.2cm)"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "attr24": "11,79\u00a0\u20ac282,95\u00a0\u20ac9,47 %9,9 %",
+    "touchscreen": "Nein",
+    "attr12": "22,53\u00a0\u20ac270,36\u00a0\u20ac9,47 %9,9 %",
+    "wlan": "Ja",
+    "microdrive": "Nein",
+    "attr10": "26,82\u00a0\u20ac268,20\u00a0\u20ac9,47 %9,9 %",
+    "attr18": "15,37\u00a0\u20ac276,65\u00a0\u20ac9,47 %9,9 %",
+    "selbstauslser": "Ja",
+    "attr30": "9,65\u00a0\u20ac289,50\u00a0\u20ac9,47 %9,9 %",
+    "typ": "OLED",
+    "farbe": "orange",
+    "stromversorgung": "Spezialakku",
+    "memorystick": "Nein",
+    "sensorchip": "CMOS",
+    "attr6": "44,02\u00a0\u20ac264,12\u00a0\u20ac9,47 %9,9 %",
+    "optischersucher": "Ja",
+    "mmc": "Nein",
+    "sd": "SD / SDHC / SDXC"
+}

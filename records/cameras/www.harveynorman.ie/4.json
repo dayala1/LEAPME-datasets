@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videoquality": "1080p",
+    "focallength": "11-16",
+    "afpoints": "9",
+    "colour": "White",
+    "brand": "Canon",
+    "mediatype": "SD, SDHC, SDXC",
+    "screentype": "Touch Panel",
+    "isosensitivity": "6400",
+    "screensize": "3\"",
+    "imageprocessor": "DIGIC 5",
+    "shutterspeed": "30 - 1/4000",
+    "imagesensor": "CMOS",
+    "cameraresolution": "18 MP"
+}

@@ -1,0 +1,8 @@
+{
+    "function": "Power Management (backlight drive, battery-driven, sleep/wake-up function)",
+    "category": "camera",
+    "drivers": "LED, Serial, RTC, NET, RS485, CAN, Buzzer, MMC/SD, CF, USB Device, USB ehci, Video output, GPIO, LCD, Touch Screen, VGA, Analog camera, Audio out, Analog input, Nand Flash",
+    "system": "DriversILT, Reboot, Watchdog, RTC, NLED, Serial, 6*6 keyboard, Audio out, NAND, LCD, Touch Screen, SD, NET, USB OTG, USB EHCI, VRFB, GPIO, PWM, ADC, Buzzer, CAN",
+    "filesystem": "ROM/CRAM/EXT2/EXT3/FAT/NFS/JFFS2/UBIFS",
+    "os": "ItemFeatureDescription"
+}

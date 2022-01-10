@@ -1,0 +1,10 @@
+{
+    "label8": "Dark Current (typ.) 0.05-0.1 e-/pixel/sec (-30 degree C)",
+    "category": "camera",
+    "power": "40W maximum power with shutter open and cooling maximum. Power supplied by AC/DC \"brick\" supply with international AC input plug. Alternate 12V input for user\u00c3\u00bds source.",
+    "mounting": "3.5\" bolt circle. C-mount (1\" 32 tpi thread). Optional Nikon or Canon lens mount.",
+    "label7": "Temperature Stability\" +/-0.1 degree C",
+    "operatingenvironment": "Temperature",
+    "pcinterface": "100bT Ethernet",
+    "label15": "Remote Triggering LVTTL input to camera allows exposure start within 25 microseconds of rising edge of trigger"
+}

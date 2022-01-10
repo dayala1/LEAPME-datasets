@@ -1,0 +1,11 @@
+{
+    "attr": "MJPEG",
+    "category": "camera",
+    "compression": "MPEG-4",
+    "cameratype": "IP",
+    "type": "Cameras",
+    "camerastyle": "Dome",
+    "wireless": "No",
+    "camerasincluded": "1",
+    "sensor": "1/4\" Low Lux CMOS"
+}

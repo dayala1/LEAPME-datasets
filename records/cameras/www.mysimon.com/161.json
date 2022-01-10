@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "touchscreen": "Yes",
+    "focusadjustment": "Autofocus & Manual Focus",
+    "brand": "Canon",
+    "exposuremodes": "Shutter & Aperture priority",
+    "analogvideoformat": "NTSC, PAL",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "additionalfeatures": "Not Interchangeable Lenses",
+    "supportedflashmemory": "SDXC Memory Card",
+    "exposuremetering": "Center-Weighted",
+    "type": "Mirrorless Interchangeable Lens",
+    "hdmioutput": "Yes"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio",
+    "productdescription": "Sony Cyber-shot DSC-TF1 - digital camera",
+    "minfocusdistance": "1 cm",
+    "weight": "109 g",
+    "focusadjustment": "Automatic",
+    "colour": "Blue",
+    "lenssystem": "4 x zoom lens - 4.43 - 17.7 mm - f/3.6-4.7",
+    "cameraflash": "Built-in flash",
+    "imagestabiliser": "Optical (Steady Shot)",
+    "sensorresolution": "16.1 Megapixel",
+    "supportedbattery": "1 x Sony NP-BN Li-ion rechargeable battery - 630 mAh ( included )",
+    "producttype": "Digital camera - compact",
+    "dimensionswxdxh": "10.24 cm x 2.27 cm x 6.2 cm",
+    "maxvideoresolution": "1280 x 720",
+    "display": "LCD display - 2.7\"",
+    "memorycardslot": "Memory Stick Micro (M2) card, microSD card"
+}

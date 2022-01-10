@@ -1,0 +1,18 @@
+{
+    "weightg": "300",
+    "category": "camera",
+    "lensconstruction": "16 elements in 12 groups (2 Aspherical lenses, 4 ED lenses)",
+    "aperturetype": "7 diaphragm blades / Circular aperture diaphragm",
+    "focallength": "f=7mm to 14mm (35mm camera equivalent 14mm to 28mm)",
+    "aperturerange": "F4.0",
+    "closestfocusingdistance": "0.25m / 0.8ft at all focal lengths",
+    "maxdiameter": "\u03c670mm / 2.76 in",
+    "standardaccessories": "Lens Cap / Lens Rear Cap / Lens Storage Bag",
+    "diagonalangleofview": "114dig(W)-75dig(T)",
+    "opticalimagestabilizer": "NO",
+    "maximummagnification": "Apporox. 0.08x / 0.15x (35mm camera equivalent)",
+    "minimumaperture": "F22",
+    "mount": "Micro Four Thirds mount",
+    "overalllength": "Approx. 83.1mm / 3.27 in (from top of the lens hood to the base side of the lens mount)",
+    "weightoz": "10.58"
+}

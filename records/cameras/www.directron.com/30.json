@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1.0 V-p-p 75\u03a9 NTSC Standard",
+    "snratio": "52db or more (AGC Off)",
+    "minillumination": "0.0002 Lux (Color)",
+    "operatingtemp": "14 \u00b0F to 122 \u00b0F RH 95% Max.",
+    "electronicshutterspeed": "- Auto (1/60 ~ 120,000)",
+    "imagesensor": "1/3\" Ultra High Res CCD",
+    "effectivepixel": "- 976(H) x 494(V) NTSC - 976(H) x 582(V) PAL",
+    "agc": "High",
+    "powersupply": "Regulated 12V DC",
+    "lens": "6.0mm Fixed Board Lens",
+    "storagetemp": "- 4 \u00b0F to 140 \u00b0F RH 95% Max.",
+    "synchronization": "Internal",
+    "scanningsystem": "2",
+    "horizontalresolution": "700 TV Lines"
+}

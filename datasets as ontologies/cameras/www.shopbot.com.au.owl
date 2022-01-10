@@ -1,0 +1,2310 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="www.shopbot.com.au:www.shopbot.com.au#"
+     xml:base="www.shopbot.com.au:www.shopbot.com.au"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:www="www.shopbot.com.au:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="www.shopbot.com.au:www.shopbot.com.au"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.shopbot.com.au:camera-type -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:camera-type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camera type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:camerastorecomau -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:camerastorecomau">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camerastorecomau</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:camerastorecomau-sa -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:camerastorecomau-sa">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camerastorecomau sa</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:digital-camera-warehouse -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:digital-camera-warehouse">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">digital camera warehouse</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:digital-camera-warehouse-nsw-vic-qld -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:digital-camera-warehouse-nsw-vic-qld">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">digital camera warehouse nsw vic qld</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:dimensions -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:dimensions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dimensions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:dimensions-mm -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:dimensions-mm">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dimensions mm</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:graysonline -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:graysonline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">graysonline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:itspotcomau -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:itspotcomau">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">itspotcomau</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:lcd-size -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:lcd-size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lcd size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:mega-buy -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:mega-buy">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mega buy</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:modtech-computers -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:modtech-computers">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">modtech computers</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:nsw -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:nsw">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nsw</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:nsw-vic-qld-sa -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:nsw-vic-qld-sa">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nsw vic qld sa</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:optical-image-stabilization -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:optical-image-stabilization">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optical image stabilization</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:pc-meal -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:pc-meal">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pc meal</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:product-name -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:product-name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">product name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:qld -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:qld">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">qld</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:sensor-resolution -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:sensor-resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sensor resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:sensor-resolution-mpx -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:sensor-resolution-mpx">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sensor resolution mpx</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:shop -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:shop">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shop</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:tech4ucomau -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:tech4ucomau">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tech4ucomau</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:the-bad -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:the-bad">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">the bad</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:the-good -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:the-good">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">the good</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:vic -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:vic">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vic</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:video-resolution -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:video-resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">video resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:warehouse1 -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:warehouse1">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">warehouse1</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:weight -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:weight-g -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:weight-g">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight g</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.shopbot.com.au:zoom -->
+
+    <owl:DatatypeProperty rdf:about="www.shopbot.com.au:zoom">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zoom</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.shopbot.com.au:0 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:0">
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens could have been sharper, Expensive in its category</www:the-bad>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterproof till 50 feet, Fast lenses, GPS and digital compass</www:the-good>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:1 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:1">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Functional, compact, stylish look, high quality images, great video quality</www:the-good>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No lens mount, no built-in flash, slow auto focus</www:the-bad>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:10 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:10">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C CMOS sensor of 20.3MP; Tilt-friendly EVF and AMOLED touch display; NFC &amp; Wi-Fi connectivity</www:the-good>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feels somewhat large for mirror-less camera; Some performance-hesitation when functioning with Jpeg + RAW</www:the-bad>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:11 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:11">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145 x 106 x 79 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">755 g</www:weight>
+        <www:qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS 60Da Digital SLR (DSLR) Camera Body
+The Canon 60Da DSLR Camera Body is an excellent and very exciting DSLR in the Canon Range. The Canon 60Da Digital SLR Camera Body is packed with great features such as 18MP APS-C CMOS Sensor, 1080p HD Video Capture, SD/SDHC/SDXC Memory Card Slot, Vari-Angle Clear View 3 inch Flip-Out LCD, DIGIC 4 Im...
+Better &gt; Photography &gt; Fast
+$1,850.16
+Available
+See offer</www:qld>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:12 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:12">
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-WX200 Compact Digital Camera - Black
+Digital Cameras::Sony
+Direct to Your Door. Australian Warranties
+$308.00
+See Site
+See offer</www:nsw>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cybershot DSC-WX200 Black (4381)
+Slim and sturdy, the Cybershot TF1 is exceptionally resistant to water, dust, shock, and low temperatures*. Made for usage in rough and demanding circumstances, the Cybershot TF1 is all prepared for whatever experiences you&apos;ll take!
+$306.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:13 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:13">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:14 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:14">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">117 x 68 x 32 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12,1 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">307 g</www:weight>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 x</www:zoom>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">640x480 px</www:video-resolution>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:15 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:15">
+        <www:sensor-resolution-mpx rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12,3</www:sensor-resolution-mpx>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12,3 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:dimensions-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">143 x 117 x 75</www:dimensions-mm>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">143 x 117 x 75 mm</www:dimensions>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight-g rdf:datatype="http://www.w3.org/2001/XMLSchema#string">800</www:weight-g>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">800 g</www:weight>
+        <www:pc-meal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW</www:pc-meal>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:modtech-computers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIC</www:modtech-computers>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:16 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:16">
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix F300EXR BLACK 12MP, Super CCD EXR, 15x Optical Zoom, ISO 12800, (5-75224)
+Cameras::Still Camera
+Supplies, Service &amp; Support - Aust Warranty
+$525.29
+Available
+See offer</www:vic>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm Finepix F300EXR Digital Camera - 12 Megapixel
+Following in the footsteps of Fujifilm&apos;s acclaimed F series cameras is the Finepix F300EXR, a compact and pocketable digital camera for discerning photographers that offers a high quality 15x optical zoom Fujinon lens with 24mm wide-angle coupled with a second-generation 1/2â 12 megapixel EXR sensor...
+Genuine Australian Warranties Fast Delivery!
+$399.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:17 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:17">
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS 100D Digital SLR With EF 24-105mm f/4L IS USM Lens (100D2410540LISU)
+Canon EOS 100D A DSLR you&quot;ll never want to leave behind. A small and responsive DSLR to take everywhere. The 18-megapixel EOS 100D delivers superb photos and video and features an optical viewfinder and intuitive touch-screen controls. High-quality low-noise photography with a highly comp
+Sydney CBD Pick Up or Shipping Aus Wide
+$1,558.05
+Available
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:18 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:18">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha A300 Digital SLR Camera + 18-70mm Sony Lens + BONUS Genuine Sony Camera Bag!
+* Separately sold &quot;MS Duo Adapter for CF Slot AD-MSCF1&quot; is necessary for use with Memory Stick Duo / Memory Stick PRO Duo / Memory Stick PRO-HG Duo With superb 10.2 MP detail, the DSLRA300K raises the bar. This model pushes the envelope, setting a new standard of excellence for step-up digital photo...
+Genuine Australian Warranties Fast Delivery!
+$879.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:19 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:19">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122 x 79 x 58 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,3 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">561 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hybrid</www:camera-type>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:2 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:2">
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fancier FTV-50 DSLR Support Rig (3209)
+his DSLR rig features solid, quality construction. The rig is all metal, and the handles have a quality rubberised grip, similar to your DSLR grip
+$169.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kodak EasyShare Z712 7 Megapixel Digital Camera
+The Kodak Easyshare Z712 IS 7.1 Megapixel Zoom Digital Camera provides superb picture quality with a 12X Schneider-Kreuznach Variogon Optical Zoom Lens, optical image stabilization and 7.1 megapixels. Also featuring fast click-to-capture speed (0.26 sec.), High ISO mode to capture details in low lig...
+Genuine Australian Warranties Fast Delivery!
+$489.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:20 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:20">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:21 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:21">
+        <www:qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D3200 Black with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens Kit
+The Nikon D3200 Digital SLR is the latest in Nikon&apos;s entry level line up replacing the extremely popular Nikon D3100. With an amazing 24.2 megapixel sensor, Full HD video and an ISO ranging from 100-12800, this camera has it all. The D3200 can record 1080p video at 30, 25 or 24 fps and can do 720p v...
+Better &gt; Photography &gt; Fast
+$859.23
+Available
+See offer</www:qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:22 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:22">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">104 x 63 x 33 mm</www:dimensions>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15 x</www:zoom>
+        <www:sensor-resolution-mpx rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</www:sensor-resolution-mpx>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">215 g</www:weight>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix F550EXR BLACK 16MP EXR ,15x Optical Zoom, ISO 12800, 3&quot; LCD, G (5-75515)
+Cameras::Still Camera
+Supplies, Service &amp; Support - Aust Warranty
+$525.29
+Available
+See offer</www:vic>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix F550EXR Digital Camera - 16 Megapixel +BONUS 4GB SDHC memory card!
+Continuing the excellence of Fujifilm&apos;s F-series compact digital cameras, the Fuji FinePix F550 EXR combines a high quality 15x optical zoom Fujinon lens with 24mm wide-angle and an all-new 16 Megapixel BSI EXR CMOS sensor delivering exceptional low-light performance. Also sporting a 3.0 inch high r...
+Genuine Australian Warranties Fast Delivery!
+$305.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pop up flash, Slow starting up, Weak on low lighted places</www:the-bad>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With GPS, Reliable features, Great Images, All-around, Affordable</www:the-good>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:23 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:23">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax Optio WG-1 GPS Waterproof/Shockproof Digital Camera - Orange - 14 Megapixel
+Pentax Optio WG-1 GPS Waterproof/Shockproof Digital Camera - 14 Megapixel. Waterproof to 10 metres, shockproof to 1.5 metres, freezeproof to -10 degrees Celsius, and crushproof to withstand 100kg, the Pentax Optio WG-1 digital camera is built to handle rough treatment wherever you&apos;re shooting. Ideal...
+Genuine Australian Warranties Fast Delivery!
+$309.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax Optio WG-1 Waterproof Compact Digital Camera With GPS (Pentax Optio WG-1 GPS)
+The rugged Optio WG-1 GPS&apos;s waterproof, shockproof, crushproof, coldproof and dustproof design, along with its 14 megapixels, wide-angle 5X internal zoom lens, HD video capabilities and inventive Digital Microscope mode with LED lens lighting, means that it can get the shots, near or far, and get ba
+Sydney CBD Pick Up or Shipping Aus Wide
+$329.00
+Available
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:24 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:24">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon 1 V1 Compact System Camera + 1 Nikkor 10-30mm VR + 1 Nikkor 30-110mm VR Lenses
+The Nikon 1 V1 is a highly compact interchangeable lens camera with outstanding image quality, speed and performance, plus a groundbreaking design that features a very clean and easy-to-use layout. The camera boasts super high-speed auto focus plus Expeed 3 dual processors that allow capture of full...
+Genuine Australian Warranties Fast Delivery!
+$679.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon V1 10-30 30-110mm Twin lens Kit Black (3747)
+Purchase a Nikon 1 V1 from us today and click below for your chance to win
+$699.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:25 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:25">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D7000 Digital SLR Camera + 18-105 VR + 55-200 VR Twin Lens Kit
+Nikon&apos;s new line of mid-class Nikon DX-format digital-SLR cameras is here in the form of the Nikon D7000. The camera is equipped with a new 16.2 megapixel CMOS image sensor and a new image-processing engine, EXPEED 2, which enables capture of high-definition images exhibiting superior image quality....
+Genuine Australian Warranties Fast Delivery!
+$1,439.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:26 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:26">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Good build quality; High resolution; Continuous shooting feature</www:the-good>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not a good performer for shooting videos</www:the-bad>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:27 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:27">
+        <www:qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic LUMIX DMC-GX1 Black with 14-42mm F3.5-5.6 + 45-150mm F4.0-5.6 Lens (DMC-GX1TWIN)
+html
+Friendly Service and 100% Australian Stock
+$955.00
+See Site
+See offer</www:qld>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic LUMIX G Micro DMC-GX1 Lumix G Vario 14-42mm 45-150mm ASPH MEGA O.I.S. Twin Kit (DMC-GX1TWIN)
+Lumix DMC-GX1 Micro System Digital Camera Ultra compact premium design 16MP Live MOS Sensor for SLR image quality Easy manual control with adaptable function buttons 1920 x 1080 Full-HD video shoots quality video and stills Touch screen for easy and intuitive operation
+Sydney CBD Pick Up or Shipping Aus Wide
+$899.00
+Available
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:28 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:28">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 x 58 x 33 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12,1 Mpx</www:sensor-resolution>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 x</www:zoom>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">208 g</www:weight>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-TZ25 Digital Camera - 12.1 Megapixel
+Travel photography is easy with a powerful 16x zoom and Full-HD video. The Panasonic Lumix DMC-TZ25 will catch every moment of your holiday in glorious detail. Packing a wide-angle super zoom lens, advanced image processing engine and Full-HD video recording into its tiny body, this compact camera i...
+Genuine Australian Warranties Fast Delivery!
+$289.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-TZ25 Silver (3879)
+The DMC-25 will catch every moment of your holiday in glorious detail. Packing with a wide-angle super zoom lens, advanced image processing engine and Full-HD video recording into its tiny body, this compact camera is everything you need in a travel companion.
+$288.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:29 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:29">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Great low light photography, Extremely fast focus</www:the-good>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Still quite bulky even with one of the most compact designs in its category</www:the-bad>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:3 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:3">
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 x</www:zoom>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">131 g</www:weight>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,1 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">99 x 59 x 21 mm</www:dimensions>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Convenient to use, handy</www:the-good>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-SZ1 Digital Camera - Black - 16.1 Megapixel
+The stylish Panasonic Lumix DMC-SZ1 compact digital camera is available in a variety of colours and is perfectly complemented by a 3.0 inch, high-resolution LCD with 100% field of view. Packing a versatile 10x optical zoom lens, HD video recording and a host of creative photography features, this ca...
+Genuine Australian Warranties Fast Delivery!
+$195.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-SZ1 Silver (3874)
+Lumix DMC-SZ1Compact and Stylish Digital Camera
+$194.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Picture quality needs some work, less filters and effects</www:the-bad>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:30 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:30">
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125 g</www:weight>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 x</www:zoom>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">96 x 57 x 19 mm</www:dimensions>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus VG-160 Black (3802)
+The VG-160 has been designed to provide extraordinary value for money. A terrific everyday camera, its all-metal body houses a high-performance 5x wide angle zoom lens. With 14 scene modes for easy shooting, Magic Filter effects which creatively transform ordinary shots, and HD movie video recording...
+$89.00
+2 more offers
+Available
+See offer</www:camerastorecomau-sa>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus VG-160 Digital Camera - 14 Megapixel
+Representing extraordinary value for money, and coming in a range of fashionable colours, the Olympus VG-160 digital camera boasts a compact and stylish all-metal body. It houses a sharp 5x optical zoom lens with 26mm that allows effortless capture of wide-angle or close-up shots. Intelligent Auto m...
+Genuine Australian Warranties Fast Delivery!
+$90.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:31 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:31">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comfortable grip; Great camera, Attractive design</www:the-good>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poor WiFi, Poor eye sensor; Poor battery life</www:the-bad>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:32 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:32">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">158 x 164 x 83 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18,1 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3,2 &quot;</www:lcd-size>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:33 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:33">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122 x 61 x 30 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Mpx</www:sensor-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">192 g</www:weight>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 x</www:zoom>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No complaints</www:the-bad>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterproof, Dustproof, Crushproof, Shockproof, Cold-proof</www:the-good>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:34 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:34">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Mju Tough 6010 Digital Camera - 12.7 Megapixel
+The Olympus Mju Tough 6010 incorporates Australia&apos;s favourite Tough features. Pioneered by Olympus, the camera is waterproof to a depth of three metres, shockproof from heights up to 1.5 metres, and snowproof at temperatures as low as -10Â°C. The stylishly designed Mju Tough 6010 also boasts outstand...
+Genuine Australian Warranties Fast Delivery!
+$270.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:35 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:35">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">115 x 84 x 47 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15,8 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">336 g</www:weight>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-G3 14-42mm Single Kit Black (3899)
+All Digital Compact Cameras
+$745.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-G3 Compact System Camera + 14-42mm Lens - 16 Megapixel
+The Panasonic Lumix DMC-G3 is a compact system camera (CSC) based on the Micro Four Thirds format that delivers excellent DSLR-quality images from a small and lightweight body and lens combination that is easy to carry around. The G3&apos;s new 16 Megapixel Live MOS sensor exhibits excellent signal-to-no...
+Genuine Australian Warranties Fast Delivery!
+$749.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:36 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:36">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">High ISO performance, Sharp accurate and fast to focus</www:the-good>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D600 AF-S 24-85mm ED VR Single Lens Kit (3706)
+Fuel you passion with the Nikon D600. It is Nikon&apos;s most compact and lightweight full-frame-DSLR, providing great image quality and impressive sharpness. Shoot everything from fixed portraits to dense landscapes with its 24.3 effective megapixel FX-format sensor, with an ultra-fast EXPEED 3 image pr...
+$2,400.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D600 Digital SLR Camera With AF-S 24-85mm VR Lens (D6002485VR)
+Take your photography to another level with the D600. From true wide-angle to super-telephoto, the 24.3-megapixel FX-format sensor delivers incredibly detailed images across the camera&quot;s broad ISO range. The autofocus system is as sensitive as Nikon&quot;s flagship D4 D-SLR, o
+Sydney CBD Pick Up or Shipping Aus Wide
+$2,834.00
+Available
+See offer</www:nsw>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D600 Full Frame Digital SLR Camera + Nikkor AF-S 24-85mm f/3.5-4.5G ED VR Lens
+This kit includes the Nikon D600 Body + Nikkor 24-85mm f/3.5-4.5 VR Lens. The Nikon D600 is an amazing addition to Nikon&apos;s DSLR line-up, featuring a full frame sensor and out of this world performance for a stunning price. Equipped with a high resolution 24.3 megapixel FX-format CMOS sensor, EXPEED...
+Genuine Australian Warranties Fast Delivery!
+$2,480.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No CF card slot, no super speed USB port</www:the-bad>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:37 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:37">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">139 x 80 x 37 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2,5 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:38 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:38">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">111 x 76 x 83 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Mpx</www:sensor-resolution>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26 x</www:zoom>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">430 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inexpensive, excellent battery life, easy to use</www:the-good>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon COOLPIX L810 High Zoom Digital Camera
+Getting closer, sharper and faster with 26x zoom Get closer to your subjects with a powerful 26x optical zoom NIKKOR lens. The COOLPIX L810 is equipped with the easy auto mode and lens-shift VR, all your photos will be in super sharp focus.*35mm format equivalent
+Sydney CBD Pick Up or Shipping Aus Wide
+$265.00
+Available
+See offer</www:nsw>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix L810 Black (3669)
+Image stabilized 26x zoom with wide-angle capability It&apos;s hard to imagine such a compact body could house a powerful 26x optical zoom NIKKOR lens with 22.5 mm wide-angle to 585 mm super-telephoto coverage.* Outstanding range and reach makes it as easy to frame a large group or broad vista as it is t...
+$199.00
+2 more offers
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen difficult to see in bright light, slow and limited autofocus</www:the-bad>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:39 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:39">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:4 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:4">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124 x 69 x 52 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,2 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2,7 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">345 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Poor in low lighting conditions, slow auto focus, lacks viewfinder</www:the-bad>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vintage-look, somewhat similar to manual cameras, versatile</www:the-good>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:40 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:40">
+        <www:dimensions-mm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132 x 105 x 77</www:dimensions-mm>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132 x 105 x 77 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,2 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight-g rdf:datatype="http://www.w3.org/2001/XMLSchema#string">780</www:weight-g>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">780 g</www:weight>
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NIKON D7000 DSLR Camera KIT 18-55mm VR &amp; 55-300mm VR Twin Kits Lens D 7000 + FREE RETURN POSTAGE
+Features of NIKON D7000 DSLR Camera KIT 18-55mm VR &amp; 55-300mm VR Twin Kits Lens D 7000 + FREE RETURN POSTAGE : 16.2 megapixel DX-format CMOS image sensor High ISO (100-6400) light sensitivity - extendable up to 25600 EXPEED 2: Nikon&apos;s advanced image processing engine Durable design with magnesium al...
+Full 12 MONTH Australian Warranty
+$1,104.00
+1 more offer
+See Site
+See offer</www:vic>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D7000 Digital SLR Camera + Nikkor 18-55mm VR II +Nikkor 55-300mm VR Lenses
+Nikon&apos;s new line of mid-class Nikon DX-format digital-SLR cameras is here in the form of the Nikon D7000. The camera is equipped with a new 16.2 megapixel CMOS image sensor and a new image-processing engine, EXPEED 2, which enables capture of high-definition images exhibiting superior image quality....
+Genuine Australian Warranties Fast Delivery!
+$1,402.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:41 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:41">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">101 x 58 x 19 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">142 g</www:weight>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,1 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2,7 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 x</www:zoom>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic LUMIX DMC-FT20 Waterproof Compact Digital Camera
+5m water, 1.5m shock, -10 degrees freeze and dust proof MP4 HD video, with a dedicated button for instant recording Ultra wide-angle lens with 8x Intelligent Zoom iA and Mega O.I.S. with active mode for flawless imagesOutdoor scene modes and creative effects for fun shootin
+Sydney CBD Pick Up or Shipping Aus Wide
+$199.00
+Available
+See offer</www:nsw>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-FT20 Waterproof/Shockproof Digital Camera - 16.1 Megapixel
+Featuring a flat and slim body, the Panasonic DMC-FT20 manages to be an extremely tough and intelligent adventure companion. This stylish camera is waterproof to 5m, shockproof to 1.5m, freezeproof and dustproof, and houses a brilliant lens unit as well as a host of iA (Intelligent Auto) features. E...
+Genuine Australian Warranties Fast Delivery!
+$190.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:42 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:42">
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Generates soft photos indoors / under low-light conditions; Underdeveloped mobile app</www:the-bad>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vari-angle EVF and LCD; Brilliant manual control functionality; Raw capture</www:the-good>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:43 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:43">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carl Zeiss Vario-Sonnar T lens, record full HD movie, fast AutoShoot, Optical SteadyShot with improved technology, wide array of manual functionality, 50x optical zoom</www:the-good>
+        <www:pc-meal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW</www:pc-meal>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:tech4ucomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD, SA, WA</www:tech4ucomau>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:modtech-computers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIC</www:modtech-computers>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plastic body, RAW shooting not available, not able to achieve full 10 fps while shooting continuously, noise at ISO 6400, 3200 and 12800 is bad</www:the-bad>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:44 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:44">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Impressive built-in Wi-Fi functionality; Affordable; High picture and movie quality</www:the-good>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slow action shots; Viewfinder lacking</www:the-bad>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:45 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:45">
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EOS 100D DSLR Camera 18-55mm &amp; 75-300mm Twin lens Kit (08714574602721)
+The world&amp;#8217;s smallest and lightest APS-C DSLR camera, with advanced features to help you unleash your creativity. Shoot stunning images with 18MP Take hand-held photos in low light without a flash Fine tune photos with in-camera cropping Enjoy all the benefits that a creative DSLR has to offer,...
+12 Month Australian Warranty! Best Prices
+$689.00
+$749.00
+-8%
+Available
+See offer</www:vic>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:46 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:46">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slightly disappointing pixilation; Decreasing image quality after ISO 400; Average video quality</www:the-bad>
+        <www:modtech-computers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIC</www:modtech-computers>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zoom lens capability; High quality images; Adjustable LCD screen; Easy to use features</www:the-good>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:47 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:47">
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1340 g</www:weight>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,2 Mpx</www:sensor-resolution>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160 x 157 x 91 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3,2 &quot;</www:lcd-size>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A bit expensive</www:the-bad>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Performance is good, well built quality, many improvements</www:the-good>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:48 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:48">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:49 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:49">
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Costly; Complex controls</www:the-bad>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple-language support; Numerous filters for boosting quality of images and movies created; Powerful High-Resolution EVF</www:the-good>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:5 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:5">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">great video and image quality, customization is easy, durable, weatherproof</www:the-good>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no focus for video shooting, noise reduction is not easy to operate, bulky in size and weight</www:the-bad>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:50 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:50">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">152 x 116 x 76 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22,3 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3,2 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">950 g</www:weight>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:51 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:51">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-SZ5 Digital Camera - Black - 14.1 Megapixel
+The Panasonic Lumix DMC-SZ5 is a feature rich compact camera aimed at anyone who likes to share their photos. With 14.1 megapixels, 10x optical zoom and Wi-Fi connectivity, this pocket powerhouse will open up a world of new photographic possibilities. Using your smartphone1, the built in Wi-Fi allow...
+Genuine Australian Warranties Fast Delivery!
+$209.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-SZ5GN-K Compact Digital Camera - Black
+Digital Cameras::Panasonic
+Direct to Your Door. Australian Warranties
+$214.00
+See Site
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:52 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:52">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus VR-350 Black (3807)
+With one of the smallest-size 10x zoom lens in a digital compact camera, the VR-350 is fully featured with HD video recording with Magic Filter effects, 15 scene modes including 3D, and an improved Intelligent Automatic that makes taking high-quality photography and movies easy. An ideal everyday zo...
+$118.00
+2 more offers
+Available
+See offer</www:camerastorecomau-sa>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus VR-350 Digital Camera - 16 Megapixel - Silver
+The Olympus VR-350 is a compact digital camera that offers big-zoom performance in an exceptionally slim and compact form factor. Incorporating a high-quality 10x optical zoom lens (24-240mm) that lets you shoot anything from landscapes, groups and tight interior shots to bringing distant subjects u...
+Genuine Australian Warranties Fast Delivery!
+$129.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:53 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:53">
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">decent sensor, solidly built, easy to use</www:the-good>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">doesnât offer very good resolution, very similar to the Pentax K-5</www:the-bad>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:54 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:54">
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 Mpx</www:sensor-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">155 g</www:weight>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2,7 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3,6 x</www:zoom>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">96 x 63 x 23 mm</www:dimensions>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Tough TG-320 Digital Camera - 14 Megapixel
+The new Olympus Tough TG-320 is the ideal camera for active families and adventurous holiday makers. Waterproof, shock-proof and freeze-proof, this camera is aimed at outdoor lifestyle enthusiasts and everyday camera users looking for a lightweight yet rugged camera. Equipped with a wide-angle non-p...
+Genuine Australian Warranties Fast Delivery!
+$178.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Tough TG-320 Waterproof Compact Digital Camera (V104080UA000)
+TG-320 It keeps up with the family Buying a new compact camera can be like getting a new pair of sunglasses - you spend a lot on something impressive only for it to break the first time you drop it. Which is why Olympus developed TOUGH. Shockproof***, waterproof** and freezeproof, the new OLYMPUS T
+Sydney CBD Pick Up or Shipping Aus Wide
+$219.00
+Available
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slow performance, Blurred screen underwater, Noticeable image noise, Short battery life</www:the-bad>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterproof, Dustproof, Shockproof, Freezeproof, Very affordable</www:the-good>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:55 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:55">
+        <www:warehouse1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, QLD, VIC, WA, SA</www:warehouse1>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:tech4ucomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD, SA, WA</www:tech4ucomau>
+        <www:modtech-computers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIC</www:modtech-computers>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:56 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:56">
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Fujifilm X-M1 + 16-50mm , 55-230mm and 27mm Triple Lens Kit Brown (4900)
+The quality of a digital SLR in a compact body. The large APS-C 16M &quot;X-Trans CMOS&quot; &amp; &quot;EXR PROCESSOR II&quot; realize impressive color reproduction and high resolution. Easy-to-use One Handed Operation &amp; The 3.0-inch, 920K-dot Tilt LCD screen. Be versatile with interchangeable lenses. Wireless Image Trans...
+$999.00
+1 more offer
+Available
+See offer</www:camerastorecomau-sa>
+        <www:nsw-vic-qld-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji X-M1 + 16-50mm + 50-230mm (75446)
+The Fuji X-M1 Digital Compact System Camera twin lens kit is the perfect kit for travel photographers. The XM-1 itself is built with the quality of SLR camera but in a smaller, lighter and more compact system body. It features an APS-C sized 16 megapixel CMOS sensor, wireless image transfer with bui...
+Helping You Capture Life
+$899.95
+See Site
+See offer</www:nsw-vic-qld-sa>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FujiFilm X-M1 Twin Lens Kit With XC 16-50mm OIS &amp; XC 50-230mm OIS - Silver (75446)
+FujiFilm X-M1 Twin Lens Kit With XC 16-50mm OIS &amp; XC 50-230mm OIS Kit Includes: FujiFilm X-M1 Compact System Camera FUJINON XC 16-50mm F3.5-5.6 OIS Lens FUJINON XC 50-230mm F4.5-6.7 OIS Lens
+Sydney CBD Pick Up or Shipping Aus Wide
+$1,025.00
+1 more offer
+Available
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:57 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:57">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">140 x 82 x 43 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,3 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">450 g</www:weight>
+        <www:qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm X-Pro1 Body with Fuji 18mm f/2.0 XF R Lens Kit - Fuji Australia Warranty
+The Fujifilm X-Pro1 Body is one of the latest in the extremely high quality and retro Fujifilm X series. Previous to this camera there has been the fantastic X100 and and slightly smaller X10, and now Fujifilm have released a mirrorless, interchangeable lens X series camera, the X-Pro1. With a high...
+Better &gt; Photography &gt; Fast
+$1,559.00
+Available
+See offer</www:qld>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm X-Pro1 Compact System Camera + Fujinon XF 18mm F/2R Lens
+Introducing Fuji&apos;s first mirrorless interchangeable lens camera - the Fujifilm X-Pro1. Featuring all-new sensor technology, the X-Pro1 has onboard a 16 Megapixel APS-C-sized X-Trans CMOS sensor with randomized pixel array that eliminates the need for an anti-aliasing filter, promising exceptional re...
+Genuine Australian Warranties Fast Delivery!
+$1,652.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:graysonline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm X-Pro1 Digital Camera with 18mm XF R Lens Kit
+Fujifilm X-Pro1 Digital Camera with 18mm XF R Lens Kit For the discerning photographer who lets nothing stand in the way of quality, the Fujifilm X-Pro1 offers superb build quality, fast-aperture interchangeable lenses and the look and feel of a modern classic. Designed especially for the X-Pro1, th...
+$1,551.76
+See Site
+See offer</www:graysonline>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hybrid</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:58 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:58">
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix S2950 14MP, 18x optical zoom, 3.0&quot;LCD, SR Auto, HDMI Compatibl (5-75514)
+Cameras::Still Camera
+Supplies, Service &amp; Support - Aust Warranty
+$330.00
+Available
+See offer</www:vic>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix S2950 Digital Camera - 14 Megapixel
+If you are after an easy-to-use compact digital camera with a huge zoom range then look no further than the Fujifilm FinePix S2950. Incorporating a versatile 18x optical zoom Fujinon lens with 28mm wide-angle you can capture everything from sweeping landscapes, tight interiors and large group shots...
+Genuine Australian Warranties Fast Delivery!
+$229.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:59 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:59">
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix P7700 (3676)
+The COOLPIX P7700 combines function with performance. With 12.2 megapixels, a 7.1x optical zoom, backside illumination CMOS sensor and a 3-inch, 921k-dot vari-angle LCD monitor, this COOLPIX will surely deliver excellent image quality even under low light conditions.
+$489.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&apos;Nikon Coolpix P7700 Digital Camera (REFURB) (P7700T2)\nREWORKED product, BIG discounts, Nikon WarrantyAccessories for this camera starting at $2.95\nGenuine Australian Stock - No Imports!\n$298.85\nSee Site\nSee offer&apos;, &apos;Nikon COOLPIX P7700 Compact Digital Camera\nThe Nikon COOLPIX P7700 - Your portable creative companion. Take your creativity to new places with the COOLPIX P7700. The bright 7.1x NIKKOR zoom lens with fast f/2.0-4.0 aperture enables vivid images in low light and beautiful background blur when you want to single out subjects. The large backlit\nSydney CBD Pick Up or Shipping Aus Wide\n$559.00\nAvailable\nSee offer&apos;]</www:nsw>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:6 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:6">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">158 x 164 x 83 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18,1 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3,2 &quot;</www:lcd-size>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:60 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:60">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:61 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:61">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122 x 87 x 93 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18,2 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30 x</www:zoom>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">583 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bridge</www:camera-type>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image quality not 100% great, Not ideal for large prints</www:the-bad>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-Shot DSC-HX200V Black with Bonus Battery (4040)
+BONUS BATTERY INCLUDED Cyber-shot HX200V features a new &amp;ldquo;Exmor R&quot;&amp;rdquo; CMOS sensor with 18.2 megapixels, allowing you to shoot clear images even in dimly lit settings. And with its Extra High Sensitivity technology and improved high-speed Auto Focus, you can capture all your memories easily...
+$499.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-HX200V Digital Camera - 18.2 Megapixel +BONUS bundled genuine Sony Lithium Ion Battery!
+Affording the capabilities to cover a vast range of shooting situations, the Sony Cyber shot DSC HX200V offers a Carl Zeiss lens with a huge 30x optical zoom focal range. So whether you&apos;re photographing sweeping landscapes or grabbing incredible close-ups the HX200V has got what it takes to capture...
+Genuine Australian Warranties Fast Delivery!
+$498.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-HX200V Super Zoom Compact Digital Camera (DSCHX200V)
+Advanced Cyber-shot with ultra zoom, Full HD, GPS and manual controls 18.2 megapixels Exmor R, 30x optical zoom, Full HD 50p, 3D, 7.5cm LCD, Intelligent Sweep Panorama, GPS Log Recording Get closer with ultra-powerful zoom Blur-free Full HD movies, even when walking Easy DLSR-style manual controls
+Sydney CBD Pick Up or Shipping Aus Wide
+$490.00
+Available
+See offer</www:nsw>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super zoom lens, Very high resolution sensor</www:the-good>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:62 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:62">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:mega-buy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD, SA, WA</www:mega-buy>
+        <www:tech4ucomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD, SA, WA</www:tech4ucomau>
+        <www:modtech-computers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIC</www:modtech-computers>
+        <www:itspotcomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIC, QLD, SA, WA</www:itspotcomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:63 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:63">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 x 65 x 26 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">221 g</www:weight>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annoying sound when video recording</www:the-bad>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Tough TG-1 Waterproof Compact Digital Camera
+Top of the range Tough with the brightest lens and GPS The TG-1 has the brightest zoom lens of any tough-style camera with an F2.0 aperture for outstanding pictures in low-light conditions. Using new A-GPS technology, satellite acquisition speed is significantly improved&amp;n
+Sydney CBD Pick Up or Shipping Aus Wide
+$429.00
+Available
+See offer</www:nsw>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Tough TG-1 iHS Digital Camera - 12 Megapixel
+The new Olympus Tough TG-1 is a rugged little digital camera that boasts the brightest zoom lens of any tough camera which at f/2.0 delivers stunning photos in low-light conditions. Couple that with a 12 megapixel BSI-CMOS sensor and you have really high-quality images from a camera you can take jus...
+Genuine Australian Warranties Fast Delivery!
+$394.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterproof, Shockproof, Reliable, Easy to use</www:the-good>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:64 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:64">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">146 x 123 x 82 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3,2 &quot;</www:lcd-size>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36,3 Mpx</www:sensor-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900 g</www:weight>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Class-leading pixel count &amp; great ISO performance; Offers good customization options; Dual storage</www:the-good>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Takes longer to shoot continuous photos; Slower response time when using auto focus</www:the-bad>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:65 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:65">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-W570 Digital Camera - Pink - 16.1 Megapixel
+Blending rich features and value all wrapped up in a slim design, the Sony Cyber-shotÂ® W570 digital camera features a powerful 16.1-megapixel CCD image sensor to capture gorgeous images with superb contrast and clarity down to the finest detail. Compose and shoot photos and 720p HD movies on the 2.7...
+Genuine Australian Warranties Fast Delivery!
+$160.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:66 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:66">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lenses are very efficient; Good video capture; Useful and responsive touchscreen</www:the-good>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Limited autofocus points; Doesnât reach the top level of the market in the category, as one would expect from a Canon camera</www:the-bad>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:67 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:67">
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:sensor-resolution-mpx rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14,2</www:sensor-resolution-mpx>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14,2 Mpx</www:sensor-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">165 g</www:weight>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2,7 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 x</www:zoom>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">99 x 68 x 24 mm</www:dimensions>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Average quality of photos and videos, Poor battery life</www:the-bad>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in GPS, Trendy look, Durable</www:the-good>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Finepix F800 EXR (3223)
+20x raw-capable compact superzoom with built-in Wi-Fi. 16MP CMOS sensor -Dynamic range/Noise-optimizing EXR technology. Stabilized lens with 25-500mm equivalent range at apertures of F3.5-5.3. 1080p movies P,A,S and M shooting modes.
+$249.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix XP30 BLACK 14.0MP, 5x optical zoom, 2.7&quot; LCD, Waterproof to 5m (5-75527)
+Cameras::Still Camera
+Supplies, Service &amp; Support - Aust Warranty
+$326.00
+4 more offers
+See Site
+See offer</www:vic>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix XP30 Waterproof/Shockproof Digital Camera - Black - 14 Megapixel
+Perfect for people who lead an active lifestyle, love the outdoors, and want to capture all of the action, the Fujifilm FinePix XP30 is a tough digital camera that is 5m waterproof, 1.5m shockproof, -10 degrees Celsius freezeproof, and dustproof. Its tough-yet-stylish, ergonomic body features solid...
+Genuine Australian Warranties Fast Delivery!
+$219.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:68 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:68">
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S6500 Digital Camera - Black (REFURB) (S6500BKT2)
+REWORKED product, BIG discounts, Nikon WarrantyAccessories for this camera starting at $2.95
+Genuine Australian Stock - No Imports!
+$118.85
+4 more offers
+See Site
+See offer</www:nsw>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S6500 Red (4600)
+The COOLPIX S6500 gives you the versatility to capture stunning scenery as well as dramatic close-ups, thanks to its brilliant 12x optical zoom and 16.0 megapixel performance. Fine-tune your shots with the new Glamour Retouch function or record videos in breathtaking Full HD. Then, instantly share y...
+$199.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:69 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:69">
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S6400 Compact Digital Camera - Purple
+Digital Cameras::Nikon
+Direct to Your Door. Australian Warranties
+$251.00
+2 more offers
+See Site
+See offer</www:nsw>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S6400 Silver (3686)
+The COOLPIX S6400 is ultra slim, yet ultra powerful. Measuring only 26.7mm, it offers 16 megapixels and a 12x optical zoom with a 25-300mm focal length for you to capture more. Its intelligent AF control system includes advanced face-detection and subject-prediction to photograph your subjects in pe...
+$189.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:7 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:7">
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D7100 24MP Twin Kit with (18-55mmVR + 55-300mmVR) Digital SLR Cameras (FREE INSURANCE + 1 YEAR AUSTRALIAN WARRANTY) (NikD710018-55+55-300-Ins)
+Buy cheap Nikon D7100 24MP Twin Kit with (18-55mmVR + 55-300mmVR) Digital SRL Cameras (FREE INSURANCE + 1 YEAR AUSTRALIAN WARRANTY) from BecexTech Australia camera shop. 12 Months AU warranty|0% CC Surcharge|Fast Delivery
+Aussie operated,Local Support,0% CC Surcharge
+$1,309.00
+$1,699.00
+-23%
+Available
+See offer</www:vic>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D7100 DSLR with 18-105mm VR, 55-300mm VR Lenses
+SLR Cameras::Nikon
+Direct to Your Door. Australian Warranties
+$1,728.00
+See Site
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:70 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:70">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix L29
+The Nikon Coolpix L29 is ideal for capturing those special moments that are all too quickly forgotten amidst the busyness of daily life. Its compact, lightweight design encourages you to take it everywhere, ensuring you are equipped to capture those unforgettable, unexpected moments. Additionally, t...
+Genuine Australian Warranties Fast Delivery!
+$74.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:graysonline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix L29 Digital Camera - Black (ELL29B)
+Nikon Coolpix L29 Digital Camera - Black (New) The ultra compact Nikon Coolpix L29 Digital Camera delivers an impressive variety of shooting features contained in a lightweight, sleek design. It comes equipped with 16.1 effective megapixels, a finely crafted NIKKOR lens with wide angle coverage and...
+$79.95
+1 more offer
+See Site
+See offer</www:graysonline>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix L29 Silver (4985)
+Taking high quality photos has never been so straightforward and easy! Packed with intelligent features, you are able to shoot with confidence as the 16.1-megapixel L29 does the rest. With a 5x optical zoom and its rapid autofocus, the end result is an outstanding selection of photos. Both photos in...
+$74.00
+2 more offers
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&quot;Nikon Coolpix L29 Digital Camera - 2.7&apos; (6.7cm) Tft Lcd Monitor 16.1mp 5x Optical Zoom Nikkor Lens Ccd Image (L29S)\nNikon Coolpix L29 Digital Camera - Silver. The ultra compact Nikon Coolpix L29 Digital Camera delivers an impressive variety of shooting features contained in a lightweight, silvery sleek design. It comes equipped with 16.1 effective megapixels, a finely crafted NIKKOR lens with wide angle coverage...\nOnline Bargain Megastore\n$79.95\n$89.00\n-10%\nAvailable\nSee offer&quot;, &apos;Nikon Coolpix L29 Compact Digital Camera - Black\nDigital Cameras::Nikon\nDirect to Your Door. Australian Warranties\n$82.00\n2 more offers\nSee Site\nSee offer&apos;, &apos;Nikon Coolpix L29 Digital Camera - Black (L29BK)\nNOW with 2 YEARS Australian Nikon WarrantyAccessories for this camera starting at $2.95\nGenuine Australian Stock - No Imports!\n$72.85\n1 more offer\nSee Site\nSee offer&apos;]</www:nsw>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:71 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:71">
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">117 g</www:weight>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,2 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2,7 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5 x</www:zoom>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">92 x 52 x 19 mm</www:dimensions>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery life depends upon the temperature, Cheaper than DSLR</www:the-bad>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Functional, Versatile features, High quality, Compact, Lightweight</www:the-good>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-Shot DSC-WX50 Silver (4052)
+Stylishly designed and compact, Cyber-shot WX50 lets you shoot just like a professional with its 9 Picture Effects modes, which ensure dramatic images. Its Extra High Sensitivity technology and âExmor Râ¢â CMOS sensor also ensure sharp, noise-free pictures and movies.
+$214.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-WX50 Compact Digital Camera Black (DSCWX50B)
+Advanced Cyber-shot with powerful features, Full HD movie and 3D shooting 16.2 megapixels Exmor R, 5x zoom, AVCHD Full HD, 3D, 6.7 cm LCD, Superior AUTO Very high quality low-light images Shoot amazing 3D images and panoramas Blur-free Full HD movies, even when walking Pro quality in your pocketSt
+Sydney CBD Pick Up or Shipping Aus Wide
+$269.00
+1 more offer
+Available
+See offer</www:nsw>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Cyber-shot DSC-WX50 Digital Camera - 16.2 Megapixel - Silver
+The Sony Cyber-shot DSC-WX50 is a compact digital camera with a stylish rounded design that houses a high-resolution Exmor CMOS sensor for outstandingly clear pictures with low-noise, even when the lighting gets low. Get creative with nine Picture Effect modes that turn ordinary photos into somethin...
+Genuine Australian Warranties Fast Delivery!
+$215.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:72 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:72">
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NIKON D7000 DSLR Camera KIT 18-55mm VR &amp; 55-200mm VR Twin Kits Lens D 7000 + FREE RETURN POSTAGE
+Features of NIKON D7000 DSLR Camera KIT 18-55mm VR &amp; 55-200mm VR Twin Kits Lens D 7000 + FREE RETURN POSTAGE : 16.2 megapixel DX-format CMOS image sensor High ISO (100-6400) light sensitivity - extendable up to 25600 EXPEED 2: Nikon&apos;s advanced image processing engine Durable design with magnesium al...
+Full 12 MONTH Australian Warranty
+$1,004.00
+1 more offer
+See Site
+See offer</www:vic>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon D7000 Digital SLR Camera + Nikkor 18-55mm VR II + Nikkor 55-200mm VR Lenses
+This Twin lens Nikon D7000 kit includes the Nikon D7000 DSLR body + Nikkor 18-55mm f/3.5-5.6 VR lens + Nikkor 55-200mm f/4-5.6 VR Lens. Nikon&apos;s new line of mid-class Nikon DX-format digital-SLR cameras is here in the form of the Nikon D7000. The camera is equipped with a new 16.2 megapixel CMOS imag...
+Genuine Australian Warranties Fast Delivery!
+$1,294.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:73 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:73">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:nsw-vic-qld-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus PEN E-PM2 + 14-42mm &amp; 40-150mm (V206022BA000)
+The E-PM2 is Olympus&apos; entry-level PEN series compact system camera. It&apos;s simple design is aimed towards photographers who are looking for a better image quality than a compact camera, but without the added complexity of a DLSR. It&apos;s called the PEN Mini for a reason - with very few external buttons a...
+Helping You Capture Life
+$649.95
+See Site
+See offer</www:nsw-vic-qld-sa>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus PEN Mini E-PM2 Compact System Camera + 14-42mm + 40-150mm Lenses
+The very stylish OLYMPUS PEN Mini E-PM2 is a truly compact Micro Four Thirds system camera that delivers outstanding DSLR-quality images in an ultra-small package that is easy to carry and use. The PEN Mini has the same improved high- quality 16 megapixel LiveMOS sensor, TruePic VI image processor a...
+Genuine Australian Warranties Fast Delivery!
+$584.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus Pen Mini E-PM2 14-42 40-150mm Twin Kit Black (3780)
+Designed for the beginner compact system camera photographer and the camera user desiring SLR-level performance with point-and-shoot simplicity.The PEN Mini E-PM2 features a 16-megapixel LiveMOS sensor, a wide-format capacitive touch-screen LCD with âTouch Shutterâ technology, a simple and direct us...
+$499.00
+2 more offers
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:74 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:74">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 x 59 x 28 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14,1 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 x</www:zoom>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">206 g</www:weight>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Beginner-friendly, affordable, portable</www:the-good>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slow zoom, uses propriety battery, not for low light shooting</www:the-bad>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:75 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:75">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:modtech-computers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIC</www:modtech-computers>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:76 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:76">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">131 x 97 x 126 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30 x</www:zoom>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">687 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bridge</www:camera-type>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Finepix HS30 EXR (3224)
+Total creative control, precision optics and flexibility for enthusiasts and professionals. Great for family use as well. Long zoom capability expands the range of expressive possibilities.
+$525.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:graysonline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix HS30EXR Digital Camera (ELHS30)
+Fujifilm FinePix HS30EXR Digital Camera (New) Your search for a new digital camera is over! The Fujifilm FinePix HS30EXR is the perfect solution for people seeking a high-performance camera that not only looks professional, but also provides incredible quality photos and videos. This digital camera...
+$479.95
+See Site
+See offer</www:graysonline>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix HS30EXR Digital Camera - 16 Megapixel
+The Fujifilm FinePix HS30EXR is an ultra-zoom bridge digital camera boasting a whopping 30x optical zoom Fujinon lens with bright F/2.8 maximum aperture and 24mm super wide-angle. Incorporating a back illuminated 16 megapixel CMOS sensor with EXR array, the HS30 promises improved low-light performan...
+Genuine Australian Warranties Fast Delivery!
+$496.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Great controls, quite light and fairly compact, extremely long zoom</www:the-good>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slow to start up, slightly slow video compensation for lighting changes</www:the-bad>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&quot;Fujifilm Finepix Hs30exr Digital Camera - 3&apos; (7.6cm) Tft Lcd Display 16mp 30x Optical Zoom Fujinon Wide Angle\nFujifilm Finepix Hs30exr Digital Camera. Your search for a new digital camera is over! The Fujifilm FinePix HS30EXR is the perfect solution for people seeking a high-performance camera that not only looks professional, but also provides incredible quality photos and videos. This digital camera may b...\nOnline Bargain Megastore\n$449.95\n$549.00\n-18%\nAvailable\nSee offer&quot;, &apos;Fujifilm FinePix HS30EXR Compact Digital Camera\nDigital Cameras::FujiFilm\nDirect to Your Door. Australian Warranties\n$449.00\nSee Site\nSee offer&apos;, &apos;FujiFilm Finepix HS30 EXR Super Zoom Digital Camera (4547410202540)\nFujiFilm Finepix HS30 EXR Super Zoom Digital Camera Lens x Finder - Experience the Extreme Shooting Sensation The combination of versatile &amp; functional Fujinon Lens and a bright viewfinder give a sensational shooting experience. 24-720mm Fujinon 30x Optical Zoom and Super Macro Mode The bright,\nSydney CBD Pick Up or Shipping Aus Wide\n$489.00\nAvailable\nSee offer&apos;]</www:nsw>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:77 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:77">
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S9400 White (4609)
+With the S9400, you can capture your travel memories in breathtaking clarity. This compact camera&apos;s 18x optical zoom allows you to take detailed panoramas and dramatic close-ups in 18.1 megapixels. Use its Glamour Retouch function to fine-tune your images. Browse your shots on its ultra-sharp OLED m...
+$259.00
+1 more offer
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:78 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:78">
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Great sensors; High quality; Excellent battery performance</www:the-good>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly expensive; Clumsy controls; Bulk</www:the-bad>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:79 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:79">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">117 x 67 x 42 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,1 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">314 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hybrid</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha NEX-F3 Compact System Camera with 18-55mm E-mount Lens
+The Sony Alpha NEX-F3 is a big sensor camera in a super-small body that lets you take awesome shots like a DSLR, without lugging around a bulky camera. Its large 16.1 Megapixel CMOS sensor produces beautiful photos in virtually any lighting conditions - and when it&apos;s just too dark, the powerful pop-...
+Genuine Australian Warranties Fast Delivery!
+$494.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony NEX-F3 18-55mm Single Lens Kit Black (4086)
+Take stunning self-shots whenever you go with NEX-F3. Thanks to its 180Â°Flip-up LCD Screen, you can compose and capture beautiful self portraits with absolute ease. What&apos;s more, its 16.1 Megapixels APS-C size sensor ensures pictures of the highest quality, so you can look picture-perfect always.
+$492.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:8 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:8">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125 x 96 x 77 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24,2 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">505 g</www:weight>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:80 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:80">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">152 x 116 x 76 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22,3 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3,2 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">950 g</www:weight>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:81 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:81">
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basic features; 1080/60i video; Not good for speed shots</www:the-bad>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">High quality images; Lightweight, Rotatable LCD screen</www:the-good>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:82 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:82">
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon Powershot A2500 Black (4652)
+The PowerShot A2500 makes highly advanced imaging technology fun and easy to use, so you&apos;ll capture beautiful stills and video. The camera&apos;s 16.0 Megapixel sensor and DIGIC 4 Image Processor capture a wealth of detail and natural color, so even your enlarged images have impressive resolution.
+$85.00
+1 more offer
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:83 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:83">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">118 x 81 x 100 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30 x</www:zoom>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bridge</www:camera-type>
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix S4000 14MP CCD, 30x optical zoom, 3.0&quot;LCD, ISO 6400, SR Auto, (5-75512)
+Cameras::Still Camera
+Supplies, Service &amp; Support - Aust Warranty
+$435.60
+Available
+See offer</www:vic>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix S4000 Digital Camera - 14 Megapixel
+The Fujifilm FinePix S4000 is a super-zoom compact bridge digital camera that houses a huge-range 30x optical zoom Fujinon lens with 24mm wide-angle setting for tackling a host of photographic situations. Its electric-powered zoom lever ensures smooth, even zooming, and dual image stabilisation help...
+Genuine Australian Warranties Fast Delivery!
+$229.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plastic-built, Misplaced memory card slot</www:the-bad>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reliable features, Great Images, All-around, Affordable</www:the-good>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:84 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:84">
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Costly; Some lens applications could require special assistance or learning curve</www:the-bad>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Extension of wide-angle and telephoto capabilities; Multiple precision design features; Solid build</www:the-good>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:85 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:85">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:graysonline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax DSLR K-5 II with 18-135mm WR Kit
+Pentax DSLR K-5 II with 18-135mm WR Kit This new model is designed to be the successor to the PENTAX K-5 (launched in October 2010), which has been very well received for its compact but solid, functional body and high-quality image reproduction. As the flagship model of the K series, the K-5 II boa...
+$1,408.24
+See Site
+See offer</www:graysonline>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax K-5 II Digital SLR With 18-135mm WR Lens (12039)
+HIGHLY SENSITIVE New SAFOX X AF module 16.3 Megapixel stabilized CMOS sensor Weatherproof body with 77 independent seals Sensitivity range: ISO 80 to 51 200 7 fps high-speed continuous shooting CMOS-shift Shake Reduction Live View on a 3&quot;&quot; LCD monitor, 921 000 dots Video reco
+Sydney CBD Pick Up or Shipping Aus Wide
+$1,349.00
+Available
+See offer</www:nsw>
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax K-5 II Kit DA 18-135mm WR Digital SLR Camera + FREE RETURN POSTAGE
+Features of Pentax K-5 II Kit DA 18-135mm WR Digital SLR Camera + FREE RETURN POSTAGE : 11 point SAFOX X autofocus system 16.3 megapixel CMOS sensor Low noise ISO 80-51200 Air-gap-free 3.0 (921k) inch LCD 1080p HD video Speedy 7 FPS Special effects filters Rugged design Fully weather sealed Shake re...
+Full 12 MONTH Australian Warranty
+$1,579.00
+1 more offer
+See Site
+See offer</www:vic>
+        <www:qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax K-5 II with 18-135mm F3.5-5.6 ED WR Lens (12039)
+Pentax Digital Cameras
+Friendly Service and 100% Australian Stock
+$1,540.00
+See Site
+See offer</www:qld>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentax K5 II Digital SLR Camera + 18-135mm F3.5-5.6 ED AL [IF] DC WR Lens
+This kit includes Pentax K5 II Digital SLR Camera Body + 18-135mm F3.5-5.6 ED AL [IF] DC WR Lens. The stylish Pentax K5 II Digital SLR Camera delivers exceptional video and images for enthusiasts and professionals alike. A new 11-point SAFOX X autofocus system offers the widest EV focal range in its...
+Genuine Australian Warranties Fast Delivery!
+$1,469.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:86 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:86">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 x 63 x 36 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 x</www:zoom>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">234 g</www:weight>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fuji Finepix F770 EXR Gold (4815)
+The latest 20x optical zoom performance plus Intelligent Digital Zoom for extreme 40x telephoto shots - all in the smallest long-zoom compact in the world. Every control is at your fingertips.
+$199.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FujiFilm FinePix F770 EXR High Zoom Compact Digital Camera Black (4547410202670)
+16-megapixel EXR CMOS sensorCapture every detail, from the brightest highlight to the darkest shadow. EXR AUTO scene detection with motion detection provides 103 shooting patterns. 20x optical zoom lensGet close to the action with a maximum zoom setting equivalent to a 500mm lens on a full-frame dig
+Sydney CBD Pick Up or Shipping Aus Wide
+$345.00
+Available
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:87 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:87">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120 x 67 x 43 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24,3 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">400 g</www:weight>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Excellent image quality, Electronic viewfinder</www:the-good>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Limited range of E-mount lenses</www:the-bad>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SONY Alpha NEX-7 18-55mm Kits Digital SLR Camera Nex7 - Black + FREE RETURN POSTAGE
+Features of SONY Alpha NEX-7 18-55mm Kits Digital SLR Camera Nex7 - Black + FREE RETURN POSTAGE : 24.3 megapixel Exmor APS-C HD CMOS 3.0 inch tilt-angle Xtra Fine LCD (921k) Built in 2.4M dot OLED viewfinder Built in flash and Alpha hotshoe DSLR-style manual operation Up to 10 frames per second (Spe...
+Full 12 MONTH Australian Warranty
+$844.00
+1 more offer
+See Site
+See offer</www:vic>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony E-Mount NEX-7 18-55mm Single Lens Kit (4064)
+Experience speed and style meet performance and control with the ? NEX-7, which comes with a large APS-C size sensor to produce superb, high-quality images. It features the world&apos;s fastest release time lag of 0.02 second and high-speed AF for lightning-quick response.
+$1,295.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&quot;Sony Alpha NEX-7 With SEL1855 18-55mm OSS Lens (NEX7KB)\n24.3 Mega Pixel Camera with SEL1855 Lens Experience speed and style meet performance and control with the &amp;alpha; NEX-7, which comes with a large APS-C size sensor to produce superb, high-quality images. It features the world&apos;s fastest release time lag of 0.02 second and high-speed AF for lightning\nSydney CBD Pick Up or Shipping Aus Wide\n$1,290.00\nAvailable\nSee offer&quot;, &apos;Sony Alpha NEX7 including 18-55mm OSS Lens\nSLR Cameras::Sony\nDirect to Your Door. Australian Warranties\n$1,244.00\nSee Site\nSee offer&apos;]</www:nsw>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:88 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:88">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:modtech-computers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIC</www:modtech-computers>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:89 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:89">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:9 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:9">
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">128 g</www:weight>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Mpx</www:sensor-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2,7 &quot;</www:lcd-size>
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6 x</www:zoom>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">95 x 58 x 19 mm</www:dimensions>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S3300 Digital Camera + Bonus Nikon Coolpix Accessory Pack valued at $35
+Ultra-sleek and very stylish, the Nikon Coolpix S3300 is a compact digital camera that packs a 6x optical zoom lens with 26mm wide-angle into its small frame, and features lens-shift VR (vibration reduction) to deliver beautifully sharp shots. Add a creative touch to everyday images with a range of...
+Genuine Australian Warranties Fast Delivery!
+$133.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon Coolpix S3300 Red (3683)
+Ultra-sleek, stylish and versatile With 8 colour options available, the COOLPIX S3300 is a sleek and stylish companion. It features an ultra slim body with 6x wide-angle lens and special filter effects to answer all your creative demands. *35mm format equivalent
+$111.00
+1 more offer
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:90 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:90">
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus SZ-14 Digital Camera - 14 Megapixel
+Perfect for the traveller with its compact size and a 24x optical zoom lens, the Olympus SZ-14 offers an incredible focal range from 25mm wide-angle to 600mm telephoto. Capturing virtually any subject with the SZ-14 is a snap, from sweeping landscapes to nature, wildlife and sports. Dual image stabi...
+Genuine Australian Warranties Fast Delivery!
+$159.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Olympus SZ-14 Pocket Ultrazoom Digital Camera
+Stunning pocket zoom power With its incredible 24x ultra-zoom wide-angle lens, this is the perfect choice for photographers who need an affordable camera with a lens that they can use to photograph virtually any subject. Easily capture very wide vista landscapes to stage performances, nature and wil
+Sydney CBD Pick Up or Shipping Aus Wide
+$259.00
+Available
+See offer</www:nsw>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:91 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:91">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132 x 98 x 81 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16,1 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">618 g</www:weight>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony A57 VETK 18-135 50mm Twin Lens kit Special (4029)
+Never miss a moment ever again with SLT-A57. Thanks to its revolutionary Translucent Mirror Technology, you&apos;ll be able to achieve fast and accurate phase-detection autofocusing and rapid shooting speeds of up to 12 dynamic close-up shots per second. Bonus Black Alpha Carry Bag
+$1,099.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony Alpha SLT-A57 Digital SLR Camera + 18-135mm SAM Lens
+This single lens kit includes the Sony Alpha SLT-A57 Digital SLR Camera Body with 18-135mm f/3.5-5.6 SAM Lens. The Sony Alpha SLT-A57 DSLR camera incorporates Translucent Mirror Technologyâ¢ that allows continuous autofocus full-time in live view mode, even during Full HD movie shooting. A 16.1 megap...
+Genuine Australian Warranties Fast Delivery!
+$995.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:92 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:92">
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">[&apos;Canon EOS 7D Triple Kits 18-55mm + 55-250mm + 50mm Digital SLR Camera Lens + FREE RETURN POSTAGE\nFeatures of Canon EOS 7D Triple Kits 18-55mm + 55-250mm + 50mm Digital SLR Camera Lens + FREE RETURN POSTAGE : 18.0 Megapixel CMOS Sensor and Dual DIGIC 4 Image Processors for high image quality and speed. ISO 100-6400 (expandable to 12,800) for shooting from bright to dim light. 8.0 fps continuous...\nFull 12 MONTH Australian Warranty\n$1,329.00\n1 more offer\nSee Site\nSee offer&apos;, &apos;Canon EOS 7D With TripleLens Kit (18-55+55-250+50) Digital Camera (FREE INSURANCE + 1 YEAR AUSTRALIAN WARRANTY) (CanEOS7DTriple-Ins)\nBuy cheap Canon EOS 7D With TripleLens Kit (18-55+55-250+50) Digital Camera (FREE INSURANCE + 1 YEAR AUSTRALIAN WARRANTY) from BecexTech Australia camera shop. 12 Months AU warranty|0% CC Surcharge|Fast Delivery\nAussie operated,Local Support,0% CC Surcharge\n$1,329.00\n1 more offer\nAvailable\nSee offer&apos;]</www:vic>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:93 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:93">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">108 x 67 x 37 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12,1 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">267 g</www:weight>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:nsw rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FREE SHIPPING: Panasonic Lumix DMC GF5 kit with LUMIX G X VARIO 14-42mm PZ Lens Panasonic Digital SLR Cameras with 1 YEAR AUSTRALIAN WARRANTY (DMC-GF5XEB-K)
+Free Shipping, 1 year Local Australian Warranty, 14 Day Money Back Guarantee, Call Us Now. The Panasonic Lumix DMC GF5 Twin Lens Kit includes the Panasonic Lumix DMC GF5 Body and the Panasonic LUMIX G X VARIO 14-42mm PZ F2.5 Lens. For more information on these individual items please follow the link...
+FREE Shipping AUS Warranty, 1-3 Days Delivery
+$520.00
+See Site
+See offer</www:nsw>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hybrid</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-GF5 12MP GF 5 Kits G 14-42mm Mega OIS Digital SLR Cameras - White + FREE GIFT + 12MTH LOCAL WARRANTY
+Features of Panasonic Lumix DMC-GF5 12MP GF 5 Kits G 14-42mm Mega OIS Digital SLR Cameras - White + FREE GIFT + 12MTH LOCAL WARRANTY : 12.1-megapixel Live MOS Sensor with Advanced Noise Reduction System Stylish Compact Round-form Body Design Creative Control of 14 Filters and Scene Guide of 23 Scene...
+Full 12 MONTH Australian Warranty
+$544.00
+4 more offers
+See Site
+See offer</www:vic>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-GF5 Compact System Camera with 14-42mm Lens
+This kit includes the Panasonic Lumix DMC-GF5 Body + Panasonic LUMIX G VARIO 14-42 mm f/3.5-5.6 ASPH. / MEGA O.I.S. Lens. The Panasonic Lumix DMC-GF5 is a sleek and chic compact system camera based on the micro four thirds interchangeable lens system. Featuring a built-in flash, manual controls, iA...
+Genuine Australian Warranties Fast Delivery!
+$495.00
+1 more offer
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-GF5 with 14-42mm f/3.5-5.6 lens (3866)
+- 12.1 megapixel Live MOS sensor for stunning images - Incredibly compact and portable with a built-in flash - Full-HD video in AVCHD and MP4 for easy playback - 920K touch-screen for easy and intuitive operation - Never miss a thing with ultra high speed Auto Focus
+$359.00
+1 more offer
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:94 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:94">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">133 x 100 x 80 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18 Mpx</www:sensor-resolution>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">570 g</www:weight>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SLR</www:camera-type>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www:optical-image-stabilization>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:95 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:95">
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122 x 67 x 59 mm</www:dimensions>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15,4 Mpx</www:sensor-resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">330 g</www:weight>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">640x480 px</www:video-resolution>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:96 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:96">
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix Z800 RED,12MP, 5x optical zoom, 3.5&quot; LCD Touch Screen, Super C (5-75234)
+Cameras::Still Camera
+Supplies, Service &amp; Support - Aust Warranty
+$326.00
+2 more offers
+Available
+See offer</www:vic>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix Z800EXR Digital Camera - 12 Megapixel
+The Fuji Z800 is a sleek, stylish and very chic digital camera with a 12 Megapixel Super CDD EXR sensor that achieves exceptional results in challenging lighting conditions, and an internal Fujinon 5x optical zoom lens that features Fuji&apos;s new high-speed hybrid autofocus that delivers very fast focu...
+Genuine Australian Warranties Fast Delivery!
+$9,999.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:97 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:97">
+        <www:vic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm FinePix T200 Black 14.0m eff.pixels, 10x optical zoom, 2.7&quot; LCD, HD Mo (5-75537)
+Cameras::Still Camera
+Supplies, Service &amp; Support - Aust Warranty
+$271.90
+Available
+See offer</www:vic>
+        <www:digital-camera-warehouse-nsw-vic-qld rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fujifilm Finepix T200 Digital Camera - Black - 14 Megapixel
+If you have been searching for an ultra-compact big-zoom digital camera to take on your travels then have a look at the Fujifilm FinePix T200. In its slim body it packs a 10x optical zoom lens with 28mm wide-angle so you&amp;#8217:ll be able to cover a range of photographic opportunities: from broad lan...
+Genuine Australian Warranties Fast Delivery!
+$195.00
+See Site
+See offer</www:digital-camera-warehouse-nsw-vic-qld>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:98 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:98">
+        <www:camerastorecomau-sa rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panasonic Lumix DMC-FZ60 (3860)
+- Leica 24x optical zoom (35mm equivalent of 25mm-600mm) - POWER O.I.S. with active mode to suppress the blur from handshake - iA+ (Intelligent Auto Plus) allows you to make manual settings - Light Speed AF means you never miss a picture - Full-HD 50i video recording for high quality video
+$495.00
+Available
+See offer</www:camerastorecomau-sa>
+        <www:shop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name» Show All Product Descriptions Price Availability</www:shop>
+        <www:camerastorecomau rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SA</www:camerastorecomau>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.shopbot.com.au:99 -->
+
+    <owl:NamedIndividual rdf:about="www.shopbot.com.au:99">
+        <www:zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 x</www:zoom>
+        <www:sensor-resolution-mpx rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12,3</www:sensor-resolution-mpx>
+        <www:sensor-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12,3 Mpx</www:sensor-resolution>
+        <www:dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">126 x 75 x 54 mm</www:dimensions>
+        <www:video-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1280x720 px</www:video-resolution>
+        <www:lcd-size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2,8 &quot;</www:lcd-size>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">445 g</www:weight>
+        <www:camera-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact</www:camera-type>
+        <www:digital-camera-warehouse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NSW, VIC, QLD</www:digital-camera-warehouse>
+        <www:optical-image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:optical-image-stabilization>
+        <www:the-good rdf:datatype="http://www.w3.org/2001/XMLSchema#string">easy to use, easy on the eyes and hands</www:the-good>
+        <www:the-bad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">picture quality is okay could be better</www:the-bad>
+        <www:product-name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">» Show All Product Descriptions</www:product-name>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

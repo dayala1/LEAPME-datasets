@@ -1,0 +1,17 @@
+{
+    "attr35mmequivalentfocallength": "29.3 to 499 mm",
+    "category": "camera",
+    "snratio": "58 dB",
+    "dimensions": "Not specified by manufacturer",
+    "audiorecordingformat": "4 channels, 24-bit, 48 kHz LPCM (XAVC and MPEG HD422) 4 channels, 16-bit, 48 kHz LPCM (MPEG HD420)",
+    "sensitivity": "F12 at 1080/59.94i F13 at 1080/50i",
+    "wifi": "Yes (with included IFU-WLM3 wireless module)",
+    "weight": "Not specified by manufacturer",
+    "lcd": "3.5\" (8.89 cm) RGB 960 x 540",
+    "zoomratio": "17x (optical)",
+    "effectivepixels": "2.07 million (per sensor)",
+    "viewfinder": "Not specified by manufacturer",
+    "videorecordingformat": "XAVC-Intra (112 Mbps) XAVC-Long (50/35/25 Mbps) MPEG HD422 (50 Mbps) PEG HD420 (35/25 Mbps) MPEG IMX (50 Mbps) DV (25 Mbps)",
+    "type": "Fixed",
+    "imagingdevice": "3 x 1/2\" type Exmor CMOs sensor"
+}

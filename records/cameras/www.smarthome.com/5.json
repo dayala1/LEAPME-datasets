@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p composite O/P, 75O, NTSC",
+    "ccd": "Sony 1/3\" Super HAD CCD",
+    "shuttercontrol": "Auto Electric Shutter (AES)",
+    "dimensions": "3 11/16\" x 2 5/16\" x 2\" (94x59x50 mm)",
+    "weight": "10oz (280g)",
+    "gammacorrection": "0.45",
+    "minimumillumination": "0.05 Lux LED's off, 0 Lux LED's on",
+    "snratio": ">48dB",
+    "sync": "Internal",
+    "pictureelements": "510 x 492",
+    "gaincontrol": "Auto",
+    "scanningsystem": "Interlace 2",
+    "operatingvoltage": "12VDC1\u00b00%",
+    "model": "EV-1026-N6SQ",
+    "lenssize": "6mm",
+    "type": "Day/Night IR Bullet Camera",
+    "viewingangle": "53 Degree",
+    "operatingtemperature": "-4\u00b0 - 122\u00b0F (-20\u00b0 - +50\u00b0C)"
+}

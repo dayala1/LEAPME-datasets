@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "minimumfocusingdistance": "0.45 m",
+    "lenscap": "Snap-on",
+    "dimensions": "72 x 52.5 mm (Diameter x Length)",
+    "weight": "185 g",
+    "filterattachmentsize": "58 mm",
+    "brand": "Nikon",
+    "maximumfocallength": "50 mm",
+    "lensconstructionelementsgroups": "7 Elements in 6 Groups (One Aspherical Lens Element)",
+    "name": "Standard",
+    "lenshood": "HB-47",
+    "aperturewithmaxfocallength": "f/1.8",
+    "model": "AF-S NIKKOR 50mm f/1.8G",
+    "aperturewithminfocallength": "f/16",
+    "type": "Prime",
+    "maximumreproductionratio": "0.15x",
+    "attr3months": "15%Rs. 5,126Rs. 15,376"
+}

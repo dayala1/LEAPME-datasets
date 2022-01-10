@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "Composite - 1.0 Vp-p / 75 Ohm",
+    "imagedevice": "1/4\" DSP Color Panasonic CCD Image Sensor",
+    "weight": "12.34 Oz. / 350 g. / 0.77 Lbs.",
+    "operationtemperature": "-10&eg ~ 50\u00b0 C (14\u00b0 ~ 122\u00b0 F) Less Than 80% RH",
+    "powerconsumption": "300mA",
+    "minimumillumination": "0.5 Lux",
+    "snratio": "More Than 48dB",
+    "agc": "On",
+    "electronicshutter": "1/60 to 1/100,000 sec.",
+    "gammacorrection": "0.45",
+    "effectivepixels": "768 x 492",
+    "powersource": "12VDC",
+    "scanningsystem": "2",
+    "label11": "Vertical Sync. Frequency 60Hz",
+    "resolution": "550 TV Lines"
+}

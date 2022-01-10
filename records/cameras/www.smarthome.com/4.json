@@ -1,0 +1,23 @@
+{
+    "videooutput": "1.0Vp-p/75 ohm (composite)",
+    "weight": "4.6 lbs",
+    "powerconsumption": "300mA",
+    "cameradimensions": "Depth 5 inches x Length 6.25 inches",
+    "powersupply": "DC 12V/500mA (positive inside)",
+    "upc": "701107902012",
+    "horizontalresolution": "400 TV Lines",
+    "effectivepixels": "500 (H) x 480 (V) NTSC",
+    "backlight": "Yes",
+    "category": "camera",
+    "microphone": "No",
+    "focallength": "6mm",
+    "minimumillumination": "0.5 lux (IR off), 0 lux (IR on)",
+    "manufacturerwarranty": "1 year",
+    "manufacturer": "Teklink Security",
+    "operatingtemperature": "14&degF ~ 122&degF -10&degC ~ 50&degC",
+    "operatinghumidity": "98%, RH<95",
+    "imagesensor": "1/4\" CMOS Color",
+    "weatherproof": "IP45",
+    "signalnoiseratio": ">48dB",
+    "viewingangle": "35\u00b0"
+}

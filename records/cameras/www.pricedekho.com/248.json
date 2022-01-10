@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD)",
+    "focallength": "1.6x",
+    "displaytype": "Liquid Crystal TFT Touchscreen",
+    "supportedaspectratio": "03:02",
+    "lenstype": "Canon EF",
+    "screensize": "3 Inches",
+    "viewfinder": "Eye-level Pentaprism",
+    "autofocus": "TTL Secondary Image-registration, Phase Detection",
+    "imagedisplayresolution": "1040000 dots",
+    "manualfocus": "Yes"
+}

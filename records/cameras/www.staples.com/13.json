@@ -1,0 +1,7 @@
+{
+    "category": "camera",
+    "instantsavings": "-[~toFixed(item.priceSummary.pricing[0].coupon.couponValue)~]",
+    "price": "Now:[~toFixed(item.priceSummary.pricing[0].priceAfterSavings)~][~toFixed(item.priceSummary.pricing[0].finalPrice)~][~toFixed(item.priceSummary.pricing[0].listPrice)~]",
+    "save": "- [~toFixed(item.priceSummary.pricing[0].savings)~]",
+    "reg": "[~toFixed(item.priceSummary.pricing[0].listPrice)~]"
+}

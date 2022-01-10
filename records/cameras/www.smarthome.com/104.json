@@ -1,0 +1,17 @@
+{
+    "motionsensor": "Max 20 foot, 80\u00b0 horizontal, 75\u00b0 vertical field of view",
+    "category": "camera",
+    "videoformats": "H.264 and MJPEG",
+    "dimensions": "W 3.8 inches x H 5.7 inches x D 3.1 inches",
+    "weight": "15oz",
+    "wifi": "802.11b/g/n",
+    "upc": "817082010373",
+    "nightvision": "Up to 16 feet",
+    "imagecontrol": "Brightness, contrast, sharpness and exposure",
+    "manufacturerwarranty": "1 year",
+    "networkconnection": "Ethernet or Wi-Fi",
+    "ethernet": "10/100Mbps",
+    "pir": "Maximum 16 foot coverage",
+    "wirelessencryption": "WEP 64/128 bits, WPA/WPA2 personal, WPS",
+    "manufacturer": "2GIG Technologies"
+}

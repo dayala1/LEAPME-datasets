@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1.0VP-P, 75Ohms",
+    "lens": "3.6mm Fixed",
+    "temperature": "Working: -10 ~ 50\u00b0 C (14 ~ 122\u00b0 F) Storage: -20 ~ 70\u00b0 C (-4 ~ 158\u00b0 F)",
+    "weight": "N/A",
+    "indooroutdoor": "Weatherproof (Both)",
+    "snratio": "More than 52dB\uff08AGCOFF\uff09",
+    "imagingsensor": "1/4 SHARP Color CCD",
+    "electronicshutter": "NTSC: 1/60 ~ 1/100,000 second PAL: 1/50 ~ 1/100,000 second",
+    "horizontalresolution": "420 TV Lines",
+    "irledillumination": "Works up to  20M / 65ft.",
+    "dimension": "179 x 65 x 63 mm",
+    "minimumillumination": "While Infrared LED ON 0 lux",
+    "backlight": "Auto Backlight Compensation",
+    "effectivevideoresolution": "NTSC: 512(H) x 492(V) PAL: 500(H) x 582(V)"
+}

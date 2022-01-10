@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "functions": "Support mobile phone monitoring, WEB configuration, support OSD, support real-time video transmission, support motion detection and IO alarm (alarm devices to be equipped with an external IO), support motion detection and alarm centers IO screen pop-up reminders and Screen pop-up linkage (to be equipped with the alarm center server); support unified client remote monitoring software (UC2), VM6000 platform system applications; provide comprehensive SDK development package;",
+    "paymentterms": "L/C,D/A,D/P,T/T",
+    "led": "1pcs innovative Homogenization infrared led",
+    "powerconsumption": "DC12V, 3W consumption (IR off),10W consumption (IR on)",
+    "framerate": "2.0 megapixel, 25 frames, support 1 ~ 25 frames/second adjustable",
+    "specification": "SA-1364CMFHD",
+    "analogoutput": "An analog video output, support for standard CVBS, PAL / NTSC optional;",
+    "optionalfunction": "POE, WIFI, heater",
+    "networkinterface": "one RJ45 Ethernet port, 10m/100M adaptive; support RTSP / FTP / PPPOE / DHCP / DDNS / NTP / UPnP / ONVIF network protocols;",
+    "fobprice": "US $ 80 - 180 / Box Get Latest Price",
+    "supplyability": "500000 Box/Boxes per   Day",
+    "irdistance": "20m-80m for optional",
+    "sensor": "2.0 megapixel 1/2.5 \"CMOS sensor; low illumination, WDR, set switching filter, support day and night transform, Infrared sensors, Support the photosensitive resistance signal linkage, support CS mount lens, support DC drive auto iris lens; Color 0.6Lux \u00a0 F1.2, black and white 0.08 Lux F1.2;",
+    "port": "SZ"
+}

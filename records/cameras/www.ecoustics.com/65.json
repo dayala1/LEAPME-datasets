@@ -1,0 +1,15 @@
+{
+    "warranty": "One year limited hardware warranty from date of purchase",
+    "category": "camera",
+    "minimumsystemrequirements": "Microsoft Windows XP/Vista/7 Pentium III 1GHz processor or equivalent 512MB RAM or greater 300MB available hard disk space for software installation",
+    "weight": "0.24 lb / 110g (without battery)",
+    "stillimageformat": "JPEG/EXIF 2.2",
+    "isosensitivity": "Auto, 50, 100, 200, 400, 800, 1600, 3200 ( <3MP), 6400 (1280\u00d7960)",
+    "zoom": "4X optical zoom, 5X digital zoom",
+    "sensortype": "1/2.3\u2033 CCD",
+    "effectivepixels": "12.2MP (4032\u00d73024)",
+    "totalpixels": "12.5MP (4102\u00d73057)",
+    "storagemedia": "SD/SDHC (Up to 32GB)",
+    "lcddisplay": "3.0\u2033 touch screen",
+    "videoformat": "AVI (Motion JPEG)"
+}

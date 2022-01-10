@@ -1,0 +1,11 @@
+{
+    "weightg": "130",
+    "closestfocusingdistancem": "0.45",
+    "minimumaperture": "22",
+    "noofdiaphragmblades": "5",
+    "filterdiametermm": "52",
+    "maximummagnificationx": "0.15",
+    "lensconstructionelementsgroups": "6/5",
+    "category": "camera",
+    "afactuator": "Micro Motor"
+}

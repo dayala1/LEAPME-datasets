@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "function": "Provided Lib (ALSA -lib, tslib, glibc), udev support",
+    "drivers": "Serial, RTC, Net, Flash, LCD, Touch screen, VGA, Audio In/Out, SD, USB Host, USB OTG, Key, LED, 2D/3D, Power Management (backlight, PWM, ADC)",
+    "system": "CharacteristicsKITL kernel debug, Reboot, Watchdog, RTC",
+    "item": "DescriptionInterfaceLinux SupportWinCE Support",
+    "filesystem": "File System FormatRamdisk File System, UBI File System",
+    "lcddisplay": "none 4.3 in. resistive (+US$110.00) 7 in. resistive (+US$130.00)",
+    "os": "ItemFeatureDescription"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "irdistance": "Up to 80ft (Night vision B/W)",
+    "weight": "0.8 lb (without bracket) / 1.5 lbs",
+    "powerconsumption": "2.5W",
+    "minimumillumination": "Standard 0.2Lux with LEDs 0Lux",
+    "snratio": "More than 48db(AGC OFF)",
+    "powersupply": "DC 12V / 500mA",
+    "weatherproof": "IP66 and anti-fog camera glass/metal case",
+    "effectivepixels": "NTSC 640x480",
+    "signalsystem": "PAL/NTSC",
+    "whitebalance": "Auto Tracking White Balance",
+    "dimensionslxwxh": "3.3\u2033x2.2\u2033x2.3\u2033 (camera body)",
+    "horizontalresolution": "600TV Lines",
+    "shutterspeed": "1/50(1/60)\u20131/100,000(sec)",
+    "imagesensor": "1/4\u2033 Color CMOS",
+    "upc": "701107902135",
+    "manufacturer": "Teklink"
+}

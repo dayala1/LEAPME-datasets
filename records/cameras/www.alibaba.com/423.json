@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "led": "White and IR LED array",
+    "compression": "H.264 high profile, M-JPE optional",
+    "fps": "1920x1080/1-30fps 1280*960/1-30fps 1280*720/1-30fps",
+    "productmodel": "Full HD network LPR Camera",
+    "bitrate": "256K-12Mbps",
+    "imagesensor": "1/2.7\" 2.1M CMOS sensor",
+    "powersupply": "DC12V(\u00b110%) /POE( IEEE802.3at)",
+    "networkinterface": "RJ45 Ethernet port,10/100M TCP/IP/UDP/RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP supported",
+    "lens": "6//8/12/16 or 2.8-12/6-22 HD lens",
+    "attr3ddnr": "Supported",
+    "video": "Network and CVBS",
+    "resolution": "1920*1080",
+    "powerdissipation": "14W(LED and heater works )",
+    "daynight": "Auto switching (IR model)",
+    "processor": "Ambarella A5 processor"
+}

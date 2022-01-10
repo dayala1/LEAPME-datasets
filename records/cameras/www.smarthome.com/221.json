@@ -1,0 +1,22 @@
+{
+    "videooutput": "1.0 Vp-p Composite 75 ohms",
+    "weight": "2 lbs",
+    "operationtemperature": "-4\u00b0 F - 122\u00b0 F",
+    "autogaincontrol": "Auto/off",
+    "storagetemperature": "-4\u00b0 F - 122\u00b0 F",
+    "category": "camera",
+    "pictureadjustment": "Mirror/Brightness/Gain",
+    "dimensions": "5.25\" x 3.67\"",
+    "electronicshutter": "1/60 - 1/100,000 Sec",
+    "daynight": "Color/BW/Auto",
+    "blc": "Off/BLC/HLC",
+    "minimumillumination": "0.001 lux",
+    "synchronizingsystem": "Internal",
+    "powersupply": "12V DC",
+    "lens": "2.8-12mm",
+    "manufacturer": "Hawk-I Security",
+    "imagesensor": "1/3\" Vertical Double Interline CCD",
+    "upc": "000355000540",
+    "resolution": "600 TV Lines, High Resolution",
+    "whitebalance": "Auto/User/manual"
+}

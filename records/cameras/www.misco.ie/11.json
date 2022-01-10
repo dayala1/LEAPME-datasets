@@ -1,0 +1,22 @@
+{
+    "wirelessconnection": "IEEE 802.11b/g/n",
+    "minfocusdistance": "0 m",
+    "weight": "316 g",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1920 x 1080",
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "memorycardslot": "SD card",
+    "dimensionswxdxh": "10.4 cm x 8.02 cm x 6.95 cm",
+    "productdescription": "Canon PowerShot SX510 HS - digital camera",
+    "imagestabiliser": "Optical",
+    "imageprocessor": "DIGIC 4",
+    "focusadjustment": "Automatic, manual",
+    "colour": "Black",
+    "lenssystem": "30 x zoom lens - 4.3 - 129 mm - f/3.4-5.8",
+    "cameraflash": "Pop-up flash",
+    "digitalzoom": "4 x",
+    "sensorresolution": "12.1 Megapixel",
+    "supportedbattery": "1 x Canon NB-6LH Li-ion rechargeable battery ( included )",
+    "display": "LCD display - 3\""
+}

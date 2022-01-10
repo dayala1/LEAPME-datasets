@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "weight": "5.05 Oz (143 g)",
+    "lightsensitivitymax": "100",
+    "cameratype": "Digital SLR",
+    "stillimageformat": "Raw Image, TIFF",
+    "lensforsd": "Body Only",
+    "brand": "Hasselblad",
+    "displaysize": "3\" (76.2 mm)",
+    "height": "5.16 in (131.1 mm)",
+    "sensortype": "CCD",
+    "width": "6.02 in (152.9 mm)",
+    "depth": "8.39 in (213.1 mm)",
+    "additionalfeatures": "Not Interchangeable Lenses",
+    "screensize": "3\" (76.2 mm)",
+    "supportedflashmemory": "CompactFlash Card Type I, CompactFlash Card Type II",
+    "sensorresolution": "50.0 MP",
+    "model": "H3DII50",
+    "whitebalance": "Daylight / Sunny (Preset), Flash (Preset), Manual, Tungsten (Preset)"
+}

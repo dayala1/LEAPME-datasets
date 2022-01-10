@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "powerrequirement": "12VDC, 1.5A",
+    "imagesensor": "1/3\" Color CCD",
+    "audiocompression": "Y Band Codec Active Echo Cancellation & Noise Suppression",
+    "upc": "897503001616",
+    "videocompression": "H.263",
+    "horizontalresolution": "380 TV Lines",
+    "viewangle": "54\u00b0",
+    "videoresolution": "Up to 30 fps @ 176x120 Up to 30 fps @ 352x240",
+    "minimumillumination": "1.8 lux",
+    "manufacturer": "Atrix"
+}

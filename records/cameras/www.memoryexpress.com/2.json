@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "externaldeviceinterface": "\u2022MicroSD/SDHC Slot\u00b9 \u2022Single audio input/output port \u2022DI/DO Port 1. microSD card not included. An SDHC Class 6 card or above is recommended. Up to 32GB supported",
+    "weight": "340 grams (0.75 lb)",
+    "minillumination": "0 lux with IR LED on",
+    "focallength": "3.6 mm",
+    "networkinterface": "\u2022IEEE 802.11n/g/b \u202210/100 BASE-TX Fast Ethernet",
+    "pantiltzoom": "\u2022Pan Range: -170\u00b0 to 170\u00b0 \u2022Tilt Range: -20\u00b0 to 100\u00b0 \u2022Digital Zoom: 10x \u2022Manual Pan Speed: 5-80 \u00b0 per second \u2022Manual Tilt Speed: 5-80 \u00b0 per second \u2022Position Presets: 32 points",
+    "angleofview": "(H) 70\u00b0 (V) 53\u00b0 (D) 92\u00b0",
+    "aperture": "F2.0",
+    "audio": "Built-in microphone and speaker",
+    "videoresolution": "16:9 (supports frame rates up to 30 fps) \u25e61280 x 720, 800 x 448, 640 x 360, 480 x 272, 320 x 176 Others (supports frame rates up to 30 fps) \u25e6960 x 720, 800 x 592, 640 x 480, 480 x 352, 320 x 240",
+    "dimensions": "120 x 103.2 x 130 mm (4.72 x 4.06 x 5.11 inches)"
+}

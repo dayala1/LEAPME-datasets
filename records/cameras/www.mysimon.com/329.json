@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "brand": "Canon",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "cameraflashfeatures": "Auto Flash",
+    "additionalfeatures": "HDMI",
+    "supportedflashmemory": "CompactFlash Card Type II",
+    "type": "Digital SLR",
+    "whitebalance": "Auto",
+    "hdmioutput": "Yes"
+}

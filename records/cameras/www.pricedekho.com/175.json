@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "selftimer": "2 sec, 10 sec Delay",
+    "dustreduction": "NA",
+    "videodisplayresolution": "NA",
+    "facedetection": "Yes",
+    "focallength": "16 - 50 mm",
+    "isorating": "100-16000",
+    "whitebalancing": "Auto, Cloudy, Daylight, Fluorescent, Incandescent",
+    "metering": "Center-Weighted, Multi, Spot",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "displaytype": "TFT LCD",
+    "lenstype": "Sony E Mount",
+    "screensize": "3 Inches",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "460800 dots",
+    "manualfocus": "Yes",
+    "microphone": "Built-In Microphone"
+}

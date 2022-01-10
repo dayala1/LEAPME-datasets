@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "weight": "0.6KG",
+    "gammacorrection": "0.45",
+    "imagesensor": "1/3\" SONY Effio CCD1/3\" SONY CCD1/4\" SONY Effio CCD1/4\" Sony Effio CCD",
+    "snratio": "\u226565dB (AGC OFF)\u226554dB (AGC OFF)\u226548dB (AGC OFF)",
+    "dimension": "98(W) x57(H) x62(D)mm",
+    "lens": "f=3.9 to 85.8mm 22X/27X/30X optical zoom lens",
+    "horizontalresolution": "700TV Lines, Effio, 2 Filter600TV Lines,2 Filter540TV Lines, Effio480 TV Lines",
+    "powersource": "DC12V",
+    "whitebalance": "Auto",
+    "model": "BE-AE70BE-AE60BE-AE54HBE-AE48H",
+    "usableillumination": "0.01 Lux/F2.0",
+    "syncsystem": "Internal",
+    "tvsystem": "PAL/NTSC"
+}

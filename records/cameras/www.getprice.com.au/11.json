@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "weight": "251 Weight",
+    "cameratype": "Compact",
+    "opticalsensor": "CCD Optical Sensor",
+    "memorycard": "Secure Digital,SDHC,SDXC Memory Card",
+    "opticalzoom": "16 x",
+    "digitalzoom": "32 x",
+    "screensize": "3 Inch",
+    "resolution": "16 MegaPixel"
+}

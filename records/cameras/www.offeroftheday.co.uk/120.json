@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "HDMI",
+    "wirelessconnection": "IEEE 802.11a/b/g/n, Bluetooth 4.0",
+    "productdescription": "Samsung GALAXY EK-GC110 - digital camera",
+    "memorycardslot": "microSD card",
+    "weight": "300 g",
+    "internalstorage": "8 GB flash",
+    "focusadjustment": "Automatic, manual",
+    "colour": "Cobalt black",
+    "lenssystem": "21 x zoom lens - 4.1 - 86.1 mm - f/2.8-5.9",
+    "cameraflash": "Pop-up flash",
+    "sensorresolution": "16.3 Megapixel",
+    "supportedbattery": "1 x Li-ion rechargeable battery - 1650 mAh ( included )",
+    "imagestabiliser": "Optical",
+    "dimensionswxdxh": "12.87 cm x 1.91 cm x 7.08 cm",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1920 x 1080",
+    "display": "LCD display - 4.8\"",
+    "minfocusdistance": "80 cm"
+}

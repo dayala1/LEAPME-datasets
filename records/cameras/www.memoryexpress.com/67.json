@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "certifications": "CE CE LVD FCC C-Tick",
+    "dimensions": "2.28\u201d x 5.04\u201d x 3.5\u201d 58mm x 127.9mm x 89mm",
+    "weight": "0.26 lbs (116g) \u00b1 5%",
+    "imagefeatures": "Congurable image size, quality, frame rate, and bit rate Time stamp and text overlays Congurable motion detection windows Congurable privacy mask zones Congurable shutter speed, brightness, saturation, contrast, and sharpness",
+    "networkprotocols": "IPv6 IPv4 TCP/IP UDP ICMP DHCP client NTP client (D-Link) DNS client DDNS client (D-Link) SMTP client FTP client HTTP / HTTPS Samba client PPPoE UPnP port forwarding RTP / RTSP/ RTCP IP filtering QoS CoS Multicast IGMP ONVIF compliant",
+    "eventmanagement": "Motion detection Event notification and upload snapshots/video clips via email or FTP Supports multiple SMTP and FTP servers Multiple event notification Multiple recording methods for easy backup",
+    "externaldeviceinterface": "10/100 BASE-TX Fast Ethernet port 802.11n wireless DI/DO port MicroSD/SDHC card slot",
+    "videocompression": "Simultaneous H.264/MPEG-4/MJPEG format compression H.264/MPEG-4 multicast streaming JPEG for still images",
+    "mobilesupport": "Windows 7\u00ae/Vista\u00ae/XP\u00ae system, Pocket PC, or mobile phone with 3GPP playback support mydlink\u2122 mobile apps for iOS and Android mobile devices",
+    "angleofview": "(H) 57.8\u00b0 (V) 37.8\u00b0 (D) 66\u00b0",
+    "dviewcamsoftwarefunctions": "Remote management/control of up to 32 cameras Viewing of up to 32 cameras on one screen Supports all management functions in web interface Scheduled motion triggered or manual recording options",
+    "security": "Administrator and user group protection Password authentication HTTP and RTSP digest encryption",
+    "remotemanagement": "Configuration accessible via web browser Take snapshots/video clips and save to local hard drive or NAS via web browser",
+    "videoresolution": "16:9 - 1280 x 800, 1280 x 720, 800 x 450, 640 x 360, 480 x 270, 320 x 176, 176 x 144 up to 30 fps recording 4:3 - 1024 x 768, 800 x 600, 640 x 480, 480 x 360, 320 x 240, 176 x 144 up to 30 fps recording",
+    "audiosupport": "G.726 G.711"
+}

@@ -1,0 +1,22 @@
+{
+    "videooutput": "1Vpp, 75\u03a9",
+    "snration": "More than 48dB",
+    "irpoweron": "CDS Auto Control",
+    "horizontalresolution": "700 TV Lines",
+    "autogaincontrol": "Auto",
+    "storagetemperature": "-30\u00b0C~ +60\u00b0C RH95% Max",
+    "powercurrent": "12V DC(\u00b110%) 800mA",
+    "category": "camera",
+    "dimensionmm": "175(W)x124(H)x83(D)",
+    "autoelectronicshutter": "NTSC:1/60s~1/100,000s",
+    "minimumillumination": "0 Lux (with IR LED ON)",
+    "lens": "2.8-12mm lens",
+    "synchronoussystem": "Internal, Negative sync.",
+    "irdistance": "131 FEET (with \u00a25x42PCS Infrared LED)",
+    "weightg": "880",
+    "gamacharacteristic": "0.45",
+    "operatingtemperature": "-10\u00b0C~ +45\u00b0C RH95% Max",
+    "pickupelement": "1/3\" SONY CCD",
+    "scanningsystem": "2:1 interlace",
+    "model": "RY-7075"
+}

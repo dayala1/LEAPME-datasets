@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "features": "Touchscreen",
+    "weight": "7.55oz",
+    "storagetype": "Internal flash drive.",
+    "technology": "Lytro Light Field Sensor and Lytro Light Field Engine 1.0.",
+    "lightfieldresolution": "11 Megarays",
+    "storage": "8GB, 16GB",
+    "focus": "Constant f/2",
+    "opticalzoom": "8x",
+    "height": "1.61\u2033",
+    "width": "1.61\u2033",
+    "depth": "4.1\u2033",
+    "type": "Point and shoot",
+    "display": "1.52 in | 38.55mm back-lit LCD display with glass touchscreen.",
+    "battery": "Long-life Li-Ion internal battery.",
+    "software": "Includes a free desktop application for importing, processing and interacting with living pictures from the camera. It is built for Mac OS and requires Mac OS 10.6.6 or higher. A Windows application is in development."
+}

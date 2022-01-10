@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "sensor": "1/2.3\" CMOS",
+    "weight": "269g",
+    "resolution": "16.1 Megapixels",
+    "isosensitivity": "ISO 100-3200",
+    "framerate": "60p",
+    "opticalzoom": "30x Optical Zoom",
+    "continuousshootingspeed": "3.1 FPS Continuous Shooting",
+    "recordingmedia": "SD/SDHC",
+    "screensize": "3.0\" LCD Monitor",
+    "powersource": "NB-6LH Battery Pack",
+    "dimensionswxhxd": "112.7mm x 65.8mm x 34.8mm",
+    "shutterspeed": "15 - 1/3200 sec",
+    "videoresolution": "1080p HD Recording"
+}

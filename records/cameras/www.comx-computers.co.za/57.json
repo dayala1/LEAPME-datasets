@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p / 75 Ohms",
+    "imagedevice": "1/3 SONY",
+    "modelname": "EB-AC-SD",
+    "pictureelements": "PAL:795(H)\u00d7596(V)",
+    "weight": "150g",
+    "operationtemperature": "-10 \u2103 ~ +50 \u2103 RH95% Max",
+    "minillumination": "0.2 Lux /F2.0",
+    "resolution": "540 TVL",
+    "snratio": "More than 48dB",
+    "powersupply": "DC12V\u00b110%",
+    "electronicshutter": "NTSC:1/60~1/100, 000, PAL:1/50~1/110, 000",
+    "productcode": "EB-AC-SD",
+    "gaincontrol": "Auto",
+    "whitebalance": "Auto",
+    "dimension": "\uffe0 120 x 80(H) mm",
+    "syncsystem": "Internal",
+    "tvsystem": "PAL/NTSC",
+    "gamma": "0.45"
+}

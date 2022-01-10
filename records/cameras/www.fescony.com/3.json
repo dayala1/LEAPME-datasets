@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "facedetection": "8 faces",
+    "trackingfocus": "Off / Auto",
+    "backgrounddefocus": "Yes",
+    "superiorauto": "Yes",
+    "blinkdetection": "Yes",
+    "pictureeffects": "HDR Painting / Richtone Monochrome / Miniature /   Toy camera / Pop Color / Partial color / Soft High-key / Watercolor /   Illustration",
+    "incameraediting": "Retouch / Trimming / Red Eye Correction /   Unsharp Masking/Still image capture from Movie / Date view / Slideshow   with Music / 3D Viewing Mode / BRAVIA Sync / Picture Effect (Watercolor,   Illustration)",
+    "sweeppanorama": "Intelligent Sweep Panorama (360)",
+    "imagestabilization": "Optical SteadyShot\u2122 Image Stabilization with 3-way Active mode",
+    "smileshuttertechnology": "Yes",
+    "intelligentauto": "Yes",
+    "antimotionblur": "Yes"
+}

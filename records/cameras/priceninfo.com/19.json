@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "dimensions": "96.3 x 58.3 x 20.8mm",
+    "weight": "121.3 gm",
+    "focallength": "Samsung Lens f = f4.9?24.5mm",
+    "label1": "5X Optical Zoom",
+    "imagesensor": "1/2.33\u201d (Approx. 7.763mm) CCD",
+    "label3": "2.7\u201d inch 230K LCD Monitor",
+    "label4": "VGA @ 30FPS Movie Recording/MJPEG Format",
+    "label7": "TTL auto focus (Multi AF, Centre AF, Face Detection AF)",
+    "label0": "14.2 Megapixels",
+    "compensation": "\u00b12EV (1/3EV steps)",
+    "rechargeablebattery": "BP-70A, 3.7VCharger",
+    "label13": "USB 2.0",
+    "label10": "10.5MB Internal memory",
+    "label11": "SD/SDHC Memory Card Slot",
+    "isoequivalent": "Auto, 80, 100, 200, 400, 800, 1600",
+    "label2": "Digital Image Stabilization",
+    "shootingmode": "Smart Auto, Program, DIS, Photo help Guide , Scene"
+}

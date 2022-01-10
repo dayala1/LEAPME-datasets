@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "dustreduction": "NA",
+    "facedetection": "Yes",
+    "aperturerange": "f/3.5 (W) - f/5.6 (T)",
+    "redeyereduction": "Yes",
+    "whitebalancing": "Auto, Cloudy, Colour Temperature Setting, Daylight, Flash, Incandescent, Shade, White Set-1, 2",
+    "metering": "Center-Weighted, Intelligent Multiple, Spot",
+    "selftimer": "2 sec, 10 sec / 10 sec (3 Images)",
+    "displaytype": "TFT LCD Touchscreen",
+    "screensize": "3 Inches",
+    "imagedisplayresolution": "460000 dots",
+    "videodisplayresolution": "NA"
+}

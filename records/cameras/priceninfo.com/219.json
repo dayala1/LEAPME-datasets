@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "usb": "2",
+    "weight": "12.3 kg",
+    "brightness": "400 cd/m2",
+    "powerconsumption": "110W",
+    "powersupply": "AC 100V-240V, 50/60 Hz",
+    "builtinspeakers": "10Wx2",
+    "screensize": "106.6 cm (42?) LED",
+    "contrastratio": "4000",
+    "dimensions": "1004.8\u00d7630.5\u00d739.9mm",
+    "aspectratio": "16",
+    "resolution": "1920\u00d71080 Pixels",
+    "model": "L42-5000",
+    "headphoneout": "1",
+    "hdmi": "3"
+}

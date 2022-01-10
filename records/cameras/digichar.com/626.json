@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "flashtype": "Built-In",
+    "stillimageformat": "JPEG",
+    "brand": "Pentax",
+    "cameratype": "Point & Shoot",
+    "brandpentax": "Type: Point & Shoot",
+    "displaysize": "1.8\" (45.7 mm)",
+    "upc": "027075079601",
+    "sensortype": "CCD",
+    "mpn": "PentaxOptioMX",
+    "digitalzoom": "10x",
+    "cameraflashfeatures": "Auto Flash, Fill-in Flash, Flash Off, Red-eye Reduction Flash",
+    "additionalfeatures": "Not Interchangeable Lenses, USB, With LCD Protected Position",
+    "screensize": "1.8\" (45.7 mm)",
+    "supportedflashmemory": "SD Card",
+    "sensorresolution": "3.2 MP",
+    "model": "MX",
+    "viewfindertype": "Without Viewfinder",
+    "maxvideoresolution": "320 x 240,160 x 120,640 x 480 (VGA)"
+}

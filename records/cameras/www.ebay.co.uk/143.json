@@ -1,0 +1,23 @@
+{
+    "pictbridge": "Yes",
+    "battery": "Lithium Battery",
+    "category": "camera",
+    "flash": "Yes,IGBT(Auto/Force/Off/Red                  eye reduce)",
+    "selftimer": "2/5 or 10 sec                  delay",
+    "workingtemperature": "0-40 \u2103",
+    "imageresolution": "4480x3360(15M), 4000x3000 (12M In),3648x2736 (10M                  In),3456x2592 (9MP), 3648x2048",
+    "label2": "(7MP) HD, 2592x1944                  (5MP),2048x1536 (3M),1920x1080 (2M) HD,640x480 (VGA)",
+    "label5": "External Memory\u00ef\u00bc\u009aSD Card upto                  32GB(Not included)",
+    "scene": "Auto/Night                  portrait/Night                  scenery/Portrait/Scenery/Sport/Party/Beach/High sensitivity",
+    "lens": "Optical Zoom Lens",
+    "interface": "USB 2.0",
+    "exposure": "-3.0EV to +3.0EV",
+    "imagesensor": "CMOS Sensor",
+    "antishake": "Yes",
+    "fileformat": "JPEG(Still                  Image)/AVI(Video)",
+    "iso": "Auto/100/200/400",
+    "systemrequirements": "Windows                  XP/Vista/7/MAC",
+    "lcddisplay": "2.7 Inch TFT",
+    "videoresolution": "1280x720(30fps), 640x480(30fps),320x240(30fps)",
+    "whitebalance": "Auto,Daylight,Cloudy,Incandescent,Fluorescent"
+}

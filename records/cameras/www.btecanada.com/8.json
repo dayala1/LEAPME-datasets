@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1/60s - 1/100000s",
+    "snratio": "<= 48dB",
+    "pictureelements": "NTSC: 752(H) x 494(V)",
+    "minillumination": "0 Lux",
+    "powerconsumption": "210 mA",
+    "irviewdistance": "20m",
+    "electronicshuttertime": "1.0Vp-p 75 ohm BNC",
+    "agc": "Auto",
+    "powersupply": "DC12V",
+    "lens": "3.6mm",
+    "horizontalresolution": "700 TVL",
+    "gamma": "0.45",
+    "whitebalance": "Auto",
+    "irleds": "23 pcs",
+    "model": "SVD970H",
+    "syncsystem": "Internal",
+    "ccdtype": "1/3\" Sony Color CCD",
+    "blc": "Auto"
+}

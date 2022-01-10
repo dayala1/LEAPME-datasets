@@ -1,0 +1,20 @@
+{
+    "motiondetection": "Support",
+    "category": "camera",
+    "communicationinterface": "RJ45 10M/100M Ethernet\u00a0\u00a0 Alarm/RS485\u00a0USB2.0",
+    "compression": "H.264",
+    "power": "DC12V 1A",
+    "os": "Embedded Linux System",
+    "resolution": "D1:704*576\u00a0CIF:352*288\u00a0FIELD:704*288\u00a0QCIF:192*144",
+    "audio": "G.726",
+    "networkprotocols": "TCP/IP HTTP RARP TCP ICMP DHCP UDP SMTP FTP DDNS",
+    "lens": "4/6/8mm",
+    "model": "VT-3201B",
+    "displayresolution": "1280*720",
+    "illumination": "0 LUX",
+    "imageframerate": "30FPS",
+    "poe": "Optional",
+    "sensor": "Megapixel progressive scan CMOS sensor",
+    "osd": "Support",
+    "operatingtemperature": "0\u00b0C~+55\u00b0C"
+}

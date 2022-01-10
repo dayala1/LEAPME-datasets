@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Rotating",
+    "facedetection": "Yes",
+    "flashtype": "Pop-up Flash",
+    "stillimageformat": "NEF (RAW)",
+    "wirelessimagetransferringprotocols": "IEEE 802.11g",
+    "brand": "Nikon",
+    "redeyereduction": "Yes",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "specialeffects": "HDR Painting",
+    "viewfindertype": "Optical",
+    "digitalvideoformat": "MOV",
+    "supportedflashmemory": "SDXC Card",
+    "type": "Digital SLR",
+    "hdmioutput": "Yes"
+}

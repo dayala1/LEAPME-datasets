@@ -1,0 +1,8 @@
+{
+    "category": "camera",
+    "compatiblelenses": "Canon EF lenses including EF-S lenses (35mm-equivalent focal length is approx.1.6x the lens focal length)",
+    "recordingmedia": "SD/SDHC/SDXC card, via external media (USB v.2.0 hard drive, or via Wireless LAN (Eye-Fi card*)) *Canon cameras are not guaranteed to support Eye-Fi card functions, including wireless transfer. In case of an issue with the Eye-Fi card, please consult with the card manufacturer. The use of Eye-Fi cards may not be approved in all regions, or from one region to another; please contact the card manufacturer for status of approval in the country/region of use.",
+    "imageformat": "22.3 x 14.9 mm (APS-C size)",
+    "lensmount": "Canon EF mount",
+    "type": "Digital, AF/AE single-lens reflex, camera with built-in flash"
+}

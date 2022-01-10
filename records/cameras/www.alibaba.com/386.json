@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "lens": "Mega\u00a0pixel\u00a03.6mm\u00a0lens",
+    "miniillumination": "0.6Lux*F1.2\u00a0(\u00a0color),\u00a00.08 Lux*F1.2( B/W )",
+    "ircut": "yes",
+    "weight": "0.3kg",
+    "sensitivity": "1.0V/lux-sec\u00a0(550nm)",
+    "framerate": "30FPS",
+    "networkinterface": "RJ-45\u00a010-100\u00a0Base\u00a0T,\u00a0WIFI",
+    "power": "12VDC/1A",
+    "safety": "Password\u00a0protection , User\u00a0management\u00a0system",
+    "networkprotocol": "TCP/UDP/IP/HTTP/RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP",
+    "irrange": "36\u00a0PCS \u00a2 5\u00a0IR\u00a0Leds\u00a0/\u00a030\u00a0meters\u00a0IR\u00a0distance",
+    "streams": "0.1Mbps \u2013 8\u00a0Mbps",
+    "model": "ABC-3077-NFWT",
+    "motiondetect": "Yes",
+    "workingcondition": "0 \u00b0 C \u2013 45 \u00b0 C\u00a0(32 \u00b0 F \u2013 133 \u00b0 F)\u00a0,\u00a010%\u00a0-\u00a090%PH",
+    "imagesensor": "1/4\"\u00a0OV\u00a0CMOS"
+}

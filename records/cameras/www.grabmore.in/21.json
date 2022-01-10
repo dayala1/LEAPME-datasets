@@ -1,0 +1,22 @@
+{
+    "warranty": "1 Year Manufacturer",
+    "weight": "208g",
+    "bluetoothversion": "PBAP,A2DP,AVRCP,HFP,HSP,OPP,SAP,HID,PAN, DI, MAP",
+    "audioformat": "MP3, AMR-NB / WB, AAC, AAC+, eAAC+, Vorbis (OGG), FLAC, WMA",
+    "technology": "SAMOLED",
+    "size": "10.92 cm(4.3)",
+    "category": "camera",
+    "usb": "USB 2.0",
+    "flash": "Xenon Flash",
+    "cpuspeed": "1.5GHz",
+    "autofocus": "Support",
+    "videoformat": "MPEG4, H.264, H.263, VC-1, WMV7/8, VP8, MP43",
+    "attr3g": "HSPA+",
+    "modelno": "C1010",
+    "brandname": "Samsung",
+    "condition": "New",
+    "videoframerate": "30fps",
+    "wifi": "802.11 a/b/g/n 2.4+5GHz",
+    "attr2g": "EDGE/GPRS",
+    "resolution": "540 x 960 (qHD)"
+}

@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "imagingelement": "1/1.7-inch square pixel color CCD (total pixels: 12.39 million)",
+    "movies": "848 x 480 (UHQ Wide/HQ Wide), 640 x 480 (UHQ/HQ/Normal), 320 x 240 (LP)",
+    "imagesizepixels": "Still Images: 4000 x 3000, 4000 x 2656 (3:2), 4000 x 2240 (16:9), 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480",
+    "recordingmedia": "Built-in flash memory (image area: 11.4MB), SDHC Memory Card / SD Memory Card / Multimedia Card / Multimedia Card plus compatible",
+    "imagefileformat": "Still images: JPEG (Exif Version 2.2), DCF standard, DPOF compliant",
+    "effectivepixels": "12.1 million",
+    "audio": "WAV (monaural)"
+}

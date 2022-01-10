@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "NTSC, PALHDMI 1.4a",
+    "whitebalancemode": "Auto, Daylight, Cloudy, Fluorescent (W, N, D), Tungsten, Flash, Custom, K (Manual)",
+    "imagesensortype": "CMOS\u00a023.5x15.7mm",
+    "cameratype": "Interchangeable Lens",
+    "flashmodes": "Smart Flash, Auto, Auto+Red-eye reduction, Fill-in, Fill-in+Red-eye reduction, 1st Curtain, 2nd Curtain, Off",
+    "resolution": "WVGA ( 800 x 480 ) 768k dots (Pentile)",
+    "isoequivalent": "Auto, 100, 200, 400, 800, 1,600, 3,200, 6,400, 12,800, 25,600 (1 or 1/3EV step)* AUTO ISO upper level is selectable. (Up to ISO1,600)",
+    "effectivepixel": "Approx 20.3 MP",
+    "fileformat": "RAW (SRW ver2.0.0), JPEG (EXIF 2.21), MPO (for 3D), DCF, DPOF 1.1",
+    "totalpixel": "Approx 21.6 MP",
+    "display": "AMOLED with Touch (C-type Touch Control Enabled) and Tilt (Up 90\u00b0, Down 45\u00b0) 84.0mm (3.31\")",
+    "lenstype": "Samsung Lenses for Samsung NX Mount",
+    "focusingmodes": "Single AF, Continuous AF, MF, Touch AF&Shutter",
+    "angleofviewcoverage": "28mm wide-angle (Equivalent to 35mm)",
+    "storagemedia": "SD, SDHC, SDXC, UHS-1 Support",
+    "mount": "Samsung NX Mount",
+    "productsizewxhxd": "122.0 x 63.7 x 40.7mm (excluding the projection part)",
+    "digitaloutputconnector": "USB 2.0 (micro USB Jack)"
+}

@@ -1,0 +1,22 @@
+{
+    "modelname": "GX301-011",
+    "features": "Camera; Digital Video Recorder; Monitor",
+    "weight": "4 lb - Monitor; 12 oz - Camera",
+    "videosystem": "NTSC; PAL",
+    "producttype": "Video Surveillance System",
+    "illumination": "0 to 0 Lux",
+    "productseries": "301",
+    "maximumresolution": "640 x 480",
+    "category": "camera",
+    "productline": "GigaXtreme",
+    "wirelesslan": "Yes",
+    "videoformats": "MPEG-4",
+    "sensortype": "CMOS",
+    "brandname": "SVAT",
+    "screensize": "7\"",
+    "manufacturer": "Circus World Displays Ltd",
+    "screentype": "Active Matrix TFT Color LCD",
+    "productname": "GigaXtreme GX301-011 Video Surveillance System",
+    "item": "405148",
+    "inputvoltage": "9 V DC"
+}

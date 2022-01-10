@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "selftimer": "2, 5, 10, 20 seconds",
+    "supportedlanguages": "22",
+    "batterylife": "Approx 660 shots",
+    "tripodsocket": "1/4 in. (ISO1222)",
+    "shootingmodes": "Single frame, Continuous",
+    "sensitivity": "ISO 100 to 6400 in steps of 1/3, 1/2, or 1 EV, plus HI-0.3, HI-0.5, HI-0.7, HI-1, HI-2 (ISO 25600)",
+    "whitebalance": "Auto (TTL white-balance with main image sensor and 420-pixel RGB sensor), Incandescent, Fluorescent ( 7 types ), Direct Sunlight, Flash, Cloudy, Shade, preset manual",
+    "label5": "USB 2.0 (High-speed)",
+    "weight": "509 gm",
+    "label7": "New 10-pin remote terminal, Connector for external microphone",
+    "shutter": "Electronically-controlled vertical-travel focal-plane shutter",
+    "effectivepixels": "16.2 million",
+    "label6": "Video output, HDMI output (Type C mini-pin connector)",
+    "viewfinder": "Eye-level pentaprism; built-in diopter adjustment (-1.7 to +0.7m-1)",
+    "label13": "Rechargeable Li-ion EN-EL14 battery 1030 mAh, EH-5a AC adapter",
+    "autofocus": "TTL phase detection, 11 focus points (1 cross-sensor) by Nikon Multi-CAM 1000 autofocus module",
+    "label2": "SD memory card slot (SDHC and SDXC compliant)",
+    "dimensions": "128 x 96.9 x 78.7 mm"
+}

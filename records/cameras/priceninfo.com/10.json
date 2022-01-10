@@ -1,0 +1,19 @@
+{
+    "audioinput": "Built-in stereo microphone; sensitivity adjustable",
+    "videooutput": "NTSC, PAL",
+    "acadapter": "EH-5b",
+    "usb": "Hi-Speed USB",
+    "weight": "277 g (with battery and memory card)",
+    "videocompression": "H.264/MPEG-4 Advanced Video Coding",
+    "battery": "One rechargeable Li-ion EN-EL15 battery",
+    "media": "SD (Secure Digital), SDHC, and SDXC memory cards",
+    "interfaceusb": "Hi-Speed USB Video output",
+    "videofileformat": "MOV",
+    "audiorecordingformat": "AAC",
+    "effectivepixels": "10.1 million",
+    "builtinflash": "Raised by sliding flash pop-up control",
+    "typeofcamera": "Digital camera with interchangeable lenses",
+    "category": "camera",
+    "compatiblelenses": "1 NIKKOR lenses for 1 mount",
+    "hdmioutput": "Type C mini-pin HDMI connector"
+}

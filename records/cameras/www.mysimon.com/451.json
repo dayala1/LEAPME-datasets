@@ -1,0 +1,23 @@
+{
+    "flashtype": "Detachable flash",
+    "cameraflashfeatures": "Wireless Off-Camera Control",
+    "additionalfeatures": "Brightness Control",
+    "hdmioutput": "Yes",
+    "category": "camera",
+    "displayrotation": "Folding",
+    "facedetection": "Yes",
+    "stillimageformat": "RAW + JPEG",
+    "redeyereduction": "Yes",
+    "type": "Digital SLR",
+    "touchscreen": "Yes",
+    "brand": "Olympus",
+    "sensortype": "Live MOS",
+    "specialeffects": "Water Colour",
+    "digitalvideoformat": "MOV",
+    "microphoneoperationmode": "Stereo",
+    "batteryformfactor": "Manufacturer specific",
+    "focusadjustment": "Automatic",
+    "flashmodes": "Auto Mode",
+    "viewfindertype": "None",
+    "supportedflashmemory": "SDXC Memory Card"
+}

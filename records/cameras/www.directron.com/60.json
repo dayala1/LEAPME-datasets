@@ -1,0 +1,15 @@
+{
+    "ledindicators": "- Status, LAN, USB, eSATA, Power, HDD 1, HDD 2",
+    "formfactor": "- Tower",
+    "lanport": "- 2 x Gigabit RJ-45 Ethernet port",
+    "dimensions": "- 150 (H) x 102 (W) x 216 (D) mm - 5.91 (H) x 4.02 (W) x 8.5 (D) inch",
+    "powerconsumptionw": "- In operation",
+    "powersupply": "- Input",
+    "buttons": "- Power button, one-touch-auto-video-backup button, reset button",
+    "hdd": "- 2 x 3.5\" SATA(II)/2.5\" SATA/SSD NOTE",
+    "fan": "- 1 x smart fan (7 cm, 12V DC)",
+    "category": "camera",
+    "flashmemory": "- 512MB Flash (DOM)",
+    "cpu": "- Dual-core Intel Atom processor",
+    "usb": "- 5 x USB 2.0 port (Front"
+}

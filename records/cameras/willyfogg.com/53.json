@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "led": "LED driver",
+    "item": "Description",
+    "tv": "Supports TV signal out",
+    "flash": "nand flash driver (bootable)",
+    "camera": "Camera driver (supports analog camera)",
+    "tf": "TF controller driver (microSD)",
+    "dvi": "Supports DVI-D signal out",
+    "audio": "Audio driver (supports recording/playing)"
+}

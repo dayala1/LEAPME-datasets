@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "lens": "3.6mm Lens",
+    "dimensions": "165 x 117 x 67mm (6.5 x 4.5 x 3.2\")",
+    "weight": "465g (1.02 lb)",
+    "minimumillumination": "0.1 Lux w/o IR LEDS 0.0 Lux w/ IR LEDs",
+    "viewangle": "75\u00b0",
+    "imagingsensor": "Sony 'Effio' Color 1/3in  CCD",
+    "electronicshutter": "NTSC: 1/60 - 1/100,000 second PAL: 1/50 - 1/100,000 second",
+    "effectivevideoresolution": "700 TVL NTSC: 976 x 494 pixels PAL: 976 x 582 pixels",
+    "materials": "Chassis: Aluminum",
+    "power": "Input: 12Vdc @ 300mA, 3.6W",
+    "dynamicrange": "Wide Dynamic Range",
+    "gaincontrol": "Automatic",
+    "irledillumination": "Works up to 30m (98 feet)",
+    "model": "PRO-760 Super Wide Angle CCD Security Camera",
+    "whitebalance": "Automatic",
+    "backlight": "Automatic",
+    "temperature": "Working: -20 ~ 45\u00b0 C (-4 ~ 113\u00b0 F)"
+}

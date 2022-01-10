@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Canon EOS Rebel SL1 - digital camera - body only",
+    "memorycardslot": "SD card",
+    "weight": "13 oz",
+    "cameraflash": "Pop-up flash",
+    "microsoftcertification": "Compatible with Windows 7",
+    "sensorresolution": "18.0 Megapixel",
+    "supportedbattery": "1 x Canon LP-E12 Li-ion rechargeable battery - 875 mAh ( included )",
+    "producttype": "Digital camera - SLR with Live View mode, movie recording",
+    "dimensionswxdxh": "4.6 in x 2.7 in x 3.6 in",
+    "lensincluded": "Body only",
+    "viewfinder": "Optical - fixed eye-level pentamirror",
+    "imageprocessor": "DIGIC 5",
+    "display": "LCD display - 3\"",
+    "maxvideoresolution": "1920 x 1080"
+}

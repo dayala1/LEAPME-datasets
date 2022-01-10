@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "power": "DC 5.0V (Charging via USB Cable on standard USB Port)",
+    "color": "White",
+    "transmissiondistance": "100 meters (open area), 30 meters (normal area)",
+    "imagesensor": "1/4\" Color CMOS Sensor",
+    "snratio": ">48db",
+    "audiocompression": "ADPCM",
+    "label6": "802.11g/n OFDM(BPSK,QPSK,16QAM)",
+    "label5": "802.11b DSSS(CCK,DQPSK,DBPSK)",
+    "workingtime": "4 hours",
+    "chargingtime": "2 hours",
+    "frequencyrange": "2.402-2.4835GHz",
+    "label12": "Resolution 640 x 480 Pixels",
+    "imageframerate": "30fps(VGA)",
+    "transmitpower": "IEEE802.11g 12\u00b11.5dbm",
+    "resolution": "VGA(640x480)(300k Pixels)",
+    "channel": "1~11,1~13,1~14"
+}

@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "dimensions": "102 x 58 x 41mm102 x 58 x 38mm102 x 58 x 36mm",
+    "weight": "290g281g240g",
+    "hotshoe": "NoMulti-InterfaceNo",
+    "wifi": "Yes, with NFCNo",
+    "evf": "Built-inOptionalNo",
+    "lensfocalrange": "24-70mm28-100mm",
+    "batterylifecipa": "320 shots350 shots330 shots",
+    "ndfilter": "YesNo",
+    "sensor": "20.2MP BSI-CMOS20.2MP CMOS",
+    "processor": "Bionz XBionz"
+}

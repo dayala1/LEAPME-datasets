@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "imagedisplayresolution": "112000 dots",
+    "microphone": "Monaural Microphone",
+    "whitebalancing": "Auto, Cloudy, Custom, Daylight, Fluorescent-H, Fluorescent-L, Tungsten",
+    "videodisplayresolution": "640 x 480 pixels (VGA)",
+    "audioformats": "WAV",
+    "flashrange": "Wide : 0.4 - 3.5m, Telephoto : 0.5 - 2.0m",
+    "isorating": "Auto / 80 / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted, Multi, Spot",
+    "selftimer": "Self timer: Off, 10 sec, 2 sec, Double (10 sec, 2 sec)",
+    "syncterminal": "Yes",
+    "imageformat": "JPEG (DCF, EXIF 2.21, DPOF 1.1)",
+    "screensize": "2.4 Inches",
+    "builtinflash": "Yes",
+    "flashmodes": "Auto, Fill-in, Slow Sync Flash",
+    "shootingmodes": "DIS, Movie, Program, Scene, Smart",
+    "facedetection": "Yes",
+    "videoformat": "AVI Motion JPEG"
+}

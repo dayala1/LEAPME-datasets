@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "touchscreen": "No",
+    "iscustomized": "Yes",
+    "weight": "401g-500g",
+    "color": "Black,white,sliver,yellow,blue,pink,gold",
+    "opticalzoom": "< 10x",
+    "mediatype": "HDD / Flash Memory",
+    "sensortype": "CMOS",
+    "storagetype": "Flash-Based DV",
+    "pixels": "5-6 million",
+    "modelnumber": "SJ4000",
+    "screensize": "< 2\"",
+    "imagestabilization": "Electronic Image Stabilization",
+    "launchdate": "2012",
+    "usage": "Home Use",
+    "imageresolution": "1080p",
+    "brandname": "other",
+    "type": "Portable",
+    "highdefinitionsupport": "1080P (Full-HD)"
+}

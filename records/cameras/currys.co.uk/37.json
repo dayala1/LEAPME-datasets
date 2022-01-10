@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "minimumdistance": "100 cm",
+    "startuptime": "2 seconds",
+    "type": "CMOS",
+    "dimensions": "620 x 820 x 320 mm (H x W x D)",
+    "weight": "363 g",
+    "focallength": "7 mm",
+    "resolution": "16 megapixels",
+    "colour": "Purple",
+    "maximumaperture": "f/3.0",
+    "imagestabiliser": "No",
+    "poweroptions": "Rechargeable battery",
+    "focusing": "Autofocus",
+    "batterytype": "AAA",
+    "isosensitivity": "Auto 100, 200, 400",
+    "accessoriesincluded": "- USB cable - Wrist strap"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "builtinmemorysize": "4 GB",
+    "iscustomized": "Yes",
+    "color": "White#FFFFFF",
+    "type": "Video Camera",
+    "colour": "Black",
+    "sensor": "CMOS",
+    "modelnumber": "Hidden Camera",
+    "mediatype": "MiniDV",
+    "specialfeatures": "Other",
+    "memorycardtype": "Memory Stick",
+    "style": "Hidden Camera",
+    "screensize": "< 2\"",
+    "placeoforigin": "Guangdong China (Mainland)",
+    "opticalzoom": "< 10x",
+    "brandname": "OEM",
+    "technology": "Pinhole",
+    "highdefinitionsupport": "720P (HD)"
+}

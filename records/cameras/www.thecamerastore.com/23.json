@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "weight": "402g",
+    "sensor": "1/1.7\u201d BSI CMOS Sensor",
+    "isosensitivity": "ISO 100 - 12800",
+    "lensconstruction": "12 elements in 10 groups",
+    "framerate": "30p",
+    "resolution": "12.0 Megapixels",
+    "opticalzoom": "10.7x Optical Zoom",
+    "continuousshootingspeed": "7 FPS Continuous Shooting",
+    "recordingmedia": "SD/SDHC/SDXC",
+    "screensize": "3.0\" LCD Monitor",
+    "powersource": "BLS-5 Li-ion battery",
+    "dimensionswxhxd": "116.2mm x 87mm x 56.5mm",
+    "autofocuspoints": "35 Point AF",
+    "shutterspeed": "1/2000 - 60 sec.",
+    "videoresolution": "1080p HD Recording",
+    "maximumaperture": "f2.8"
+}

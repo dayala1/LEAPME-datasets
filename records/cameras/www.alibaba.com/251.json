@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "casing": "Vandal\u00a0resistant,\u00a0weather-proof\u00a0with\u00a0IP66,\u00a0attachable\u00a0to\u00a0mounting\u00a0kit\u00a0of\u00a01.875\u201d\u00a0diameter",
+    "weight": "1.19kg",
+    "dimensionsdxl": "153mm\u00a0(D)\u00a0x\u00a0115mm\u00a0(H)",
+    "iriscontrol": "DC-IRIS",
+    "audiocompression": "G.711a/u,\u00a0AAC",
+    "networkinterface": "10M/100M\u00a0auto-sensing,\u00a0RJ45",
+    "videocompression": "H.264,\u00a0MJPEG",
+    "videobitrate": "32\u00a0Kbps\u00a0~\u00a08\u00a0Mbps,\u00a0multi-rate\u00a0for\u00a0preview\u00a0&\u00a0recording",
+    "poweradapter": "Output:\u00a012VDC/1A;\u00a0Input:\u00a0100~240VAC,\u00a050~60Hz",
+    "networkprotocol": "TCP/UDP/IP,\u00a0RTP/RTCP,\u00a0RTSP,\u00a0DHCP,\u00a0DDNS,\u00a0HTTP,\u00a0HTTPS,\u00a0SMTP,\u00a0FTP,\u00a0NTP",
+    "compliance": "FCC,\u00a0CE,\u00a0C-Tick,\u00a0IP66",
+    "illumination": "0.05Lux",
+    "audioinputoutput": "Line-In,\u00a0Line-Out"
+}

@@ -1,0 +1,23 @@
+{
+    "exposurecontrol": "TTL 256-zones metering",
+    "exposuremode": "Programmed AE",
+    "powersupply": "Li-ion battery NP-45A or NP-45B (included)",
+    "exposurecompensation": "-2.0EV - +2.0EV 1/3EV step",
+    "category": "camera",
+    "dimensions": "104.2 (W) x 58.5 (H) x 28.5 (D) mm",
+    "flash": "Auto flash (i-flash) Effective range : (ISO AUTO) Normal Wide : Approx. 50cm - 4.5m / 1.6ft. - 14.7ft. Telephoto : Approx. 90cm - 2.8m / 2.9ft. - 9.1ft. Macro Wide : Approx. 30cm - 80cm / 11.8in. - 2.6ft. Telephoto : Approx. 80cm - 1.2m / 2.6ft. - 3.9ft.",
+    "terminal": "Video output NTSC / PAL selectable with monaural sound Digital interface USB 2.0 High-Speed",
+    "aperture": "F3.4 / F8.4 (Wide) F5.6 / F14 (Telephoto) with ND filter",
+    "movierecording": "1280 x 720 pixels / 640 x 480 pixels / 320 x 240 pixels (30 frames/sec.) with monaural sound. Zoom function can be used.",
+    "sensitivity": "Auto, Equivalent to ISO 100 / 200 / 400 / 800 / 1600 / 3200* (Standard Output Sensitivity) * ISO 3200 is effective in image size S.",
+    "imagestabilizer": "CCD shift type",
+    "lens": "name Fujinon 10x optical zoom lens focal length f=5.0 - 50.0 mm, equivalent to 28 - 280 mm on a 35 mm camera full-aperture F3.4 (Wide) - F5.6 (Telephoto) constitution 8 groups 10 lenses",
+    "numberofeffectivepixels1": "16.0 million pixels",
+    "storagemedia": "Internal memory (none) SD / SDHC / SDXC memory card*2",
+    "lcdmonitor": "3.0-inch, approx. 230,000 dots, TFT color LCD monitor, approx. 96% coverage",
+    "shutterspeed": "(Auto mode) 1/4sec. to 1/2000sec., (All other modes) 8sec. to 1/2000sec. with mechanical shutter",
+    "flashmodes": "Red-eye removal OFF Auto, Forced Flash, Suppressed Flash, Slow Synchro. Red-eye removal ON Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro.",
+    "imagesensor": "1/2.3-inch CCD with primary color filter",
+    "digitalzoom": "Approx. 7.2x (up to approx. 72x, with 10x optical zoom)",
+    "fileformat": "still image JPEG (Exif Ver 2.3)*3 (Design rule for Camera File system compliant / DPOF-compatible) movie AVI (Motion JPEG)"
+}

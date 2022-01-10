@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Custom, Day Light, Fluorescent, Fluorescent-H, Tungsten",
+    "facedetection": "NA",
+    "flashrange": "Wide : 0.3 - 4.0m, Telephoto : 0.5 - 2.0m",
+    "shootingmodes": "Beach, Fireworks, Foliage, Kids&Pets, Landscape, Long Shutter, Low Light, Portrait, Smart Shutter*4, Snow",
+    "isorating": "Auto / ISO 80 / 100 / 200 / 400 / 800 / 1600",
+    "imagestabilizer": "Lens-shift type",
+    "dustreduction": "NA",
+    "metering": "Center-Weighted Average, Evaluative, Spot",
+    "syncterminal": "Yes",
+    "builtinflash": "NA",
+    "flashmodes": "Auto, Slow Sync Flash",
+    "continuousshots": "Up to 0.9 fps (Program mode), 2.8 fps (Low Light Mode)"
+}

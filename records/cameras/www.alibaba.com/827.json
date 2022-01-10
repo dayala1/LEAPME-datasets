@@ -1,0 +1,23 @@
+{
+    "powerconsumption": "Day:",
+    "exposuremode": "AUTO",
+    "illumination": "0Lux(IR ON)",
+    "category": "camera",
+    "display": "Image Sensor1/3\u2033CMOS",
+    "remoteoperation": "System, stream, account and network management",
+    "gaincontrol": "AUTO",
+    "pixel": "1.3 mega",
+    "function": "Privacy MaskingSupport, Max 4 areas",
+    "motiondetection": "Support",
+    "power": "DC 12V",
+    "waterproof": "IP66",
+    "snr": "39dB",
+    "irdistance": "5-20 meters",
+    "bitrate": "128Kbps~8Mbps, adjustable",
+    "installation": "To be installed into ceiling and desk.",
+    "alarm": "E-mail alert, client-end alarm",
+    "framerate": "Max 25fps",
+    "digitalnoisereduction": "3D digital noise reduction",
+    "resolution": "Max 1280*960",
+    "whitebalance": "AUTO"
+}

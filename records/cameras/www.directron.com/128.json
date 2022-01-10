@@ -1,0 +1,21 @@
+{
+    "ledindicators": "- Status, LAN, USB, HDD 1, HDD 2, HDD 3, HDD 4, HDD 5, HDD6, HDD7, HDD8",
+    "category": "camera",
+    "lanport": "2 x Gigabit RJ-45 Ethernet port",
+    "dimensions": "11.73(H) x 7.87(W) x 10.63(D) inch",
+    "certification": "CE, FCC, VCCI, BSMI",
+    "powerconsumption": "81W Write/Read",
+    "cpu": "Intel Core 2 Duo 2.8GHz processor",
+    "powersupply": "ATX 350W, input",
+    "vga": "Reserved",
+    "buttons": "Power, one touch auto video backup, reset",
+    "lcdpanel": "- LCD display with backlight Enter button, Select button for configuration",
+    "hdd": "8 x 3.5\" or 2.5\" SATA I/II HDD",
+    "fan": "2 x 12cm smart cooling fan",
+    "usb": "- 5 x USB 2.0 (front",
+    "formfactor": "Tower",
+    "humidity": "0~95% R.H.",
+    "flashmemory": "128MB DOM",
+    "operatingsystem": "Linux-embedded system",
+    "temperature": "0~40\u00b0C / 32~104\u00b0F"
+}

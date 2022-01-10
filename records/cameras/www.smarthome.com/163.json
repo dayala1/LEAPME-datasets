@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "Composite - 1.0 Vp-p / 75 Ohm",
+    "imagedevice": "1/3\" Color CCD",
+    "operationtemperature": "14\u00b0 F ~ 140\u00b0 F (-10\u00b0 C ~ 60\u00b0 C)",
+    "powerconsumption": "150mA",
+    "minimumillumination": "0.5 Lux",
+    "snratio": "More Than 48dB",
+    "agc": ">18db",
+    "humidity": "0-95%",
+    "effectivepixels": "811 x 508",
+    "powersource": "12VDC (300mA Regulated)",
+    "dimensionswxhxd": "2.75\" x 4.72\" x 1.69\" / 70mm x 120mm x 43mm",
+    "autoelectronicshutter": "1/60 to 1/100,000 sec.",
+    "resolution": "550 TV Lines"
+}

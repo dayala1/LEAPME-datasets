@@ -1,0 +1,22 @@
+{
+    "isosensitivity": "80-3200",
+    "shutterspeeds": "Shortest-1/2000sec, Longest-8sec",
+    "maxaperture": "f/2.5 \u2013 f/6.3",
+    "label18": "740mAh BP70A Battery",
+    "label16": "Wireless LAN",
+    "label14": "Built-in Microphone",
+    "label15": "Built in Flash",
+    "category": "camera",
+    "movieresolution": "(1280 x 720) Pixels",
+    "storage": "Micro SD/SDHC",
+    "videoformats": "MPEG-4",
+    "lens": "25mm wide angle lens",
+    "aspectratio": "4",
+    "dimensions": "90.9 x 53.9 x 16.9mm",
+    "focallength35mmequivalent": "25-125mm",
+    "imagesensor": "1/2.33 inch, 16.1 Mega pixel CCD sensor",
+    "effectivepixel": "Approx. 16.1 Mega pixel",
+    "opticalzoom": "5x",
+    "lcdscreensize": "2.7? inches 230,000 dots LCD",
+    "ports": "USB 2.0 High Speed"
+}

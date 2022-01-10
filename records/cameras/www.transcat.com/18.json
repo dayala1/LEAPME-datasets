@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "description": "ProductPrice",
+    "thermalsensitivity": "<0.05\u00b0C",
+    "focus": "Auto & Manual",
+    "zoom": "4\u00d7 Continuous Digital",
+    "other": "Joystick Control, Wi-Fi to Mobile Devices, MPEG4 Streaming Video Wi-FI, Bluetooth to PC/Smartphone, MeterLink, FLIR Tools",
+    "totalpixels": "307,200",
+    "resolution": "640 \u00d7 480",
+    "temperaturerange": "-4\u00b0F to 1,202\u00b0F (-20\u00b0C to 650\u00b0C)",
+    "accuracy": "+/-2% or 2\u00b0C"
+}

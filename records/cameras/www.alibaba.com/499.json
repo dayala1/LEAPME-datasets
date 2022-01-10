@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "connector": "USB\u00a02.0HDMI",
+    "video": "1080P,720P,480P(30\u00a0frames/second)\u00a04",
+    "displayscreen": "2.3\u00a0inch\u00a0LTPS\u00a0TFT\u00a0LCD",
+    "tvoutput": "TV\u00a0synthetic\u00a0signal:\u00a0NTSC/PAL",
+    "battery": "400mAh",
+    "whitebalance": "Auto/sunny/cloudy",
+    "lens": "Wide angle lens,120 degree",
+    "workingtemperaturehumidity": "0~40\u00a0Celsius\u00a0degree\u00a0/10%~80%",
+    "videorecordingformat": "AVI",
+    "shutter": "Electronic\u00a0shutter",
+    "audio": "Circumscribed:\u00a0T-Flash\u00a0\u00a0(Micro\u00a0SD)\u00a0(Maximum\u00a0support\u00a0of 32G)",
+    "sensor": "COMS\u00a0lens",
+    "sizeweight": "119*55*13.2",
+    "usb": "USB2.0high-speed\u00a0transmission"
+}

@@ -1,0 +1,22 @@
+{
+    "weight": "1800g",
+    "operationtemperature": "-10\u00b0C~+50\u00b0C RH95% Max",
+    "gammacorrection": "0.45",
+    "electronicshuttertime": "NTSC: 1/60s~1/100, 000s, PAL: 1/50s~1/100,000s",
+    "horizontalresolution": "1.3 Megapixel Sensor, 720P, Low Illumination, OSD, IR-CUT, 3D NR, Digital Zoom960H, 720TVL, Low Illumination, DEFOG,Real WDR, OSD, 3D NR, UTC Effio-V960H, 700TVL, Low Illumination, Super WDR, 3D NR, Demist, SLR, Sense-up, UTC, OSD (Auto Iris with ICR add USD5)960H, 700TVL, Low Illumination, DWDR, OSD, DNR, UTC Effio-E650TVL, Low Illumination, DWDR, OSD, DNR960H, 720TVL, Low Illumination, OSD, 3D NR, DEFOG, SLR, Sense-up, UTC Effio-A800TVL, With IR-CUT960H, 800TVL, With IR-CUT700TVL, With IR-CUT",
+    "powersource": "DC12V(+/-10%)/800mA",
+    "storagetemperature": "-30~+60\u00a0RH95% MAX",
+    "usableillumination": "0.01Lux /F1.20.001 Lux/F1.20.01Lux /F1.20.001Lux /F1.2",
+    "category": "camera",
+    "tvsystem": "PAL/NTSC",
+    "snratio": "\u226550dB (AGC OFF)\u226552dB (AGC OFF)\u226548dB (AGC OFF)\u226546dB (AGC OFF)",
+    "lens": "2.8-12mm Manual Zoom Lens",
+    "pixels": "1309(H)\u00d71049(V)NTSC:976(H)\u00d7494(V) PAL:976(H)x582(V)NTSC:768(H)\u00d7494V) PAL:752(H)x582(V)PAL:752(H)\u00d7582(V) NTSC:768(H)\u00d7494(V)720(H)X576(V)976(H)\u00d7496(V)728(H)\u00d7488(V)",
+    "videoout": "1Vpp, 75\u03a9",
+    "irled": "5X72PCS",
+    "imagesensor": "1/3\" SONY1/3\" SONY1/3\" HDIS",
+    "dimension": "305(W) x 113(H) x 103(D)",
+    "scanningsystem": "2:1 interface",
+    "syncsystem": "Internal, Negative sync",
+    "whitebalance": "Auto"
+}

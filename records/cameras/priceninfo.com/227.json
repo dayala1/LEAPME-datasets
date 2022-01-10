@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "movierecordingsize": "VGA, QVGA",
+    "ccdsize": "1/2.3 inch",
+    "dimensionwxhxdmm": "93.2 x 55.5 x 26.2mm",
+    "label1": "1 GB Internal memory, SD/SDHC Card Slot",
+    "aperturerange": "f3.0(W) \u2013 5.9(T)",
+    "powersupply": "Li-42B Battery",
+    "lightmeteringsystem": "ESP, Spot",
+    "selftimer": "Available (2seconds, 12seconds)",
+    "exposurecompensation": "\u00b12 EV in 1/3 EV steps",
+    "label14": "Sequential shooting",
+    "flashfunctions": "Auto, Red-Eye Reduction, Fill-in, Off",
+    "recordingfileformat": "JPEG",
+    "focusingsystem": "CCD contrast detection",
+    "label10": "ISO 64/100/200/400/800/1600/AUTO/HIGH",
+    "imageprocessor": "TruePic III",
+    "afmode": "iESP, Spot, Face Detect, tracking",
+    "label15": "White balance"
+}

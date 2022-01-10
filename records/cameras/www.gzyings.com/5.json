@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "meteringrange": "At f/1.0/ISO 320/26\u00b0",
+    "cameratype": "Compact digital rangefi nder system camera with a dedicated black-and-white image sensor.",
+    "label2": "LED light balance with two triangular outer and one round central LED for manual exposure setting.",
+    "colorspace": "sRGB hardwired.",
+    "exposuremodes": "Aperture priority (A)/Manual (M).",
+    "filesizes": "DNG\u2122",
+    "viewfinder": "LED symbol for flash status (on lower edge). Four-digit, seven-segment digital LED display, display brightness adapts to ambient light conditions, for",
+    "menulanguages": "German, English, French, Spanish, Italian, Japanese, traditional Chinese, simplifi ed Chinese, Russian.",
+    "sensitivityrange": "ISO 320/26\u00b0 to ISO 10000/41\u00b0, selectable in 1/3 ISO increments, in aperture priority automatic mode (A) and manual exposure setting, optional automatic control or manual selection. ISO 160 also available as a pull function.",
+    "storagemedia": "SD cards up to 2 GB, SDHC cards up to 32 GB.",
+    "lensmount": "Leica M bayonet with additional sensor for six-bit coding.",
+    "resolution": "Selectable, DNG\u2122",
+    "exposuremetering": "Through-the-lens (TTL) metering, center-weighted at working aperture. Center-weighted TTL metering for fl ash with system-compatible SCA-3000/2 standard fl ash units.",
+    "lenssystem": "Leica M-Lenses from 16 to 135 mm."
+}

@@ -1,0 +1,14 @@
+{
+    "warranty": "1\u00a0year",
+    "category": "camera",
+    "lens": "1.0MP\u00a0HD\u00a0special\u00a0lens\u00a04/6/8\u00a0MM",
+    "resolution": "resolution\u00a01280*\u00a0720/320*240",
+    "framerate": "30\u00a0frame",
+    "system": "WIN\u00a0XP/WIN8/WIN7",
+    "networkinterface": "10\u00a0MBPS\u00a0/\u00a0100\u00a0MBPS\u00a0adaptive/RJ45\u00a0interface",
+    "environment": "can\u00a0be\u00a0adjusted\u00a0using\u00a0the\u00a0general\u00a0environment",
+    "nightvision": "double\u00a0filter\u00a0automatic\u00a0switch\u00a0/\u00a042\u00a0mil\u00a0laser\u00a0dot\u00a0matrix/night\u00a08\u00a0to\u00a015\u00a0meters",
+    "workingtemperature": "-30 \u2103 -50 \u2103",
+    "wireless": "standard\u00a0WIFI\u00a0module",
+    "sensor": "CMOS\u00a0sensor"
+}

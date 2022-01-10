@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "operatingtemperature": "-4\u00b0F ~ 122\u00b0F / -20\u00b0C ~ 50\u00b0C",
+    "imagesensor": "1 Megapixel",
+    "indooroutdoor": "Indoor / Outdoor",
+    "ircutfilter": "Yes",
+    "nightvisiondistance": "50ft / 15m",
+    "daynightmode": "Colour during day / B&W at night",
+    "audio": "Yes",
+    "resolution": "720P (1280 x 720)",
+    "minimumillumination": "0 Lux (IR on) / 0.1 Lux (IR off)",
+    "viewingangle": "65\u00b0"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "sensor": "1/2.3\"",
+    "weight": "216g",
+    "resolution": "16 Megapixels",
+    "isosensitivity": "ISO 125-3200",
+    "framerate": "30p",
+    "opticalzoom": "12x Optical Zoom",
+    "continuousshootingspeed": "8 FPS Continuous Shooting",
+    "recordingmedia": "microSD",
+    "screensize": "3.7\" LCD Monitor",
+    "powersource": "EN-EL23 Li-ion Battery",
+    "dimensionswxhxd": "113 mm x 63.5 mm x 27.5 mm",
+    "autofocuspoints": "9 Point AF",
+    "videoresolution": "1080p HD Recording",
+    "gps": "GPS Enabled"
+}

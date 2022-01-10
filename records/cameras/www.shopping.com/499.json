@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "flashtype": "Built-In",
+    "stillimageformat": "EXIF 2.3      \u2022           DPOF 1.1",
+    "brand": "Canon",
+    "sensortype": "CCD",
+    "displaytype": "LCD",
+    "supportedflashmemory": "SDXC Card      \u2022           SDHC Card      \u2022           SD Card      \u2022           SDXC Memory Card      \u2022           SDHC Memory Card      \u2022           SD Memory Card",
+    "type": "Point & Shoot",
+    "whitebalance": "Tungsten (Preset)      \u2022           Fluorescent (Preset)      \u2022           Daylight / Sunny (Preset)      \u2022           Cloudy (Preset)      \u2022           Auto",
+    "hdmioutput": "No"
+}

@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "battery": "Lion Battery",
+    "supportsystem": "Windows me/2000/xp/2003/vista ; Mac os 10.4 ; Linux ;",
+    "voltage": "DC-5V",
+    "memory": "Micro SD Card (no included)",
+    "usbinterface": "MINI 5 Pin USB",
+    "videoresolution": "1280*720P",
+    "software": "mainstream operating system comes with video player software"
+}

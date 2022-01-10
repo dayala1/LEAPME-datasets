@@ -1,0 +1,22 @@
+{
+    "videooutput": "Composite Signal (1.0Vp-p, 75\u03a9)",
+    "operationtemperature": "-10\u00b0C ~ +50\u00b0C,\u00a0\u00a0\u00a0RH: 95% Max",
+    "gammacorrection": "0.45",
+    "powersupply": "DC12V",
+    "irpoweron": "CDS Auto Control",
+    "storagetemperature": "-20\u00b0C ~ +60\u00b0C,\u00a0\u00a0\u00a0RH: 95% Max",
+    "usableillumination": "0.01Lux/F2.0",
+    "category": "camera",
+    "electronicshutter": "Auto:\u00a0\u00a0\u00a0PAL 1/50-1/100,000Sec;\u00a0\u00a0\u00a0NTSC 1/60-1/100,000Sec",
+    "snratio": "\u2265 65dB (AGC OFF)",
+    "lens": "Board Lens 3.6 mm/F2.0",
+    "modelno": "BE-IJA960AHD",
+    "irdistance": "20m",
+    "pixels": "1280(H)\u00d7960(V)",
+    "irled": "24PCS of \u00a25mm IR LED",
+    "imagesensor": "1/2.8-inch 1.3 Megapixel CMOS",
+    "whitebalance": "Auto",
+    "scanningsystem": "PAL: 625 Lines, 50 Field/Sec;\u00a0\u00a0\u00a0NTSC: 525 Lines, 60 Field/Sec",
+    "syncsystem": "Internal",
+    "dimension": "168(D)x60(W) x60(H)"
+}

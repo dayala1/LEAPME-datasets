@@ -1,0 +1,16 @@
+{
+    "motiondetection": "Select On or Off",
+    "category": "camera",
+    "microphone": "included",
+    "power": "DC5V",
+    "operationsystem": "Windows ME/2000/XP/Vista or above",
+    "photo": "2.0 Mega-pixel, JPEG",
+    "gsensor": "included",
+    "sdcard": "up to 32 GB micro SD Card (includes 8 GB micro SD Card)",
+    "viewingangle": "120 degree front, 160 degree back",
+    "interface": "USB. 2.0, AV-in, AV-out",
+    "label13": "Rechargeable 500mAh Li-Polymer Battery",
+    "sensor": "OV9712",
+    "display": "2.0 inch TFT Colorful LCD",
+    "label14": "Cycled Recording"
+}

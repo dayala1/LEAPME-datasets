@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "microphone": "Stereo Microphone",
+    "facedetection": "Yes",
+    "aperturerange": "f/2.8 - f/5.8",
+    "imagestabilizer": "Optical",
+    "redeyereduction": "Yes",
+    "whitebalancing": "Yes",
+    "metering": "Centre-Weighted Average, Evaluative, Spot",
+    "selftimer": "Yes"
+}

@@ -1,0 +1,23 @@
+{
+    "weight": "0.7kg",
+    "poweradapter": "Output:\u00a012VDC/1A;\u00a0InputL\u00a0100\u00a0~\u00a0240\u00a0VAC,\u00a050\u00a0~\u00a060\u00a0Hz",
+    "factorylocation": "Room 110. No, 389 jinwan road .",
+    "category": "camera",
+    "numberofqcstaff": "5 - 10 People",
+    "dimensionsdxl": "120mm\u00a0(D)\u00a0x\u00a0100mm\u00a0(H)",
+    "ircutfilter": "Yes,\u00a0Mechanical",
+    "aperture": "F1.8",
+    "factorysizesqmeters": "1,000-3,000 square meters",
+    "audioinput": "Built-in\u00a0Microphone",
+    "contractmanufacturing": "OEM Service Offered",
+    "focallength": "3.6mm",
+    "minimumillumination": "0.05\u00a0Lux;\u00a00\u00a0lux\u00a0with\u00a0IR\u00a0LED\u00a0on",
+    "videocompression": "H.264,\u00a0MJPEG",
+    "networkprotocol": "TCP/UDP/IP,\u00a0RTP/RTCP,\u00a0RTSP,\u00a0DHCP,\u00a0DDNS,\u00a0HTTP,\u00a0HTTPS,\u00a0SMTP,\u00a0FTP,\u00a0NTP",
+    "numberofrdstaff": "11 - 20 People",
+    "daynightmode": "IR\u00a0LED\u00a0covering\u00a0up\u00a0to\u00a010\u00a0meters",
+    "audiooutput": "Line-Out,\u00a0600\u03a9,\u00a00.707\u00a0Vrms",
+    "casing": "IP66\u00a0compliant\u00a0weather-proof\u00a0metal\u00a0case",
+    "audiocompression": "G.711u/a,\u00a0AAC",
+    "videobitrate": "32\u00a0Kbps\u00a0~\u00a08Mbps,\u00a0Multi-rate\u00a0for\u00a0Preview\u00a0and\u00a0Recording"
+}

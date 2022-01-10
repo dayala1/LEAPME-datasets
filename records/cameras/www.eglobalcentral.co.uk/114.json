@@ -1,0 +1,23 @@
+{
+    "weight": "402 g (0.89 lb / 14.18 oz)",
+    "battery": "BLS-5 lithium-ion battery pack and charger",
+    "isosensitivity": "Auto, 100 - 12800",
+    "effectivepixels": "12 megapixels",
+    "manualfocus": "Yes",
+    "category": "camera",
+    "usb": "USB 2.0",
+    "sensorsize": "1/1.7\" (7.44 x 5.58 mm)",
+    "moviesize": "1080p",
+    "dimensionswxhxd": "116 x 87 x 57 mm (4.57 x 3.43 x 2.24\u2033)",
+    "gps": "None",
+    "focallengthfmm": "28 \u2013 300 mm",
+    "hdmi": "Yes (micro HDMI)",
+    "sensortype": "BSI-CMOS",
+    "imagestabilisation": "Optical",
+    "shutterspeed": "60 sec - 1/2000 sec",
+    "wireless": "Built-In",
+    "storagetype": "SD/SDHC/SDXC card",
+    "opticalzoom": "10.7\u00d7",
+    "maxresolution": "3968 x 2976",
+    "lcdtype": "Tilting"
+}

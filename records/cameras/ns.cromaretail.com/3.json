@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "colorfilter": "Primary (RGB) ColorLens Type:Nikon F mount",
+    "resolution": "24.1 MPAuto Focus:Yes",
+    "redeyereduction": "YesFace Detection:Yes",
+    "metering": "Matrix metering: 3D color matrix metering II (type G and D lenses); color matrix metering II (other CPU lenses) Center-weighted metering: Weight of 75% given to 8-mm circle in center of frame Spot metering: Meters 3.5-mm circle (about 2.5% of frame) centeISO Rating:ISO 100 - 6400",
+    "continuousshoots": "4 fpsWhite Balancing:Auto / incandescent / fluorescent (7 types) / direct sunlight / flash / cloudy / shade / preset manual / all except preset manual with fine-tuning.",
+    "selftimer": "Yes",
+    "shutterspeed": "Maximum: 1/4000 sec / Minimum: 30 secFocal Length:1.5x"
+}

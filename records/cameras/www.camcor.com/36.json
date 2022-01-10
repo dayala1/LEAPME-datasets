@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "lens": "F3.2 (f = 7.0mm)",
+    "dimensionsweight": "4.7\" x 2.4\" x 2.1\" 3.5 oz (without battery)",
+    "tvoutput": "HDMI, NTSC/PAL Selectable, Composite (HDMI and Camcorder Breakout cables not included)",
+    "battery": "Lithium-ion Rechargeable Battery",
+    "light": "LED Light On/Off",
+    "imagesensor": "5 Mega Pixel Sensor (2592x1944 native resolution)",
+    "systemrequirement": "Windows 2000/XP/Vista/7 Pentium III 800 MHz above 256 MB RAM; CD ROM; 1GB free HDD space; Available USB port; 16-bit Color Display; Compatible with Mac OSX",
+    "selftimer": "10 second delay",
+    "digitalzoom": "4X in Still Image mode, 4X in Video modes up to 720P",
+    "fileformat": "Picture: JPEG; Movie: AVI (H.264); Music: MP3",
+    "focusrange": "200cm-infinite (normal mode) center; 20 cm (macro mode)",
+    "pcinterface": "Mini USB 2.0 Port (USB Cable Included)",
+    "storagemedia": "Dual SD Card Slots for long video recording, One 2GB card included (No internal memory)",
+    "otherfeatures": "PC Web Cam, Built in Microphone and Speaker, USB mass storage disk",
+    "lcdmonitor": "2.5\"\" LCD",
+    "whitebalance": "Auto/Manual (Daylight, Fluorescent, Tungsten)",
+    "exposure": "Auto/Manual"
+}

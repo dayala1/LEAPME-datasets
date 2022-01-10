@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "dustreduction": "NA",
+    "facedetection": "NA",
+    "continuousshots": "Up to 3 Shots at 0.7 fps",
+    "shootingmodes": "Auto, Easy Auto, Movie, Scene, Smart Portrait",
+    "isorating": "Auto (Auto Gain ISO 80-1600)",
+    "imagestabilizer": "Electronic VR, BSS (Best Shot Selector)",
+    "redeyereduction": "Yes",
+    "whitebalancing": "Auto, Cloudy, Daylight, Flash, Fluorescent, Incandescent, Manual",
+    "metering": "256-Segment Matrix, Center-Weighted, Spot",
+    "selftimer": "10 sec",
+    "screensize": "3 Inches",
+    "imagedisplayresolution": "230000 dots",
+    "videodisplayresolution": "640 x 480 pixels (VGA)"
+}

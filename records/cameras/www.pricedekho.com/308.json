@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "colorfilter": "Primary Color",
+    "whitebalancing": "Auto, Cloudy, Custom, Daylight, Fluorescent, Fluorescent-H, Tungsten, Underwater",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 24 fps",
+    "facedetection": "Yes",
+    "flashrange": "Wide : 0.75 - 3.5m, Telephoto : 1.0 - 2.0m",
+    "focallength": "5 - 70 mm (35 mm Equivalent to 28 - 392 mm)",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "metering": "Center-Weighted Average, Evaluative, Spot",
+    "selftimer": "2 sec, 10 sec",
+    "shootingmodes": "Aperture Priority Ae, Beach, Best Image Selection, Creative Filter, Easy, Fireworks, Foliage, Hand Held Night Scene, High-Speed Burst, Kids & Pets, Landscape, Low Light, Manual, Movie Digest, Portrait, Program Ae, Shutter Priority Ae, Smart Auto, Smart Shutter, Snow, Stitch Assist, Underwater",
+    "screensize": "3 Inches",
+    "builtinflash": "Yes",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "461000 dots",
+    "flashmodes": "Auto, Manual, Slow Sync Flash",
+    "continuousshots": "Up to 3.2 fps"
+}

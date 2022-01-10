@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "dimensions": "116 (W) x 118.3 (H) x 68.2 (D) mm",
+    "weight": "307 g",
+    "flashrange": "0.6 - 2.7 m",
+    "focallength": "60 mm",
+    "type": "Instant",
+    "aperturerange": "F12.7",
+    "powersupply": "1.5 V DC",
+    "opticalzoom": "0.37x",
+    "seller": "ShippingPriceDetails",
+    "externalflash": "No",
+    "shootingmodes": "Indoors, Night, Cloudy, Shade, Sunny, Slightly cloudy,  Sunny and bright (F32)",
+    "lenstype": "Fujinon Lens",
+    "maximumshutterspeed": "1/60 sec",
+    "builtinflash": "Yes, Built-in constant firing flash with automatic light adjustment",
+    "otherfocusfeatures": "Focus Range (0.6m - Infinity), Lens Construction (2 Components & 2 Elements)",
+    "batterytype": "AA LR6 Alkaline Battery"
+}

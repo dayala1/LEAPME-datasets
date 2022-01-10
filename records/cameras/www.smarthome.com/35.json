@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p Composite Video",
+    "snratio": ">48dB",
+    "iprating": "IP66",
+    "dimensions": "3.125\" x 1.5\" x 1.5\" (80 x 37 x 37 mm) (without sunshield)",
+    "weight": "9.2 ounces",
+    "gammacorrection": "0.45",
+    "minimumillumination": "0.1-lux at F/1.4",
+    "gaincontrol": "Auto",
+    "upc": "676544010302",
+    "sync": "Internal",
+    "lens": "2.2mm",
+    "operatingtemperature": "14\u00b0 ~ 122\u00b0F (-10\u00b0 ~ 50\u00b0C)",
+    "powersource": "12VDC",
+    "scanningfrequency": "15.734 KHz x 59.94 Hz",
+    "ccd": "1/3\" Sony Super HAD II Color CCD",
+    "type": "Wide Angle Bullet Camera",
+    "videooutputformat": "NTSC",
+    "manufacturer": "SECO-LARM"
+}

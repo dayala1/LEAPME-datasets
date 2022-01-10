@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "eyepoint": "Approx. 21mm (At -1m-1 from the eyepiece lens center)",
+    "compatiblelenses": "Canon EF Lenses (excluding EF-S Lenses)",
+    "label0": "Type High-sensitivity, high-resolution, large single-plate CMOS sensor",
+    "label4": "Color Filter System RGB primary color filters",
+    "aspectratio3": "2 (Horizontal",
+    "label5": "Low Pass Filter Fixed position in front of the image sensor",
+    "dioptricadjustmentcorrection": "-3.0 to +1.0m-1 (diopter)",
+    "recordingmedia": "CF Cards (Type I); Compatible with UDMA CF cards; SD, SDHC, and SDXC Memory Cards",
+    "magnification": "Approx. 0.71x / Angle of view 34.1\u00b0 (with 50mm lens at infinity, -1 m-1 (dpt))",
+    "focusingscreen": "Fixed",
+    "coverage": "Approx. 100% vertically and horizontally (At approx. 21mm eyepoint)",
+    "mirror": "Quick-return half mirror (transmission: reflectance ratio of 40:60)",
+    "lensmount": "Canon EF mount",
+    "type": "Eye-level pentaprism",
+    "imageformat": "Approx. 36 mm x 24mm (35mm Full-frame)"
+}

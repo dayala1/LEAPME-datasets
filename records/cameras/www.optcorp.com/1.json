@@ -1,0 +1,22 @@
+{
+    "warranty": "2 Year Warranty",
+    "weight": "45g (camera body only)",
+    "powerconsumption": "0.64W",
+    "series": "QHY Planetary CMOS Cameras",
+    "adconversion": "8bit/12bit (output) , 14bit (Internal)",
+    "sensormanufacturer": "Aptina Imaging",
+    "pixelsize": "3.75um*3.75um",
+    "category": "camera",
+    "maximumframerate": "1280 x 960 @ 30FPS, 1024 x 768 @ 44FPS,  800 x 600 @ 75FPS,  640 x 480 @  106FPS, 20 x 240 @ 200FPS",
+    "sku": "QH-QHY5L-IIM",
+    "cameraweight": "45g",
+    "sensortype": "CMOS",
+    "interface": "USB 2.0",
+    "manufacturer": "QHY",
+    "shuttertype": "Rolling Electronic",
+    "computerinterface": "USB 2.0",
+    "colororbw": "Monochrome (B&W)",
+    "exposurerange": "20 microseconds to 10 minutes",
+    "shutter": "Electric Rolling Shutter",
+    "effectivepixels": "1280 x 960"
+}

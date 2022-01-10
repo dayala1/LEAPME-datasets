@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "flashtype": "Pop-up Flash",
+    "redeyereduction": "Yes",
+    "brand": "Nikon",
+    "tax": "Calculate",
+    "shipping": "$9.95",
+    "sensortype": "CMOS",
+    "opticalviewfindertype": "Fixed eye-level pentaprism",
+    "totalprice": "$58.90",
+    "specialeffects": "Silhouette      \u2022           Perspective Control      \u2022           Miniature      \u2022           Color sketch      \u2022           Color outline      \u2022           HDR      \u2022           Portrait      \u2022           Neutral      \u2022           Landscape      \u2022           Vivid      \u2022           Monochrome",
+    "digitalvideoformat": "MOV      \u2022           H.264",
+    "baseprice": "$48.95",
+    "supportedflashmemory": "SDXC Memory Card      \u2022           SDHC Memory Card      \u2022           SD Memory Card",
+    "type": "Digital SLR",
+    "viewfindertype": "Optical"
+}

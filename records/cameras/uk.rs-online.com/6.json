@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "refreshrate": "9Hz",
+    "dimensions": "28.4 x 8.6 x 13.5cm",
+    "weight": "0.726kg",
+    "application": "Electrical, Natural Gas, Water",
+    "fieldofview": "22.5 x 31\u00b0",
+    "horizontalfieldofview": "22.5\u00b0",
+    "displaysize": "3.5in",
+    "height": "13.5cm",
+    "width": "8.6cm",
+    "length": "28.4cm",
+    "interfacetype": "USB",
+    "storagemedia": "SD Card",
+    "focustype": "Manual",
+    "thermalsensitivity": "80mK",
+    "description": "TiR105 Build Diagnostic Thermal Imager"
+}

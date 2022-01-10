@@ -1,0 +1,23 @@
+{
+    "warranty": "90 days Need to Return?",
+    "protocol": "PELCO-D PELCO-P",
+    "minfocusdistance": "OFF/ ON (1X ~10X)",
+    "weight": "4.05 lbs",
+    "powersupply": "DC 12V +/- 1.0V 6 W (max)",
+    "height": "7 in.",
+    "effectivepixels": "NTSC: 768(H) x 494(V)",
+    "osd": "Built-In",
+    "size": "1/4\" SONY Super HAD CCD ICR Camera",
+    "category": "camera",
+    "dimensions": "\u00c3\u0098 5.0\" x 7.36\"",
+    "width": "9.5 in.",
+    "communicationmode": "RS485 Bus",
+    "baudrate": "4800 or 9600",
+    "lens": "3.78mm~ 37.8mm F1.6~ 1.9 (T) f= 3.7~ 37.8 (T)mm",
+    "minillumination": "0.03 LUX (ICR On)",
+    "resolution": "480TV Lines",
+    "zoom": "10X Optical Zoom and 10X Digital Zoom",
+    "length": "10.25 in.",
+    "syncsystem": "Internal Mode/ External (AC-Lock) Mode +/- 1Hz",
+    "whitebalance": "ATW/ AWB/ FIX (Zero Color Rolling)"
+}

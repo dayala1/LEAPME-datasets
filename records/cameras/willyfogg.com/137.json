@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "environment": "Operation temp. 0 \u00b0C ? 57 \u00b0C Operation humidity: 5 ? 95% RH Storage temp.-20 \u00b0C ? 85 \u00b0C",
+    "bracket": "Standard 121mm / Low Profile 79.2mm",
+    "mode": "Universal Serial Bus 3.0",
+    "interface": "Single-Lane (x1) PCI Express Gen2",
+    "poweroutput": "+5V / 900mA (each port)",
+    "speed": "Data Transfer rate of 1.5/12/480/5000 Mbps. Low Speed (1.5Mbps), Full Speed(12Mbps), High Speed(480Mbps), Super Speed(5Gpbs)",
+    "port": "2 external USB3.0 ports"
+}

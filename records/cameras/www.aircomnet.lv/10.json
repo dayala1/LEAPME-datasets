@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "shutter": "1/4 - 1/2000s /",
+    "lcdmonitor": "7.6cm (3\") LCD 460000 dots",
+    "dimensions": "107.9 x 69.7 x 39.9mm",
+    "weight": "227 g",
+    "imagesensor": "1/2.3'' CMOS",
+    "sensitivity": "ISO 100, 200, 400, 800, 1600, 3200, 6400",
+    "flash": "Working range (wide)  0.15 - 13.2m (ISO 3200)    Working range (tele)  0.4 - 5.7m (ISO 3200)",
+    "memorycard": "SD / SDHC / SDXC (UHS-I class supported)",
+    "lens": "Optical zoom  24x (WIDE)    Focal length  4.5 - 108.0mm    Focal length (equiv. 35mm)  25 - 600mm    Maximum aperture  3.0 - 6.9    Structure  11 lenses / 10 groups    Aspherical glass elements  3    ED glass elements  3",
+    "interface": "DC input  Combined A/V & USB output  USB 2.0 High Speed  HDMI\u2122",
+    "effectivepixels": "16 Megapixels",
+    "focusing": "Method  TTL iESP auto focus with contrast detection    Modes  iESP  Face Detection AF  Spot  AF Tracking  Standard mode  0.1m - \u221e (wide) / 0.4m - \u221e (tele)    Super Macro Mode  Closest focusing distance: 3cm    AF illuminator",
+    "shooting": "Sequential shooting mode (high speed)  30fps / 28 frames (in 3MP mode)    10fps / 28 frames (in 3MP mode)    Sequential shooting mode  1.5fps / 200 frames (Full Image Size)    3.0fps / 3 frames (Full Image Size)",
+    "whitebalance": "Overcast  Sunlight  Tungsten  Flourescent 1"
+}

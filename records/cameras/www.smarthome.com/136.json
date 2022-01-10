@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "1.0 Vp-p Composite 75 ohms",
+    "synchronizingsystem": "Internal",
+    "dimensions": "5.4\"(w) x 4\"(h)",
+    "pictureelements": "976H x 494V",
+    "operationtemperature": "-4\u00b0 F ~ 140\u00b0 F",
+    "resolution": "700 TV Lines Color/ 780 Lines B/W, Super High Resolution",
+    "minimumillumination": "0 Lux",
+    "snratio": "Less than or equal t 52db",
+    "currentconsumption": "250mA max",
+    "powersupply": "12V DC/24V AC",
+    "lens": "2.8-12mm",
+    "upc": "000355000663",
+    "imagesensor": "1/3\" Sony High Resolution Superhad CCD",
+    "gamma": "0.45",
+    "manufacturer": "Hawk-I Security"
+}

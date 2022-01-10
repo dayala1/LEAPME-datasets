@@ -1,0 +1,23 @@
+{
+    "operationtemperature": "-10 \u00b0C ~ +50 \u00b0C RH95% Max",
+    "gammacorrection": "0.45",
+    "electronicshuttertime": "Auto:PAL 1/50-1/100,000Sec;NTSC 1/60-1/100,000Sec",
+    "irpoweron": "CDS Auto Control",
+    "horizontalresolution": "1000TVL, 720P, 1.3Megapixel Sensor,Low\u00a0 Illumination, IR-CUT, 3DNR, Digital Zoom, OSD, UTC720TVL, Low Illumination, DEFOG, Real WDR,\u00a0\u00a0\u00a0 3DNR, Sense-up, OSD, UTC720TVL, Low Illumination, DEFOG, Super DWDR,\u00a0\u00a0 3DNR, Sense-up, OSD,\u00a0 UTC700TV Lines Low Illumination, DWDR,OSD (DNR, PM, MD)650TV Lines Low Illumination DWDR, OSD (DNR, PM, MD)800TV Lines with IR-CUT",
+    "effectivepixels": "1305(H)X1049(V)NTSC:976(H)\u00d7494(V),NTSC:768(H)\u00d7494(V),728(H)\u00d7488(V)",
+    "powersource": "DC12V 350mA",
+    "storagetemperature": "-20 \u00b0C ~ +60 \u00b0C RH95% Max",
+    "usableillumination": "0.01 Lux/F2.00.001 Lux/F2.00.01 Lux/F2.00.1 Lux/F2.0",
+    "category": "camera",
+    "tvsystem": "PAL/NTSC",
+    "snratio": "\u226548dB (AGC OFF)",
+    "lens": "Fix Lens 3.6mm/F2.0 (4/6mm Lens optional)",
+    "pixels": "IMX138+FH8520ICX663+EFFIO-VICX811AK+EFFIO-AICX811AK+ EFFIO-EICX639BK+NVP2090PC1099",
+    "videoout": "Composite Signal (1.0Vp-p, 75\u03a9)",
+    "irled": "5*24PCS",
+    "imagesensor": "1/3\"SONY1/3'' HDIS",
+    "scanningsystem": "PAL:625 Lines, 50 Field/Sec;NTSC:525 Lines, 60 Field/Sec",
+    "model": "BF20W-S88ABF20W-S82ABF20W-S72ABF20W-S70ABF20W-S65ABF20W-C80A",
+    "syncsystem": "Internal",
+    "whitebalance": "Auto"
+}

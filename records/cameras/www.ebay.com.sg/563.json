@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "cameratype": "Standard Point and Shoot",
+    "brand": "Canon",
+    "displaysize": "3\"",
+    "displaytype": "LCD",
+    "digitalzoom": "4x",
+    "sensorresolution": "12.1 MP",
+    "opticalzoom": "5x",
+    "supportedflashmemory": "SD Memory Card, SDHC Memory Card, SDXC Card",
+    "model": "S120",
+    "hdmioutput": "Yes",
+    "maxvideoresolution": "1920 x 1080",
+    "screensize": "3\""
+}

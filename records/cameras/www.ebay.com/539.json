@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "depth": "0.85 in.",
+    "minshutterspeed": "1/1600 sec",
+    "cameratype": "Point & Shoot",
+    "brand": "Sony",
+    "opticalzoom": "10x",
+    "height": "2.06 in.",
+    "sensortype": "Exmor R CMOS",
+    "displaytype": "LCD",
+    "digitalzoom": "40x",
+    "sensorresolution": "18.2 MP",
+    "screensize": "2.7\"",
+    "digitalvideoformat": "JPEG",
+    "displaysize": "2.7\"",
+    "supportedflashmemory": "Memory Stick Duo, Memory Stick PRO Duo, Memory Stick PRO-HG Duo",
+    "model": "DSC-WX100",
+    "sensorsize": "1/2.3",
+    "width": "3.63 in."
+}

@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "selftimer": "Available",
+    "facedetection": "Available",
+    "weight": "455 gm",
+    "thickness": "74.5 mm",
+    "sensortype": "CMOS",
+    "width": "124 mm",
+    "imageformat": "JPEG",
+    "redeyecorrection": "Available",
+    "shutterspeed": "30 - 1/8000sec",
+    "continuousshots": "3fps"
+}

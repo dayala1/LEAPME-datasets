@@ -1,0 +1,22 @@
+{
+    "features": "Motion sensor , ONVIF support , Power over Ethernet , Tamper-detection",
+    "networkinterface": "Ethernet 10Base-T/100Base-TX",
+    "connectivitytechnology": "Wired",
+    "includedqty": "1",
+    "category": "camera",
+    "productline": "AXIS",
+    "connectivitydetailstype": "Data cable",
+    "totalqty": "1",
+    "cameramounttype": "Flush mount",
+    "brand": "Axis",
+    "digitalvideoformat": "H.264 , MJPEG",
+    "interface": "Ethernet 10Base-T/100Base-TX",
+    "packagedquantity": "1",
+    "compatibility": "PC",
+    "manufacturer": "Axis Communications",
+    "cameratype": "Network camera",
+    "colororbw": "Color",
+    "networkprotocols": "HTTPS",
+    "model": "P1214 Network Camera",
+    "connectortype": "RJ-45"
+}

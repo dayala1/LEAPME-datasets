@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "modelname": "TV-IP572P",
+    "connectivitytechnology": "Cable",
+    "colorsupported": "Color",
+    "sensortype": "CMOS",
+    "item": "400312",
+    "videoformats": "Motion JPEG; MPEG-4",
+    "producttype": "Network Camera",
+    "ethernet": "Yes",
+    "brandname": "TRENDnet",
+    "productname": "TV-IP572P Network Camera",
+    "networkrj45": "Yes",
+    "maximumvideoresolution": "1280 x 800",
+    "manufacturer": "TRENDnet"
+}

@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "dimensions": "1.4\" x 2.9\" x 2.2\" with lens",
+    "weight": "80g or 2.8oz",
+    "cameratype": "Color 1/3\" Sharp CCD",
+    "minimumillumination": "0.05 lux",
+    "powersupply": "9 - 14 VDC polarity protected",
+    "currentconsumption": "Less than 150mA @ 12VDC",
+    "operatingfrequency": "5.725GHz - 5.875GHz",
+    "resolution": "420 TV lines",
+    "temperaturerange": "-22F to +140F",
+    "videoformat": "NTSC"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "dustreduction": "Yes",
+    "facedetection": "Yes",
+    "flashrange": "13m",
+    "focallength": "18 - 200 mm",
+    "isorating": "ISO 100-3200 / ISO 100-6400",
+    "whitebalancing": "Auto, Bracketing, Cloudy, Colour Temperature, Custom, Daylight, Flash, Shade, Tungsten Light, White Balance Correction, White Fluorescent",
+    "metering": "Center-Weighted Average , Evaluative, Partial, Spot",
+    "selftimer": "2 sec, 10 sec",
+    "shootingmodes": "Faithful, Landscape, Monochrome, Neutral, Portrait, Standard",
+    "lenstype": "Digital, Single-Lens Reflex",
+    "builtinflash": "Yes",
+    "autofocus": "TTL Secondary Image-registration, Phase Detection",
+    "continuousshots": "Yes",
+    "flashmodes": "Auto Flash",
+    "microphone": "Built-In Monaural, External Stereo Microphone"
+}

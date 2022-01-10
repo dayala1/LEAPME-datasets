@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1.0 Vp-p Composite 75 ohms",
+    "whitebalance": "On/Off by OSD",
+    "dimensions": "4.6\" x 3.25\"",
+    "weight": "0.5lbs",
+    "resolution": "520 TV Lines, High Resolution",
+    "imagesensor": "1/3\" Vertical Double Interline CCD",
+    "synchronizingsystem": "Internal",
+    "powersupply": "12V DC/ 24V AC",
+    "lens": "2.8mm-11mm auto iris",
+    "electronicshutter": "1/60-1/100,000 Sec",
+    "autogaincontrol": "On/Off by OSD",
+    "daynight": "True Day & Night, controlled by OSD",
+    "minimumillumination": "0.3 lux",
+    "blc": "Auto/On/Off by OSD"
+}

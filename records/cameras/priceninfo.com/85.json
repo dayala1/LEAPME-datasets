@@ -1,0 +1,22 @@
+{
+    "exposurecontrol": "Program AE",
+    "battery": "Rechargeable Lithium-ion NP-120",
+    "isoequivalent": "Auto, ISO 100, 200, 400, 800, 1600",
+    "exposurecompensation": "-2.0EV to +2.0EV (in 1/3EV steps)",
+    "category": "camera",
+    "internalstorage": "42.0 MB",
+    "dimensions": "145 gm",
+    "batterylife": "Approx 180 images",
+    "inbuiltflash": "Flash On, Flash Modes, Auto, Red eye reduction, Flash off",
+    "selftimer": "Triple Self-timer, 10 seconds, 2 seconds",
+    "numberofeffectivepixels": "16.1 Million Pixels",
+    "focallength": "f=4.6 \u2013 27.6 mm (approx. 26 \u2013 156mm equivalent to 35mm film)",
+    "focusmodes": "Macro, Area Spot Multi, Tracking, AutoFocus, Manual focus",
+    "focusrange": "5 cm to infinity(Wide)",
+    "storagemedia": "SD, SDHC, SDXC Memory Card",
+    "shutterspeed": "(Auto)1/2 to 1/2000 second. (Premium Auto)1/8 to 1/2000 second, (Night Scene)4 to 1/2000 second",
+    "fullaperture": "F3.5(W) \u2013 F11.3(W)",
+    "imagesensor": "1/2.3-inch Square pixel CCD Sensor",
+    "opticalzoom": "6x",
+    "digitalzoom": "4x"
+}

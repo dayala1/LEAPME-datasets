@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "maximumstillframeratefps": "60",
+    "productline": "Cyber-shot",
+    "color": "Black",
+    "colorclass": "Black",
+    "cameraresolutionmegapixel": "20.2",
+    "focusmode": "Auto",
+    "memorycardtype": "Memory Stick Duo",
+    "imagestabilizationtype": "Optical",
+    "minimumaperture": "f/1.8",
+    "resolution": "5472 x 3648",
+    "aspectratio": "16:9",
+    "digitalzoomx": "14"
+}

@@ -1,0 +1,18 @@
+{
+    "audioinput": "Stereo mini-pin jack (3.5mm diameter)",
+    "category": "camera",
+    "gps": "Optional GP-N100 GPS unit",
+    "acadapter": "EH-5b AC Adapter",
+    "imagesensortype": "CMOS",
+    "batterylife": "up to 300 shots per charge",
+    "autofocussystem": "Hybrid autofocus",
+    "battery": "EN-EL21 Lithium-ion Battery",
+    "type": "Advanced Camera with Interchangeable Lenses",
+    "isosensitivity": "160-6400",
+    "effectivepixels": "14.2 million",
+    "usb": "Hi-speed USB",
+    "storagemedia": "SD , SDHC , SDXC",
+    "lcdmonitor": "3-inch TFT-LCD with brightness adjustment",
+    "cardslot": "Secure Digital (SD)",
+    "hdmioutput": "Type C mini-pin HDMI connector"
+}

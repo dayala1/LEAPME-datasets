@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Standard form factor",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "focusadjustment": "Automatic",
+    "flashtype": "Built-in flash",
+    "stillimageformat": "JPEG",
+    "operatingsystemsupported": "MS Windows 7",
+    "brand": "Vivitar",
+    "redeyereduction": "Yes",
+    "sensortype": "CMOS",
+    "flashmodes": "Auto Mode",
+    "specialeffects": "Sepia",
+    "additionalfeatures": "Digital Image Rotation",
+    "viewfindertype": "None",
+    "digitalvideoformat": "AVI",
+    "supportedflashmemory": "SDHC Memory Card",
+    "type": "Point & Shoot",
+    "microphoneoperationmode": "Mono"
+}

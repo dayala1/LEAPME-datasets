@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "facedetection": "No",
+    "shootingmodes": "-",
+    "isorating": "ISO 100-3200",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted, Matrix, Spot",
+    "screensize": "3 Inches",
+    "imagedisplayresolution": "921000 dots",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD)"
+}

@@ -1,0 +1,18 @@
+{
+    "memorycard": "SD / SDHC / SDXC (UHS\u2011I class supported)",
+    "category": "camera",
+    "lcdmonitor": "Monitor type  LCD    Monitor size  7.6cm / 3.0'' (16:9)    Resolution  460000 dots    Brightness adjustment  +/\u2011 2 levels",
+    "dimensions": "109.9 x 64.1 x 27.6mm",
+    "weight": "218g (including battery and memory card)",
+    "color": "White",
+    "imagesensor": "Effective pixels  16 Megapixels    Filter array  Primary colour filter (RGB)    Full resolution  16.8 Megapixels    Type  1/2.3'' CMOS",
+    "sensitivity": "Auto  AUTO / High AUTO    Manual  ISO 125, 200, 400, 800, 1600, 3200, 6400",
+    "flash": "Modes  AUTO  Red-eye reduction  Fill-in  Off  Working range (wide)  0.12 \u2011 4m (ISO 1600)    Working range (tele)  0.1 \u2011 2.5m (ISO 1600)",
+    "powersupply": "LI\u201150B Lithium\u2011Ion Battery",
+    "lens": "Optical zoom  5x (WIDE)    Focal length  3.74 \u2011 18.7mm    Focal length (equiv. 35mm)  21 \u2011 105mm    Structure  10 lenses / 8 groups    Aspherical glass elements  5    Maximum aperture  3.5 \u2011 5.7",
+    "focusing": "Method  TTL iESP auto focus with contrast detection    Modes  iESP  Face Detection AF  Spot  AF Tracking  Standard mode  0.1m \u2011 \u221e (wide) / 0.1m \u2011 \u221e (tele)    Super Macro Mode  Closest focusing distance: 1cm",
+    "shooting": "Reduced resolution  60fps / 60 frames (in 3MP mode)    20fps / 60 frames    Full resolution  7fps / 6 frames (Full Image Size)    2.5fps / 200 frames",
+    "interface": "HDMI\u2122  Micro connector (Type D)    Wireless connectivity  Eye-Fi Card compatible  FlashAir  DC input    Combined A/V & USB output",
+    "whitebalance": "Overcast  Sunlight  Tungsten  Underwater",
+    "exposurecontrol": "Modes  i-Auto  Programme automatic  Super Macro  Scene Modes  Art Filter  Panorama  Hand-held Starlight  e-Portrait  Shutter speed  1/2 \u2011 1/2000s /"
+}

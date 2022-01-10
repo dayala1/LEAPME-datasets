@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p Composite output(75\u03a9/BNC)",
+    "lens": "3.2-86.4mm",
+    "weight": "5kg",
+    "backlightcompensation": "On/off",
+    "irviewdistance": "80-120m",
+    "imagesensor": "1/3 Sony CCD",
+    "snratio": "\u226550 dB(AGC OFF)",
+    "whitebalance": "Auto",
+    "electronicshutter": "PAL: 1/50-1/10000ses ; NTSC:1/60-1/12000ses",
+    "horizontalresolution": "700TVL/600TVL/480TVL",
+    "camera": "x1",
+    "poweradapter": "x1",
+    "worktemperature": "temp: -40\u00b0C to 60\u00b0C",
+    "model": "HH-975t",
+    "powercurrent": "DC12V4A",
+    "bracket": "Ceiling or Wall Mount"
+}

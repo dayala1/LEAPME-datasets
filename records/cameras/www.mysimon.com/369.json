@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "brand": "Canon",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "additionalfeatures": "HDMI",
+    "supportedflashmemory": "SDXC Card",
+    "type": "Bridge Camera",
+    "hdmioutput": "Yes"
+}

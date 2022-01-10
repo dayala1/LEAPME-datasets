@@ -1,0 +1,19 @@
+{
+    "recordingquality": "High and Medium Compression Options",
+    "privacybutton": "Yes (Same as WPS button)",
+    "label3": "Compression Options",
+    "dimensions": "5.5\" x 4\" x 2.5\" (14cm x 10.25cm x 6.34cm)",
+    "weight": "300g (without antenna)",
+    "operationtemperature": "32\u00b0 ~ 104\u00b0 F (0\u00b0C ~ +40\u00b0C",
+    "imagesensor": "1/4\u201d CMOS, 1280x800",
+    "fieldofview": "77\u00b0 (Horizontal), 54\u00b0 (Vertical)",
+    "maxpowerconsumption": "12V DC, 5.9W",
+    "iris": "Fixed Iris, F1.8",
+    "simultaneousviewers": "10",
+    "wifi": "802.11 Support b/g/n",
+    "wirelessencryption": "WEP, WPA or WPA2",
+    "category": "camera",
+    "label16": "IR LED Illumination \u2013 5 Meters",
+    "recordingcompression": "H.264, MPEG-4",
+    "operatinghumidity": "20% ~ 80% RH"
+}

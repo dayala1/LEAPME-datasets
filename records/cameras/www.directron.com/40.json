@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "BNC, 1.0Vp-p, 75ohms",
+    "supplyvoltage": "DC 12V (Recommend 1Amp)",
+    "operatingtemperature": "14 o F to 122 o F",
+    "imagesensor": "1/3\" Sony Color CCD",
+    "snratio": ">48~52dB",
+    "electronicshutter": "1/60 ~ 1/100,000 sec",
+    "horizontalresolution": "550 TV Lines",
+    "signalsystem": "NTSC",
+    "effectivepixels": "768(H) x 494(V)",
+    "waterresistance": "IP 65",
+    "irdistance": "120 feets",
+    "minimumillumination": "0 LUX (IR on)",
+    "synchronoussystem": "Internal"
+}

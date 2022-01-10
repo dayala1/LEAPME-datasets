@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "autohighdynamicrange": "Yes, (Auto Exposure Difference, Exposure difference Level (1.0-6.0 EV at 1.0 EV step), off)",
+    "facedetection": "On/On (Regist. Faces)/Off, Face Selection (maximum 8 detectables)",
+    "trackingfocus": "Yes (object tracking)",
+    "shootingtips": "Yes",
+    "sweeppanorama": "Horizontal (Wide/Standard), Vertical (Wide/Standard)",
+    "smileshuttertechnology": "Smile shutter (selectable from 3 steps)",
+    "antimotionblur": "6-image layering"
+}

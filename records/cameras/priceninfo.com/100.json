@@ -1,0 +1,22 @@
+{
+    "weight": "Approx. 670 gm",
+    "battery": "4xAA type alkaline batteries (included) / 4xAA type Ni-MH rechargeable batteries (sold separately) / 4xAA type lithium batteries (sold separately)",
+    "sensitivity": "AUTO (400) / AUTO (800) / AUTO (1600) / AUTO (3200), Equivalent to ISO 100/200/400/800/1600/3200/6400/12800 (Standard Output Sensitivity)",
+    "effectivepixels": "16.2 million pixels",
+    "imagestabilization": "Lens shift type",
+    "category": "camera",
+    "dimensions": "122.6 x 86.9 x 116.2 mm",
+    "selftimer": "Approx. 10 sec. / 2 sec. Delay",
+    "focusdistance": "Wide",
+    "ports": "USB 2.0 High-Speed, HDMI mini connector",
+    "focallength": "f=4.3mm \u2013 189.2mm, equivalent to 24 \u2013 1056mm on a 35mm format",
+    "lens": "Fujinon 44x optical zoom lens",
+    "movieformat": "1920 x 1080 pixels (60fps) / 1280 x 720 pixels (30fps) / 640 x 480 pixels (30fps) with stereo sound",
+    "storagemedia": "SD / SDHC / SDXC (UHS-I) memory card",
+    "shutterspeed": "(Auto mode) 1/4 sec. to 1/1700 sec. , (All other modes) 8 sec. to 1/1700 sec. with mechanical shutter",
+    "imagesensor": "1/2.3-inch CMOS with primary color filter",
+    "opticalzoom": "44x",
+    "lcdscreensize": "3.0-inch, approx. 460K-dot, TFT color LCD monitor, approx. 97% coverage",
+    "digitalzoom": "2.0x (Up to approx. 88x)",
+    "aperturerange": "F2.9 / F8.4 (Wide), F6.5 / F7.6 / F18.7 (Telephoto) with ND filter"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "selftimer": "Approx. 10 sec. / 2 sec. Delay",
+    "lens": "Fujinon Lens XF60mm F2.4 R Macro",
+    "dimensions": "139.5 x 81.8 x 42.5 mm",
+    "weight": "450 gm",
+    "exposurecontrol": "TTL 256-zones metering, Multi / Spot / Average",
+    "battery": "NP-W126 Li-ion Battery Batteries",
+    "shutterspeed": "(P mode) 1/4 sec. to 1/4000 sec., (All other modes) 30 sec. to 1/4000 sec., Bulb (max. 60 min.), Time 2 to 30 sec.",
+    "exposuremode": "Programmed AE, Shutter priority AE, Aperture priority AE, Manual Exposure",
+    "lcdscreensize": "3.0-inch RGBW (White) LCD monitor, approx. 1,230,000 dots",
+    "focusmode": "Single AF / Continuous AF / MF Distance Indicator",
+    "effectivepixels": "16.3 million pixels",
+    "sensitivity": "Auto, Equivalent to ISO 200-6400 (Standard Output Sensitivity)",
+    "storagemedia": "SD / SDHC / SDXC Memory Card",
+    "exporsurecompensation": "-2.0 EV \u2013 +2.0 EV, inclement with 1/3 EV step",
+    "movierecording": "1920 x 1080 pixels, 1280 x 720 pixels (24 frames/sec.) with stereo sound",
+    "movieformat": "H.264 (MOV) with Stereo Sound",
+    "imagesensor": "23.6 mm x 15.6 mm (APS-C) X-Trans CMOS with primary color filter",
+    "ports": "USB 2.0 High-Speed, HDMI Mini Connector"
+}

@@ -1,0 +1,22 @@
+{
+    "privacybutton": "Privacy mode on / off",
+    "weight": "505 g 1.1 lbs",
+    "powerconsumption": "Max 7.2 watts",
+    "general": "Sensor: 1/5\u201d CMOS Sensor Board Lens Focal Length: 4 mm F/No: 1.5 Minimum illumination: 0 lux (IR on) Focus Depth: 20 cm ~ infinity View: Digital Zoom: 4x Horizontal: 38.0\u00b0 Vertical: 28.7\u00b0 Diagonal: 46.5\u00b0",
+    "channels": "1~11 (FCC), 1~13 (ETSI)",
+    "frequency": "2.4 ~ 2.497 GHz ISM band",
+    "category": "camera",
+    "dimensions": "113 x 113 x 130 mm 4.5 x 4.5 x 5.1 in",
+    "antenna": "1 x detachable 2 dBi dipole antenna (Reverse-SMA connector)",
+    "receivingsensitivity": "802.11b: -89 dBm at 11 Mbps 802.11g: -74 dBm at 54 Mbps 802.11n: -71 dBm at 150 Mbps",
+    "daynight": "Built-in ICR Indoor night vision (IR) for distances up to 7.5 meters",
+    "led": "Power, Link / Act",
+    "power": "Input: 100 ~ 240Vac, 50/60 Hz, 0.2A Output: 12Vdc, 1.2A external power adapter",
+    "standard": "IEEE 802.11b, 802.11g and 802.11n",
+    "pantilt": "Pan: -170\u00b0 ~ +170\u00b0 Tilt: up 90\u00b0and down 25\u00b0 Auto-Patrol preset positions: 24",
+    "network": "IEEE 802.3u 10/100 Mbps Auto-MDIX Fast Ethernet",
+    "certifications": "CE, FCC",
+    "datarate": "802.11b: up to 11 Mbps 802.11g: up to 54 Mbps 802.11n: up to 150 Mbps",
+    "security": "64/128-bit WEP, WPA / WPA2-PSK",
+    "audio": "Built-in omni-directional microphone Sensitivity: -38 dB +/- 3 dB (5 meters max) Frequency: 100~20000 Hz S/N: >60 dB Format: PCM"
+}

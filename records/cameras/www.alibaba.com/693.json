@@ -1,0 +1,20 @@
+{
+    "networkport": "1 RJ45,10M/100M self-adaptive LAN port",
+    "videooutput": "1ch VGA+1ch HDMI",
+    "dimension": "Equipment : 88mm\u00d788mm\u00d732mm, Packing : 185.5mm\u00d7115.5mm\u00d736mm",
+    "workinghumidity": "10 % -90 %",
+    "powerconsumption": "\u2264 10W ( without HDD )",
+    "mobilesurveillance": "Support( iPhone, Windows Mobile, BlackBerry, Symbian, Android) smart phone",
+    "powersupply": "5V/2A",
+    "searchmode": "Time/Date, MD & Exact search (accurate to second), Smart search",
+    "recordingstorage": "Local HDD, network",
+    "recordingmode": "Support manual , auto, dynamic detection, alarm trigger record mode(Partly needs IPC Support)",
+    "modelnumber": "NVR-4A",
+    "audioinput": "4ch network audio input",
+    "workingtemperature": "-10 \u2103~+ 55 \u2103",
+    "dualstream": "Each channel can set main stream and sub stream",
+    "category": "camera",
+    "resolution": "1080P(1920\u00d71080)/960P/(1280\u00d7960)/720P(1280\u00d7720)& etc.",
+    "operatingsystem": "Embedded LINUX operating system",
+    "usbport": "2 USB 2.0 ports"
+}

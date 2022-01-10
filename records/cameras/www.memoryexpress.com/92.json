@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "certifications": "CE, FCC",
+    "led": "Power, Link / Act",
+    "dimensions": "75 x 115 x 30 mm 2.95 x 4.5 x 1.2 in",
+    "weight": "110 g 3.8 oz",
+    "powerconsumption": "5 watts max",
+    "receivingsensitivity": "802.11b: -89 dBm at 11 Mbps 802.11g: -74 dBm at 54 Mbps 802.11n: -71 dBm at 150 Mbps",
+    "audio": "Built-in omni-directional microphone Sensitivity: -38 dB +/- 3 dB (5 meters max.) Frequency: 100~20000 Hz S/N: >60 dB Format: PCM",
+    "general": "Sensor: 1/5\u201d CMOS Sensor Board Lens Focal Length: 4 mm F/No: 1.5 Minimum illumination: 0 lux (with night vision) Focus Depth: 20 cm ~ infinity View: Digital Zoom: 4x Horizontal: 38.0\u00b0 Vertical: 28.7\u00b0 Diagonal: 46.5\u00b0",
+    "channels": "1~11 (FCC), 1~13 (ETSI)",
+    "modulation": "DQPSK, DBPSK, DSSS, and CCK",
+    "frequency": "2.4 ~ 2.497 GHz ISM band",
+    "power": "Input: 100 ~ 240Vac, 50/60 Hz, 0.2A Output: 5 Vdc, 1.2A external power adapter",
+    "datarate": "802.11b: up to 11 Mbps 802.11g: up to 54 Mbps 802.11n: up to 150 Mbps",
+    "antenna": "Built-in 2 dBi antenna",
+    "security": "64/128-bit WEP, WPA / WPA2-PSK",
+    "standard": "IEEE 802.11b, 802.11g and 802.11n",
+    "daynight": "Built-in ICR Night vision (IR) up to 7.5 meters (indoor)",
+    "network": "IEEE 802.3u 10/100 Mbps Fast Ethernet"
+}

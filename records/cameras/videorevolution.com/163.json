@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "exposurecontrol": "Intelligent AUTO, Program AE, Aperture Priority AE, Shutter Priority AE, Manual",
+    "weight": "0.96lbs (435g) without battery, 1.2lbs (520g) with battery",
+    "format": "Video: MPEG-4 AVC/H.264 (MP4) Audio: AAC (2ch) Still: JPEG",
+    "powerconsumption": "Approx. 4.8W",
+    "imagesensor": "1/2.3-inch 12.75M Back-illuminated CMOS",
+    "isosensitivity": "Still: Auto, Manual (100/200/400/800/1600/3200/6400)",
+    "focus": "Auto, Manual, Tele Macro, 9-Point Multi (Still), 9-Point Select (Still), Face Detection, Face Tracking, Color Tracking, Touch Area",
+    "general": "GENERAL",
+    "lens": "KONICA MINOLTA HD LENS F2.8 - F4.5, f=6.7mm - 67.0mm (35mm film equivalent [Full HD video] 43.3mm - 433.0mm [still mode(4:3)] 37.4mm - 374.0mm)",
+    "lcd": "Tiltable 230K-pixel 3.0-inch wide, touch panel operation",
+    "filterdiameter": "46.0mm",
+    "others": "Accessory Shoe",
+    "storagemedia": "32GB internal memorySDXC/SDHC/SD Memory Card* (not provided)",
+    "interfaces": "INTERFACES",
+    "videorecordingmodes": "HD1080 (UHR): 1920x1080/60P, 36Mbps HD1080 (HR): 1920x1080/60P, 24Mbps HD720: 1280x720/60P iFrame: 960x540/30P"
+}

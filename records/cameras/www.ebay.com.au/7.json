@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "inputs": "1 x USB, 1 x SD/SDHC/MMC memory card up to 16GB",
+    "temperature": "0-40\u00b0C",
+    "weight": "450g",
+    "brightness": "200 cd/m2",
+    "brand": "ViewSonic",
+    "humidity": "80% (no condensation)",
+    "power": "5W, 100-240V, 50-60Hz",
+    "contrastratio": "400",
+    "model": "VFD875-20P",
+    "colour": "Black/Green/Yellow/Blue/Orange/White",
+    "backlight": "White LED"
+}

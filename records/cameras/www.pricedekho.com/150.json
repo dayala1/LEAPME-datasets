@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Daylight, Flash, Fluorescent, Incandescent, One Push, One Push Set",
+    "imagedisplayresolution": "230000 dots",
+    "videodisplayresolution": "NA",
+    "flashrange": "(ISO Auto) : Wide : 0.25 - 3.6m, Telephoto : 1.0 - 2.3m, (ISO 3200) : Wide : 7.1m, Telephoto : 4.5m",
+    "focallength": "4.25 - 42.5 mm (25 - 250 mm)",
+    "isorating": "Auto / 80 / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "imagestabilizer": "Optical",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted, Multi, Spot",
+    "selftimer": "2 sec, 10 sec, Potrait 1, Potrait 2",
+    "flashmodes": "Auto, Slow Sync Flash",
+    "lenstype": "Sony G Lens",
+    "screensize": "3 Inches",
+    "pictureangle": "25 mm Wide Angle",
+    "autofocus": "iAuto : Approx. 5 cm to Infinity (W) / Approx. 100 cm to Infinity (T)",
+    "builtinflash": "Yes",
+    "facedetection": "Yes",
+    "continuousshots": "Up to 1 fps"
+}

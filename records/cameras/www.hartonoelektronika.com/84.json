@@ -1,0 +1,22 @@
+{
+    "fnumber": "f/2.8 - f/16 (W), f/5.8 - f/16 (T)",
+    "focusingrange": "20cm (7.9in.) \u2013 infinity (W), 85cm (2.8ft.) \u2013 infinity (T) Macro: 20 \u2013 70cm (7.9in. \u2013 2.3ft.) (W), 85cm \u2013 1.6m (2.8 \u2013 5.2ft.) (T)",
+    "powersource": "Battery pack NB-10L",
+    "flashmodes": "Auto, On, Slow Synchro, Off",
+    "imagingprocessor": "DIGIC 5",
+    "category": "camera",
+    "numberofrecordingpixels": "Still Images: 16:9 Large: 4352 x 2448 Medium 1: 3072 x 1728 Medium 2: 1920 x 1080 Small: 640 x 360 3:2 Large: 4352 x 2904 Medium 1: 3072 x 2048 Medium 2: 1600 x 1064 Small: 640 x 424 4:3 Large: 4352 x 2904 Medium 1: 3072 x 2304 Medium 2: 1600 x 1200 Small: 640 x 480 RAW: 4352 x 3264 1:1 Large: 3264 x 3264 Medium 1: 2304 x 2304 Medium 2: 1200 x 1200 Small: 480 x 480 4:5 Large: 2608 x 3264 Medium 1: 1840 x 2304 Medium 2: 960 x 1200 Small: 384 x 480 Movies: iFrame Movie: 1280 x 720 (30fps*1) Miniature effect: 1280 x 720*2 / 640 x 480*2 Others*3: 1920 x 1080 (24fps*4), 1280 x 720 (30fps*1), 640 x 480 (30fps*1) *1 Actual frame rate is 29.97fps *2 Shooting: 6fps, 3fps, 1.5fps. Playback: 30fps*1 *3 Movies made in Movie Digest mode: 640 x 480 (30fps*1) only *4 Actual frame rate is 23.976fps",
+    "afframe": "Face AiAF, Center, Tracking AF, FlexiZone",
+    "weightcipacompliant": "Approx. 534g(including the battery and memory card)",
+    "dimensionscipacompliant": "116.7 x 80.5 x 64.7mm",
+    "isospeedstandardoutputsensitivityrecommendedexposureindex": "Auto, ISO 100 / 125 / 160 / 200 / 250 / 320 / 400 / 500 / 640 / 800 / 1000 / 1250 / 1600 / 2000 / 2500 / 3200 / 4000 / 5000 / 6400 / 8000 / 10000 / 12800",
+    "aperturetype": "Iris",
+    "flashrange": "50cm \u2013 7.0m (W), 1.0 \u2013 3.1m (T) (1.6 - 23ft. (W), 1.6 \u2013 10.2ft. (T))",
+    "focallength": "4x zoom: 15.1 (W) \u2013 60.4 (T)mm (35mm film equivalent: 28 (W) \u2013 112 (T)mm)",
+    "meteringsystem": "Evaluative, Center-weighted average, Spot",
+    "cameraeffectivepixels": "Approx. 14.3 Million pixels",
+    "interface": "Hi-Speed USB HDMI output Analog audio output (stereo) Analog video output (NTSC/PAL)",
+    "aspectratio": "4:3",
+    "shutterspeed": "1 \u2013 1/4000sec. 60 \u2013 1/4000sec. (Total shutter speed range)",
+    "lcdmonitorsize": "3.0-inch type, TFT colour LCD with wide viewing angle"
+}

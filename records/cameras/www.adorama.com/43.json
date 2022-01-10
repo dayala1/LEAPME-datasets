@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "meteringrange": "EV -2 To EV +20 with f/1.0 lens at ISO 100",
+    "flashsync": "speed 1/50s",
+    "remotecontrol": "optional standard mechanical cable release",
+    "dimensions": "5.4 x 3.1 x 1.5\" (138.0 x 79.5 x 38mm)",
+    "weight": "1.23 lb (610 g) w/out batteries",
+    "format": "35mm Rangefinder camera",
+    "powersourcebattery": "Two 3-Volt 2L76 (DL 1/3N) lithium batteries",
+    "focus": "Manual",
+    "isorange": "DX-coded film 25/15\u00b0 to ISO 5000/38\u00b0 manual setting from ISO 6/9\u00b0 to ISO 25000/45\u00b0.",
+    "multiexposure": "No",
+    "selftimer": "No",
+    "focusmodes": "Manual",
+    "exposuremodes": "Manual & Aperture-priority",
+    "viewfinder": "Large, bright combined range- and viewfinder with bright-line frames and automatic parallax compensation. Flash status; four-digit, seven-segment LED digital display ;film speed;exposure correction warnings;shutter speed in the auto mode;stored exposure setting;warnings of brightness readings in auto shutter speed  and of exposure times longer than 2 seconds. LED light balance with two triangular and a central round LED in the manual exposure control mode.",
+    "lensmount": "Leica M lenses with focal lengths from 21 to 135mm",
+    "exposuremetering": "Selective through-the-lens (TTL) exposure metering at working aperture. Center-weighted integral TTL metering for flash exposures with dedicated SCA 3000 standard flash units.",
+    "pcterminal": "Yes"
+}

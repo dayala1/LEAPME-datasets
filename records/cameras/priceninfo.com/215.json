@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "sensortype": "CMOS",
+    "shutterspeed": "2000 \u2013 16 secs",
+    "flash": "Internal",
+    "sceneselection": "Yes",
+    "focus": "Autofocus",
+    "memorycard": "SD (SDHC)",
+    "internalmemory": "128 MB",
+    "exposurecompensation": "Yes",
+    "screensize": "3 inches",
+    "imagestabilization": "Optical",
+    "aperture": "2.8 \u2013 5.6",
+    "exposuremodes": "Aperture priority, Shutter priority, Manual, Program",
+    "viewfindertype": "LCD, Optical",
+    "type": "Prosumer / hybrid",
+    "redeyeremoval": "Yes",
+    "whitebalancemodes": "Automatic, Daylight, Incandescent / tungsten, Fluorescent, Shade",
+    "zoom": "30 x (optical)"
+}

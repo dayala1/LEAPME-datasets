@@ -1,0 +1,14 @@
+{
+    "attr": "LCD ControllerResistive TouchscreenCamera InterfaceEMACDual CANUART/SPI/TWI",
+    "category": "camera",
+    "touchscreen": "Application of touchscreen",
+    "display": "LCD driver, Supports 480 \u00c3\u0097 272 display\u221a",
+    "sdcard": "Application of SD card",
+    "systemclock": "System frequency: 400 MHz",
+    "lcd": "Application of LCD",
+    "filesystem": "Based on FAT file system and Embedded file system lib implementation",
+    "serial": "Serial driver\u221a",
+    "audio": "Audio test",
+    "type": "FunctionDescriptionSource code",
+    "sdhc": "MicroSD Card driver\u221a"
+}

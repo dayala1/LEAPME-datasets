@@ -1,0 +1,19 @@
+{
+    "motionsensor": "Yes",
+    "category": "camera",
+    "batterylifemax": "10 h",
+    "builtinmicrophone": "Yes",
+    "dcinjack": "Yes",
+    "builtinspeakers": "Yes",
+    "colourofproduct": "White",
+    "manual": "Yes",
+    "touchsensitivescreen": "Yes",
+    "attr3dcompatibility": "Yes",
+    "platform": "Nintendo 3DS",
+    "compatiblememorycards": "SD, SDHC",
+    "displayresolution": "800 x 240 pixels",
+    "chargingtime": "3.5 h",
+    "displaydiagonal": "124 mm (4.88 \")",
+    "seconddisplay": "Yes",
+    "display": "LCD"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "lens": "3.4 ~ 122mm",
+    "minillumination": "0.01Lux (f1.6)",
+    "tilt": "0\" ~ 90\"",
+    "imagesensor": "1/4\" Sony Color EXview HAD CCD",
+    "snratio": ">50dB",
+    "powersupply": "24V AC @ 15W / DC 24V Available",
+    "panspeed": "0.05\" ~ 400\" / sec",
+    "backlightcompensation": "Auto / Manual",
+    "item": "Specifications",
+    "digitalzoom": "12x",
+    "opticalzoom": "36x",
+    "gaincontrol": "Auto / Manual",
+    "resolution": "High Resolution: 540 TVL",
+    "tvsystem": "NTSC",
+    "operationenvironment": "Temperature: -40 \"C ~ 60 \"C",
+    "tiltspeed": "0.03\" ~ 240\" / sec"
+}

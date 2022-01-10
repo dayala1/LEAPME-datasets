@@ -1,0 +1,23 @@
+{
+    "interfacedatatransferprotocol": "MTPPTP",
+    "videooutput": "NTSCPAL",
+    "effectivepixels": "20.1\u00cc\u00b4\u00cc_\u00cc\u00ce_million",
+    "ioterminal": "Audio/video (A/V) outputDigital I/O (USB)",
+    "category": "camera",
+    "digitalzoom": "Up to 4x (angle of view equivalent to that of approx. 800mm lens in 35mm [135] format)",
+    "sensorsize": "1/2.3\u00cc\u00b4\u00cc_\u00cc\u00ce_in.",
+    "totalpixels": "20.48\u00cc\u00b4\u00cc_\u00cc\u00ce_million (approx.)",
+    "builtinflashrangeapproxisosensitivityauto": "[W]: 0.5 to 3.5m (1 ft. 8 in. to 11 ft.)[T]: 1.5 to 2.0m (5 ft. to 6 ft. 6 in.)",
+    "imagesizepixels": "5152 x 3864",
+    "lensconstruction": "8 elements in 7 groups",
+    "lens": "8x Zoom-NIKKOR lens",
+    "interface": "Hi-speed USB",
+    "lensfocallength": "4.5-36.0mm (angle of view equivalent to that of 25\u00cc\u00ce_\u00cc\u00ce_\u00cc\u00ce\u00e5\u00b1200 mm lens in 35mm [135] format)",
+    "voicememofunction": "Yes",
+    "builtinflash": "Yes",
+    "imagesensor": "CCD",
+    "lenszoom": "8\u00cc\u00b4\u00cc_\u00cc\u00ce_x",
+    "lensfnumber": "f/3.7-6.6",
+    "builtinflashcontrol": "TTL auto flash with monitor preflashes",
+    "vibrationreduction": "Lens shift VR (still pictures)Lens-shift and Electronic VR (movies)"
+}

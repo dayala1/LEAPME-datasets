@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "power": "Output:12VDC/1A;\u00a0Input:100\u2013240VAC,\u00a050\u201360Hz",
+    "ircut": "yes",
+    "shutterspeed": "1/50-1/50000sec(manual\u00a0mode\u00a0manual ) 1/25-1/200sec(auto\u00a0mode\u00a0auto )",
+    "imagesensor": "1/3\"\u00a0Aptina AR0130\u00a0CMOS",
+    "framerate": "25 FPS",
+    "networkinterface": "RJ-45\u00a010-100\u00a0Base\u00a0T",
+    "lens": "Mega\u00a0pixel 2.8-12mm\u00a0lens",
+    "streams": "0.1 Mbps\u00a0\u2013 8 Mbps",
+    "networkprotocol": "RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP etc",
+    "irrange": "42 pcs L ed s,4 0m\u00a0night\u00a0vision",
+    "model": "ASB-W75KD-V1-1",
+    "motiondetect": "Yes",
+    "workingcondition": "0\u00b0C\u00a0\u2013\u00a045\u00b0C\u00a0(32\u00b0F\u2013133\u00b0F)\u00a0,\u00a010%\u00a0-\u00a090%PH"
+}

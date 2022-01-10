@@ -1,0 +1,23 @@
+{
+    "isosensitivity": "Auto, (ISO 100 - 3200)",
+    "powersupply": "Power source: Rechargeable Lithium-ion LB-060 Recordable images (approx): 240 Playback time (approx) : 200 min Movie recording time (approx): 200 min. AC adapter available: Yes (optional)",
+    "imagestabilization": "Still: Sensor-Shift SR, Digital SR Movie: Movie SR",
+    "category": "camera",
+    "flash": "Type: Retractable popup series-control auto flashion Flash Off, Flash Auto, Flash ON, Slow Sync., Slow Sync.+ Red-Eye, Red-Eye Reduction Effective range: Wide: approx. 1.64 ft - 20 ft (ISO 800) Tele: approx. 3.9 ft - 12 ft (ISO 800) Flash Exposure Compensation",
+    "playbackmodes": "Mode selection: Single, Index (9/16 Thumbnails), Slide Show, Date, Burst Shooting, Zoom (Approx. \u00d72 - \u00d78), Movie",
+    "drivemodes": "Mode selection: Single, Continuous Shooting, Cont. Shooting-High Speed (VGA), Cont. Shooting-Fast (4M), Time-Lapse (30sec / 1min / 5min / 10min). Continuous Shooting: Approx. 0.67 fps. Burst Shooting: (L): approx. 4.7 frame/sec (for up to 10 frames), (H):approx. 10 frames/sec (for up to 20 frames) Remote control: Yes",
+    "qualitylevels": "(best), (fine), (normal)",
+    "sensor": "1/2.3\" Backlit CMOS",
+    "interfaces": "Ports: USB 2.0 hi-speed, PC/AV Out, HDMI (type D), DC Input Terminal Video out: NTSC, PAL (HDMI out supports Auto, 1080i, 720p, 480p)",
+    "languagesupport": "English, Chinese (Simplified and Traditional), Japanese, Korean, French, Spanish, Portuguese, Thai, Indonesian, Vietnamese, Italian, German, Dutch, Russian, Polish, Swedish, Danish, Finnish, Norwegian, Greek, Turkish, Hungarian, Croatian, Czech, Arabic, Hindi",
+    "lens": "Type/construction: smc PENTAX zoom lens - 15 elements in13 groups (6 aspherical elements) Optical zoom: 52X Focal length (equiv.): 4.3mm - 223.6mm (24 - 1248mm) Digital zoom: approx. 4X Combined zoom: approx. 208X Aperture: f/2.8- 5.6",
+    "meteringsystem": "Type: TTL Face: Yes Center weighted: Yes Spot: Yes Exposure compensation: \u00b12EV (1/3EV steps)",
+    "focusrange": "Normal: 1.97' to infinity (wide), 9.8' to infinity (tele) Macro: 0.98' (wide to mid zoom) 1cm Macro: 0.03' (at mid zoom, set automatically)",
+    "storagemedia": "Internal memory: (approx. 15.4 MB) Removable memory: SD, SDHC, Eye-Fi Eye-Fi Compatible",
+    "fileformats": "Still: JPG (EXIF 2.3), DCF 2.0, DPOF, Print Image Matching III Movie: MOV AVC/H.264 (.mov), Audio (Linear PCM, stereo)",
+    "capturemodes": "Mode selection: Auto Mode, Program AE, Shutter priority, Aperture priority, Manual Mode, Face Beautifier, Handheld Night, Screen Mode, Pet Mode, Sunset, Fireworks, Multi Exposure, Sport, Night Portrait, Landscape, Portrait, Snow, Children, Party, Movie Mode, Custom Settings Face detection: Yes (AF&AE is available in all modes, up to 12 faces) Pet detection - up to 10 pet faces Smile Capture Blink Detection Date Imprint : Yes. (Date, Date & time)",
+    "shutter": "Type: Programmed AE lens shutter and sensor electronic shutter Shutter speed: 4 sec. - 1/2000 sec., 30 sec at most (Manual mode setting)",
+    "focussystem": "Type: TTL contrast detection autofocus. Focus modes: Single-AF, Multi-AF, Object Tracking , Face detection AF, Cont. AF Macro focus: Yes, Macro and 1 cm Macro available Focus lock: Yes, by pressing the shutter release button half way",
+    "resolution": "Effective pixels: 16MP Total pixels: 16.79MP",
+    "whitebalance": "Auto preset modes: Auto, Daylight, Shade, Cloudy, Fluorescent light (D:Daylight Color, N:Daylight White, W:Cool White, L:Warm White),Tungsten, Flash Manual WB: Yes"
+}

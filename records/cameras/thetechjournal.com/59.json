@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "lcdpixels": "920,000 Dots",
+    "exposurecontrol": "Programmed auto exposure with flexible program",
+    "shutterspeed": "1/8000 sec.",
+    "isospeedrange": "100 \u2013 6400",
+    "size": "23.6 x 15.8mm",
+    "lcdcoverage": "100%",
+    "whitebalancecontrol": "Incandescent",
+    "exposurecompensation": "\u00b15.0 EV range in 1/3, 1/2 or 1 EV steps",
+    "lcdmonitor": "3 inches",
+    "sensor": "CMOS",
+    "movieresolution": "1280 x 720"
+}

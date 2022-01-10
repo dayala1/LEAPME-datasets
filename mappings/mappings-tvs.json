@@ -1,0 +1,656 @@
+{
+    "new": [
+        "model",
+        "condition"
+    ],
+    "display_type": [
+        "Tv Definition",
+        "Tv Technology",
+        "Display Technology",
+        "Max. Resolution",
+        "Display Type",
+        "Definition",
+        "Resolution",
+        "Video Signal Standard",
+        "Screen Technology",
+        "Other Display Features",
+        "Display",
+        "LED Display Type",
+        "Panel Type",
+        "Screen Type"
+    ],
+    "color": [
+        "Primary Color",
+        "Color Category",
+        "Color",
+        "Color/Finish",
+        "Number of Colors",
+        "Color Support"
+    ],
+    "multi_pack_indicator": [
+        "Multi Pack Indicator"
+    ],
+    "dimensions_without_stand": [
+        "Product in Inches (L x W x H)",
+        "Width x Height x Depth (without stand)"
+    ],
+    "mpn": [
+        "Model No.",
+        "MPN",
+        "Manufacturer Part Number",
+        "Model Number"
+    ],
+    "image_contrast": [
+        "Contrast Ratio"
+    ],
+    "product_code": [
+        "Walmart No.",
+        "UPC",
+        "Conn's SKU",
+        "Mfr Part#",
+        "SKU",
+        "Manufacture SKU"
+    ],
+    "remote_included": [
+        "Remote Included",
+        "Remote Control Included",
+        "Is Remote Control Included"
+    ],
+    "package_weight": [
+        "Shipping Weight (in pounds)"
+    ],
+    "battery_type": [
+        "Battery Type"
+    ],
+    "display_resolution": [
+        "Resolution",
+        "Maximum Resolution",
+        "Max. Resolution",
+        "Display Resolution",
+        "HD Technology & Resolution HD Ready",
+        "Native Resolution",
+        "Vertical Resolution"
+    ],
+    "condition": [
+        "Condition"
+    ],
+    "brand": [
+        "Brand",
+        "Manufacturer"
+    ],
+    "commercial_features": [
+        "Smart TV Features",
+        "Additional Features"
+    ],
+    "viewable_size": [
+        "Screen Size",
+        "Screen Size Class",
+        "ScreenSize",
+        "Actual Screen Size",
+        "Display Size"
+    ],
+    "model": [
+        "Model",
+        "Model No.",
+        "Product Series",
+        "Model Number",
+        "Manufacture SKU",
+        "Model Name",
+        "Mfr Part#"
+    ],
+    "origin": [
+        "Country/Region of Manufacture"
+    ],
+    "video_interface": [
+        "Audio/Video Inputs",
+        "Video Input(s)",
+        "Component In (RGB Cable)",
+        "Interface"
+    ],
+    "energy_star_certified": [
+        "ENERGY STAR Certified",
+        "Is Energy Star-Certified"
+    ],
+    "warranty": [
+        "Warranty Parts",
+        "Warranty Labor",
+        "Limited Warranty",
+        "Warranty",
+        "Manufacturer's Parts Warranty/Labor",
+        "Labor",
+        "Parts"
+    ],
+    "media_card_slot": [
+        "Media Card Slot"
+    ],
+    "refresh_rate": [
+        "Refresh Rate",
+        "Horizontal Scanning Frequencies",
+        "Enhanced Refresh Rate",
+        "Standard Refresh Rate"
+    ],
+    "yearly_operating_cost": [
+        "Estimated Annual Operating Cost"
+    ],
+    "product_gtin": [
+        "UPC"
+    ],
+    "wall_mountable": [
+        "Wall Mountable",
+        "Wall-Mountable"
+    ],
+    "hdmi_ports": [
+        "Number Of HDMI Inputs",
+        "Number of HDMI Inputs",
+        "Number of HDMI Ports",
+        "Total Number of HDMI Ports",
+        "HDMI"
+    ],
+    "pc_input": [
+        "PC Input"
+    ],
+    "connectivity": [
+        "Network Compatibility",
+        "WiFi Connection",
+        "Additional Features",
+        "Wireless LAN"
+    ],
+    "height": [
+        "Product Height Without Stand",
+        "Height inches",
+        "Height",
+        "Height (Without Stand)"
+    ],
+    "smart_capable": [
+        "Smart Capable",
+        "Smart TV"
+    ],
+    "width": [
+        "Width",
+        "Width inches"
+    ],
+    "video_inputs_qty": [
+        "Number Of Composite Video Inputs",
+        "Number Of Component Video Inputs",
+        "Number of Component Video Inputs",
+        "Number of Composite Video Inputs"
+    ],
+    "rf_antenna_input": [
+        "RF Antenna Input",
+        "RF Capable"
+    ],
+    "3d": [
+        "3D Technology",
+        "3D"
+    ],
+    "depth": [
+        "Product Depth Without Stand",
+        "Panel Depth inches",
+        "Depth",
+        "Depth (Without Stand)"
+    ],
+    "audio_surround": [
+        "Surround Sound Supported",
+        "Simulated Surround"
+    ],
+    "height_with_stand": [
+        "Product Height With Stand",
+        "Height with Stand",
+        "Height (With Stand)"
+    ],
+    "speakers_type": [
+        "Speaker Output",
+        "Speaker Power Per Channel",
+        "Speaker(s)",
+        "Sound System",
+        "Speakers"
+    ],
+    "epaet_qualified": [
+        "EPEAT Qualified"
+    ],
+    "additional_features": [
+        "Specific Manufacturer Technologies",
+        "Features"
+    ],
+    "yearly_consumption": [
+        "Estimated Annual Electricity Use",
+        "Energy Consumption per Year"
+    ],
+    "wall_mount_dimensions": [
+        "VESA Wall Mount Standard",
+        "VESA Mount Standard"
+    ],
+    "weight_with_stand": [
+        "Product Weight With Stand",
+        "Weight with Stand (Approximate)",
+        "Weight (With Stand)"
+    ],
+    "weight": [
+        "Product Weight Without Stand",
+        "Shipping Weight (in pounds)",
+        "Weight",
+        "Weight (Approximate)",
+        "Product Weight",
+        "Weight (without stand)",
+        "Weight (Without Stand)",
+        "Product Weight With Stand"
+    ],
+    "speakers_qty": [
+        "Number Of Digital Optical Audio Outputs",
+        "Number Of Speakers",
+        "Number of Speakers"
+    ],
+    "usb_ports": [
+        "Number Of USB Port(s)",
+        "Number of USB Ports",
+        "USB",
+        "USB interfaces"
+    ],
+    "sound_effects": [
+        "Audio Type",
+        "Sound System",
+        "Surround Sound",
+        "Sound Mode",
+        "Surround Sound Supported"
+    ],
+    "3d_technology": [
+        "3D Technology",
+        "3D Type",
+        "3D Type (SG/FPR)"
+    ],
+    "viewing_angle": [
+        "Viewing Angle",
+        "Viewing Angle (vertical)",
+        "Vertical Viewing Angle",
+        "Horizontal Viewing Angle",
+        "Viewing Angles H/V"
+    ],
+    "product_type": [
+        "Family Line",
+        "TV Type",
+        "Product Type",
+        "Television Type"
+    ],
+    "image_aspect_ratio": [
+        "Aspect Ratio",
+        "Image Aspect Ratio",
+        "Contrast Ratio"
+    ],
+    "series": [
+        "Series"
+    ],
+    "region_code": [
+        "Region Code"
+    ],
+    "curved": [
+        "Curved Panel",
+        "Curved Screen"
+    ],
+    "internet_streaming": [
+        "Internet Movie Streaming"
+    ],
+    "wifi": [
+        "Built-In WiFi",
+        "Wireless LAN"
+    ],
+    "output_connectors": [
+        "Output Connectors",
+        "Audio Out"
+    ],
+    "builtin_tuner": [
+        "Built-in-Tuner",
+        "Electronic Program Guide"
+    ],
+    "input_connectors": [
+        "Input Connectors",
+        "Connector Type",
+        "Connectivity",
+        "Composite In (Audio Video Cable)",
+        "RF Connectivity Input",
+        "Component In",
+        "Composite In"
+    ],
+    "led": [
+        "LED"
+    ],
+    "usb": [
+        "USB Port",
+        "USB",
+        "USB Standard"
+    ],
+    "error": [
+        "display_type"
+    ],
+    "tagline": [
+        "Type",
+        "Additional Features",
+        "Features",
+        "Magic Remote Control",
+        "Manufacturer Website",
+        "Other Features",
+        "Other Video Features"
+    ],
+    "hdcp_compatability": [
+        "Hdcp Compatible"
+    ],
+    "dimensions": [
+        "Product in Inches (L x W x H)",
+        "Dimensions & Weight Details",
+        "Dimensions"
+    ],
+    "brightness": [
+        "Brightness"
+    ],
+    "pc_interface": [
+        "Pc Interface"
+    ],
+    "built_ins": [
+        "Combined With"
+    ],
+    "v_chip_control": [
+        "V-chip Control",
+        "V-Chip",
+        "V-chip"
+    ],
+    "channel_lock": [
+        "Parental Channel Lock"
+    ],
+    "tv_tuner": [
+        "Digital Tv Tuner",
+        "Analog Tv Tuner",
+        "TV Tuner"
+    ],
+    "widescreen_modes": [
+        "Widescreen Modes"
+    ],
+    "scan_format": [
+        "Display Format",
+        "Scan Format",
+        "HD Signal Support"
+    ],
+    "closed_caption_capability": [
+        "Closed Caption Capability",
+        "Closed Captioning"
+    ],
+    "image_contrast_ratio": [
+        "Image Contrast Ratio",
+        "Dynamic Contrast Ratio"
+    ],
+    "compliant_standards": [
+        "Compliant Standards"
+    ],
+    "power_supply": [
+        "Power Device",
+        "Power Type",
+        "Power Supply"
+    ],
+    "input_video_formats": [
+        "Input Video Formats",
+        "Video Input(s)"
+    ],
+    "streaming_service": [
+        "Streaming Service"
+    ],
+    "rms_output_power": [
+        "RMS Output Power",
+        "Total Output Power",
+        "Speaker Output"
+    ],
+    "depth_with_stand": [
+        "Depth with Stand",
+        "Depth (Without Stand)",
+        "Depth (With Stand)",
+        "Product Depth With Stand"
+    ],
+    "computer_operating_system": [
+        "Operating System",
+        "webOS"
+    ],
+    "composite_video": [
+        "Composite Video"
+    ],
+    "digital_audio_output": [
+        "Digital Audio Output",
+        "Digital Audio Out",
+        "Number Of Digital Optical Audio Outputs"
+    ],
+    "ethernet_technology": [
+        "Ethernet Technology",
+        "Ethernet Port"
+    ],
+    "product_name": [
+        "Product Name"
+    ],
+    "speakers": [
+        "Speakers"
+    ],
+    "width_with_stand": [
+        "Width with Stand"
+    ],
+    "usb_version": [
+        "USB Standard"
+    ],
+    "3d_glasses_required": [
+        "3D Glasses Required"
+    ],
+    "network_rj45": [
+        "Network (RJ-45)"
+    ],
+    "component_video": [
+        "Component Video"
+    ],
+    "interactive_features": [
+        "Interactive Features"
+    ],
+    "internet_access": [
+        "Internet Access"
+    ],
+    "ethernet": [
+        "Ethernet",
+        "Ethernet Port"
+    ],
+    "hdmi": [
+        "HDMI"
+    ],
+    "wattage_standby": [
+        "Standby Power Consumption",
+        "Power Consumption (Standby)"
+    ],
+    "media_player": [
+        "Media Player"
+    ],
+    "pc_streaming": [
+        "PC Streaming"
+    ],
+    "max_resolution": [
+        "Maximum Resolution"
+    ],
+    "4k_uhd_file_playback": [
+        "4K UHD File Playback"
+    ],
+    "processor_type": [
+        "Processor",
+        "Processor Core"
+    ],
+    "lg_content_store": [
+        "LG Content Store"
+    ],
+    "natural_voice_recognition": [
+        "Natural Voice Recognition"
+    ],
+    "triple_xd_engine": [
+        "Triple XD Engine"
+    ],
+    "universal_control_capability": [
+        "Universal Control Capability"
+    ],
+    "screen_share": [
+        "Screen Share"
+    ],
+    "tru_4k_upscaler": [
+        "Tru-4K Upscaler"
+    ],
+    "1 Pixel Matching):just_scan": [
+        "Just Scan (1"
+    ],
+    "ultra_hd": [
+        "ULTRA HD (3840x2160)"
+    ],
+    "tru_color_generator": [
+        "Tru-Color Generator"
+    ],
+    "real_cinema_24p": [
+        "Real Cinema 24p"
+    ],
+    "3d_glasses": [
+        "3D Glasses"
+    ],
+    "tru_4k_engine": [
+        "Tru-4K Engine"
+    ],
+    "web_browser_included": [
+        "Web Browser"
+    ],
+    "remote_control_model": [
+        "Magic Remote Control",
+        "Remote Control",
+        "User Controls",
+        "Remote Control Type"
+    ],
+    "content_share": [
+        "Content Share"
+    ],
+    "video_signal_standard": [
+        "Video Signal Standard"
+    ],
+    "digital_tv_tuner": [
+        "Digital Tuner",
+        "TV Tuner"
+    ],
+    "wattage_operational": [
+        "Operating Power Consumption",
+        "Power Consumption"
+    ],
+    "bundled_items": [
+        "Package Contents",
+        "In the Box",
+        "Sales Package",
+        "What's in the Box"
+    ],
+    "green_compliant": [
+        "Green Compliant",
+        "Green Compliance Certificate/Authority"
+    ],
+    "motion_enhancement_technology": [
+        "Motion Interpolation Technology"
+    ],
+    "backlight_technology": [
+        "Backlight Technology",
+        "Backlight"
+    ],
+    "dlna": [
+        "DLNA Certified"
+    ],
+    "ports": [
+        "Ports",
+        "RS-232 Ports",
+        "Interface"
+    ],
+    "sleep_wakeup_timer": [
+        "Sleep/Wakeup Timer",
+        "Sleep Timer"
+    ],
+    "supported_audio_formats": [
+        "Audio Decoding",
+        "Audio Codec"
+    ],
+    "response_time": [
+        "Response Time"
+    ],
+    "mounting_features": [
+        "Mounting Features",
+        "VESA Mount Compatibility"
+    ],
+    "pixel_pitch": [
+        "Pixel Pitch"
+    ],
+    "supported_languages": [
+        "OSD Languages Supported"
+    ],
+    "hd_capable": [
+        "HD"
+    ],
+    "headphone_jack": [
+        "Headphone Jack"
+    ],
+    "analog_tv_reception": [
+        "Analog TV Reception"
+    ],
+    "voltage": [
+        "Power Requirement",
+        "Voltage Required",
+        "Volts"
+    ],
+    "picture_engine": [
+        "Picture Engine"
+    ],
+    "launch_year": [
+        "Launch Year"
+    ],
+    "dimensions_with_stand": [
+        "Width x Height x Depth (with stand)"
+    ],
+    "digital_audio_format": [
+        "Sound Technology",
+        "Audio Decoding",
+        "Surround Sound Supported",
+        "Audio Track Codec"
+    ],
+    "sound_optimizer": [
+        "Sound Optimizer",
+        "Sound System"
+    ],
+    "audio_outputs": [
+        "Digital Audio Out",
+        "Number Of Digital Optical Audio Outputs",
+        "Number Of Analog Audio Outputs"
+    ],
+    "supported_memory_cards": [
+        "Memory Cards Supported"
+    ],
+    "rs232_ports": [
+        "RS-232 Ports"
+    ],
+    "component_in_ports": [
+        "Component In"
+    ],
+    "user_controls": [
+        "User Controls"
+    ],
+    "composite_in_ports": [
+        "Composite In"
+    ],
+    "technical_specifications": [
+        "Technical Specifications"
+    ],
+    "internet_services": [
+        "Instant Content Supported"
+    ],
+    "total_size": [
+        "Screen Size",
+        "Screen Size Class",
+        "Screen size class"
+    ],
+    "local_diming": [
+        "Local Dimming"
+    ],
+    "display_coating": [
+        "Anti-Glare Screen Coating"
+    ],
+    "cables_included": [
+        "Cable(s) Included"
+    ],
+    "builtin_dvd_player": [
+        "TV/DVD Combo"
+    ]
+}

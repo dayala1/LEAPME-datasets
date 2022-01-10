@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "power": "110 V ONLY",
+    "minillumination": ".2 Lux (Day) / 0 Lux (Night, w/ IR On)",
+    "gammacorrection": "Standard r=0.45",
+    "recordingmodes": "Manual, Motion Detection, Overwrite, Scheduled",
+    "storagecapacity": "Up to 32 GB (Micro SD Card)",
+    "videocompression": "MPEG-4",
+    "playback": "Multi-playback w/ Event Search Function",
+    "videoformat": "NTSC",
+    "resolutionpixels": "768 x 494",
+    "operatingtemperature": "0 ~ 50 Degrees C (32 ~ 122 Degrees F)",
+    "resolution": "520 TV Lines (Day) / 580 TV Lines (Night)",
+    "whitebalance": "2,100K - 9,100K Auto",
+    "dimensions": "4 1/2\" x 4 1/2\" x 4 1/2\""
+}

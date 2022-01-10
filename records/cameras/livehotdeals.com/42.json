@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "weight": "5.26",
+    "cameratype": "Compact Camera",
+    "megapixels": "16 Megapixel",
+    "opticalzoom": "5",
+    "lcdscreensize": "3\"",
+    "memorytype": "Secure Digital (SD) Card",
+    "imagestabilization": "Optical"
+}

@@ -1,0 +1,20 @@
+{
+    "lightsource": "8 white LED's",
+    "category": "camera",
+    "productdescription": "Digital USB Microscope - for viewing and recording via computer",
+    "dimensions": "98mm x 48mm (Length x Diameter)",
+    "stillimageformat": "JPEG - Resolution",
+    "evcompensation": "Auto",
+    "sensitivity": "1.0V/lux-sec@550nm",
+    "pcinterface": "USB 2.0",
+    "imagingsensor": "1/3.2\" CMOS",
+    "shutter": "1 sec to 1/1000 sec",
+    "magnification": "40X or 200X",
+    "attr36": "US$84.504.71%",
+    "focusrange": "Manual Focus from 10mm to 90mm",
+    "powersource": "USB port of computer",
+    "systemrequirements": "- OS",
+    "resolution": "2.0 Megapixel",
+    "whitebalance": "Auto",
+    "videoformat": "WMV - Resolution"
+}

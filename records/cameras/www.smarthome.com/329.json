@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "CVBS",
+    "imagedevice": "1/3\" Sony SuperHAD II CCD",
+    "iprating": "IP68",
+    "minillumination": "0 Lux (IR ON)",
+    "operationtemp": "14\u00b0 F~122\u00b0 F (-10\u00b0 C~50\u00b0 C) at 30%~80% RH",
+    "snratio": "More Than 52dB (AGC Off)",
+    "label13": "Dimensions 5.85\" x 4.75\" (148.48mm x 120.64mm)",
+    "shutter": "AUTO / MANUAL (1/60sec ~ 1/100,000sec)",
+    "effectivepixels": "811(H) x 508(V) 410K pixels",
+    "powersource": "Dual Voltage 12VDC/24VAC Operation",
+    "irleds": "35 LEDs at 850nm",
+    "resolution": "620 TV Lines",
+    "whitebalance": "ATW / AWC / PUSH / MANUAL (Adjustable)",
+    "label14": "Weight 2.44lb (1106.77g)"
+}

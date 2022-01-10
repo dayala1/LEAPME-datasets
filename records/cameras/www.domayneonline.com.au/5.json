@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "HDMI",
+    "displaysizeinch": "3.2",
+    "isosensitivitymax": "25600",
+    "connectivity": "HDMI , USB",
+    "color": "Black",
+    "shutterspeed": "1/4000",
+    "brand": "Canon",
+    "videosize": "HD 1920 x 1080",
+    "displaytype": "LCD",
+    "tripodmount": "No",
+    "producttype": "Digital SLR Cameras",
+    "stabilisation": "Yes",
+    "stillimageformat": "JPEG , RAW",
+    "batterytype": "LithiumIon",
+    "videoformat": "MOV , MPEG-4"
+}

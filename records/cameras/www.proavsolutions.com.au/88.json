@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "operatingtemperature": "-20 to 45\u00b0C",
+    "weight": "4.5 kg",
+    "inputoutput": "Audio input (Ch 1, Ch 2): 1x XLR 3-pin, female per channel For Mic: -60 dBu (may be selected to -20 dBu by menu or HSCU operations), balanced For Line: 0 dBu, balanced Mic 1 input: 1x XLR 3-pin, female Return control input: 1x 6-pin Prompter output/Genlock input/Return input: 1x SDI, 1 Vp-p, 75 \u03a9 DC input: 1x XLR 4-pin, DC 10.5 V - 17 V DC output: 1x 4-pin, DC 10.5 V - 17 V, 0.5 A (max.) 1x 2-pin, DC 10.5 V - 17 V, 2.5 A (max.) Test output: 1x BNC SDI output: 1x BNC Earphone output: 1x stereo mini jack CCU connection: 1x Triax Tracker: 1x 10-pin Intercom: 1x XLR 5-pin, female Remote: 1x 8-pin Lens: 1x 12-pin Viewfinder: 1x 20-pin",
+    "sensitivity": "F10 (59.94 Hz) / F11 (50 Hz) at 2000 lx, 3200 K, 89.9% reflectance",
+    "signalformat": "1080/59.94i/50i, 720/59.94p/50p, 1080/29.97PsF/25PsF (optional HZC-PSF3 software required for 1080/29.97PsF/25PsF)",
+    "horizontalresolution": "HD: 1,000 TV lines SD: 900 TV lines",
+    "builtinfilters": "Electronic color correction; ND Clear, 1/4 ND, 1/16 ND, 1/64 ND",
+    "shutterspeedrange": "1/100, 1/125, 1/250, 1/500, 1/1000, 1/2000 (s) (59.94i mode) 1/60, 1/125, 1/250, 1/500, 1/1000, 1/2000 (s) (50i mode)",
+    "effectivepictureelements": "1920 x 1080",
+    "storagetemperature": "-20 to 45\u00b0C",
+    "lensmount": "Sony bayonet mount",
+    "sensor": "3-chip 2/3\" type CCD",
+    "powerrequirements": "DC 180 V, 1.0 A (max.), DC 12 V, 7 A (max.)"
+}

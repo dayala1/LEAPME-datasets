@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "features": "Interchangeable Lenses, USB 2.0",
+    "lightsensitivitymax": "100",
+    "cameratype": "Digital SLR",
+    "brand": "Nikon",
+    "lensforsd": "18-55 VR",
+    "connectortypes": "USB to computer",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "sensorresolution": "24.1 MP",
+    "screensize": "3\"",
+    "displaysize": "3\"",
+    "supportedflashmemory": "SD Card, SD Memory Card, SDHC Card, SDHC Memory Card, SDXC Card",
+    "model": "D5200",
+    "hdmioutput": "Yes",
+    "maxvideoresolution": "6000 x 4000"
+}

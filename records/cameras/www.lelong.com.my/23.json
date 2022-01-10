@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "touchzoom": "Yes",
+    "picturesize": "2 M (1600 1200) 13 M (4160 3120)",
+    "batterylife": "Picture: Approximately 220 at 23 C Video: Approximately 80 minutes at 23 C",
+    "facedetection": "Yes",
+    "weight": "Approx. 0.4g",
+    "focallength": "30~90mm (3X)",
+    "memorycardsupport": "Micro SD/SDHC",
+    "opticalsensor": "CMOS",
+    "videosize": "1080/30p (1920 1080) (Maximum video length and size: 29 minutes and 4GB) Instant Sharing 1 (4:3 / 640x480) Instant Sharing 2 (1:1 / 640x640)",
+    "maximumaperture": "F3.3~5.9",
+    "cardtype": "Micro Secure Digital / micro Secure Digital High Capacity",
+    "voltage": "2.7V to 3.6V",
+    "size": "52.5 x 45 x 26 mm",
+    "shutterspeed": "1/4 ~ 1/1600s",
+    "dimension": "L15 x W11 x H1mm",
+    "imagesize": "Picture 13 mega pixels Video Up to Full HD"
+}

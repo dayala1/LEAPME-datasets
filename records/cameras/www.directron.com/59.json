@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "Composite",
+    "remotecontroller": "Yes",
+    "communicationinterface": "RS485, USB2.0 x 2 (Backup & Mouse), PS/2 x 1",
+    "ptzcontrol": "Yes",
+    "recordmode": "Manual / Sensor/ Timer / Motion Detection",
+    "powersupply": "Built-In, 115 - 230V AC Input",
+    "networkinterface": "RJ45 (LAN, INTERNET)",
+    "videoinput": "Composite",
+    "compressionformat": "Standard H.264 Baseline",
+    "audioinput": "-8dB ~ 22k, RCA x 16",
+    "alarmoutput": "4CH",
+    "alarminput": "No or NC 16CH",
+    "audiooutput": "-8dB ~ 92dB, RCA x 1",
+    "hdmioutput": "Yes"
+}

@@ -1,0 +1,23 @@
+{
+    "exposurecontrol": "TTL 256-zones metering, Multi / Spot / Average",
+    "weight": "350 gms",
+    "battery": "NP-50 Li-ion battery",
+    "sensitivity": "ISO 12800",
+    "effectivepixels": "12.0 million pixels",
+    "category": "camera",
+    "dimensions": "117\u00d769.6\u00d756.8 mm",
+    "selftimer": "Approx. 10sec. / 2sec. Delay",
+    "movierecording": "1920 x 1080 pixels / 1280 x 720 pixels / 640 x 480 pixels (30 frames / sec.) with stereo sound",
+    "focusdistance": "Normal- Wide",
+    "exposuremode": "Programmed AE, Aperture Priority AE, Shutter Priority AE, Manual",
+    "focallength": "f=7.1 \u2013 28.4 mm, equivalent to 28 \u2013 112 mm on a 35 mm camera",
+    "lens": "Fujinon 4 x optical zoom lens",
+    "movieformat": "H.264 (MOV) with Stereo sound",
+    "storagemedia": "SD / SDHC / SDXC(UHS-I) memory card",
+    "shutterspeed": "(Auto mode) 1/4 sec. to 1/4000* sec., (All other modes) 30 sec. to 1/4000* sec.",
+    "aperturerange": "F2.0-F11(Wide)",
+    "imagesensor": "2/3-inch EXR CMOS with primary color filter",
+    "lcdscreensize": "2.8-inch, approx. 460,000 dots, TFT color LCD monitor",
+    "exporsurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "ports": "HDMI Mini connector, USB 2.0 High-Speed, NTSC / PAL selectable with Monaural sound"
+}

@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "baudrate": "150,300,600,1200,2400,4800,9600,19200bps",
+    "workinghumidity": "30%-90%",
+    "battery": "Built-in 3.7V Lithium polymer battery ,3000mAh",
+    "communication": "RS232, RS485",
+    "display": "3.5 inch digital TFT-LCD ,960 x 240 resolution",
+    "poweradapter": "DC5V, 2A",
+    "workingtemperature": "-10\u00b0~+50\u00b0",
+    "rechargeable": "After charging 3-4 hour, working time lasts 12 hours",
+    "dimension": "176(L) x 94(W) x 36(H)mm"
+}

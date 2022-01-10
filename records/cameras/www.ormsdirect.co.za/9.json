@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "facedetection": "8 faces",
+    "trackingfocus": "Off / Auto",
+    "backgrounddefocus": "Yes",
+    "wifi": "Yes",
+    "superiorauto": "Yes",
+    "blinkdetection": "Yes",
+    "prioritysettingforfacedetection": "Auto / Off / Child Priority / Adult Priority",
+    "shootingtips": "Yes",
+    "pictureeffects": "HDR Painting / Richtone Monochrome / Miniature / Toy camera / Pop Color / Partial color / Soft High-key / Watercolor / Illustration",
+    "incameraediting": "Trimming / Unsharp Masking / Date view",
+    "sweeppanorama": "Intelligent Sweep Panorama, Intelligent Sweep Panorama (360)",
+    "imagestabilization": "Optical SteadyShot\u2122 Image Stabilization with Active Mode",
+    "smileshuttertechnology": "Yes",
+    "intelligentauto": "Yes",
+    "antimotionblur": "Yes"
+}

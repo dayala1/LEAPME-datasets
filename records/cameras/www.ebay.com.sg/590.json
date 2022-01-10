@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "bundledsoftware": "Picture Motion Browser 5.0 (Windows), PMB Portable 1.1 (Windows, Mac)",
+    "recordingmodes": "Easy, Intelligent Auto, Program, Scene, SteadyShot, Movie",
+    "focusmodes": "Multi AF, Center AF, Spot AF, Face Detection AF",
+    "fileformatstillvideo": "JPEG/Motion JPEG (.AVI)",
+    "meteringmodes": "Multi, Center-weighted average, Spot",
+    "storagemedia": "Memory Stick Pro Duo, SD, SDHC",
+    "imagestabilizationtype": "Digital",
+    "dimensionswhd": "3.9 x 2.3 x 0.7 inches",
+    "whitebalance": "Auto, Daylight, Cloudy, Fluorescent white, Fluorescent natural white, Fluorescent day white, Incandescent, and Flash"
+}

@@ -1,0 +1,18 @@
+{
+    "weightg": "225",
+    "category": "camera",
+    "lensconstruction": "14 elements in 10 groups (1 Aspherical lens, 1 ED lens)",
+    "aperturetype": "7 diaphragm blades / Circular aperture diaphragm",
+    "focallength": "f=45mm (35mm camera equivalent 90mm)",
+    "aperturerange": "F2.8",
+    "closestfocusingdistance": "FULL: 0.15m / 0.5ft, LIMIT: 0.5m / 1.64ft",
+    "maxdiameter": "\u03c663mm / 2.48 in",
+    "filtersize": "\u03c646mm / 1.81 in",
+    "diagonalangleofview": "27\u00b0",
+    "opticalimagestabilizer": "YES",
+    "maximummagnification": "Approx. 1.0x / 2.0x (35mm camera equivalent)",
+    "minimumaperture": "F22",
+    "mount": "Micro Four Thirds mount",
+    "overalllength": "Approx. 62.5mm / 2.46 in (from the tip of the lens to the base side of the lens mount)",
+    "weightoz": "7.94"
+}

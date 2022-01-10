@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "hdmioutput": "Can be selected from Auto, 480p, 720p, and 1080i",
+    "monitor": "6.7 cm (2.7-in.), approx. 230k-dot, TFT LCD with anti-reflection coating and 5-level brightness adjustment",
+    "weight": "Approx. 160 g (including battery and SD memory card)",
+    "batterylifeenel19": "Still pictures: Approx. 250 shots Movies: Approx. 1h 40 min (HD 720p). The maximum file size for a single movie is 4 GB and the maximum movie length for a single movie is 29 minutes, even when there is sufficient free space on the memory card for longer recording.",
+    "isosensitivity": "ISO 80, 100, 200, 400, 800, 1600, 3200 Auto (auto gain from ISO 80 to 1600) Fixed range auto (ISO 80 to 400, 80 to 800)",
+    "powersources": "One Rechargeable Li-ion Battery EN-EL12 (supplied) AC Adapter EH-62F (available separately)",
+    "lens": "10x optical zoom, NIKKOR lens 4.5-45.0mm (angle of view equivalent to that of 25-250 mm lens in 35mm [135] format) f/3.2-5.8; Digital zoom Up to 4x (angle of view equivalent to that of approx. 1000 mm lens in 35mm [135] format)",
+    "effectivepixels": "16.0 million",
+    "dimensionswxhxd": "Approx. 93.0 x 56.7 x 25.4 mm",
+    "interface": "Hi-Speed USB",
+    "storagemedia": "Internal memory (approx. 74 MB), SD/SDHC/SDXC memory card",
+    "suppliedaccessories": "Camera Strap, Rechargeable Li-ion Battery EN-EL12, Charging AC Adapter EH-69P, USB Cable UC-E6, Audio Video Cable EG-CP16, ViewNX 2 CD-ROM",
+    "imagesensor": "1/2.3-in. type CCD; total pixels: approx. 16.44 million",
+    "focusrangefromlens": "[W]: Approx. 50 cm to infinity, [T]: Approx. 1.0 m to infinity, Macro mode: Approx. 10 cm to infinity ( wide-angle position )"
+}

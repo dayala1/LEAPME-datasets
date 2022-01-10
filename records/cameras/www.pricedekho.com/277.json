@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 30 fps",
+    "audioformats": "AAC, WAV",
+    "hdmi": "Yes; HDMI Mini Connector (Type C)",
+    "focallength": "4.3 - 180 mm (35 mm Equivalent to 24 - 1000 mm)",
+    "displaytype": "TFT LCD",
+    "lenstype": "Nikkor Lens",
+    "imageformat": "JPEG (MPO, DCF, EXIF 2.3, DPOF, MPF)",
+    "screensize": "3.2 Inches",
+    "usb": "USB Hi-Speed",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "921000 dots",
+    "videoformat": "AVC, H.264, MOV, MPEG-4",
+    "gps": "NA"
+}

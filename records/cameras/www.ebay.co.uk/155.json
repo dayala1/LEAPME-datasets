@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "features": "Wi-Fi, built-in GPS",
+    "weight": "499 gr",
+    "cameratype": "Digital SLR",
+    "type": "Digital SLR",
+    "brand": "Nikon",
+    "megapixels": "24.2 MP",
+    "lensforsd": "Body Only",
+    "displaysize": "3.2\"",
+    "displaytype": "LCD",
+    "sensorresolution": "24.2 MP",
+    "screensize": "3.2\"",
+    "supportedflashmemory": "SD Memory Card, SDHC Memory Card, SDXC Card",
+    "model": "D5300",
+    "maxvideoresolution": "1920 x 1080",
+    "batterytype": "Lithium-Ion",
+    "colour": "Black",
+    "hdmioutput": "Yes"
+}

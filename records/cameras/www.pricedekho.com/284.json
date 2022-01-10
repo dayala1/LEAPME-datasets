@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "dustreduction": "NA",
+    "whitebalancing": "Auto, Cloudy, Daylight, Flash, Fluorescent, Incandescent, Manual",
+    "supportedlanguages": "24 Languages (Arabic, Chinese, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Indonesian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Thai, Turkish, Ukrainian)",
+    "continuousshots": "Up to 10 Shots at 0.7 fps",
+    "shootingmodes": "Auto, Movie, Scene Auto Selector, Scene, Smart Portrait, Subject Tracking",
+    "isorating": "Auto (Auto Gain ISO 100-1600) Fixed range Auto (ISO 100-400 / ISO 100-800) Manual Selection: ISO 100 / 200 / 400 / 800 / 1600 / 3200",
+    "imagestabilizer": "Lens Shift Type",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted",
+    "selftimer": "2 sec, 10 sec",
+    "supportedaspectratio": "16:9, 4:3",
+    "screensize": "2.7 Inches",
+    "videodisplayresolution": "NA",
+    "imagedisplayresolution": "230000 dots",
+    "facedetection": "NA"
+}

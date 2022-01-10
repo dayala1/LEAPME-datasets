@@ -1,0 +1,23 @@
+{
+    "size": "1/2.33'' Sensor Size",
+    "category": "camera",
+    "memoryincluded": "40MB Internal",
+    "movieresolution": "640 x 480",
+    "focallength": "f = 6.3 - 31.5mm",
+    "maximumaperture": "F3.5 - F5.5",
+    "sensor": "CCD",
+    "compressedformat": "DPOF 1.1",
+    "imageresolution": "3648 x 2736",
+    "label0": "12.2-megapixel effective recording",
+    "label1": "3\" AMOLED (Active Matrix Organic Light-Emitting Diode) viewscreen for improved contrast ratio and better power efficiency",
+    "label2": "5X optical zoom (5X digital/25X total zoom)",
+    "label3": "Dual Image Stabilization (optical and digital)",
+    "label4": "Wide-angle lens for shooting landscapes and large groups",
+    "label5": "Wide-angle lens for shooting landscapes and large groups",
+    "storagemedia": "SD/SDHC Memory Card",
+    "lcdmonitor": "3 inches",
+    "lcdcoverage": "100%",
+    "opticalzoom": "5x",
+    "focusmode": "TTL - AF",
+    "lcdpixels": "230,000 pixels"
+}

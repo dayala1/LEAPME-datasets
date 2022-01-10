@@ -1,0 +1,16 @@
+{
+    "maximumrecordingtime": "HQ Mode: Approx. 100 min with  (32 GB) memory card Approx. 50 min with (16 GB) memory card Approx. 25 min with  (8 GB) memory card SP Mode: Approx. 140 min with SBP-32 (32 GB) memory card Approx. 70 min with SBP-16 (16 GB) memory card Approx. 35 min with SBP-8 (8 GB) memory card",
+    "category": "camera",
+    "builtinmicrophone": "Omni-directional stereo electret condenser microphone",
+    "memorycardslot": "(2) SxS Slots",
+    "iris": "F1.9 to F16 and Close, auto/manual selectable",
+    "powerconsumption": "Approx. 13.5 W (while recording, LCD viewfinder On)",
+    "imagestabilizer": "ON/OFF selectable, shift lens",
+    "focus": "AF/MF/Full MF selectable, 800 mm to \u00e2\u0088\u009e (MACRO OFF) 50 mm to \u00e2\u0088\u009e (MACRO ON, Wide), 735 to \u00e2\u0088\u009e (MACRO ON, Tele)",
+    "filterthread": "M77 mm, pitch 0.75 mm (on lens)",
+    "focallength": "f = 5.8 to 81.2 mm (equivalent to 31.4 to 439 mm on 35 mm lens)",
+    "recordingformat": "MPEG-2 , 4:2:0 Long GOP HQ mode: VBR, maximum bit rate: 35 Mb/s, MPEG-2 MP@HL SP mode: CBR, 25 Mb/s, MPEG-2 MP@H14",
+    "inputsoutputs": "Genlock In: BNC (x1 Input) Time Code In: BNC (x1 Input) Time Code Out: BNC (x1 Output) SDI Out: BNC( x1 Output) (HD/SD switchable with embedded audio) Component Out: Y/Pb/Pr Mini D (x1 Output) Composite Out: BNC (x1 Output) S-Video Out:  Y: 1.0          (x1 Output) Line/Mic: XLR +48V (x2 Input) Audio In: CH-1/CH-2: XLR 3-pin (female) x 2, line/mic/mic +48 V selectable Headphone: 3.5mm Mini Jack, Rear: Stereo (x1 Output) USB: Type B Mini v2.0 (x1) Remote: 8-pin (x1 Input)",
+    "lensmount": "EX mount, Sony \u00c2\u00bd\" bayonet w/ included adapter",
+    "powerrequirements": "DC 12 V"
+}

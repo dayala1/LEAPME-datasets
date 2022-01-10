@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "removablemediacompatibility": "microSD Secure Digital (SD)",
+    "megapixelsmp": "14.0",
+    "facedetection": "Yes",
+    "weight": "1 lbs",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "opticalzoom": "5x",
+    "height": "2.91 in",
+    "stabilizationtype": "Dual IS",
+    "width": "4.96 in",
+    "depth": "2.36 in",
+    "imagestabilization": "Yes",
+    "viewfinder": "LCD Only",
+    "lcdscreensize": "2.7\"",
+    "digitalcameratype": "Point & Shoot"
+}

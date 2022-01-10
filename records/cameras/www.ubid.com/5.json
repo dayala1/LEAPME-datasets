@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "usb": "Yes",
+    "hdmi": "Yes",
+    "lcdcoverage": "100%",
+    "externalflash": "Samsung External Flash Available (SEF-42A, SEF220A : Optional)",
+    "flashmode": "Smart Flash, Auto, Auto Red-eye reduction, Fill-in, Fill-in Red-eye reduction, 1st Curtain, 2nd Curtain, OFF",
+    "lcd": "3.0\" 921K",
+    "lensmount": "SAMSUNG NX Mount",
+    "lensspec": "20-50mm f/3.5-5.6 Lens",
+    "avout": "Yes"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "whitebalance": "Auto, Preset (6 types)",
+    "ccdsize": "1/2.33 inch",
+    "dimensionwxhxdmm": "95.9 x 65.0 x 23.4mm",
+    "weight": "159gm",
+    "label1": "2.7-inch TFT LCD",
+    "label2": "1GB internal memory (0.63GB for shooting)",
+    "label3": "TruePic III Image processor",
+    "lightmeteringsystem": "ESP, Spot",
+    "histogram": "Yes",
+    "selftimer": "2seconds, 12seconds",
+    "exposurecompensation": "\u00b12 EV in 1/3 EV steps",
+    "label21": "Li-42B Battery",
+    "flashfunctions": "Auto, Red-Eye Reduction, Fill-in, Off",
+    "label7": "CCD contrast detection",
+    "label16": "Magic Filter (Pop, Pinhole, Fisheye, Sketch)",
+    "aperturerange": "f3.5(W) \u2013 5.1(T)",
+    "afmode": "iESP, Spot, Face Detect, tracking"
+}

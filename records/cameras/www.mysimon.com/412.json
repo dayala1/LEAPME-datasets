@@ -1,0 +1,23 @@
+{
+    "flashtype": "Built-in flash",
+    "displaytype": "LCD",
+    "additionalfeatures": "YouTube Capture Mode",
+    "hdmioutput": "Yes",
+    "category": "camera",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "stillimageformat": "JPEG",
+    "redeyereduction": "Yes",
+    "autofocustype": "TTL contrast detection",
+    "type": "Point & Shoot",
+    "brand": "Kodak",
+    "sensortype": "CCD",
+    "batteryformfactor": "Manufacturer specific",
+    "focusadjustment": "Automatic",
+    "exposuremodes": "Automatic",
+    "shootingmodes": "Frame Movie Mode",
+    "flashmodes": "Auto Mode",
+    "viewfindertype": "None",
+    "supportedflashmemory": "SDHC Memory Card",
+    "operatingsystemsupported": "MS Windows 7"
+}

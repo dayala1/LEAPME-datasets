@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "audioinput": "Condenser microphone",
+    "audiooutput": "3.5 mm stereo jack",
+    "ram": "256 MB DDR RAM, 32-bit Bus",
+    "dimensions": "110 \u00c3\u0097 110 mm",
+    "power": "5V connector, power switch and LED",
+    "flash": "256MB NAND Flash",
+    "powersupply": "regulated 5V (board itself",
+    "module": "WinCELinuxAndroid",
+    "tvoutput": "CVBS (composite RCA)",
+    "camera": "20-pin camera interface (2.0 mm)",
+    "memory": "256MB NAND Flash 1GB NAND Flash (+US$15.00)",
+    "usb": "1x USB-A Host, 1x mini-USB Slave/OTG 2.0",
+    "ethernet": "RJ45 10/100M (DM9000)",
+    "lcddisplay": "4.3 in. 5 in. (+US$30.00) 7 in. (+US$60.00)",
+    "ir": "Infrared Receiver",
+    "cpu": "533 MHz Samsung S3C6410A ARM1176JZF-S with VFP-Unit and Jazelle (max freq. 667 MHz)",
+    "touchpanel": "4-wire resistive"
+}

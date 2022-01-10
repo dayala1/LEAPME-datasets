@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "attr3g": "WCDMA 2100MHz",
+    "batterysize": "1500mAh",
+    "pictureresolution": "2592x1944",
+    "operationtemperature": "-20 to +60 Degree Celsius",
+    "attr2g": "GSM 850/900/1800/1900MHz",
+    "videoformat": "AVI",
+    "videosystem": "PAL/NTSC",
+    "fps": "720p @ 30 FPS, 1080p @ 15FPS",
+    "powersource": "Power Adapter or Rechargeable Lithium-ion Battery",
+    "label12": "Weatherproof Polycrystalline Solar Panel",
+    "batterychargingtime": "7 Hours",
+    "exposure": "Auto",
+    "videoresolution": "1080p, 720p, 848x480, 320x240",
+    "imageformat": "JPG"
+}

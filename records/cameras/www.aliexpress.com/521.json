@@ -1,0 +1,12 @@
+{
+    "videoframerate": "30fps",
+    "category": "camera",
+    "videoformats": "AVI",
+    "videoresolution": "640x480  720x480(clear Vision)    or 1280 x 960 (upgrade vision)",
+    "chargingvoltage": "DC-5V",
+    "memorycard": "TF card Nand flash",
+    "supportingsystem": "Windows 2003/2000/me/xp/vista",
+    "modelnumber": "da0957",
+    "type": "Mini",
+    "theratioofimage": "4:3"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 30 fps",
+    "facedetection": "NA",
+    "focallength": "4.1 - 12.3 mm (35 mm Equivalent to 30 - 90 mm)",
+    "isorating": "ISO 125 - 1600",
+    "aperturerange": "f/3.0 - f/5.9",
+    "metering": "Matrix, Spot, Center-Weighted",
+    "selftimer": "10 sec",
+    "displaytype": "TFT LCD with Anti-Reflection Coating",
+    "lenstype": "Nikkor Lens",
+    "screensize": "2.7 Inches",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "230000 Dots",
+    "manualfocus": "Yes",
+    "shootingmodes": "Scene, Scene Auto Selector, Smart Portrait, Special Effects, Subject Tracking"
+}

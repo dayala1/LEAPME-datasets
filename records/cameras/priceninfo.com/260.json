@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "sensortype": "1 / 2.3 in. CCD",
+    "dimensions": "3.7 \u00d7 2.4 \u00d7 1.2 inch",
+    "weight": "172 g with batteries and SD card",
+    "flashmodes": "auto, fill, red eye reduction, off",
+    "isosensitivity": "Smart Capture mode",
+    "zoom": "3X optical, 5X advanced digital zoom",
+    "lens": "32\u201396 mm (35 mm equiv.)",
+    "focusmodes": "normal, macro, infinity",
+    "effectivepixels": "12 MP (4026 \u00d7 3026)",
+    "power": "2 AA Ni-MH batteries, 2 AA lithium batteries, 2 AA alkaline batteries",
+    "imageformat": "JPEG/EXIF v2.21",
+    "memory": "32 MB internal memory[1]available, SD/SDHC card expansion slot",
+    "shutterspeed": "1/8\u20131/1400 sec.",
+    "whitebalance": "auto, daylight, tungsten, fluorescent, open shade",
+    "videoformat": "Motion JPEG-A, AVI with audio recording during capture"
+}

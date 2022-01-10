@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "electronicshutter": "PAL : 1/50 ~ 1/100,000s\u00a0\u00a0\u00a0 NTSC : 1/60 ~ 1/100,000s",
+    "leds": "42*F5 LEDs, 35m IR view",
+    "minillumination": "Color: 1.0Lux(F1.2,50IRE,AGC ON) ; Black: 0.1Lux(F1.2,50IRE,AGC ON)",
+    "language": "Chinese/English/German/French/Italian/Spanish/Portuguese/Russian/ Nede rlands / Turkish/Polish",
+    "powerconsumption": "70mA/270mA ( IR ON )",
+    "imagesensor": "1/4\" 1.0 Mega pixel color CMOS ( OV9712 )",
+    "snratio": ">60dB (AGC Off )",
+    "powersupply": "12V DC",
+    "pixels": "1280(H) \u00d7 720(V) 1.0M Pixels",
+    "lens": "2.8-12mm Varifocal lens",
+    "irdistance": "25-30m",
+    "tvsystem": "PAL/NTSC",
+    "model": "SK-AHD126-720P AHD Camera",
+    "daynight": "ICR switch",
+    "whitebalance": "Auto",
+    "operatingtemperature": "-20 \u00b0 C ~ 60 \u00b0 C"
+}

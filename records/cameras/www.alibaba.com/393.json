@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "electronicshutter": "NTSC: 1/60-1/100,000 sec Auto",
+    "type": "Video audio camera (Wearable bullet camera)",
+    "weight": "About 83g",
+    "modelno": "H7SC-300",
+    "syncsystem": "Internal",
+    "minimumillumination": "0.05 Lux",
+    "snratio": "More than 45dB (AGC Off)",
+    "powersupply": "DC5.0V (\u00b110%), Max. 200mA",
+    "lens": "Board Lens:\u00a0 6.0mm(3.7mm /8mm/ 12mm)",
+    "gammacorrection": "= 0.45",
+    "effectivepixels": "NTSC : 768(H) x 494(V)",
+    "resolution": "580TV Lines",
+    "gaincontrol": "Auto",
+    "scanningsystem": "2:1 Interlace",
+    "feature": "Weather-proof",
+    "sensor": "1/3\" Sony Super HAD CCD II",
+    "whitebalance": "Auto",
+    "size": "19mm * 54mm"
+}

@@ -1,0 +1,22 @@
+{
+    "ptzcontrol": "N/A",
+    "powerinput": "DC\u00a012V\u00a0+5%",
+    "poe": "Support\u00a0built-in\u00a0802.3af\u00a0Compliant\u00a0POE,\u00a0Optional",
+    "networkport": "10-100M\u00a0Ethernet\u00a0RJ45\u00a0port",
+    "usbport": "N/A",
+    "workingtemperature": "-10\u00b0C~+50\u00b0C",
+    "onvif": "Supported",
+    "category": "camera",
+    "videocodec": "H.264 out door\u00a0ip\u00a0camera",
+    "lens": "Standard 4 mm\u00a0fix ens, 6mm o p tional",
+    "networkprotocol": "TCP/IP/HTTP/RTSP/FTP/PPPOE/DDNS/NTP/UPnP",
+    "bitrate": "50k-8Mbps",
+    "videoframerate": "30FPS,\u00a0support\u00a0adjustable\u00a01-30fps",
+    "minillumination": "1.76V/Lux-sec;\u00a00Lux@IR\u00a0on",
+    "videoresolution": "Main\u00a0stream: 960P@ 30 FPS,\u00a0720P@30FPS",
+    "imagesensor": "1 / 3 \u201d\u00a02.0\u00a0Megapixel\u00a0Progressive\u00a0Scan\u00a0CMOS\u00a0sensor",
+    "itemno": "BN-IP130DQ Vandalproof\u00a0Dome IP\u00a0Camera",
+    "os": "Embedded\u00a0RTOS\u00a0design,\u00a0dual\u00a0core\u00a0DSP\u00a032bit",
+    "cpu": "Hi3516C",
+    "software": "Free\u00a0Client\u00a0software ,\u00a0Su pp ort\u00a0Max\u00a064channel"
+}

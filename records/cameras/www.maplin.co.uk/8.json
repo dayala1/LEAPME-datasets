@@ -1,0 +1,23 @@
+{
+    "videooutput": "N/A",
+    "iprating": "66",
+    "weight": "Camera: 385 g",
+    "powersupply": "5.0 V/1000 mA",
+    "category": "camera",
+    "lensfocus": "3.6 mm",
+    "nightvisionrange": "5~8 m",
+    "sensorsize": "1/4 inch",
+    "electronicshutter": "Auto",
+    "gaincontrol": "Auto",
+    "minimumillumination": "1~8 LUX",
+    "sensortype": "OV7725",
+    "wired": "N/A",
+    "dimensions": "Camera: 150*74*50 mm",
+    "scanningfrequency": "5 seconds",
+    "wireless": "Wireless",
+    "operatingtemperature": "-10~+50?",
+    "signalnoiseratio": "50 db",
+    "audio": "Yes",
+    "resolution": "480*272",
+    "viewingangle": "H: 60\u00b13    V:43\u00b13"
+}

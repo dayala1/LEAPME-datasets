@@ -1,0 +1,17 @@
+{
+    "ledindicators": "- 10 GbE(reserved), Status, LAN, eSATA(reserved), hard drives",
+    "videooutput": "- 1x VGA",
+    "lanport": "- 2 x Gigabit RJ-45 Ethernet port",
+    "usb": "- 2 x USB 3.0 port (rear) - 4 x USB 2.0 port (rear) - Support USB pen drive, USB hub, and USB UPS etc.",
+    "expansionslot": "- 2 (reserved for network and storage expansion)",
+    "certification": "- CE, FCC, VCCI, BSMI, LVD",
+    "powerconsumption": "- 130W Write/Read (with 8 x 1TB HDD installed)",
+    "powersupply": "- Input",
+    "buttons": "- System",
+    "lcdpanel": "- Mono-LCD display with backlight - Enter button, Select button for configuration",
+    "fan": "- 3 x 6 cm smart cooling fan",
+    "formfactor": "- 2U, Rackmount",
+    "category": "camera",
+    "cpu": "- Processor Dual Core Intel Core i3-2120 Processor 3.3 GHz",
+    "dimensions": "- 88(H) x 439(W) x 520(D) mm - 3.46(H) x 17.28(W) x 20.47(D) inch"
+}

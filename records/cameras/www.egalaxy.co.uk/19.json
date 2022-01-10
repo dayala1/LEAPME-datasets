@@ -1,0 +1,23 @@
+{
+    "weight": "201 g",
+    "battery": "Lithium-Ion EN-EL20",
+    "megapixel": "14.2 megapixels",
+    "displaytype": "3 \", TFT LCD",
+    "maximumshutterspeed": "1/16000 sec",
+    "aspectratio": "3",
+    "category": "camera",
+    "microphone": "Stereo",
+    "continuousshooting": "15 fps",
+    "dimensions": "101 x 61 x 29 mm",
+    "focuspoints": "135",
+    "liveview": "Yes",
+    "sensor": "CMOS 1 \"(13.2 x 8.8 mm)",
+    "minimumshutterspeed": "30 sec",
+    "lens": "Nikon 1 mount (the Kit comes with the 10-30mm)",
+    "connectivity": "USB 2.0 (480 Mbit / sec), HDMI (Mini), optional remote control (ML-L3)",
+    "screenresolution": "921,000 dots",
+    "builtinflash": "Yes",
+    "iso": "Auto, 100 - 3200",
+    "viewfinder": "No",
+    "processor": "Expeed 3"
+}

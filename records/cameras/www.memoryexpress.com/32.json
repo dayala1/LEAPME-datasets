@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "wireless": "802.11n Wi-Fi",
+    "audio": "Speaker Microphone",
+    "temperature": "Operating: 0 ~ 40\u00b0 C (32 ~ 104\u00b0 F) Storage: -20 ~ 70\u00b0 C (-4 ~ 158\u00b0 F)",
+    "weight": "137.1g (4.9 oz)",
+    "focallength": "3.3mm",
+    "fieldofview": "Horizontal: 66.18\u00b0 Vertical: 35.9\u00b0 Diagonal: 76.22\u00b0",
+    "imagingsensor": "6.35mm Megapixel Progressive CMOS Sensor",
+    "power": "Power Adapter: Input: 120Vac / 60 Hz Output: 5 Vdc @ 1.5A",
+    "connectivity": "USB 2.0",
+    "aperture": "f2.2",
+    "dimensionslxwxh": "137 x 92 x 106 mm (5.4 x 3.6 x 4.2\") Temperature Sensor fully extended",
+    "humidity": "Operating: less than 20 ~ 80% RH, Non Condensing Storage:  less than 5 ~ 95% RH, Non Condensing",
+    "videoresolution": "User Selectable: 1280 x 720 / 640 x 360",
+    "fileformats": "Video: H.264 Stills: .jpg Audio: AAC",
+    "zoom": "4x Digital Zoom"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "Composite",
+    "remotecontroller": "Yes",
+    "communicationinterface": "USB2.0 x 2 (one for Backup & another for USB Mouse)",
+    "temperature": "0\u00b0C ~ 50\u00b0C",
+    "ptzcontrol": "No",
+    "recordmode": "Manual / Sensor/ Timer / Motion Detection",
+    "powersupply": "12V 3A",
+    "networkinterface": "RJ45 (LAN, INTERNET)",
+    "videoinput": "Composite",
+    "compressionformat": "Standard H.264 Baseline",
+    "audioinput": "-8dB ~ 22k, RCA x 4",
+    "humidity": "10%~90%",
+    "audiooutput": "-8dB ~ 92dB, RCA x 1"
+}

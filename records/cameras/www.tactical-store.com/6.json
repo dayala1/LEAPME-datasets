@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "videooutput": "NTSC or PAL",
+    "stabilization": "2-axis gyro-stabilized",
+    "weight": "45 lbs",
+    "operatingtemperaturerange": "-20\u00c2\u00b0C to 55\u00c2\u00b0C",
+    "cameraheadsize": "386mm x 474mm",
+    "fieldofview": "42\u00c2\u00b0 (wide angle) to 1.7\u00c2\u00b0 (telephoto)",
+    "connectortypes": "BNC",
+    "tiltcoverage": "+/- 90\u00c2\u00b0",
+    "powerrequirements": "24 VDC"
+}

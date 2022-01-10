@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videoframerate": "30fps",
+    "builtinmemorysize": "Non",
+    "iscustomized": "yes",
+    "package": "Yes",
+    "videoresolution": "640*480  720*480 clear version or 1280*960 upgrade version",
+    "chargingvoltage": "DC 5V",
+    "videoencoding": "M-JPEG",
+    "opticalzoom": "Fixed Focus",
+    "supportsystem": "windows me /2000 /xp /2003 /vista /win 8;Mac os 10.4",
+    "memorycardtype": "MicroSD / TF",
+    "modelnumber": "EL00060BK",
+    "interfacetype": "USB standard interface",
+    "memory": "Support up to 32GB microSD / TF card (card not include)",
+    "brandname": "WEKSI",
+    "type": "Mini",
+    "highdefinitionsupport": "720P (HD)",
+    "videoformat": "AVI"
+}

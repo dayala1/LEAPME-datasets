@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "Composite",
+    "remotecontroller": "Yes",
+    "communicationinterface": "RS485, USB2.0 x 2 (one for Backup, another for USB Mouse)",
+    "temperature": "0\u00b0C ~ 50\u00b0C; 32\u00b0F~122\u00b0F",
+    "ptzcontrol": "Yes",
+    "alarminput": "No or NC 16CH",
+    "recordmode": "Manual / Sensor/ Timer / Motion Detection",
+    "powersupply": "12V 3A",
+    "humidity": "10%~90%",
+    "videoinput": "Composite",
+    "compressionformat": "Standard H.264 Baseline",
+    "audioinput": "-8dB ~ 22k, RCA x 2",
+    "alarmoutput": "1CH",
+    "networkinterface": "RJ45 (LAN, INTERNET)",
+    "audiooutput": "-8dB ~ 92dB, RCA x 1"
+}

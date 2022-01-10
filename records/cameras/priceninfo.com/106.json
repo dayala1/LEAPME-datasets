@@ -1,0 +1,22 @@
+{
+    "exposurecontrol": "TTL 256-zones metering ; Spot, Multi, Average",
+    "weight": "437 gms",
+    "battery": "4xAA type alkaline batteries",
+    "exposuremode": "Programmed AE, Shutter Priority AE, Aperture Priority AE, Manual exposure",
+    "focus": "Single AF / Continuous AF (SR AUTO, Movie)",
+    "effectivepixels": "14.0 million pixels",
+    "category": "camera",
+    "dimensions": "110.2 (W) x 73.4 (H) x 81.4(D) mm",
+    "selftimer": "Approx. 10 sec. / 2 sec. Delay",
+    "movierecording": "1280 x 720 pixels / 640 x 480 pixels / 320 x 240 pixels (30 frames / sec.) with monaural sound",
+    "sensitivity": "ISO 6400",
+    "focallength": "f=5.0 \u2013 90.0 mm, equivalent to 28 \u2013 504mm on a 35 mm camera",
+    "imagestabilizer": "CCD-shift type",
+    "lens": "Fujinon 18x optical zoom lens",
+    "storagemedia": "SD / SDHC memory card",
+    "shutterspeed": "(Auto mode) 1/4 sec. to 1/2000 sec. , (All other modes) 8 sec. to 1/2000 sec. with mechanical shutter",
+    "aperturerange": "F3.1 / F6.4(Wide), F5.6 / F11(Telephoto) with ND filter",
+    "lcdscreensize": "3.0-inch, approx. 230,000 dots, TFT color LCD monitor, approx. 97% coverage",
+    "exporsurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "imagesensor": "1/2.3-inch CCD with primary color filter"
+}

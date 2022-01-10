@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio",
+    "productdescription": "Sony Cyber-shot DSC-H300 - digital camera",
+    "minfocusdistance": "1 cm",
+    "weight": "495 g",
+    "focusadjustment": "Automatic",
+    "colour": "Black",
+    "lenssystem": "35 x zoom lens - 4.5 - 157.5 mm - f/3.0-5.9",
+    "cameraflash": "Pop-up flash",
+    "imagestabiliser": "Optical (Steady Shot)",
+    "digitalzoom": "70 x",
+    "sensorresolution": "20.1 Megapixel",
+    "supportedbattery": "4 x AA alkaline battery ( included )",
+    "producttype": "Digital camera - compact",
+    "dimensionswxdxh": "12.75 cm x 9.17 cm x 8.9 cm",
+    "maxvideoresolution": "1280 x 720",
+    "display": "LCD display - 3\"",
+    "memorycardslot": "Memory Stick PRO Duo card, SD card"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "1.0V p-p 75\u2126 BNC",
+    "controlinterface": "Line Control RS485",
+    "powerrequirement": "12VDC, recommend 1A min",
+    "dimensions": "2.5\" x 2.5\" x 4\"",
+    "backlightcompensation": "On, Off",
+    "imagesensor": "1/4\" Sony CCD",
+    "minimumillumination": "0.0001 lux",
+    "snratio": ">50dB",
+    "upc": "897503001517",
+    "lens": "3.9 ~ 85.5mm",
+    "horizontalresolution": "500 TV Lines",
+    "electronicshutter": "1/60 ~ 100,000 sec",
+    "gaincontrol": "Auto",
+    "manufacturer": "Atrix",
+    "whitebalance": "Auto",
+    "videosystem": "NTSC"
+}

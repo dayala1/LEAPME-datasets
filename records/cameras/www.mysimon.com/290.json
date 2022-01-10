@@ -1,0 +1,22 @@
+{
+    "flashtype": "Pop-up Flash",
+    "displaytype": "LCD",
+    "opticalviewfindertype": "Fixed eye-level pentaprism",
+    "cameraflashfeatures": "Flash +/- Compensation",
+    "additionalfeatures": "AF Lock",
+    "category": "camera",
+    "displayrotation": "Built-in",
+    "stillimageformat": "EXIF 2.21",
+    "autofocustype": "TTL phase detection",
+    "type": "Digital SLR",
+    "brand": "Sigma",
+    "sensortype": "X3 CMOS",
+    "specialeffects": "Sepia",
+    "batteryformfactor": "Manufacturer specific",
+    "focusadjustment": "Manual Focus",
+    "exposuremodes": "Automatic",
+    "viewfindertype": "Optical",
+    "supportedflashmemory": "SDHC Card",
+    "exposuremetering": "Center-Weighted",
+    "whitebalance": "Shade (Preset)"
+}

@@ -1,0 +1,13 @@
+{
+    "focuspoint": "Can be selected from 39 or 11 focus points",
+    "category": "camera",
+    "compatiblelenses": "Autofocus is available with AF-S and AF-I lenses. Autofocus is not available with other type G and D lenses, AF lenses (IX NIKKOR and lenses for the F3AF are not supported), and AI-P lenses. Non-CPU lenses can be used in mode , but the camera exposure meter will not function; the electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster",
+    "media": "SD (Secure Digital) and UHS-I compliant SDHC and SDXC memory cards",
+    "imagesensor": "23.5 x 15.6 mm CMOS sensor",
+    "wireless": "IEEE 802.11b, IEEE 802.11g",
+    "videocompression": "H.264/MPEG-4 Advanced Video Coding",
+    "effectivepixels": "24.2 million",
+    "framesizepixelsandframerate": "1920 x 1080; 60p (progressive)/50p/30p/25p/24p, \u00e2\u0098\u0085high/normal 1280 x 720; 60p/50p, \u00e2\u0098\u0085high/normal 640 x 424; 30p/25p, \u00e2\u0098\u0085high/normal Frame rates of 30p (actual frame rate 29.97 fps) and 60p (actual frame rate 59.94 fps) are available when NTSC is selected for video mode; 25p and 50p are available when PAL is selected for video mode; actual frame rate when 24p is selected is 23.976 fps",
+    "dimensionswxhxd": "Approx. 125 x 98 x 76 mm (49.2 x 3.9 x 3 in.)",
+    "fileformat": "MOV"
+}

@@ -1,0 +1,22 @@
+{
+    "battery": "169 gm",
+    "sensitivity": "ISO 100/200/400/800/1600/AUTO",
+    "exposurecompensation": "\u00b12 EV in 1/3 EV steps",
+    "effectivepixels": "10 MP",
+    "label12": "Scene Mode (Portrait, Landscape, Night, Night+Portrait, Sport, Indoor, Candle, Self portrait, Sunset, Fireworks, Cusine, Documents, Pet)",
+    "label13": "Magic Filter (Pop art, Pin hole, Fish eye, Drawing)",
+    "category": "camera",
+    "dimensions": "96.7 x 62.4 x 28.4mm",
+    "selftimer": "2seconds, 12seconds",
+    "powersupply": "AAx2",
+    "movierecording": "VGA, QVGA",
+    "label2": "3X Optical Zoom",
+    "label3": "10.8MB Internal memory + SD/SDHC Card",
+    "label4": "2.4\u201d inch Color TFT LCD Monitor",
+    "label5": "Lens focal length equivalent to 35mm 36-108mm",
+    "lightmeteringsystem": "ESP",
+    "label7": "AF mode iESP, Spot, Face Detect, tracking",
+    "shutterspeed": "Auto",
+    "ccdsize": "1/2.3 \u201c inch",
+    "aperturerange": "f3.1(W) \u2013 5.9(T)"
+}

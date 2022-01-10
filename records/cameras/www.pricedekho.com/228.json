@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 30 fps",
+    "facedetection": "NA",
+    "audioformats": "LPCM Stereo",
+    "focallength": "4.1 - 12.3 mm (35 mm Equivalent to 30 - 90 mm)",
+    "isorating": "ISO 125 - 1600",
+    "aperturerange": "f/3.0 - f/5.9",
+    "metering": "Matrix, Spot, Center-Weighted",
+    "selftimer": "10 sec",
+    "displaytype": "TFT LCD with Anti-Reflection Coating",
+    "lenstype": "Nikkor Lens",
+    "imageformat": "JPEG (DCF, EXIF 2.3, DPOF)",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "230000 Dots",
+    "videoformat": "H.264, MOV, MPEG-4 AVC",
+    "manualfocus": "Yes",
+    "shootingmodes": "Scene, Scene Auto Selector, Smart Portrait, Special Effects, Subject Tracking",
+    "screensize": "2.7 Inches"
+}

@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "minshutterspeed": "1/1400 S",
+    "focallength": "32-96 mm",
+    "maxshutterspeed": "1/8 S",
+    "interfaces": "USB 2.0",
+    "lightsensitivity": "ISO 80; ISO 100; ISO 200; ISO 400; ISO 800; ISO 1600",
+    "opticalzoom": "3 x",
+    "digitalzoom": "5X advanced digital zoom"
+}

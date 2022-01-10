@@ -1,0 +1,17 @@
+{
+    "warranty": "Two Year",
+    "category": "camera",
+    "chargingsystem": "In-Camera, AC Adapter; 3 hrs to 90% capacity",
+    "temperaturerange": "-4\u00b0 F to 482\u00b0 F (-20\u00b0 C to 250\u00b0 C)",
+    "resolution": "60 \u00d7 60100 x 100140 x 140",
+    "filetype": "Radiometric JPG (>5,000)",
+    "fieldofview": "12.5\u00b0 \u00d7 12.5\u00b021\u00b0 \u00d7 21\u00b029\u00b0 \u00d7 29\u00b0",
+    "framerate": "9 Hz",
+    "focus": "Focus Free",
+    "totalpixels": "3,60010,00019,600",
+    "dimensionsweight": "8.8\u201d \u00d7 3.3\u201d (223 \u00d7 79 \u00d7 83 mm) / 12 oz (340 g) Including Battery",
+    "thermalsensitivity": "<0.15\u00b0 C<0.1\u00b0 C<0.1\u00b0 C",
+    "screen": "2.8\u201d Color LCD",
+    "emissivity": "0.1 to 1.0 Adjustable",
+    "accuracy": "+/-2% or 2\u00b0 C"
+}

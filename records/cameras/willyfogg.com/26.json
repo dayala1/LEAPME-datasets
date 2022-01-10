@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "datatransfer": "adc_adc10Demonstrate ADC",
+    "drivers": "Ethernet, Serial port (USART1, DBGU), USB (USB_HOST x2, USB_OTG), SD card, SMD, SPI, TWI, DMA, LCD+Touchscreen, GPIO SAM9G25 CPU does not support LCD/Touchscreen",
+    "rs485": "RS485 test",
+    "system": "getting-startedBoot up chip and configure peripherals",
+    "lcd": "Configure LCD controller",
+    "filesystem": "FormatUBIFS file system"
+}

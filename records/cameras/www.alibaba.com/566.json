@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "audioinput": "With microphone",
+    "audiooutput": "provide the audio output interface",
+    "lanport": "10Base-T/100Base-TX(RJ-45)",
+    "minillumination": "IR on, 0 Lux",
+    "environmenthumidity": "below 85% RH",
+    "powerconsumption": "Power<6W",
+    "operationsystem": "Embedded operating system",
+    "otherperformance": "PC software,support for Microsoft Windows 98/2000/XP/Vista/Windows 7/Mac OS,It supports IE/Firefox/Chrome browser. provide IPCMonitor.exe client software",
+    "powersupply": "DC 5V",
+    "environmentparameters": "Environment temperature-10 \u00b0C -50 \u00b0C",
+    "compressionmode": "H.264",
+    "ipcameraperformance": "Manufacturers provide free DDNS, and has been written into equipment;\u00a0 11pcs IR LEDs,8 meters effectively; Platform level angle 290 \u00b0,120 \u00b0vertical angle; automatically control through the photoresistor",
+    "wifi": "WIFI , 802.11 b/g/n",
+    "hardwareperformance": "Product typeIP camera",
+    "model": "EM-B800",
+    "sensor": "Million CMOS Sensor"
+}

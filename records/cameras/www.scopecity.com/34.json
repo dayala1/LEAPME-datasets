@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "productcode": "DMK 21AU04.AS",
+    "supplyvoltage": "4.5 V to 5.5 V via the cable",
+    "dimensions": "(H x W x L) 50.6 mm x 50.6 mm x 50 mm",
+    "format": "1/4\"",
+    "type": "progressive scan",
+    "resolution": "640 x 480 pixel",
+    "currentconsumption": "approx 500 mA @ 5 VDC",
+    "connection": "USB",
+    "mass": "265 g",
+    "gain": "0 dB to 36 dB",
+    "dynamicrange": "8 bit",
+    "lensmount": "C/CS mount",
+    "sensor": "CCD",
+    "manufacturer": "The Imaging Source"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "lcdmonitor": "TFT color LCD 3\"",
+    "dimensions": "161.4mm (W)x67mm (H)x81.6mm (D)",
+    "weight": "395g",
+    "imagesensor": "Foveon X3 (CMOS) - 23.5x15.7mm",
+    "whitebalance": "10 types (Auto, Auto (Lighting Source Priority), Daylight, Shade, Overcast, Incandescent, Fluorescent, Color Temperature, Flash, Custom)",
+    "powersupply": "Li-ion Battery Pack BP-51, Battery Charger BC-51, AC Adapter SAC-6 (with DC Connector CN-21) (Optional)",
+    "lens": "F2.8-16; 9 Blades; 8 Elements in 6 Groups",
+    "interface": "USB / Cable Release Switch",
+    "memorycard": "SD, SDHC, SDXC",
+    "effectivepixels": "~ 29MP",
+    "focusing": "Contrast Detection",
+    "shooting": "28cm-\u221e",
+    "filetype": "RAW (14-bit), JPEG (EXIF2.3), RAW+JPEG",
+    "exposurecontrol": "(P) Program AE (Program Shift is possible), (S) Shutter Speed Priority AE, (A) Aperture Priority AE, (M) Manual"
+}

@@ -1,0 +1,22 @@
+{
+    "weight": "Approx. 3.4 kg (7.5 lbs.) (body only, excluding the battery and accessories)",
+    "powerconsumption": "29 W (body only, 1080/59.94i, AVC-Intra 100 standard recording status, LCD ON) 70 W (with all optional accessories connected and maximum power supplied from each output terminal)",
+    "sensitivity": "NORMAL mode: F9 (2000 lx, 3200 K, 89.9% reflection, 1080/59.94i) F10 (2000 lx, 3200 K, 89.9% reflection, 1080/50i) HIGH SENS mode: F12 (2000 lx, 3200 K, 89.9% reflection, 1080/59.94i) F13 (2000 lx, 3200 K, 89.9% reflection, 1080/50i)",
+    "recordingmedia": "P2 card, microP2 card",
+    "horizontalresolution": "1000 TV or higher (center)",
+    "minimumsubjectillumination": "Approx. 0.004 lx (F1.4, +42 dB (S.GAIN), +34 dB (DS.GAIN))",
+    "micin": "XLR\u00d71, 5 pin Phantom +48 V (selectable menu), -40 dBu (-50 dBu/-40 dBu selectable menu)",
+    "attr1star": "2 stars3 stars4 stars5 stars",
+    "dimensions": "147 mm (W) \u00d7 267 mm (H) \u00d7 342 mm (D) (5-25/32 inches \u00d7 10-1/2 inches \u00d7 13-15/32 inches) Body only,",
+    "pickupdevice": "2/3-type 2.2 million pixels, MOS \u00d7 3",
+    "recordingformat": "AVC-Intra200 (option) 1 /AVC-Intra100/AVC-Intra50/ AVC-LongG50/AVC-LongG25/AVC-LongG12 1 / DVCPRO HD/DVCPRO50/DVCPRO/DV formats switchable",
+    "speaker": "20 mm diameter, round x 1",
+    "category": "camera",
+    "power": "DC 12 V (11.0 V to 17.0 V)",
+    "ndfilter": "1: CLEAR, 2: 1/4ND, 3: 1/16ND, 4: 1/64ND",
+    "lensmount": "2/3-type bayonet",
+    "shutterspeed": "59.94 Hz 60i/60p mode: 1/100 sec., 1/120 sec.,1/250 sec., 1/500 sec., 1/1000 sec., 1/2000 sec. HALF 30p mode 1 : 1/100 sec., 1/120 sec., 1/250 sec., 1/500 sec., 1/1000 sec., 1/2000 sec., HALF 24p mode 1 : 1/100 sec., 1/120 sec., 1/250 sec., 1/500 sec., 1/1000 sec., 1/2000 sec., HALF 180.0 deg, 172.8 deg, 144.0 deg, 120.0 deg, 90.0 deg,45.0 deg 50 Hz 50i/50p mode: 1/60 sec., 1/120 sec., 1/250 sec., 1/500 sec., 1/1000 sec., 1/2000 sec. HALF 25p mode*1: 1/60 sec., 1/120 sec., 1/250 sec., 1/500 sec., 1/1000 sec., 1/2000 sec., HALF 180.0 deg, 172.8 deg, 144.0 deg, 120.0 deg, 90.0 deg,45.0 deg",
+    "videoout": "BNC\u00d71 Composite: 1.0 V [p-p], 75 \u03a9",
+    "operatingtemperature": "0\u00b0C to 40\u00b0C (32\u00b0F to 104\u00b0F)",
+    "operatinghumidity": "10% to 85% (relative humidity)"
+}

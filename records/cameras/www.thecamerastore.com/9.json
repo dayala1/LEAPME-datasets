@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "weight": "232g",
+    "resolution": "16.0 Megapixels",
+    "isosensitivity": "ISO 125-1600",
+    "framerate": "30p",
+    "opticalzoom": "30x Optical Zoom",
+    "continuousshootingspeed": "6.9 FPS Continuous Shooting",
+    "recordingmedia": "SD/SDHC/SDXC",
+    "shutterspeed": "1/2000 - 1sec.",
+    "maximumaperture": "f3.7-6.4",
+    "screensize": "3.0\" OLED Display",
+    "powersource": "EN-EL12 Li-ion Battery",
+    "dimensionswxhxd": "109.6mm x 63.5mm x 34.5mm",
+    "sensor": "1/2.3\" CMOS",
+    "videoresolution": "1080p HD Recording",
+    "gps": "GPS Enabled"
+}

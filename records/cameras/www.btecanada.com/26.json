@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p Composite Video Output, 75ohm",
+    "pictureelements": "Approximately 250K",
+    "minillumination": "0Lux",
+    "powerconsumption": "100 mA",
+    "ccdtype": "1/4\" Sony Color CCD",
+    "snratio": ">48dB",
+    "agc": "Auto",
+    "powersupply": "DC12V",
+    "backlightcompensation": "On/Off Switch",
+    "item": "Specifications",
+    "horizontalresolution": ">420 TVL",
+    "electronicshutter": "1/60 ~ 1/100000 Sec",
+    "scanningsystem": "NTSC:510(H)\u00a0x 492(V)\u00a0\u00a0(2:1 Interlace)",
+    "lensmount": "3.6mm",
+    "syncsystem": "Internal",
+    "whitebalance": "Auto",
+    "operationenvironment": "Temperature: -5 deg.C ~ +50 deg.C\u00a0\u00a0/\u00a0\u00a0less than 70%"
+}

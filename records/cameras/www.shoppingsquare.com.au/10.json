@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "compatiblelenses": "Canon EF lenses including EF-S lenses (35mm-equivalent focal length is approx.1.6x the lens focal length)",
+    "builtinflash": "Auto pop-up, retractable, built-in flash in the pentamirror",
+    "imagesensor": "Type: CMOS Sensor Pixels: Effective pixels: Approx. 18.00 megapixels Total pixels: Approx. 18.50 megapixels Pixel Unit: 4.3 \u00c2\u00b5m square Aspect Ratio: 3:2 (Horizontal: Vertical) Color Filter System: RGB primary color filters Low-pass Filter: Fixed position in front of the CMOS sensor",
+    "recordingmedia": "SD card, SDHC card, SDXC memory card / Compatible with Ultra High Speed (UHS-I) and Eye-Fi Cards",
+    "recordingformat": "Complies with Design rule for Camera File system 2.0 and Exif 2.30",
+    "isospeed": "Manual setting range of ISO 100 12800, expansion to ISO 25600 Auto, ISO 100 6400 (in whole-stop increments) In Creative Zone modes, the maximum ISO speed (ISO 400, 800, 1600, 3200, or 6400) for ISO Auto can be set. With C.Fn-6-1 (Highlight tone priority), ISO 200 or higher will be set.",
+    "imagesensorsize": "22.3 x 14.9mm (APS-C size)",
+    "lensmount": "Canon EF mount",
+    "dustdeletionfeature": "Self Cleaning Sensor Unit: Removes dust adhering to the low-pass filter. Self-cleaning executed automatically (taking approx. 2 sec.) when power is turned on or off. Manual execution also possible (taking approx. 5 sec.).",
+    "type": "Digital, AF/AE single-lens reflex, camera with built-in flash",
+    "imagetype": "Still: JPEG, RAW (14-bit, Canon original), RAW+JPEG Video: MOV (Image data: H.264, Audio: Linear PCM)"
+}

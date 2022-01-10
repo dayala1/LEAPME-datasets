@@ -1,0 +1,23 @@
+{
+    "warranty": "3 years",
+    "videooutput": "Vp-p,75ohm,BNC",
+    "powerconsumption": "80mA/400mA(IR ON)",
+    "powersupply": "DC12V\u00b1 5%",
+    "storagetemperature": "-20\u00b0C~ 60\u00b0C",
+    "osd": "English, Chinese",
+    "category": "camera",
+    "electronicshutter": "1/50(1/60)_1/100,000(Sec.)",
+    "snratio": ">52dB",
+    "lens": "Focus lens: 2.8, 3.6,4, 6, 8, 12, 16 mm lens optional",
+    "packing": "Color gift box",
+    "signalsystem": "PAL/NTSC",
+    "irdistance": "40 m",
+    "model": "VT-8035ZVT-8235ZVT-8435ZVT-8135ZVT-8835ZVT-8335Z",
+    "irled": "36\u03a65 IR LEDs",
+    "operatingtemperature": "-20\u00b0C ~ 50\u00b0C",
+    "resolution": "420Tvl600Tvl700Tvl420Tvl1200Tvl600Tvl",
+    "imagesensor": "1/3\" SONY 6331/3\"SONY 6391/3\"SONY EFFIO-e1/3\" CMOS 30031/3\" SONY 1381/4\" CMOS 3005",
+    "item": "Bullet \u00a0fixed focus IR camera",
+    "weatherresistance": "IP66",
+    "syncsystem": "Internal Sync"
+}

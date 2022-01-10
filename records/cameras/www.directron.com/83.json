@@ -1,0 +1,22 @@
+{
+    "videooutput": "1 Vp-p composite output (75Ohm/BNC)",
+    "horizontalresolution": "700 TVL",
+    "effectivepixels": "NTSC",
+    "autogaincontrol": "Auto",
+    "dimension": "140.0 x 140.0 x 107.0mm ( 5.5\" x 5.5\" x 4.2\")",
+    "digitalnoisereduction": "2D/3D DNR",
+    "workingtemperature": "-10\u00b0C - 50\u00b0C (14\u00b0F - 122\u00b0F)",
+    "blc": "Auto",
+    "category": "camera",
+    "weatherproofrating": "IP66",
+    "snratio": ">50dB",
+    "powersupply": "12V DC",
+    "lens": "2.8-12mm",
+    "synchronization": "Internal synchronization",
+    "shutterspeed": "- NTSC",
+    "minillumination": "0.001 Lux",
+    "imagesensor": "1/3\"Sensor",
+    "humidity": "90% or less (non-condensing)",
+    "signalsystem": "NTSC / PAL",
+    "whitebalance": "ATW"
+}

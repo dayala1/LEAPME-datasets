@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "sensortype": "BSI CMOS",
+    "dimensions": "106.3 x 68.7 x 39.5 mm",
+    "weight": "226 gm",
+    "battery": "LI-50B Lithium-Ion Battery",
+    "imagestabilizer": "CMOS Shift",
+    "opticalzoom": "24x",
+    "lcdscreensize": "3.0? Inch 920K TFT Color LCD With Touch Panel",
+    "internalmemory": "43MB",
+    "connectivity": "HDMI (Type D)",
+    "digitalzoom": "96x",
+    "maximumisosensitivity": "6400",
+    "effectivepixels": "16 Megapixels",
+    "movieformat": "MOV/H.264",
+    "removablememory": "SD/SDHC/SDXC/UHS-I Card",
+    "afmode": "Face Detect & iESP, Spot, AF Tracking"
+}

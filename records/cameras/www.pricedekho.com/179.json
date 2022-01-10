@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1280 x 720 pixels (HD) @ 30 fps",
+    "hdmi": "Yes; HDMI Mini Connector",
+    "flashrange": "Wide : 0.4 - 7.0m, Telephoto : 2.5 - 3.6m",
+    "focallength": "4.3 - 129 mm (35 mm Equivalent to 24 - 720 mm)",
+    "builtinflash": "Yes",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "displaytype": "TFT LCD",
+    "lenstype": "Super EBC Fujinon Lens",
+    "screensize": "3 Inches",
+    "usb": "USB 2.0 Hi-Speed",
+    "viewfinder": "Electronic View Finder",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "230000 dots",
+    "flashmodes": "Auto, Forced, Slow Sync, Suppressed Flash",
+    "gps": "NA"
+}

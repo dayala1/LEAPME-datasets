@@ -1,0 +1,19 @@
+{
+    "memorycard": "SD / SDHC / SDXC",
+    "category": "camera",
+    "lcdmonitor": "Monitor type  LCD    Monitor size  7.6cm / 3.0'' (3:2)    Resolution  460000 dots    Brightness adjustment  +/\u2011 2 levels",
+    "dimensions": "111.5 x 65.9 x 31.2mm",
+    "weight": "247g (including battery and memory card)",
+    "color": "Black",
+    "imagesensor": "1/2.3'' CMOS",
+    "sensitivity": "ISO 100, 200, 400, 800, 1600, 3200, 6400",
+    "flash": "Modes  AUTO  Red-eye reduction  Fill-in  Off  Working range (wide)  0.2 \u2011 7.9m (ISO 1600)    Working range (tele)  0.2 \u2011 3.1m (ISO 1600)",
+    "powersupply": "LI\u201192B Lithium\u2011Ion Battery",
+    "lens": "Optical zoom  4x (WIDE)    Focal length  4.5 \u2011 18.0mm    Focal length (equiv. 35mm)  25 \u2011 100mm    Structure  9 lenses / 7 groups    Aspherical glass elements  4    Maximum aperture  2.0 \u2011 4.9    Filter diamater  40.5mm",
+    "effectivepixels": "16 Megapixels",
+    "focusing": "Method  TTL iESP auto focus with contrast detection    Modes  iESP  Face Detection AF  Spot  AF Tracking  Standard mode  0.1m \u2011 \u221e (wide) / 0.1m \u2011 \u221e (tele)    Super Macro Mode  Closest focusing distance: 1cm    Microscope Mode  Zoom capability while being in Super Macro Mode",
+    "shooting": "Reduced resolution  60fps / 100 frames (in 3MP mode)    15fps / 100 frames (in 3MP mode)    Full resolution  5fps / 25 frames    Interval shooting",
+    "interface": "HDMI\u2122 Micro connector (Type D) *    Wireless connectivity  WiFi  Eye-Fi Card compatible  FlashAir  DC input    Combined A/V & USB output    USB 2.0 High Speed",
+    "whitebalance": "Overcast  Sunlight  Tungsten  Underwater  Flourescent 1",
+    "exposurecontrol": "Shutter speed  1/2 \u2011 1/2000s /"
+}

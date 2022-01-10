@@ -1,0 +1,23 @@
+{
+    "dnr": "2D-DNR",
+    "horizontalresolution": "700TVL",
+    "ccdtype": "1/3'' Sony Effio-E 700tvl (811+4140)",
+    "category": "camera",
+    "current": "<250mA",
+    "dwdr": "Yes",
+    "electronicshutter": "Auto",
+    "workingtemperature": "-10\u00b0C\u00a0---\u00a0+50\u00b0C",
+    "osdmenu": "YES",
+    "minimumillumination": "0 .01 LUX",
+    "snratio": ">= 50dB",
+    "powersupply": "DC12V\u00b15 %",
+    "lens": "3.6/6 mm",
+    "modelno": "SL-FH 970A",
+    "irleds": "24pcs",
+    "pixels": "PAL:976H\u00d7582V NTSC:976H\u00d7494V",
+    "backlightcompensation": "Auto",
+    "irviewdistance": "20 m",
+    "agc": "Auto",
+    "scanningsystem": "PAL/NTSC",
+    "syncsystem": "Internal\u00a0Synchronization"
+}

@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "lowpassfilter": "NoYes*",
+    "dimensions": "146 x 123 x 81.5mm144.78 \u00d7 121.92 \u00d7 81.28mm",
+    "batterylife": "1200 shots (CIPA)900 shots (CIPA)",
+    "autofocussystem": "Advanced Multi-CAM 3500FX with Group Area AFAdvanced Multi-CAM 3500FX",
+    "continuousshootingspeed": "5 FPS, 6 FPS in DX mode, 7 FPS with MB-D12 battery grip4 FPS, 6 FPS in DX mode with MB-D12 battery grip",
+    "picturecontrol": "Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, FlatStandard, Neutral, Vivid, Monochrome, Portrait, Landscape",
+    "viewfindertype": "Pentaprism with improved coatingsPentaprism",
+    "presetwhitebalance": "1-6 possible1-3 possible",
+    "imageprocessor": "EXPEED 4EXPEED 3",
+    "weightbodyonly": "880g900g",
+    "lcdresolution": "1,229,000 dots921,000 dots"
+}

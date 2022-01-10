@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "videooutputlevel": "0.9-1.3VP-P@75W",
+    "weightapprox": "5 oz",
+    "imagesensor": "CMOS",
+    "minimumillumination": "0 Lux",
+    "powersupply": "4 x AA",
+    "videosystem": "PAL/NTSC",
+    "totalpixels": "704~576 (PAL); 712~486(NTSC)",
+    "dimensionswxdxh": "3.93\"W x 2.75\"D x 1.18\"H",
+    "resolution": "320 x 240",
+    "videoimageresolution": "960x240 Pixels (AVI Format),640x480 Pixels (JPEG)"
+}

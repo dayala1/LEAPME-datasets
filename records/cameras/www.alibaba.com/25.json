@@ -1,0 +1,17 @@
+{
+    "audioinput": "1ch\u00a0input",
+    "electronicshutter": "1/50~1/100,000\u00a0seconds",
+    "audiooutput": "1ch\u00a0input\u00a0,1ch\u00a0output",
+    "communicationinterface": "RJ45 10M/100M Adaptive\u00a0Ethernet\u00a0front-end\u00a0ports,\u00a0Compatible\u00a0\u00a0with\u00a0PoE(IEEE802.3af)",
+    "attr3acontrol": "AWB/AF/AE",
+    "alarm": "1ch\u00a0input\u00a0,1ch\u00a0output",
+    "networkingprotocol": "HTTP,\u00a0DDNS,\u00a0DHCP,\u00a0PPPoE,\u00a0RTSP,\u00a0RTP,\u00a0RTCP,\u00a0ONVIF",
+    "powersupply": "<5W",
+    "nominalvoltage": "12VDC/1A",
+    "wdr": "-----------Support Digital\u00a0WDRSupport Physical\u00a0WDR",
+    "dimensionmm": "38x38",
+    "model": "BQC-E38V130-BLBQC-E38V210-BBQC-E38V210-BW",
+    "category": "camera",
+    "resolution": "960 P( 1280X960@30fps ), VGA(640x480@30fps), QVGA(320x240@30fps), D1,\u00a0CIF1080P(1920x1080@30fps) , VGA(640x480@30fps), QVGA(320x240@30fps),\u00a0D1,\u00a0CIF1080P(1920x1080@30fps) , VGA(640x480@30fps), QVGA(320x240@30fps),\u00a0D1,\u00a0CIF",
+    "imagesensor": "1.3 M P 1/3\"CMOS AR0130+\u00a0AM\u00a0A5s552.0\u00a0MP 1/3\"CMOS Sony122+\u00a0AM\u00a0A5s662.0\u00a0MP 1/3\"CMOS AR0331+\u00a0AM\u00a0A5s66"
+}

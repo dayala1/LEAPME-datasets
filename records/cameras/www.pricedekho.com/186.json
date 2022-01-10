@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "selftimer": "Yes",
+    "dustreduction": "NA",
+    "facedetection": "Yes",
+    "focallength": "24 - 72 mm",
+    "isorating": "Auto / 80 / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "redeyereduction": "Yes",
+    "whitebalancing": "Auto WB, Custom, Cloudy, Daylight, Fluorescent, Tungsten",
+    "metering": "Center-Weighted, Multi, Spot",
+    "colorfilter": "NA",
+    "autofocus": "Centre AF, Face Detection, Multi AF, Selection AF, Smart Face Recognition, Tracking AF"
+}

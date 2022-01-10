@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "dimensions": "116.1mm (W) x 71.4mm (H) x 30.3mm (D)",
+    "power": "Li-ion battery NP-50",
+    "memorysize": "SD / SDHC / SDXC (UHS-I) memory card",
+    "sensitivity": "Auto, ISO 100 / 200 / 400 / 800 / 1600 / 3200 / 6400* (Standard Output Sensitivity)",
+    "flash": "Built-In Flash",
+    "storage": "SD / SDHC / SDXC (UHS-I) memory card",
+    "zoom": "5 x Optical Zoom",
+    "weight": "Approx.232g",
+    "megapixel": "16 Megapixel",
+    "standoutfeature1": "Wireless Image Transfer",
+    "screensize": "3.0\" LCD Screen",
+    "ccd": "1/2.3-inch CMOS Sensor",
+    "exposuresystem": "-2.0EV - +2.0EV 1/3EV step",
+    "shutterspeed": "(Auto mode) 1/4sec. to 1/2000sec., (All other modes) 4sec. to 1/2000sec."
+}

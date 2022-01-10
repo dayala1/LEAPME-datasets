@@ -1,0 +1,22 @@
+{
+    "wirelessconnection": "IEEE 802.11b/g/n, NFC (Near Field Communication)",
+    "minfocusdistance": "50 cm",
+    "weight": "172 g",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1920 x 1080",
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "memorycardslot": "SD card",
+    "dimensionswxdxh": "10.83 cm x 2.77 cm x 5.89 cm",
+    "productdescription": "Panasonic Lumix DMC-TZ40 - digital camera",
+    "imagestabiliser": "Optical (HYBRID O.I.S. +)",
+    "imageprocessor": "Venus Engine",
+    "focusadjustment": "Automatic",
+    "colour": "White",
+    "lenssystem": "Leica 20 x zoom lens - 4.3 - 86 mm - f/3.3-6.4",
+    "cameraflash": "Built-in flash",
+    "digitalzoom": "4 x",
+    "sensorresolution": "18.1 Megapixel",
+    "supportedbattery": "1 x Li-ion rechargeable battery ( included )",
+    "display": "LCD display - 3\""
+}

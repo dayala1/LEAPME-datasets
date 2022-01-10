@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "leds": "38",
+    "megapixels": "8.0",
+    "dimensions": "4.7\"W x 3.5\"H x 2.7\"D",
+    "flashrange": "55'",
+    "viewer": "2.4\" TFT",
+    "flash": "No-Glow Black LED",
+    "video": "Yes",
+    "memory": "Requires SD Card",
+    "output": "USB and TV",
+    "audio": "Yes",
+    "powersource": "6 AA or 12V"
+}

@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "certifications": "CE / WEEE / RoHS EN 55022 Class B EN 55024 Class A",
+    "dimensions": "120 \u00c3\u0097 101 \u00c3\u0097 22.5 mm",
+    "mounting": "35mm top hat / DIN rail DIN EN 60715 (50022)",
+    "supportedprotocols": "IP, TCP, UDP, ICMP, ARP, LPR DHCP, BOOTP, HTML, HTTP",
+    "connectors": "1x Ethernet 10/100Mbit (M-DIX) RJ45 4x USB-A Jack 1x Power supply screw terminal",
+    "supportedos": "Windows 7 (32/64) Windows Vista (32/64) Windows XP (32/64)",
+    "powersupply": "7-32V / 2.7W (e.g. 12V = 230mA)",
+    "security": "IP30",
+    "temperaturerange": "-10\u00c2\u00b0C to +70\u00c2\u00b0C"
+}

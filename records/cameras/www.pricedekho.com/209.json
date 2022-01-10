@@ -1,0 +1,8 @@
+{
+    "category": "camera",
+    "microphone": "Yes",
+    "metering": "NA",
+    "facedetection": "NA",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400",
+    "whitebalancing": "Auto, Cloudy, Daylight, Fluorescent-H, Fluorescent-L, Manual, Tungsten"
+}

@@ -1,0 +1,22 @@
+{
+    "weight": "830g (with battery)",
+    "battery": "7.2V / 1200mAh (360 Images, CIPA standard)",
+    "memorycard": "SDXC",
+    "isorange": "Auto / 80 - 25600",
+    "category": "camera",
+    "microphone": "Stereo",
+    "monitor": "3.0\" free-angle LC-Display (921,000 Dots), 100% Field of View",
+    "videofileformat": "MP4",
+    "framespersecond": "Super Hi - 50, High Speed - 12 fps",
+    "dimensionswxhxd": "137 x 98.5 x 130.7mm",
+    "sensor": "1\" MOS with 20.9 MP",
+    "focallength": "25-400mm",
+    "lens": "Leica DC Vario-Elmarit f/2.0-4.0",
+    "focusmodes": "Normal / Macro",
+    "recordingtime": "29:00 Minutes",
+    "resolution": "20.1 MP",
+    "zoom": "16x Optical",
+    "viewfinder": "0.39\" OLED EVF (Resolution 2,360,000 dots)",
+    "audio": "AAC - 2 Channel",
+    "videoresolution": "3840 x 2160 (4K)"
+}

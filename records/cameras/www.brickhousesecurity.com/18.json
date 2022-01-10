@@ -1,0 +1,23 @@
+{
+    "ledindicators": "Power, Record, Play, Menu",
+    "powerinput": "DC 12V 180mA",
+    "recordingmedia": "SD1.1/2.0 SD/SDHC Card, Max 32GB",
+    "videoformat": "NTSC/PAL",
+    "motiondetection": "Yes",
+    "batterylife": "up to 12 hours (Lithium Batteries)",
+    "recordingmodes": "Manual/ Schedule/ Motion Detection",
+    "focustype": "Fixed",
+    "blc": "Auto",
+    "category": "camera",
+    "recordingframerate": "320x240",
+    "focallength": "Board Lens f3.62mm / F2.8",
+    "videocompression": "MPEG-4",
+    "recordingresolution": "VGA (640x480)/ QVGA (320x240)",
+    "minillumination": "2 Lux",
+    "imagesensor": "1/6\" Color CMOS Sensor",
+    "agc": "Auto",
+    "signalnoiseratio": "46 dB",
+    "resolution": "640 x 480",
+    "whitebalance": "Auto",
+    "viewingangle": "66 Degrees"
+}

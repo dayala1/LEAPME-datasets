@@ -1,0 +1,22 @@
+{
+    "exposurecontrol": "TTL 256-zones Metering",
+    "weight": "145 gm",
+    "battery": "Li-ion NP-45A",
+    "isosensitivity": "Auto, 100, 200, 400, 800, 1600, 3200",
+    "exposurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "effectivepixels": "14.1 Megapixels",
+    "lenstype": "Fujinon Lens",
+    "category": "camera",
+    "dimensions": "96.8 x 58.2 x 19.5 mm",
+    "batterylife": "Approx. 220 frames",
+    "selftimer": "10 sec, 2 sec. delay, Group Timer, Couple Timer",
+    "maximumaperture": "F3.9 (Wide) \u2013 F4.9 (Telephoto)",
+    "focusdistance": "60 cm to infinity / 2.0 ft to infinity(Wide), 1.0m to infinity / 3.3 ft to infinity (Telephoto)",
+    "focallength": "f=5.0 \u2013 25.0 mm, equivalent to 28 \u2013 140 mm on a 35 mm camera",
+    "internalmemory": "29 MB",
+    "shutterspeed": "(Auto Mode) 1/4 sec. to 1/2000 sec., (All other modes) 4 sec. to 1/2000 seconds",
+    "recordingmedia": "SD, SDHC, SDXC Memory Card",
+    "imagesensor": "1/2.3-inch CCD with primary color filter",
+    "opticalzoom": "5x",
+    "digitalzoom": "6.8x"
+}

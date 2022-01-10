@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "shutter": "Auto/Manual",
+    "resolution": "1280*720 ( 30FPS )",
+    "weight": "600g",
+    "consumption": "Normal: < 4W ; Max: < 5W",
+    "minillumination": "0.1LUX, 0LUX(IR ON)",
+    "alarm": "Motion detection alarm , video lost alarm",
+    "dimension": "92.8* 98*203mm",
+    "framerate": "30FPS ( Adjustable )",
+    "powersupply": "DC12V/2A",
+    "networkinterface": "1pc RJ45 , 10/100M self-adaptive",
+    "lens": "3.6/6/8/12/16mm",
+    "networkprotocol": "TCP , UDP , HTTP , FTP , DHCP , SMTP , Telnet , DDNS , 802.3af",
+    "irdistance": "20M",
+    "model": "Y05C1-AD-R2",
+    "remotemanagement": "Realize remote upgrading and back to default setting",
+    "sensor": "CMOS 1/3 \u20331.3 Megapixel",
+    "email": "Email alarm info"
+}

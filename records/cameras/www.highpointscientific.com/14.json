@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "softwareincluded": "Windows Camera Driver, ASCOM Driver, SharpCap, FireCapture, Stakkert 2",
+    "computerinterface": "USB 2.0",
+    "cameracooling": "Natural Convection",
+    "cameradimensions": "2.44 x 1.1 inch",
+    "cameratype": "Single Frame Camera",
+    "sensortype": "CMOS",
+    "sensormodel": "MT9M001",
+    "camerawarranty": "1 year",
+    "cameraseries": "ZWO ASI130"
+}

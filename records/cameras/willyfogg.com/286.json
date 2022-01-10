@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "function": "Provided Lib (ALSA -lib, tslib, glibc), udev support",
+    "drivers": "NAND Flash, I2C, Serial Ports, RTC, 4.3\", 7\", 10.2\", 10.4\" and 12.1\" LCD including Touch Screen, HDMI, VGA, MMC/SD, USB Host, WM8978, USB Keyboard and Mouse, SPI, JPEG Hardware Codec, 2D/3D Hardware Acceleration, WAV/EDEV, DMA, JPEG, MFC, RTC, USB ADB, TV-out",
+    "system": "Drivers4.3\", 7\", 10.2\" and 10.4\" LVDS including Touch Screen",
+    "applications": "H.264 display, MPEG-4 display, H.263 display, VC-1 display, 4-window display, Camera preview & MFC encoding, MFC decoding & Camera preview, Camera input and JPEG encoding, JPEG decoding and display, MFC decoding & Camera preview through TV, H.264 decoding through TV-out",
+    "filesystem": "File SystemYaffs or NFS",
+    "lcddisplay": "none 4.3 in. (+US$40.00) 7 in. (+US$60.00) 10.4 in. (+US$100.00)",
+    "os": "ItemFeatureDescription"
+}

@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "operatingtemperature": "32 to 104\u00b0F (0 to 40\u00b0C)",
+    "weight": "1.45 lb (660 g)",
+    "brightness": "270 nit (typical)",
+    "powerconsumption": "1.2 W",
+    "resolution": "960 x 540",
+    "ioport": "26-pin viewfinder cable",
+    "displaysize": "3.5\" diagonal color TFT LCD (8.9 cm)",
+    "colortemperature": "D65",
+    "effectivepixels": "960 x 540",
+    "contrastratio": "1000:1",
+    "displaytype": "LCD",
+    "powerrequirements": "DC 10.5 V - 17 V via 26-pin viewfinder connector"
+}

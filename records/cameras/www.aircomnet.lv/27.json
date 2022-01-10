@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "shutter": "1/2000 - 30 sec",
+    "lcdmonitor": "TFT LCD 3\"; 3:2",
+    "exposurecontrol": "\u00b13 EV in 1/3 EV steps",
+    "weight": "221g",
+    "battery": "LI-50B, 240 shots",
+    "imagesensor": "Sensor Type BSI-CMOS  Sensor Size 1/2.3\"  ISO Range ISO 100/200/400/800/1600/3200/6400/AUTO/HIGH",
+    "flash": "Built-In",
+    "memorycard": "SD/SDHC/SDXC Card",
+    "lens": "Lens Configuration 10 elements in 8 groups  Aspherical Lens Elements 6 sides  Lens Focal Length 4.7mm to 23.5mm  35mm equivalent Lens Focal Length 26mm to 130mm  Optical Zoom 5x  Super Resolution Zoom 2x  Closest Focusing Distance Normal W:10cm to infinity,T:30cm to infinity  Closest Focusing Distance Macro 1cm to 60cm  Lens Aperture Range f/1.8/2.7 - f/8",
+    "connectivity": "In Camera Help Guide Yes  HDMI Yes (Type D)  LED Illuminator Yes  WiFi Eye-Fi & Flash Air compatible",
+    "effectivepixels": "12 million pixels",
+    "focusing": "Focusing Modes - Face Detect iESP/Spot/tracking  Manual Focus   AF Lock   Selective AF Area   AF Illuminator   Enlarged Focusing Area",
+    "packagecontent": "Hand Strap, USB Cable, Battery, Charger, Warranty Card, Software",
+    "imageprocessor": "TruePic VI",
+    "whitebalance": "Auto WB, 6 Preset WBs, 2 Capture WBs, Custom WB (Kelvin setting)"
+}

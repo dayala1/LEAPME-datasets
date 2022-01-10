@@ -1,0 +1,17 @@
+{
+    "videoframerate": "30fps \u00b1 1 fps",
+    "category": "camera",
+    "storagesupport": "2GB-32GB",
+    "theratioofimage": "4:3",
+    "videoresolution": "720*480 VGA",
+    "videoencoding": "M-JPEG",
+    "mediaplayingsoftware": "Attached software of the operating system or Mainstream audio and video media playing software, recommend Kmplayer",
+    "supportingsystem": "Windows me/2000/xp/2003/vista, Mac OS10.4 (uncertainty, depends on the computer model)",
+    "item": "Parameters",
+    "interfacetype": "2.0 USB Port",
+    "pictureformat": "JPG",
+    "picturepixels": "1280*1024 (Pixel)",
+    "chargepressure": "DC-5V",
+    "batterytype": "high-capacity lithium polymer",
+    "videoformat": "AVI"
+}

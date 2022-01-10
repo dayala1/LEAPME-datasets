@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "movierecordingsize": "1280x720, 640x480, 320x240(30fps,15fps) Maximum file size is 2GB.",
+    "battery": "LI-42B Li-ion battery",
+    "macro": "W: 0.2m-\u00e2\u0088\u009e / T:0.6m-\u00e2\u0088\u009e",
+    "isosensitivity": "1600",
+    "imagestabilizer": "DIS",
+    "opticalzoom": "5x",
+    "supermacro": "0.05m-\u00e2\u0088\u009e / f=8.3mm(focal length fixed)",
+    "focusrange": "NormalW: 0.6m-\u00e2\u0088\u009e / T:1.0m-\u00e2\u0088\u009e",
+    "recordingimagesize": "4288x3216 - 640x480",
+    "lcdmonitor": "TypeTFT color LCD",
+    "aftracking": "Yes",
+    "removablememory": "SD/SDHC/SDXC Card",
+    "afmode": "Face Detect iESP / Spot / tracking"
+}

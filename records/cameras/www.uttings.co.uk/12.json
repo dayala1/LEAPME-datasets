@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "approxdimensionswidthxheightxdepth": "Approx. 124 x 98 x 75.5 mm (4.9 x 3.9 x 3 in.)",
+    "monitor": "7.5-cm (3-in.), approx. 921k-dot (VGA) TFT LCD with 170 \u00b0 viewing angle, approx. 100% frame coverage, and brightness adjustment",
+    "movie": "1920 x 1080, 60p (progressive)/50p/30p/25p/24p, high/normal. 1280 x 720, 60p/50p, high/normal. 640 x 424, 30p/25p, high/normal. Frame rates of 30p (actual frame rate 29.97 fps) and 60p (actual frame rate 59.94 fps) are available when NTSC is selected for video mode. 25p and 50p are available when PAL is selected for video mode. Actual frame rate when 24p is selected is 23.976 fps.",
+    "isosensitivity": "ISO 100-12800 in steps of 1 EV. Can also be set to approx. 1 EV (ISO 25600 equivalent) above ISO 12800; auto ISO sensitivity control available",
+    "effectivepixels": "24.2 million",
+    "storagemedia": "SD, SDHC, SDXC",
+    "batterybatteries": "One rechargeable Li-ion EN-EL14a battery",
+    "imagesensor": "23.5 x 15.6 mm CMOS sensor"
+}

@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "facedetection": "Yes",
+    "inbuiltmemory": "43 MB",
+    "upgradeablememory": "Yes",
+    "metering": "Center-Weighted, Multi, Spot",
+    "selftimer": "10 sec",
+    "memorycardtype": "SD, SDHC, SDXC",
+    "screensize": "3 Inches",
+    "imagedisplayresolution": "460000 Dots",
+    "videodisplayresolution": "NA"
+}

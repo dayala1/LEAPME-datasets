@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "AV jack:compatible with NTSC",
+    "audio": "Built-in microphone/speaker",
+    "monitor": "2inch 16:9 TFT LCD 960*240",
+    "ircut": "Switchable Day and Night",
+    "waterproof": "Prevent rain",
+    "battery": "High capacity lithium rechargeable battery,3.7V1500mAh",
+    "photo": "JPG format; Max pixel:5.0 Mega pixel",
+    "storage": "Internal memory:32M External memory:Max32GB TF card",
+    "lens": "120degree(wide angle lens)",
+    "shutterspeed": "1/2 \u2013 1/2000s",
+    "video": "H264 Compression format 1920\u00d71080,30fpts 1280\u00d7720,60fps",
+    "usb": "USB2.0",
+    "shutter": "Electronic shutter",
+    "recordingtime": "1080p 1GB(about 10 minutes),720p 1GB(about 15minutes)",
+    "sensor": "5 Mega Pixel CMOS senosor",
+    "whitebalance": "Auto",
+    "videoformat": "MP4"
+}

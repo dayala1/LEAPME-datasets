@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "wirelessconnectivity": "802.11b/g/n Wireless",
+    "weight": "N/A",
+    "antenna": "Internal Antenna",
+    "videofeatures": "Adjustable Image Size and Quality Flip and Mirror",
+    "imagesensor": "VGA 1/4\" CMOS Sensor",
+    "networkinterface": "10/100Base-TX Fast Ethernet w/ RJ45 Connector",
+    "lens": "Focal length: 3.1 mm, F2.6",
+    "nightvision": "Infrared lets you see clearly when there's little to no light",
+    "viewangle": "Horizontal: 64.0\u00b0 Vertical: 48.0\u00b0 Diagonal: 80.0\u00b0",
+    "nightmode": "IR Mode: Always on, Always off, Auto",
+    "dimensionslxwxh": "N/A",
+    "audio": "Built In Microphone: -38 dB \u00b12dB",
+    "videoresolution": "640 x 480, 320 x 240, 160 x 120 pixels",
+    "videoframerate": "Up to 30 frames per second"
+}

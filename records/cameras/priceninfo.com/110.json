@@ -1,0 +1,23 @@
+{
+    "weight": "171 gm",
+    "battery": "2 AA Alkaline (NB-3AH)",
+    "focusingrange": "2.0 in./5cm \u2013 infinity (W), 3.9 ft(1.2m) \u2013 infinity (T)",
+    "exposurecompensation": "+/-2 stops in 1/3-stop increments",
+    "category": "camera",
+    "dimensions": "94.7 x 61.3 x 29.8 mm",
+    "batterylife": "220/500 shots",
+    "selftimer": "10-sec, 2-sec",
+    "maximumaperture": "f/2.8 (W) \u2013 f/6.9 (T)",
+    "numberofeffectivepixels": "16.0 Megapixels",
+    "combinedzoom": "20x",
+    "focallength": "5.0 (W) \u2013 25.0 (T) mm (35mm film equivalent",
+    "sensortype": "1/2.3? inch CCD Image Sensor",
+    "screensize": "2.7? inch TFT Color LCD (230K dots)",
+    "storagemedia": "SD/SDHC/SDXC",
+    "shutterspeed": "1 \u2013 1/2000 sec to 15 \u2013 1/2000 sec",
+    "builtinflash": "Off, Slow Synchro, Auto, On",
+    "opticalzoom": "5x",
+    "availablecolor": "Red, Black, Silver",
+    "digitalzoom": "4x",
+    "playbacktime": "Up to 10-13 hours"
+}

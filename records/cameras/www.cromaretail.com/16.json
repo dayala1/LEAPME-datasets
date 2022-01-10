@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto / Daylight / Shade / Cloudy / Incandescent / Fluorescent  / Flash / Underwater / Color Temperature & color filter / CustomSelf Timer:Delay Selectable: 2 & 10 sec / Delay 3/5 Exposures Selectable: 10 sec",
+    "facedetection": "YesContinuous Shoots:Continuous mode: max. 2.5 fps, Speed Priority Continuous shooting: max. 3.5 fps",
+    "shutterspeed": "Still images:1/4000 to 30 sec, Bulb, Movies: 1/4000 to 1/4(1/3 steps) up to 1/50 in AUTO mode (up to 1/25 in Auto slow shutter mode)Shutter Speed:Still images:1/4000 to 30 sec, Bulb, Movies: 1/4000 to 1/4(1/3 steps) up to 1/50 in AUTO mode (up to 1/25 in Auto slow shutter mode)",
+    "metering": "Multi-segment / Center-weighted / spotISO Rating:Still images: ISO 100-16000, AUTO ISO 100-16000 / Movies: ISO 100-6400 /  AUTO ISO 100-6400",
+    "imageformat": "JPEGImage Format:JPEG",
+    "audioformat": "AVCHD: Dolby Digital (AC-3) 2ch, Dolby Digital Stereo Creator, MP4: MPEG-4 AAC-LC 2chAudio Format:AVCHD: Dolby Digital (AC-3) 2ch, Dolby Digital Stereo Creator, MP4: MPEG-4 AAC-LC 2ch",
+    "autofocus": "YesAuto Focus:Yes",
+    "resolution": "20.1 MPResolution:20.1 MP",
+    "videoformat": "AVCHD: MPEG-4 AVC/H.264, MP4: MPEG-4 AVC/H.264Video Format:AVCHD: MPEG-4 AVC/H.264, MP4: MPEG-4 AVC/H.264"
+}

@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1280 x 720 pixels (HD) @ 30 fps",
+    "flashrange": "(ISO Auto) : Wide : 0.5 - 6.8m, Telephoto : 0.5 - 3.7m, (ISO 3200) : Wide : 13.7m, Telephoto : 7.3m",
+    "focallength": "4.5 - 94.5 mm (35 mm Equivalent to 25 - 525 mm)",
+    "builtinflash": "Yes",
+    "displaytype": "TFT LCD",
+    "lenstype": "Sony Lens",
+    "screensize": "3 Inches",
+    "autofocus": "Illuminator",
+    "imagedisplayresolution": "460000 dots",
+    "flashmodes": "Auto, Slow Sync Flash"
+}

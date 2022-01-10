@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "lcdsize": "3.0 inch",
+    "touchscreen": "No",
+    "batterylife": "300 Images",
+    "usb": "2.0 Hi-Speed",
+    "weight": "660g",
+    "battery": "Rechargeable",
+    "opticalzoom": "50x",
+    "megapixel": "20.4",
+    "digitalzoom": "200x",
+    "memorytype": "SD / SDHC / SDXC / Memory Stick Duo / Pro Duo / Pro HG Duo",
+    "builtinmemory": "48MB",
+    "av": "NTSC / PAL",
+    "dimension": "129.6mm x 93.2mm x 103.2mm",
+    "lcdresolution": "921600 Pixels",
+    "hdmi": "Yes"
+}

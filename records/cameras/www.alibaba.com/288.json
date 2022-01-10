@@ -1,0 +1,17 @@
+{
+    "warranty": "Two Years",
+    "category": "camera",
+    "substream": "704\u00d7576,640\u00d7480,640\u00d7360,480\u00d7270",
+    "resolution": "Main stream1280 \u00d7 960,1280 \u00d7 720",
+    "minimumillumination": "0.1Lux@ F1.2(color), 0.01 Lux@ F1.2(B/W)",
+    "framerate": "30FPS(1-30FPS adjustable)",
+    "motiondetection": "Support",
+    "lens": "3.6mm",
+    "networkport": "10/100 Mbps Ethernet RJ-45 port",
+    "voltage": "DC12V",
+    "irdistance": "30M",
+    "networkprotocols": "RTSP/FTP/PPPOE/DHCP/DDNS /NTP/ UPnP",
+    "model": "PN-17HD13M",
+    "daynight": "Auto",
+    "imagesensor": "1/3\" 1.3 Megapixel CMOS"
+}

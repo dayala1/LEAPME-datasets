@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Canon EOS 1200D - digital camera EF-S 18-55mm DC III lens",
+    "memorycardslot": "SD card",
+    "weight": "480 g",
+    "focusadjustment": "Automatic, manual",
+    "colour": "Black",
+    "cameraflash": "Pop-up flash",
+    "lenssystem": "3 x zoom lens - 18 - 55 mm - f/3.5-5.6 III Canon EF-S",
+    "sensorresolution": "18.0 Megapixel",
+    "supportedbattery": "1 x Canon LP-E10 Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - SLR with Live View mode, movie recording",
+    "viewfinder": "Optical - eye-level pentamirror",
+    "lensincluded": "EF-S 18-55mm DC III lens",
+    "dimensionswxdxh": "12.96 cm x 7.79 cm x 9.97 cm",
+    "imageprocessor": "DIGIC 4",
+    "display": "LCD display - 3\"",
+    "minfocusdistance": "25 cm",
+    "maxvideoresolution": "1920 x 1080"
+}

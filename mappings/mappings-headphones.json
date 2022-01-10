@@ -1,0 +1,269 @@
+{
+    "headphones_cup_type": [
+        "Earpiece Design",
+        "Fit Design",
+        "Earpiece",
+        "Ear coupling",
+        "Style",
+        "Headphone type"
+    ],
+    "condition": [
+        "Condition",
+        " Condition"
+    ],
+    "mpn": [
+        "MPN",
+        "Manufacturer's part Number",
+        "Manufacturer Part Number",
+        "Part Number"
+    ],
+    "brand": [
+        "Brand",
+        "Compatible Brand"
+    ],
+    "product_gtin": [
+        "UPC",
+        "EAN"
+    ],
+    "sensitivity": [
+        "Sensitivity",
+        "Sensitivity (1kHz)",
+        "Sensitivity(1 kHz)",
+        "Characteristic sound pressure level (at 1 kHz) ",
+        "Sensitivity headphones",
+        "Sensitivity as per 121 TR 9-5",
+        "Sensitivity (1 kHz)"
+    ],
+    "warranty": [
+        "Warranty"
+    ],
+    "color": [
+        "Color",
+        "Interface Finish"
+    ],
+    "model": [
+        "Model",
+        "Model Number",
+        "MPN"
+    ],
+    "additional_features": [
+        "Features",
+        "NoiseGard\u2122 noise compensation"
+    ],
+    "impedance": [
+        "Impedance",
+        "Nominal impedance",
+        "Nominal Impedance",
+        "Resistance",
+        "Rated Impedance"
+    ],
+    "compatibility": [
+        "Compatibility",
+        "Compatible Brand"
+    ],
+    "connectivity_technology": [
+        "Connectors",
+        "connectors",
+        "Connector(s)",
+        "Connector",
+        "Connectivity",
+        "Communication"
+    ],
+    "frequency_response": [
+        "Frequency Range",
+        "Frequency range",
+        "Frequency Response",
+        "Frequency response",
+        "Frequency ",
+        "Frequency Response Range",
+        "Audio Frequency",
+        "Frequency response (headphones)",
+        "Frequency response (microphone)",
+        "Frequency Bandwidth"
+    ],
+    "product_code": [
+        "EAN",
+        "Part Number"
+    ],
+    "max_input_power": [
+        "Maximum Input Power",
+        "Maximum_Input_Power",
+        "Max. nominal continuous input power",
+        "Max. Input Power",
+        "Load rating"
+    ],
+    "cable_length": [
+        "Cable Length",
+        "Cable length",
+        "Cord Length",
+        "Line Length",
+        "Cable"
+    ],
+    "product_type": [
+        "type",
+        "Type"
+    ],
+    "weight": [
+        "Weight",
+        "Weight (without cable)",
+        "Weight w/o cable",
+        "Weight/Mass",
+        "Net Weight",
+        "Assembled Product Weight",
+        "Item Weight"
+    ],
+    "a": [
+        "model",
+        "headphones_cup_type",
+        "headphones_use"
+    ],
+    "headphones_technology": [
+        "Noise canceling",
+        "Speaker type",
+        "Speaker Type",
+        "Ear Coupling",
+        "Transducer Principle",
+        "Type",
+        "Transducer principle",
+        "Function"
+    ],
+    "sound_output_mode": [
+        "Surround"
+    ],
+    "headphones_form_factor": [
+        "Fit Design",
+        "Wearing style",
+        "Ear coupling",
+        "Earpiece Design",
+        "Type",
+        "Features"
+    ],
+    "cables_included": [
+        "Cable",
+        "Cable Type"
+    ],
+    "frequency_characteristic": [
+        "Frequency Characteristic"
+    ],
+    "thd": [
+        "Total harmonic distortion",
+        "THD, total harmonic distortion"
+    ],
+    "audio_interface_type": [
+        "Adapter lead",
+        "connectors",
+        "Audio InterfaceType"
+    ],
+    "contact_pressure": [
+        "Contact Pressure",
+        "Contact pressure",
+        " Contact pressure"
+    ],
+    "sound_pressure_level": [
+        "Sound pressure level (SPL)",
+        " Sound pressure level (SPL)",
+        "Sensitivity"
+    ],
+    "jack_plug": [
+        "Jack plug",
+        "Plug Size",
+        "Plug Type",
+        "Connector(s)",
+        "Connector"
+    ],
+    "microphone_audio_details": [
+        "Pick-up Pattern"
+    ],
+    "headphone_use": [
+        "Use",
+        "Suited For",
+        "Compatibility"
+    ],
+    "is_wireless": [
+        "Is wireless"
+    ],
+    "with_microphone": [
+        "With Microphone"
+    ],
+    "with_package": [
+        "Package"
+    ],
+    "included_accessories": [
+        "Bundled Items",
+        "Accessories Included",
+        "Accessories Furnished"
+    ],
+    "gender": [
+        "Gender"
+    ],
+    "package_weight": [
+        "Shipping Weight (in pounds)"
+    ],
+    "detachable_cable": [
+        "Detachable cable"
+    ],
+    "contacts": [
+        "Contacts"
+    ],
+    "units": [
+        "Units Per Consumer Unit"
+    ],
+    "dimensions": [
+        "Product in Inches (L x W x H)"
+    ],
+    "origin_assembly": [
+        "Country Of Origin - Assembly",
+        "Country/Region of Manufacture"
+    ],
+    "has_warranty": [
+        "Warranty Text"
+    ],
+    "origin_components": [
+        "Country Of Origin - Components"
+    ],
+    "supported_profiles": [
+        "Supported Profiles"
+    ],
+    "attenuation": [
+        "Attenuation"
+    ],
+    "operating_time": [
+        "Operating time"
+    ],
+    "codecs": [
+        "Codecs"
+    ],
+    "charging_time": [
+        "Charging time"
+    ],
+    "pick-up_pattern": [
+        "Pick-up pattern"
+    ],
+    "battery_type": [
+        "Battery Specification"
+    ],
+    "bluetooth_type": [
+        "Bluetooth Version"
+    ],
+    "microphone_response": [
+        "Frequency response (microphone)"
+    ],
+    "max_frequency": [
+        "Maximum Frequency"
+    ],
+    "min_frequency": [
+        "Minimum Frequency"
+    ],
+    "magnet_material": [
+        "Magnet"
+    ],
+    "diaphragm": [
+        "Driver Diameter"
+    ],
+    "width": [
+        "Length"
+    ],
+    "height": [
+        "Height"
+    ]
+}

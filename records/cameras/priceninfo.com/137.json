@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "lens": "27\u2013108 mm (35 mm equiv.), wide-angle",
+    "dimensions": "3.7 \u00d7 2.2 \u00d7 0.9 inch",
+    "weight": "158.75 gm",
+    "flashmodes": "auto, fill, red-eye reduction, off",
+    "isosensitivity": "auto, 80, 100, 200, 400, 800, 1000",
+    "zoom": "5X optical, 5X advanced digital",
+    "sensortype": "1 / 2.3 in. CCD",
+    "focusmodes": "normal, macro, infinity",
+    "effectivepixels": "14.3 MP (4360 \u00d7 3272)",
+    "power": "Li-ion KLIC-7006, USB/AC adapter for in-camera battery charging",
+    "imageformat": "JPEG/EXIF v2.21",
+    "memory": "32 MB internal memory available, SD/SDHC card expansion slot",
+    "selftimer": "(2 sec./10 sec., 2-shots), burst maximum 3 shots",
+    "shutterspeed": "1/4\u20131/1400 sec.",
+    "whitebalance": "Smart Capture",
+    "videoformat": "Motion JPEG-A, AVI with audio recording during capture"
+}

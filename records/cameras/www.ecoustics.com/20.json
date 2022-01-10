@@ -1,0 +1,23 @@
+{
+    "features": "Touchscreen, 3D-Capable, HD Video Recording, Articulating Screen",
+    "battery": "Rechargeable Lithium-Ion Battery Pack",
+    "isosensitivity": "Auto, 200-25600",
+    "noisereduction": "Yes",
+    "memorycard": "SD/SDXC",
+    "shutterspeedrange": "1/4000 \u2013 60 seconds",
+    "category": "camera",
+    "dustreduction": "Yes",
+    "videorecording": "Yes",
+    "autofocuspoints": "35",
+    "type": "Micro Four-Thirds/Mirrorless",
+    "hdmi": "Yes",
+    "hotshoe": "Yes",
+    "sensortypesize": "MOS, mm",
+    "connectivity": "AV Output, DC Input, HDMI D (Micro), USB 2.0",
+    "builtinflash": "No",
+    "megapixels": "16.1 MP",
+    "opticalzoom": "Not Applicable",
+    "display": "3\u2033 Tilting LED Touchscreen",
+    "batteryincluded": "Yes",
+    "fileformat": "RAW, RAW + JPEG, MPO (3D Still)"
+}

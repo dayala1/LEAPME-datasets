@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="searsoutlet.com:searsoutlet.com#"
+     xml:base="searsoutlet.com:searsoutlet.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:searsoutlet="searsoutlet.com:">
+    <owl:Ontology rdf:about="searsoutlet.com:searsoutlet.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- searsoutlet.com:Battery-Description -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Battery-Description">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Description</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Built-in-Memory -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Built-in-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Cell-Phone-Type -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Cell-Phone-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Phone Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Cellular-Network -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Cellular-Network">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cellular Network</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Depth-in. -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Depth-in.">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depth (in.)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:General-Warranty -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:General-Warranty">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">General Warranty</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Headset-Compatible -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Headset-Compatible">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headset Compatible</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Hearing-Aid-Compatible -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Hearing-Aid-Compatible">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hearing Aid Compatible</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Height-in. -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Height-in.">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Height (in.)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Item-Weight-lbs. -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Item-Weight-lbs.">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Item Weight (lbs.)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Material -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Material">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Material</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Network-Provider -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Network-Provider">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Network Provider</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Operating-System -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Operating-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Style -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Style">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Style</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Supported-Memory-Cards -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Supported-Memory-Cards">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supported Memory Cards</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:Width-in. -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:Width-in.">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Width (in.)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- searsoutlet.com:tagline -->
+
+    <owl:DatatypeProperty rdf:about="searsoutlet.com:tagline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tagline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- searsoutlet.com:0 -->
+
+    <owl:NamedIndividual rdf:about="searsoutlet.com:0">
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13MP digital camera</searsoutlet:tagline>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</searsoutlet:tagline>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5&quot; touchscreen display</searsoutlet:tagline>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android� 5.1 operating system</searsoutlet:tagline>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD video with auto focus and 4x zoom</searsoutlet:tagline>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- searsoutlet.com:1 -->
+
+    <owl:NamedIndividual rdf:about="searsoutlet.com:1">
+        <searsoutlet:Item-Weight-lbs. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.34</searsoutlet:Item-Weight-lbs.>
+        <searsoutlet:Depth-in. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.46</searsoutlet:Depth-in.>
+        <searsoutlet:General-Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year</searsoutlet:General-Warranty>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13MP digital camera</searsoutlet:tagline>
+        <searsoutlet:Width-in. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.85</searsoutlet:Width-in.>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</searsoutlet:tagline>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5&quot; touchscreen display</searsoutlet:tagline>
+        <searsoutlet:Height-in. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.59</searsoutlet:Height-in.>
+        <searsoutlet:Built-in-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8GB internal memory</searsoutlet:Built-in-Memory>
+        <searsoutlet:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.1</searsoutlet:Operating-System>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android� 5.1 operating system</searsoutlet:tagline>
+        <searsoutlet:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</searsoutlet:Color>
+        <searsoutlet:Network-Provider rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Cellular</searsoutlet:Network-Provider>
+        <searsoutlet:Cellular-Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM</searsoutlet:Cellular-Network>
+        <searsoutlet:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD video with auto focus and 4x zoom</searsoutlet:tagline>
+        <searsoutlet:Battery-Description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mixed usage up to 24 hours</searsoutlet:Battery-Description>
+        <searsoutlet:Cell-Phone-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Paid</searsoutlet:Cell-Phone-Type>
+        <searsoutlet:Style rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slate Phone</searsoutlet:Style>
+        <searsoutlet:Supported-Memory-Cards rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 32GB MicroSD</searsoutlet:Supported-Memory-Cards>
+        <searsoutlet:Headset-Compatible rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</searsoutlet:Headset-Compatible>
+        <searsoutlet:Hearing-Aid-Compatible rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</searsoutlet:Hearing-Aid-Compatible>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- searsoutlet.com:2 -->
+
+    <owl:NamedIndividual rdf:about="searsoutlet.com:2">
+        <searsoutlet:Depth-in. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.46</searsoutlet:Depth-in.>
+        <searsoutlet:Item-Weight-lbs. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.82</searsoutlet:Item-Weight-lbs.>
+        <searsoutlet:Width-in. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.52</searsoutlet:Width-in.>
+        <searsoutlet:Height-in. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.88</searsoutlet:Height-in.>
+        <searsoutlet:General-Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90 Day Warranty</searsoutlet:General-Warranty>
+        <searsoutlet:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android OS v4.2.2 (Jelly Bean) v4.3 (Jelly Bean)</searsoutlet:Operating-System>
+        <searsoutlet:Style rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar Phone</searsoutlet:Style>
+        <searsoutlet:Cellular-Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM</searsoutlet:Cellular-Network>
+        <searsoutlet:Material rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metals and Plastic</searsoutlet:Material>
+        <searsoutlet:Network-Provider rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No provider specified</searsoutlet:Network-Provider>
+        <searsoutlet:Cell-Phone-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unlocked</searsoutlet:Cell-Phone-Type>
+        <searsoutlet:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White</searsoutlet:Color>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

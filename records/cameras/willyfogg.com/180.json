@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "audioinput": "Condenser microphone",
+    "audiooutput": "3.5 mm stereo jack, connector for a speaker (Class D Amp)",
+    "ram": "512 MB DDR2 RAM, 32-bit bus",
+    "dimensions": "110 \u00c3\u0097 110 mm",
+    "power": "Regulated 5V (DC-Plug)",
+    "flash": "4 GB MLC NAND Flash",
+    "weight": "98g",
+    "camera": "2x 20-pin (2.0 mm) CMOS Camera interface, supports two camera modules",
+    "temperature": "0\u00c2\u00b0C to 70\u00c2\u00b0C",
+    "usb": "1x USB-A Host 2.0, 1x mini-USB Slave/OTG 2.0",
+    "ethernet": "RJ45 10/100M (DM9000)",
+    "cpu": "1 GHz Samsung S5PV210 with PowerVR SGX540 graphics engine (smooth 2D/3D, up to 1080p @ 30 fps decoding and encoding)",
+    "monitor": "mini-HDMI (type C)"
+}

@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "thecoordinatesofthedustadheringtothelowpassfilteraredetectedbyatestshotandappendedtosubsequentimages": "The dust coordinate data appended to the image is used by the provided         software to automatically erase the dust spots.",
+    "compatiblelenses": "Canon EF lenses (including EF-S lenses)",
+    "itemswhenyoupressthequickcontrolfunctionbuttonunderthefollowingconditionsyoucansetthefunctionsbelow": "*The settable functions depend on the shooting mode",
+    "recordingmedia": "SD card, SDHC card, SDXC memory card *Compatible with Ultra High Speed (UHS-I) memory cards and Eye-Fi cards.",
+    "imageformat": "Approx. Approx. 22.3mm x 14.9mm (APS-C)",
+    "removesdustadheringtothelowpassfilter": "Self-cleaning executed automatically (taking approx. 2 sec.) when power         is turned on or off. Manual execution also possible (taking approx. 5         sec.).",
+    "lensmount": "Canon EF mount",
+    "type": "Digital AF/AE single-lens reflex camera with built-in flash",
+    "label2": "SD card, SDHC card, SDXC memory card *Compatible with Ultra High Speed (UHS-I) memory cards and Eye-Fi cards."
+}

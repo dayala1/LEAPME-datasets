@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Pentax X-5 - digital camera",
+    "minfocusdistance": "40 cm",
+    "weight": "0.51 kg",
+    "focusadjustment": "Automatic, manual",
+    "colour": "Black",
+    "lenssystem": "26 x zoom lens - 4 - 104 mm - f/3.1-5.9",
+    "cameraflash": "Pop-up flash",
+    "microsoftcertification": "Compatible with Windows 7",
+    "dimensionswxdxh": "12 cm x 10.65 cm x 8.65 cm",
+    "digitalzoom": "7.2 x",
+    "sensorresolution": "16.0 Megapixel",
+    "supportedbattery": "4 x AA alkaline battery ( included ) \u00a6 4 x AA NiMH rechargeable battery ( optional ) \u00a6 4 x AA lithium battery ( optional )",
+    "producttype": "Digital camera - compact",
+    "imagestabiliser": "Optical (image sensor shift mechanism)",
+    "viewfinder": "Electronic - colour",
+    "display": "LCD display - 3\"",
+    "memorycardslot": "SD card"
+}

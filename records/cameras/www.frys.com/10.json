@@ -1,0 +1,23 @@
+{
+    "features": "Face Detection",
+    "color": "Black",
+    "isosensitivity": "ISO       100 to 6400, can be set up to approx. 2 EV (ISO 25600       equivalent) above ISO 6400; auto ISO sensitivity control       available",
+    "frameadvancerate": "CL:1       to 5frames fps* CH:6 fps* * CIPA        guidelines",
+    "effectivepixels": "16.2       million",
+    "powersource": "Battery;       One rechargeable Li-ion battery EN-EL15 AC       adapter(optional);EH-5a AC adapter; requires EP-5B power       connector",
+    "category": "camera",
+    "monitor": "3-in.,       approx. 921k-dot, TFT LCD with brightness adjustment",
+    "movie": "Frame       size (pixels) and frame rate: [NTSC] 1,920 x 1,080;       24p - 1,280 x 720; 30p - 1,280 x 720; 24p - 640 x 424;       30p [PAL] 1,920 x 1,080; 24p - 1,280 x 720;25p - 1,280 x       720;24p - 640 x 424; 25p Maximum Recording Time:Approx.20       min. File format/Video compression: MOV, H.264/MPEG-4       Advanced Video Cording Audio recording device; Built-in       monaural or external stereo microphone",
+    "specification": "Value",
+    "weightapprox": "690g       without battery, memory card, or body cap, 780g;with battery       and memory card but without body cap",
+    "type": "Digital SLR",
+    "imagesizepixels": "4,928        x 3,262 [L] 3,696        x 2,448 [M] 2,464        x 1,632 [S]",
+    "screensize": "3.0",
+    "storagemedia": "SDHC",
+    "lensmount": "Nikon       F mount (with AF coupling and AF contacts)",
+    "imagesensor": "23.6       x 15.6 mm CMOS sensor",
+    "opticalzoom": "0",
+    "media": "SD       (Secure Digital) memory cards*1, SDHC and SDXC compliant",
+    "videoresolution": "1080p",
+    "fileformat": "1)       NEF(RAW), 2)JPEG, 3)NEF(RAW)+JPEG"
+}

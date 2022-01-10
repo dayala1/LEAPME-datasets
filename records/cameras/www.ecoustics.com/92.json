@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "imagesensor": "20.3 effective megapixel APS-C CMOS sensor",
+    "image": "JPEG (3:2)\uff1a20.0M (5472\u00d73648), 10.1M (3888\u00d72592), 5.9M (2976\u00d71984), 2.0M (1728\u00d71152), 5.0M (2736\u00d71824): Burst mode only JPEG (16:9)\uff1a16.9M (5472\u00d73080), 7.8M (3712\u00d72088), 4.9M (2944\u00d71656), 2.1M (1920\u00d71080) JPEG (1:1)\uff1a13.3M (3648\u00d73648), 7.0M (2640\u00d72640), 4.0M (2000\u00d72000), 1.1M (1024\u00d71024) RAW : 20.0M (5472\u00d73648) \uff0a 3D Image Size : MPO, JPEG (16:9) 4.1M (2688\u00d71512), (16:9) 2.1M (1920\u00d71080)",
+    "wificonnectivity": "IEEE 802.11b/g/n support Dual Channel (SMART Camera 3.0) AutoShare SNS & Cloud (Dropbox, Flickr, Facebook, Picasa, YouTube) Email Auto Backup Remote Viewfinder Pro MobileLink Samsung Link Group Share Direct Beam HomeSync (Available in selected regions) Baby Monitor",
+    "video": "MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1920\u00d71080, 1920\u00d7810, 1280\u00d7720 , 640\u00d7480, 320\u00d7240(for Sharing)",
+    "viewfinder": "Tiltable EVF w/Eye Contact Sensor, (tilting upward by 80 degrees) XGA (1024\u00d7768) 2,359dots",
+    "iso": "Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600",
+    "display": "76.7mm (3.0-inch) Super AMOLED Swivel and Touch Display FVGA (720\u00d7480) 1,037k dots"
+}

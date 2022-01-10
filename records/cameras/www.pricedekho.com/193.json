@@ -1,0 +1,22 @@
+{
+    "videodisplayresolution": "640 x 480 pixels (VGA)",
+    "audioformats": "WAV",
+    "metering": "Centre-Weighted, Multi, Spot",
+    "lenstype": "Samsung Lens",
+    "videoformat": "AV : NTSC, PAL (User selectable)",
+    "category": "camera",
+    "microphone": "Yes",
+    "facedetection": "Yes",
+    "redeyereduction": "Yes",
+    "autofocus": "Centre AF, Multi AF",
+    "continuousshots": "Yes",
+    "flashrange": "Wide : 0.4m - 3.0m, Telephoto : 0.5m - 2.0m",
+    "focallength": "4.9 - 24.5 mm (35 mm Equivalent to 27 - 135 mm)",
+    "isorating": "Auto / 80 / 100 / 200 / 400 / 800 / 1600",
+    "imageformat": "JPEG (DCF, EXIF 2.21, DPOF 1.1, PictBridge 1.0)",
+    "builtinflash": "Yes",
+    "shootingmodes": "Auto",
+    "flashmodes": "Auto & Fill-In Flash",
+    "imagedisplayresolution": "230000 dots",
+    "screensize": "3 Inches"
+}

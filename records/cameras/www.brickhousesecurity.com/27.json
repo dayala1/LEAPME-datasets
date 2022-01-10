@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "1Vp.p, 75 Ohms",
+    "verticalfrequency": "EIA/NTSC",
+    "pictureelements": "EIA/NTSC",
+    "operationtemperature": ".10 Degrees C ~ 45 Degrees C",
+    "powerconsumption": "120mA",
+    "minimumillumination": "1 Lux",
+    "powersupply": "DC12V",
+    "lens": "3.7mm Pinhole",
+    "horizontalresolution": "420 TVL",
+    "storagetemperature": ".30 Degrees C ~ 60 Degrees C",
+    "imagesensor": "1/4\" Color Sony CCD",
+    "gamma": "0.45",
+    "clockfrequency": "EIA/NTSC"
+}

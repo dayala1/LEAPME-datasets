@@ -1,0 +1,16 @@
+{
+    "installedmemory": "30 MB",
+    "category": "camera",
+    "interfaceconnection": "USB",
+    "rechargeable": "Yes",
+    "batterytype": "Lithium Ion Battery",
+    "imagesensor": "Super CCD",
+    "lcdscreensize": "3.5 inches",
+    "imageformat": "JPEG",
+    "effectivemegapixels": "12 megapixels",
+    "imagesensorsize": "0.5 inches",
+    "minimumshutterspeed": "4 second(s)",
+    "type": "point-and-shoot",
+    "whitebalance": "Auto",
+    "maximumshutterspeed": "1/1000 second"
+}

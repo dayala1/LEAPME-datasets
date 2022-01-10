@@ -1,0 +1,22 @@
+{
+    "weight": "46g",
+    "externalmemory": "Micro SDCard(MAX: 32GB)",
+    "buildinmicrophone": "Yes",
+    "powersource": "Lithium 300mAh",
+    "stillimageresolution": "5.0 MP(2592x 1944) 3.0 MP(2048x 1536) 1.3 MP(1280x 960)(Default)",
+    "videowithsound": "Yes",
+    "buildinspeaker": "N/A (has buzzer)",
+    "dimensions": "66*43*27mm",
+    "powerlife": "More than 1 hour",
+    "videofileformat": "AVI",
+    "aperture": "F/3.1\u00a0 f=9.3mm",
+    "category": "camera",
+    "hdmiport": "N/A",
+    "internalmemory": "SDRAM 8x 16MB &SPI 2MB",
+    "pcinterface": "USB 2.0",
+    "imagesensor": "1.3 MP CMOS",
+    "digitalzoom": "4X",
+    "imagefileformat": "JPEG",
+    "lcddisplay": "2.0\" Touch Panel",
+    "videoresolution": "720P(1280*720)23-31fps VGA(640*480)49-63fps(Default)"
+}

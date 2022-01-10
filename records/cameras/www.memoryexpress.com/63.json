@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "dimensions": "N/A",
+    "weight": "N/A",
+    "imagefeatures": "Configurable image size, quality, frame rate, and bit rate Fisheye distortion correction Time stamp and text overlays Configurable brightness, saturation, contrast,and sharpness Configurable motion detection windows",
+    "externaldeviceinterface": "10/100 BASE-TX Fast Ethernet port 802.11n wireless",
+    "videocompression": "Simultaneous H.264/MPEG-4/MJPEG format compression H.264/MPEG-4 multicast streaming JPEG for still images",
+    "angleofview": "180\u00b0",
+    "videoresolution": "1600 x 1200, 1200 x 900, 800 x 600, 400 x 300 up to 15 fps recording1",
+    "audiosupport": "G.726 G.711"
+}

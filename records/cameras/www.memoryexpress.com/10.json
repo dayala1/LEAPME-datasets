@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "audio": "Built-in microphone port 3.5 mm audio jack for 3rd party speaker",
+    "zoom": "4x digital",
+    "temperature": "Operating: 0 - 40 \u00b0C (32 - 104 \u00b0F)",
+    "weight": "340 g (0.75 lbs)",
+    "focallength": "4.6 mm, F2.0",
+    "minimumillumination": "IR off: 1 lux IR on: 0 lux 7.5 meter IR illumination distance (indoor)",
+    "jpeg": "1280 x 720 up to 5 fps (or 640 x 480 up to 30 fps)",
+    "humidity": "Max. 90% non-condensing",
+    "power": "Input: 100 - 240 V AC, 50/60 Hz, 0.5 A Output: 12 V DC , 1 A external power adapter Max. Consumption: 10.5 W",
+    "networkprotocol": "IPv4, DHCPv6, ARP, TCP, UDP, ICMP, Bonjour, ONVIF Profile S DHCP, NTP, DNS, DDNS, SMTP, FTP, Samba HTTP PPPoE UPnP RTP, RTCP, RTSP, 3GPP",
+    "pantilt": "Pan: 330\u00b0 Tilt: 115\u00b0 Auto-Patrol preset positions (non-continuous)",
+    "interface": "10/100 Mbps port Micro SD slot (up to 32 GB) Reset button WPS button LED indicator 3.5 mm speaker jack Power jack",
+    "standards": "IEEE 802.3, IEEE 802.3u, IEEE 802.3x, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n",
+    "sensor": "1/4\" CMOS Sensor",
+    "viewingangle": "Diagonal: 58\u00b0 Horizontal: 49\u00b0 Vertical: 31\u00b0",
+    "dimensions": "Camera: 128 x 159 X 142 mm (5.0 x 6.2 x 5.6 in.)"
+}

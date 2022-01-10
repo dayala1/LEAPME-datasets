@@ -1,0 +1,22 @@
+{
+    "weight": "250 g (incl. lens)",
+    "resolutiondisplay": "0.1 \u00b0C",
+    "fieldofview": "23 x 17\u00b0",
+    "height": "62mm",
+    "category": "camera",
+    "dimensions": "45 x 45 x 62 mm",
+    "length": "45mm",
+    "width": "45mm",
+    "focustype": "Manual",
+    "minimumfocus": "20 mm",
+    "description": "Infrared Imager optris PI",
+    "lens": "23\u00b0 x 17\u00b0 FOV / f = 10 mm 6\u00b0 x 5\u00b0 FOV / f = 35.5 mm (upon request) 48\u00b0 x 37\u00b0 FOV / f = 4.5 mm (upon request)",
+    "storagemedia": "SD Card",
+    "thermalsensitivity": "=80mK",
+    "refreshrate": "120Hz",
+    "horizontalfieldofview": "23\u00b0",
+    "displaysize": "3.5in",
+    "spectralrange": "7.5 \u2192 13 \u03bcm",
+    "interfacetype": "USB 2.0",
+    "emissivity": "1"
+}

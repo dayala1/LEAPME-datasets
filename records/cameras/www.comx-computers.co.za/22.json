@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "productcode": "CB06A",
+    "minillumination": "0.5Lux F: 1.20",
+    "imagesensor": "1/3\", 1/4\" super had CCD 2",
+    "effectivepixel": "H752xV582(PAL) H768xV492((NTSC)",
+    "agc": "+48dp max(AGC-OFF)",
+    "system": "CCIR or EIA",
+    "horizontalresolution": "380/420/480/520/550 TV Lines"
+}

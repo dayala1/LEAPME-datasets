@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "selftimer": "Yes",
+    "facedetection": "Yes",
+    "weight": "1 lbs 12.8 oz",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "depth": "1.4 in",
+    "opticalzoom": "30x",
+    "height": "2.5 in",
+    "internalmemory": "329 MB",
+    "width": "4.3 in",
+    "digitalzoom": "4x",
+    "removablemediacompatibility": "microSD microSDHC microSDXC",
+    "megapixelsmp": "16.0",
+    "lcdscreensize": "3.0\"",
+    "digitalcameratype": "Point & Shoot",
+    "hdmioutput": "HDMI Micro"
+}

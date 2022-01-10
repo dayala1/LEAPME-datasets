@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "lcdsizeinches": "3",
+    "focallength": "4.3-129.0 mm",
+    "aperturerange": "f/3.4-8.0",
+    "shutterspeedseconds": "1-1/1600",
+    "opticalzoom": "30x",
+    "whitebalance": "Auto, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, Custom",
+    "sensortype": "CCD",
+    "digitalzoom": "4x",
+    "effectiveresolution": "16MP",
+    "isosensitivityrange": "ISO 100-1600",
+    "aspectratio": "4:3",
+    "typeofcamera": "Compact",
+    "imagingprocessor": "DIGIC 4+"
+}

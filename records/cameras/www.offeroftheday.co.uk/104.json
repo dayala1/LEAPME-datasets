@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio",
+    "wirelessconnection": "Wireless LAN",
+    "productdescription": "Samsung SMART Camera WB30F - digital camera",
+    "minfocusdistance": "80 cm",
+    "weight": "131 g",
+    "focusadjustment": "Automatic, manual",
+    "colour": "White",
+    "lenssystem": "10 x zoom lens - 4.3 - 43 mm - f/3.2-6.3",
+    "cameraflash": "Built-in flash",
+    "digitalzoom": "5 x",
+    "sensorresolution": "16.2 Megapixel",
+    "supportedbattery": "1 x Samsung BP-70A Li-ion rechargeable battery - 700 mAh ( included )",
+    "imagestabiliser": "Optical",
+    "dimensionswxdxh": "9.8 cm x 1.65 cm x 5.79 cm",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1280 x 720",
+    "display": "LCD display - 3\"",
+    "memorycardslot": "microSD card"
+}

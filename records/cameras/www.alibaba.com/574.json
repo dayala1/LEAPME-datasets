@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "networkfunction": "ProtocolTCP/IP,ICMP,HTTP,HTTPS,FTP,DHCP,DNS,DDNS,RTP, RTSP RTCP,PPPoE,NTP,UPnP,SMTP,SNMP,IGMP,802.1X ,P2P",
+    "audio": "Audio EncodingWith G.726/G.722/G.711 standard code,64Kbps transfer Speed",
+    "exposurecontrol": "DSP Auto Adjust",
+    "powerconsumption": "DC 12V\u00b15% ,IR ON: 8W",
+    "shutterspeed": "1/60Sec~ 1/100,000Sec,Shutter Speed Adjustable",
+    "effectivepixel": "50Hz:25fps (1280*720) 60Hz: 30fps (1280*720)50Hz:25fps (1280*960) 60Hz: 30fps (1280*960)50Hz:25fps (1920*1080) 60Hz: 30fps (1920*1080)",
+    "general": "FeatureSimplificationLow IlluminationLow Illumination",
+    "lens": "Standard 2.8-12mm(F1.2/M12 Mount)2.0MP Lens 4-9MM,9-22MM Optional",
+    "irdistance": "60m(36pcs BLACK IR LED)",
+    "others": "Work TemperatureCircle temperature:-10\u00b0C~+60\u00b0C Body temperature:25\u00b0C~35\u00b0C",
+    "illumination": "Color: 1.0Lux/BW:0.1Lux (F1.2,AGC ON)Color: 0.1Lux/BW:0.01Lux (F1.2,AGC ON)Color: 0.1Lux/BW:0.01Lux (F1.2,AGC ON)",
+    "model": "HD10P ILYHD13PILYHD20P ILY",
+    "supportagreement": "Support ONVIF 2.2",
+    "smartalarm": "Motion detect Video Shelter, I/O Alarm for Video Lost",
+    "videoframerate": "1280\u00d7720P1280x960P1920x1080P",
+    "generalfunction": "Anti flicker ,\u00a0dual stream,,\u00a0mirror,\u00a0password protection video\u00a0hiding, watermarking technology"
+}

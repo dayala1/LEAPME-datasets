@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "features": "HDMI, USB 2.0",
+    "lightsensitivitymax": "200",
+    "cameratype": "Digital SLR",
+    "brand": "Fujifilm",
+    "connectortypes": "USB to computer",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "sensorresolution": "16.3 MP",
+    "screensize": "2.8\"",
+    "displaysize": "2.8\"",
+    "supportedflashmemory": "SD Card, SD Memory Card, SDHC Card, SDHC Memory Card, SDXC Card, SDXC Memory Card",
+    "model": "X-E1",
+    "focusadjustment": "Autofocus & Manual Focus",
+    "hdmioutput": "Yes"
+}

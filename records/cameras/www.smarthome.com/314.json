@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "dimensions": "3\" x 4\" x 5\u00b0\" Inches",
+    "power": "DC5v 2A",
+    "cameratype": "CMOS, 3.6mm",
+    "upc": "609408142987",
+    "compressionformat": "M-JPEG",
+    "supportedprotocols": "TCP/IP, HTTP, ICMP, DHCP, FTP, SMTP, PPPoE",
+    "resolution": "640x480 / 320x240 Adjustable @ 25FPS",
+    "manufacturer": "Mini Gadgets"
+}

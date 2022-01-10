@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "shutter": "15 - 1/2000 sec",
+    "burstrate": "Up to 3.9 fps, Up to 10.5 fps",
+    "shootingmodes": "Auto, Creative Shot, Fireworks, Fish-Eye Effect, Handheld Night, Scene, Hybrid Auto, Low Light, Miniature Effect, Monochrome, Portrait, Poster Effect, Smart Shutter, Snow, Super Vivid, Toy Camera Effect",
+    "isosensitivity": "Auto, 100-3200",
+    "exposuremodes": "Modes",
+    "selftimer": "10 Sec, 2 Sec",
+    "compensation": "-2 EV to +2 EV (in 1/3 EV steps)",
+    "exposuremetering": "Center-weighted, Evaluative, Spot",
+    "whitebalancemodes": "Auto, Cloudy, Custom, Daylight, Fluorescent, Fluorescent H, Tungsten"
+}

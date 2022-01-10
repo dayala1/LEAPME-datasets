@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "label8": "Waterproof up to 3 meters",
+    "imageresolution": "10M (3648x2736), 5M (2592x1944), 3M (2048x1536), VGA (640x480)",
+    "zoom": "8x digital zoom",
+    "imagestorage": "Micro SD card upto 32GB (Optional)",
+    "weight": "112g (without battery and SD card)",
+    "flash": "Auto, Forced On, Forced Off",
+    "len": "sf=8.5mm, F2.8",
+    "label7": "720p@30fps AVI with audio",
+    "selftimer": "Off, 10sec",
+    "exposurecompensation": "Auto, Manual +/-2 EV in 1/3 increments",
+    "iso": "Auto, 100, 200, 400, 800",
+    "normalfocusrange": "50cm - infinity",
+    "powersource": "2 x AAA Alkaline Battery",
+    "interface": "USB 2.0 High speed",
+    "lcdmonitor": "2.7 Inch + 1.8 Inch Colour TFT LCD",
+    "label16": "ShutterElectronic Shutter",
+    "whitebalance": "Auto, Daylight, Cloudy, Tungsten, Neon",
+    "size": "97.5 x 61.5 x 23.5 mm"
+}

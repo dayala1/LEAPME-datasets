@@ -1,0 +1,23 @@
+{
+    "shutterspeedrange": "1/8000 - 30 s",
+    "weight": "Approx. 765 g with battery and memory card but without body cap",
+    "isorange": "ISO 100 - 6400",
+    "effectivepixels": "24.1 megapixels",
+    "videofps": "60.0 FPS",
+    "imagingprocessor": "Nikon EXPEED 3",
+    "viewfindercoverage": "100%",
+    "category": "camera",
+    "dimensions": "Approx. 135.5 x 106.5 x 76 mm",
+    "compatiblelens": "Nikon AF-S or AF lenses fully compatible",
+    "autofocuspoints": "51 focus points (including 9 cross-type sensors)",
+    "autofocustype": "Nikon Multi-CAM 3500DX AF sensor module with TTL phase detection",
+    "imagesensorsize": "APS-C 23.5 x 15.6mm",
+    "batterymodel": "EN-EL15",
+    "lcdresolution": "1,228,800 dots",
+    "viewfindermagnification": "0.94x",
+    "storagemedia": "Dual Slot SD memory cards (UHS-I, SDHC and SDXC compliant)",
+    "lensmount": "Nikon F mount",
+    "lcdsize": "3.2\"",
+    "imagesensortype": "CMOS",
+    "lcdtype": "TFT"
+}

@@ -1,0 +1,18 @@
+{
+    "digitalnoisereduction": "3D DNR, OFF/HIGH/MID/LOW",
+    "category": "camera",
+    "senseupdss": "OFF, x 2 ~ x 512",
+    "digitalwidedynamicrange": "DWDR",
+    "operatingtemperature": "-10 \u00b0C ~ + 50 \u00b0C",
+    "minimumillumination": "0.0001 Lux",
+    "rs485": "Yes",
+    "imagingsensor": "1/3\" Sony 638BK CCD + CP10 DSP",
+    "lens": "2.8-12mm VF Lens",
+    "horizontalresolution": "700 TVL",
+    "effectivepixels": "768(H) x 494(V)",
+    "powersupply": "DC12V/AC24V",
+    "snratio": "More than 50dB (AGC OFF)",
+    "osdmenu": "English/Chinese",
+    "model": "CAM-562D26/OSD",
+    "signalsystem": "NTSC"
+}

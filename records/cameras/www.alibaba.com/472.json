@@ -1,0 +1,23 @@
+{
+    "pictbridge": "Yes",
+    "battery": "Lithium\u00a0Battery",
+    "externalmemory": "SD\u00a0Card\u00a0(up\u00a0to\u00a032GB)",
+    "category": "camera",
+    "flash": "YES,\u00a0IGBT\u00a0(Auto/Force/Off/Red\u00a0eye\u00a0reduce)",
+    "selftimer": "2\u00a0/\u00a05\u00a0or\u00a010\u00a0sec\u00a0delay",
+    "workingtemperature": "0~40\u00b0C",
+    "imageresolution": "4480X3360\u00a0pixels\u00a0(15M),4000\u00a0X3000(12M\u00a0In)\u00a0,3648\u00a0X2736(10M\u00a0In),\u00a03456x2592(9MP),3648X2048(7MP)HD,2592X1944(5MP),",
+    "scene": "Auto/Night\u00a0Portrait/Night\u00a0Scenery/Portrait/Scenery/Sport/Party/Beach/High\u00a0Sensitivity",
+    "lens": "Optical\u00a0Zoom\u00a0Lens",
+    "interface": "USB\u00a02.0",
+    "exposure": "-3.0EV\u00a0~\u00a0+3.0EV",
+    "imagesensor": "CMOS\u00a0Sensor",
+    "antishake": "Yes",
+    "zoom": "4X\u00a0Optical\u00a0Zoom;\u00a04X\u00a0Digital\u00a0Zoom",
+    "whitebalance": "Auto,\u00a0Daylight,\u00a0Cloudy,\u00a0Incandescent,\u00a0Fluorescent",
+    "iso": "Auto/100/200/400",
+    "systemrequirements": "Windows\u00a0XP/VISTA/7/MAC",
+    "lcddisplay": "2.7\u00a0Inch\u00a0TFT",
+    "videoresolution": "1280\u00a0x720(30fps),640X480(30fps),\u00a0320X240(30fps)",
+    "fileformat": "JPEG\u00a0(Still\u00a0Image)/AVI\u00a0(Video)"
+}

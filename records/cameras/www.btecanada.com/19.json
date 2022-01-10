@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p/75 ohm",
+    "whitebalance": "Auto",
+    "lensmount": "3.6mm",
+    "minillumination": "0Lux (IR ON)",
+    "gammacorrection": "0.45",
+    "snratio": ">48dB (AGC OFF)",
+    "agc": "Auto",
+    "powersupply": "DC12V",
+    "backlightcompensation": "Auto",
+    "horizontalresolution": "420 TVL",
+    "electronicshutter": "1/50(1/60) ~ 1/100000 Sec",
+    "scanningsystem": "NTSC",
+    "model": "SV603DB",
+    "syncsystem": "Internal",
+    "ccdtype": "1/4\" Sony Color CCD",
+    "operationenvironment": "Temperature: -10C ~ +50C \u00a0\u00a0\u00a0\u00a0/\u00a0\u00a0\u00a0\u00a0Humidity: 40% ~ 90%"
+}

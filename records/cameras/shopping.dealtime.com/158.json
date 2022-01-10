@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "flashtype": "None",
+    "stillimageformat": "RAW + JPEG      \u2022           JPEG      \u2022           RAW",
+    "brand": "Canon",
+    "tax": "Calculate",
+    "shipping": "$3,000.00",
+    "sensortype": "CMOS",
+    "opticalviewfindertype": "Fixed eye-level pentaprism",
+    "totalprice": "$6,199.00",
+    "specialeffects": "Sepia      \u2022           Neutral      \u2022           Faithful      \u2022           Black & White",
+    "baseprice": "$3,199.00",
+    "supportedflashmemory": "CompactFlash      \u2022           Microdrive",
+    "type": "Digital SLR",
+    "viewfindertype": "Optical"
+}

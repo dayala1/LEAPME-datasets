@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "electronicshutter": "1/60 ~ 1/100,000",
+    "powerrequirement": "12VDC/24VAC Dual Voltage (500 mA Minimum)",
+    "operatingtemperature": "14\u00b0 F ~ 122\u00b0 F (-10\u00b0 C ~ +50\u00b0 C)",
+    "minillumination": "Day/Night",
+    "operatinghumidity": "Within 85% RH",
+    "syncsystem": "Internal",
+    "imagesensor": "1/3 Sony New Structure Super HAD CCD",
+    "snratio": "More than 50dB AGC OFF at 50IRE",
+    "lens": "2.9-10mm",
+    "powerconsumption": "3 Watts",
+    "horizontalresolution": "480 TV Lines / 550 TV Lines",
+    "effectivepixels": "768(H) x 494(V)",
+    "scanningsystem": "2",
+    "weatherproof": "IP68",
+    "videooutput": "1.0Vp-p composite, 75 Ohms",
+    "whitebalance": "2000~8000 K Automatic Tracking",
+    "gamma": "0.45"
+}

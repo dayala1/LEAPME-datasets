@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "builtinmicrophone": "Yes",
+    "minimumillumination": "- 0.04 lux / F1.4 (Night mode, Max gain 4x, Exposure time 1/30) - 0.01 lux/ F1.4 (Night mode, Max gain 8x, Exposure time 1/5)",
+    "currentconsumption": "12 VDC/0.6A, 24 VAC/0.6A",
+    "zoom": "(Digital) 4x",
+    "audioio": "- MIC IN / LINE OUT, - 2-way audio (SIP) supported",
+    "compressionformat": "JPEG, MPEG4 dual codec",
+    "electricshutter": "1/5-1/40,000 sec",
+    "scanningsystem": "Progressive",
+    "lensmount": "CS (lens not included)",
+    "humidity": "20% to 90%",
+    "os": "Linux Ver2.6",
+    "imagesensor": "1/3.2 Inch CMOS",
+    "powerrequirements": "DC 12V+/-10%, 24VAC \u00c2\u00b110%, and PoE"
+}

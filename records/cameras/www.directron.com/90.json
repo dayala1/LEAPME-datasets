@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "audioout": "1 BNC",
+    "supplyvoltage": "Output",
+    "recordingmodes": "Manual, Scheduled, Sensor, Motion trigger",
+    "storage": "Up to 16TB, SATA interface HDD x8 or HDD x6 +DVD+/-RW (not included)",
+    "alarmoutput": "4",
+    "audioin": "16 BNC / 1 Mic / 1 Line-in",
+    "playback": "Via Client Player",
+    "networkprotocol": "TCP/IP, Static IP, DHCP, DDNS",
+    "networkconnection": "100/1000 Ethernet(RJ-45)",
+    "resolutionrecording": "CIF@480 fps, Half D1@480 fps, D1@480 fps",
+    "alarminput": "16",
+    "recordingcompression": "H.264"
+}

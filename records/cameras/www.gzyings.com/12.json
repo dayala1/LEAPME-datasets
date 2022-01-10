@@ -1,0 +1,14 @@
+{
+    "small1": "Approx. 4.2 Megapixels (2736 x 1536);",
+    "category": "camera",
+    "small3": "Approx. 0.29 Megapixels (720 x 408)",
+    "medium": "Approx. 7.5 Megapixels (3648 x 2048);",
+    "printableimages": "RAW, JPEG, and RAW+JPEG images complying to Design     rule for Camera File System * Movies cannot be printed.",
+    "mraw": "Approx. 9.5 Megapixels (4104 x 2310);",
+    "label2": "* Movies cannot be printed.",
+    "large": "Approx. 16.8 Megapixels (5472 x 3072);",
+    "raw": "Approx. 16.8 Megapixels (5472 x 3072);",
+    "sraw": "Approx. 4.2 Megapixels (2736 x 1536)",
+    "small2": "Approx. 2.1 Megapixels (1920 x 1080);",
+    "compatibleprinters": "PictBridge-compatible printers"
+}

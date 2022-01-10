@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "privacybutton": "Privacy mode on / off",
+    "certifications": "CE, FCC",
+    "led": "Power, Link / Act",
+    "system": "Web based administration",
+    "weight": "500 g 1.1 lbs",
+    "powerconsumption": "Max 9 Watts",
+    "general": "Sensor: 1/4\u201d CMOS Sensor Board Lens Focal Length: 4 mm F/No: 1.5 Minimum illumination: 0 lux Focus Depth: 20 cm ~ infinity View: Digital Zoom: 4x Horizontal: 51.8\u00b0 Vertical: 33.8\u00b0 Diagonal: 59.6\u00b0",
+    "power": "Input: 100 ~ 240Vac, 50/60 Hz, 0.2A Output: 12Vdc, 1.25A external power adapter",
+    "pantilt": "Pan: -170\u00b0 ~ +170\u00b0 Tilt: up 90\u00b0and down 25\u00b0 Auto-Patrol preset positions: 10",
+    "audio": "Built-in omni-directional microphone Sensitivity: -40 dB +/- 3 dB (5 meters max) Frequency: 100~20000 Hz S/N: >60 dB Format: PCM / ADPCM External speaker output (speaker sold separately) Two-way audio with echo canceling",
+    "daynight": "Built-in ICR Nigh vision (IR) supports up to 7.5 meters*",
+    "network": "IEEE 802.3u 10/100 Mbps Auto-MDIX Fast Ethernet  IEEE 802.3af Power over Ethernet (PoE)",
+    "dimensions": "113 x 113 x 130 mm 4.5 x 4.5 x 5.1 in"
+}

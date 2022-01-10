@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "whitebalancing": "Automatic Scene Recognition",
+    "videodisplayresolution": "640 x 480 pixels (VGA) @ 30 fps",
+    "facedetection": "Yes",
+    "flashrange": "Wide : 0.3 - 3.0m, Telephoto : 1.0 - 2.1m",
+    "focallength": "5 - 25 mm (35 mm Equivalent to 28 - 140 mm)",
+    "isorating": "Auto, Standard Output Sensitivity (ISO 100 / 200 / 400 / 800 / 1600 / 3200 / 6400)",
+    "imagestabilizer": "CCD Shift",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "syncterminal": "Yes",
+    "lenstype": "Fujinon Lens",
+    "screensize": "3.5 Inches",
+    "builtinflash": "Yes",
+    "autofocus": "Yes",
+    "imagedisplayresolution": "460000 dots",
+    "flashmodes": "Auto, Forced, Slow Sync, Suppressed Flash",
+    "shootingmodes": "Beach, Fireworks, Flower Etc., Landscape, Night, Night (Tripod), Party, Portrait, Portrait Enhancer, Snow, Sport, Sunset"
+}

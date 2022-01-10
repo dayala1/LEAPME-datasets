@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "datarate": "54 Mbps (According to IEEE standard)",
+    "setup": "Supports Wi-Fi Protected Setup (WPS)",
+    "standards": "IEEE 802.11b, IEEE 802.11g, IEEE 802.11n",
+    "range": "Direct line of sight: 33-49' (10-15 m)",
+    "operatingfrequency": "2412-2462 MHz (Channels 1-11)",
+    "security": "Authentication: Open system, WPA2-PSK",
+    "protocols": "Communications:"
+}

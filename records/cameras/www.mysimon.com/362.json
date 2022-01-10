@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "flashtype": "Built-in flash",
+    "stillimageformat": "MPO",
+    "brand": "Fujifilm",
+    "redeyereduction": "Yes",
+    "sensortype": "CCD",
+    "specialeffects": "Pop Color",
+    "viewfindertype": "None",
+    "digitalvideoformat": "MJPEG",
+    "supportedflashmemory": "SDXC Memory Card",
+    "type": "Point & Shoot"
+}

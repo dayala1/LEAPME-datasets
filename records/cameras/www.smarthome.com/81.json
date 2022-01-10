@@ -1,0 +1,23 @@
+{
+    "videooutput": "VBS 1.0V p-p \u00b110% 75\u2126",
+    "privacymask": "8 Zones, On/Off",
+    "powerrequirement": "12VDC, 24VAC",
+    "weight": "1lb (460g)",
+    "sensitivity": "0.0003 lux F1.2@50IRE",
+    "sync": "Internal",
+    "effectivepixels": "NTSC: 976x494 PAL: 976x582",
+    "motiondetection": "24x16 Block Area, On/Off",
+    "dimensions": "6.73\" dia 4.45\" (170 x 110mm)",
+    "osdlanguage": "EN, FR, DE, ES, POR, SC, RUS, JP",
+    "daynight": "IR Cut Filter Removable Built-In",
+    "category": "camera",
+    "snratio": ">52dB with AGC Off at 50IRE",
+    "lens": "Varifocal 9~22mm F1.8",
+    "imageprocessor": "Sony Effio-E Digital Signal Processor",
+    "manufacturer": "Vitek",
+    "imagedevice": "1/3\" Sony High Density EXVIEW CCD",
+    "operatingtemperature": "14\u00b0 to 122&degF (-10\u00b0 to 50\u00b0C)",
+    "operatinghumidity": "0 to 85% Non-Condensing",
+    "upc": "814850012584",
+    "whitebalance": "1,800 ~ 10,500\u00b0K Automatic Tracking"
+}

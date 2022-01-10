@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "focallengthequiv": "36\u00e2\u0080\u0093108 mm",
+    "bodytype": "Compact",
+    "usb": "USB 1.0 (1.5 Mbit/sec)",
+    "maxshutterspeed": "1/1700 sec",
+    "minshutterspeed": "1/2 sec",
+    "opticalzoom": "3 \u00c3\u0097",
+    "sensortype": "CCD",
+    "effectivepixels": "2 megapixels",
+    "iso": "Auto (100 - 200)",
+    "screensize": "1.5 \u00e2\u0080\u00b3",
+    "storagetypes": "SD/MMC card, Internal",
+    "maxresolution": "1632 x 1232"
+}

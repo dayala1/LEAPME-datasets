@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "leds": "36",
+    "flash": "IR",
+    "flashrange": "65 ft.",
+    "megapixels": "10",
+    "video": "Yes",
+    "memory": "Requires SD Card",
+    "powersource": "6 AA or 12V"
+}

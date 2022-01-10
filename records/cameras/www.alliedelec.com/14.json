@@ -1,0 +1,7 @@
+{
+    "category": "camera",
+    "mounting": ":Wall/Ceiling",
+    "includes": ":Mounting Adapter, Screws, Wrench",
+    "type": ":Box",
+    "size": ":Lens Not Included"
+}

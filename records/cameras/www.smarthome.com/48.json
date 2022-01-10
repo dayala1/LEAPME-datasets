@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videostreaming": "MJPEG / MPEG4 (or H.264) Dual mode Constant and variable bit rate in MPEG4 (128kbps ~ 3M bps) Controllable frame rate and bandwidth",
+    "browser": "IE 6.0 or above",
+    "videooutputlevel": "1-ch Video Loop Back (BNC, 75\u2126, composite",
+    "compression": "MJPEG, MPEG4, H.264",
+    "mainprocessor": "32-bit Embedded CPU with Linux",
+    "framerate": "Dual Mode: MJPEG 15fps NTSC/PAL MPEG4, H.264 30fps NTSC, 25fps PAL",
+    "operatingtemperature": "14\u00b0 to 104&degF (-10\u00b0 to 40\u00b0C)",
+    "localstorage": "JPEG image write to internal & SD memory Internal Memory: max 32MB SD Memory: max 4GB",
+    "networkprotocol": "IPv4, HTTP, TCP, RTSP, RTP, RTCP, UDP, SMTP, FTP, ICMP, DHCP, UPnP, Bonjour, ARP, DNS, DynDNS",
+    "powerrequirement": "12VDC, Max 6W",
+    "audio": "Two-way Full Duplex / ADPCM G.726",
+    "resolution": "D1 (NTSC: 704 x 480 / PAL: 704 x 576) CIF (NTSC : 320 x 240 / PAL: 352 x 288)",
+    "imagesettings": "Compression Level Setting Configurable Brightness, Sharpness, White balance",
+    "manufacturer": "CNB Technology"
+}

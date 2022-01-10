@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "operatingtemperature": "32 to 104\u00b0F (0 to 40\u00b0C)",
+    "weight": "1.45 lb (660 g)",
+    "brightness": "80 nit",
+    "colortemperature": "6500",
+    "effectivepixels": "1280 x 720",
+    "contrastratio": "10,000:1",
+    "resolution": "1280 x 720",
+    "display": "0.7\" OLED (1.77 cm)",
+    "powerrequirements": "DC 10.5 V - 17.0 V via 26-pin viewfinder cable"
+}

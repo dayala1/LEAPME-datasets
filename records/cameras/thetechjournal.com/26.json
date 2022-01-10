@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "microphone": "Yes",
+    "macromode": "30 to 50 centimeters (macro), 50 centimeters to infinity (normal)",
+    "moviemode": "1440 x 1080 pixels (H.264), up to 30 fps; 1280 x 720 pixels (H.264), up to 60 fps; 720 x 480 pixels (D1), up to 60 fps; 352 x 240 pixels (CIF), up to 30 fps",
+    "batterylife": "Up to 200 images (still), up to 90 minutes (video)",
+    "inputoutput": "Audio input, Component output",
+    "fileformat": "MOV (video), JPEG (photo), WAV (audio)",
+    "imagesensor": "5 megapixels CMOS (2592 x 1944)",
+    "externalmemory": "SD card slot (32 GB SDHC maximum)",
+    "powersupply": "NP-60 Li-Ion battery (1200 mA)",
+    "internalmemory": "128 MB built-in memory; 90 MB for storage",
+    "digitalzoom": "4x",
+    "modelnumber": "A-HD+",
+    "speaker": "Yes",
+    "videosystem": "NTSC/PAL color system supported",
+    "interface": "USB 2.0",
+    "whatsinthebox": "A-HD+ Camcorder, lithium ion battery, AC charger cable, USB cable, component cable, A/V cable, lens cap, wrist strap, user\u2019s guide",
+    "display": "2.4-inch TFT LCD display with 270-degree rotation",
+    "stillimage": "3200 x 2400 pixels (8 megapixels), 2560 x 1920 pixels (5 megapixels), 2048 x 1536 pixels (3 megapixels)"
+}

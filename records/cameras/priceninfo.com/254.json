@@ -1,0 +1,17 @@
+{
+    "lensfocallength": "5.0-25.0mm (angle of view equivalent to that of 28-140mm lens in 35mm [135] format)",
+    "category": "camera",
+    "autofocusaf": "Contrast-detect AF",
+    "imagesensor": "CMOS",
+    "lensconstruction": "11 elements in 9 groups",
+    "lenszoom": "5x",
+    "sensorsize": "1/2.3 in.",
+    "lens": "5x optical Zoom, NIKKOR glass lens",
+    "digitalzoom": "Up to 4x (angle of view equivalent to that of 560mm lens in 35mm [135] format)",
+    "effectivepixels": "16 million",
+    "lensfnumber": "f/3.9-4.8",
+    "totalpixels": "16.79 million (approx.)",
+    "type": "Compact Digital Camera",
+    "motion": "Blur Reduction Motion Detection (still pictures)",
+    "vibrationreduction": "Lens-shift and Electronic VR (still pictures)"
+}

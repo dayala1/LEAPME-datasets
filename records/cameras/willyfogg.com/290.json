@@ -1,0 +1,7 @@
+{
+    "category": "camera",
+    "function": "udev support",
+    "drivers": "Nand Flash, SDRAM, HDMI, DVI-D, VGA, Serial port, Ethernet, USB OTG, USB EHCI, SD card, Audio  input/output, Key, LED, RTC (in source code)",
+    "filesystem": "FormatRamdisk, EXT3, Yaffs2 File System",
+    "os": "ItemFeatureDescription"
+}

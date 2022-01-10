@@ -1,0 +1,22 @@
+{
+    "videooutput": "VBS1.0Vp-p (75\u03a9, CVBS)",
+    "powerconsumption": "\u226410W",
+    "powersupply": "DC12V",
+    "horizontalresolution": "1200TVL",
+    "size": "(H) x\u00a0 (L) mm",
+    "category": "camera",
+    "environment": "-20+50\u00b0C",
+    "snratio": "48dB",
+    "lens": "2.8-12mm",
+    "signalsystem": "PAL/NTSC",
+    "irdistance": "10-50m",
+    "irleds": "36pcs F5",
+    "shutterspeed": "PAL:1/50-1/10,000 Second NTSC:1/60-1/10,000 Second",
+    "pixels": "PAL:720(H)\u00d7576(V)",
+    "imagesensor": "0138+8510",
+    "weightkg": "1.2kg",
+    "miniillumination": "0LUX(IR on)",
+    "scanningsystem": "2:1 Internal",
+    "model": "AN-6211IR/M",
+    "gamma": "0.45"
+}

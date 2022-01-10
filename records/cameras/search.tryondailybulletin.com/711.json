@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "videos": "Normal Playback*, Slow Motion**, Special Playback, Editing, Resume",
+    "normal": "2.0 in. (5cm) - infinity (W), 3.0 ft. (90cm) - infinity (T)",
+    "auto": "1.2 in. (3cm) - infinity (W), 3.0 ft. (90cm) - infinity (T)",
+    "stillimages": "Single, Index (4-100 thumbnails), Magnification (2-10x), Information Display, Red-eye Correction, i-Contrast, Trimming, Resize, My Colors, Focus Check, Histogram, Overexposure Warning",
+    "near": "Bridgewater, NJ(Change)",
+    "video": "MOV (Image",
+    "macro": "1.2 in. - 1.6 ft. (W), 3-50cm (W)",
+    "stillsvideos": "Auto Rotate (Automatic vertical/horizontal detection), Image Advance (Operation Tools, Transition effects, Scroll Display), Rotate, Favorites, My Category, Smart Shuffle, Filtered Playback, Slide Show (Playback Interval, Repeat, Effect, Playlist)",
+    "stillimage": "Exif 2.3 (JPEG)"
+}

@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "cameratype": "Digital SLR",
+    "brand": "Hasselblad",
+    "lensforsd": "Body only",
+    "displaysize": "3\"",
+    "displaytype": "LCD",
+    "sensorresolution": "60.0 MP",
+    "screensize": "3\"",
+    "supportedflashmemory": "UDMA CF",
+    "model": "H5D-60"
+}

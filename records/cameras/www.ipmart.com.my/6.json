@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "microphone": "Mono",
+    "maximumresolution": "4608 x 3456",
+    "battery": "AA",
+    "isorange": "Auto, 125, 200, 400, 800, 1600, 3200",
+    "weightincbatteries": "470g",
+    "sensortype": "CMOS",
+    "connectivity": "USB 2.0 (480 Mbit/sec)",
+    "effectivepixels": "16.00 Megapixels",
+    "speaker": "Mono",
+    "storagetypes": "SD/SDHC/SDXC Storage included : 65 MB",
+    "sensorsize": "BSI-CMOS"
+}

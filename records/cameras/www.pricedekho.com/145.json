@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "dustreduction": "NA",
+    "facedetection": "Yes",
+    "imagestabilizer": "Yes",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted, Multi, Spot",
+    "selftimer": "Yes"
+}

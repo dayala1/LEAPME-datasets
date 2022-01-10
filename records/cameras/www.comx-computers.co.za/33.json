@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "productcode": "DI-360DIS36(FL)",
+    "snratio": ">50dB",
+    "netweight": "310G",
+    "minillumination": "0.1Lux ( 0LuxIR ON)",
+    "power": "12V DC (\u00b110%)",
+    "irled": "24LED",
+    "syncsystem": "Internal Sync.",
+    "imagesensor": "1/3\" DIS",
+    "analogoutput": "Composite Output 1.0Vp-pat 750 Ohm",
+    "dimension": "(?)94x (H)69(mm)",
+    "lens": "3.6mm board lens",
+    "horizontalresolution": "650TV Line",
+    "effectivepixels": "756(H) x 504(V)",
+    "scanningsystem": "PAL/NTSC",
+    "daynight": "Auto D&N (ICR)",
+    "whitebalance": "Auto (AWB)"
+}

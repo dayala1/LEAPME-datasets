@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p/75 ohm",
+    "whitebalance": "Auto",
+    "minillumination": "0 Lux (IR ON)",
+    "gammacorrection": "0.45",
+    "snratio": "N/A",
+    "agc": "Auto",
+    "powersupply": "DC12V 350mA",
+    "backlightcompensation": "Auto",
+    "item": "Specifications",
+    "horizontalresolution": "420 TVL",
+    "electronicshutter": "1/50(1/60) ~ 1/100000 Sec",
+    "irdistance": "30m",
+    "scanningsystem": "NTSC",
+    "lensmount": "3.6mm",
+    "syncsystem": "Internal",
+    "ccdtype": "1/4\" Sharp CCD",
+    "operationenvironment": "Temperature: -10C ~ +50C, Humidity: 40% ~ 90%"
+}

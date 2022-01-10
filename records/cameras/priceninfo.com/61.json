@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "AV",
+    "microphone": "Yes",
+    "lcdscreensize": "3.0? inches AMOLED Rotating LCD",
+    "dimensions": "114.4 x 64.6 x 30.0mm",
+    "weight": "315 gms",
+    "battery": "1130mAh SLB-11A",
+    "imagesensor": "Approx. 1/1.7? High Sensitive CCD",
+    "effectivepixel": "Approx. 10 Mega pixels",
+    "audio": "AAC",
+    "externalmemory": "SD/SDHC (Up to 8GB)",
+    "digitaloutput": "USB 2.0",
+    "selftimer": "2-10 seconds",
+    "focallength": "24-72mm, 3x Compact Lens, Lens cap, Wide Convertor",
+    "flashmode": "Auto WB, Daylight, Cloudy, Fluorescent_H, Fluorescent_L,",
+    "label12": "Tungsten, Custom, K",
+    "digitalzoom": "Still Image mode",
+    "movieclip": "MP4 (H.264)",
+    "hdmi": "HDMI v1.3"
+}

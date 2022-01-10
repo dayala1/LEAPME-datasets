@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "power": "6,800\u00a0mAh\u00a0Li-Ion battery",
+    "weight": "WiFi: 485\u00a0g (1.069\u00a0lb) 3G: 487\u00a0g (1.074\u00a0lb) 4G/LTE: 489\u00a0g (1.078\u00a0lb)",
+    "storage": "16/32\u00a0GB\u00a0flash memory, microSDXC\u00a0slot (up to 64 GB)",
+    "display": "1280\u00d7800\u00a0px, 10.1\u00a0in (26\u00a0cm) diagonal, WXGA TFT\u00a0display [2]",
+    "releasedate": "May 1, 2014",
+    "connectivity": "Cat3 100 / 50\u00a0Mbit/s hexa-band 800, 850, 900, 1800, 2100, 2600\u00a0MHz (4G, LTE model) HSPA+\u00a042, 5.76\u00a0Mbit/s 850, 900, 1900, 2100\u00a0MHz (4G, LTE model) HSPA+\u00a021, 5.76\u00a0Mbit/s quad 850, 900, 1900, 2100\u00a0MHz (3G, WiFi model) EDGE/GPRS quad 850, 900, 1800, 1900\u00a0MHz (3G, WiFi model) Wi-Fi\u00a0802.11a/b/g/n (2.4, 5\u00a0GHz),\u00a0Bluetooth\u00a04.0, HDMI (external cable)",
+    "camera": "3.15\u00a0MP\u00a0rear facing (without flash and touch focus, 1.3 MP front facing",
+    "operatingsystem": "Android\u00a04.4.2 KitKat",
+    "memory": "1.5 GB",
+    "input": "Multi-touch\u00a0screen,\u00a0digital compass,\u00a0proximity\u00a0andambient light\u00a0sensors,accelerometer",
+    "cpu": "1.2\u00a0GHz\u00a0quad core Qualcomm Snapdragon 400SoC\u00a0processor [1]",
+    "dimensions": "243.4\u00a0mm (9.58\u00a0in) H 176.4\u00a0mm (6.94\u00a0in) W 8.0\u00a0mm (0.31\u00a0in) D"
+}

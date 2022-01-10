@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "imagedisplayresolution": "610000 dots",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 30 fps",
+    "audioformats": "WAV",
+    "hdmi": "Yes; HDMI Micro Connector (Type D)",
+    "flashrange": "0.5m",
+    "focallength": "12 - 50 mm",
+    "builtinflash": "NA",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "displaytype": "Tiltable OLED Touchscreen",
+    "imageformat": "JPEG (RAW, MPO (3D), EXIF 2.2, DPOF, DCF)",
+    "screensize": "3 Inches",
+    "usb": "USB 2.0 Hi-Speed",
+    "viewfinder": "Electronic View Finder",
+    "autofocus": "Contrast Detection AF",
+    "videoformat": "AVI Motion JPEG, H.264, MOV, MPEG-4 AVC",
+    "flashmodes": "Auto, Fill-in, Manual, Slow Sync, Slow Sync, Slow Sync 2nd Curtain Flash",
+    "gps": "NA"
+}

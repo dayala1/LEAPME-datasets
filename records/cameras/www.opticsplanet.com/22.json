@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "software": "USB 2.0 driver, Levenhuk ToupView software program",
+    "casing": "metal, painted black with a gold trim",
+    "videorecording": "yes",
+    "exposurecontrol": "auto/manual",
+    "sensor": "1/2'' CMOS",
+    "megapixels": "3.0",
+    "powersupply": "via USB 2.0 cable",
+    "spectralrange": "380-650 nm (built-in infrared filter)",
+    "imageformat": ".jpg, .bmp, .png, .tif, .gif, .psd, .ico, etc.",
+    "pixelsize": "3.2x3.2",
+    "systemrequirements": "Mac OS, Linux, Windows XP/Vista/7/8 (32-bit and 64-bit); USB port 2.0",
+    "speed": "< 43 fps",
+    "whitebalance": "auto/manual",
+    "maximumresolution": "2048x1536"
+}

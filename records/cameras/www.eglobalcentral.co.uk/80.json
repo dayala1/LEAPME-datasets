@@ -1,0 +1,8 @@
+{
+    "category": "camera",
+    "formfactor": "SDHC",
+    "operatingtemperature": "-13\u00baF to 185\u00baF (-25\u00baC to 85 \u00baC)",
+    "storagetemperature": "-40\u00baF to 185\u00baF (-40\u00baC to 85\u00baC)",
+    "security": "Built-in write-protect switch prevents accidental data loss",
+    "compatibility": "all SDHC/SDXC and SDHC-I/SDXC-I (UHS-I) enabled host devices"
+}

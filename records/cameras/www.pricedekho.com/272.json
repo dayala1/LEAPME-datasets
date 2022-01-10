@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "externalflash": "Yes",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD)",
+    "audioformats": "AAC-LC",
+    "imageformat": "JPEG (DCF 2.0, EXIF 2.3, RAW (ARW 2.3), MPO)",
+    "flashmodes": "Auto (Flash-Off), Fill-in, High-speed Sync, Rear Sync, Slow Sync Flash",
+    "builtinflash": "Yes",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "displaytype": "TFT XtraFine LCD TruBlack Technology",
+    "screensize": "3 Inches",
+    "viewfinder": "Electronic View Finder",
+    "autofocus": "TTL Phase Detection",
+    "imagedisplayresolution": "921600 dots",
+    "manualfocus": "Yes",
+    "videoformat": "MPEG-4"
+}

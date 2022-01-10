@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "picturesize": "10M 8M 6M 3M 2M VGA",
+    "audio": "Built-in Mic/Speaker",
+    "weight": "85g",
+    "videofileformat": "MOV H.264",
+    "battery": "Replaceable Li-ion Battery 1050mAh/3.7V 3.885Wh",
+    "videoresolution": "1920 x 1080 @ 30fps , 1280 x 720 @ 60fps , 1280 x 720 @ 30fps",
+    "screen": "High Definition 1.5\" TFT",
+    "memorysize": "4GB-32GB (Micro SD Card Class6 Above)",
+    "continuousshot": "Support",
+    "lens": "6G+IR F=1.6",
+    "usbport": "USB 2.0",
+    "lensangle": "170 Degree",
+    "saleprice": ":RM 390.00",
+    "camerasize": "57 x 44 x 28.5mm",
+    "ev": "Support",
+    "sensor": "5Mega CMOS Sensor",
+    "whitebalance": "Support",
+    "hdmioutput": "Real Time Output"
+}

@@ -1,0 +1,23 @@
+{
+    "videooutput": "1-channel BNC HDCVI high definition video output",
+    "powerconsumption": "Max 3.5W",
+    "noisereduction": "2D",
+    "powersupply": "DC12V\u00b110%",
+    "effectivepixels": "1280(H)\u00d7720(V)",
+    "category": "camera",
+    "electronicshutter": "1/50s~1/100,000s1/60~1/100,000s",
+    "ingressprotection": "IP66",
+    "workingenvironment": "-30\u00b0C ~+60\u00b0C/ Less than 95%RH (no condensation)",
+    "daynight": "Auto(ICR)/B&W/Color",
+    "focallength": "2.8-12mm \u00a0lens",
+    "westerneurope": "confidential5.16",
+    "synchronization": "Internal",
+    "videoframerate": "720 @ 25 fps720 @ 30 fps",
+    "northamerica": "confidential11.19",
+    "minillumination": "0.01Lux @ F1.2(0Lux IR LED on)",
+    "transmissiondistance": "Over 500m via 75-3 coaxial cable",
+    "imagesensor": "1/2.9\" 1Megapixel CMOS",
+    "maxirledslength": "30m, Smart IR",
+    "model": "ST-HC560-1M",
+    "mounttype": "M12"
+}

@@ -1,0 +1,23 @@
+{
+    "videodisplayresolution": "640 x 480 pixels (VGA)",
+    "metering": "NA",
+    "continuousshots": "Up to 5.5 fps (High-Speed Burst Mode)",
+    "category": "camera",
+    "microphone": "Monaural Microphone",
+    "facedetection": "Yes; Photo",
+    "flashrange": "6.8m",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "autofocus": "Contrast Detection AF",
+    "deletefunction": "Single, Multi, All, All Except Favorites",
+    "focallength": "5 - 25 mm (35 mm Equivalent to 28 - 140 mm)",
+    "isorating": "80 / 100 / 200 / 400 / 800 / 1600, High Sensitivity Mode (ISO 1600-6400)",
+    "whitebalancing": "Auto, Daylight, Cloudy, Shade, Halogen, White Set (Selectable at Portrait, Soft Skin, Transform, Self-Portrait, Sports, Baby, Pet, High Sensitivity, Highspeed Burst, Photo Frame)",
+    "colorfilter": "Primary Color",
+    "screensize": "2.7 Inches",
+    "pictureangle": "28 mm Wide Angle",
+    "builtinflash": "Yes",
+    "shootingmodes": "Aerial Photo, Beach, Film Grain, Fireworks, Flash Burst, Hi-Speed Burst, Photo Frame, Snow, Starry Sky",
+    "flashmodes": "Auto, Forced, Slow Sync Flash",
+    "imagedisplayresolution": "230000 dots"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "dimensions": "96.9 x 58.0 x 20.2 (23.05) mm",
+    "weight": "120 gms",
+    "digitalopticalzoom": "5X",
+    "focallength": "4.9 ~ 24.5mm (Equivalent to 27 ~ 135mm in 35mm format)",
+    "isoequivalent": "Auto, 80, 100, 200, 400, 800, 1600",
+    "effectivepixel": "Approx. 14.2 Mega pixel",
+    "externalmemory": "SD Card (up to 2GB guaranteed), SDHC (up to 16GB guaranteed)",
+    "lcdscreensize": "2.7? inches",
+    "connectivity": "USB 2.0 (Hi-Speed)",
+    "flashmode": "Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash Off, Red-eye fix",
+    "meteringsystem": "Centre Weighted/Multi/Spot",
+    "shutterspeed": "Smart Auto",
+    "imagesensor": "CCD",
+    "battery": "BP70A",
+    "movieclip": "AVI(MJPEG), Audio (WAV)"
+}

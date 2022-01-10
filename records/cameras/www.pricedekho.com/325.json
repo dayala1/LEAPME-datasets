@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "microphone": "Yes",
+    "videodisplayresolution": "640 x 480 pixels (VGA)",
+    "facedetection": "Yes",
+    "audioformats": "WAV",
+    "flashrange": "(ISO Auto) : Wide : 0.2 - 2.68m, Telephoto : 0.5 - 1.59m",
+    "shootingmodes": "DIS, Photo Help Guide , Program, Scene, Smart Auto",
+    "isorating": "Auto / 80 / 100 / 200 / 400 / 800 / 1600",
+    "redeyereduction": "Yes",
+    "flashmodes": "Auto, Fill-in, Slow Sync Flash",
+    "continuousshots": "Yes",
+    "imageformat": "JPEG (DCF, EXIF 2.21, DPOF 1.1, PictBridge 1.0)",
+    "screensize": "2.7 Inches",
+    "builtinflash": "Yes",
+    "imagedisplayresolution": "230000 dots",
+    "videoformat": "AVI"
+}

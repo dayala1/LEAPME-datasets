@@ -1,0 +1,514 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="conns.com:conns.com#"
+     xml:base="conns.com:conns.com"
+     xmlns:conns="conns.com:"
+     xmlns:Sleep="conns.com:Sleep/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:Color="conns.com:Color/"
+     xmlns:Manufacturers-Parts-Warranty="conns.com:Manufacturers-Parts-Warranty/"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="conns.com:conns.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- conns.com:Actual-Screen-Size -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Actual-Screen-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actual Screen Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Audio-Decoding -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Audio-Decoding">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Decoding</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Brand -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Conns-SKU -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Conns-SKU">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conn&apos;s SKU</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Dimensions -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Dimensions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dimensions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Manufacture-SKU -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Manufacture-SKU">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacture SKU</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Manufacturer-Website -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Manufacturer-Website">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturer Website</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Ports -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ports</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Product-Type -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Product-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Product-Weight -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Product-Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Refresh-Rate -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Refresh-Rate">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refresh Rate</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Remote-Control -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Remote-Control">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remote Control</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Resolution -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Screen-Technology -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Screen-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Surround-Sound -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Surround-Sound">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surround Sound</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Total-Output-Power -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Total-Output-Power">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Total Output Power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:UPC -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:UPC">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UPC</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Warranty -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Warranty">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Warranty</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:computer_operating_system -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:computer_operating_system">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">computer_operating_system</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:product_type -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:product_type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">product_type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:remote_control_model -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:remote_control_model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">remote_control_model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:sound_effects -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:sound_effects">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sound_effects</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Color/Finish -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Color/Finish">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color/Finish</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Manufacturers-Parts-Warranty/Labor -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Manufacturers-Parts-Warranty/Labor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturer&apos;s Parts Warranty/Labor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- conns.com:Sleep/Wakeup-Timer -->
+
+    <owl:DatatypeProperty rdf:about="conns.com:Sleep/Wakeup-Timer">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sleep/Wakeup Timer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- conns.com:0 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:0">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6lbs</conns:Product-Weight>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Click here for more warranty details.</conns:Warranty>
+        <conns:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved OLED 4K TV</conns:product_type>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harman/Kardon Sound</conns:sound_effects>
+        <conns:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</conns:remote_control_model>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <Manufacturers-Parts-Warranty:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One Year Parts and Labor</Manufacturers-Parts-Warranty:Labor>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <Color:Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</Color:Finish>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV without Stand (WxHxD):48.3” x 28.3” x 2”,TV with Stand (WxHxD): 48.3” x 29.9” x 8.4”</conns:Dimensions>
+        <conns:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</conns:computer_operating_system>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- conns.com:1 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:1">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</conns:Brand>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- conns.com:2 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:2">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6lbs</conns:Product-Weight>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved OLED 4K TV</conns:product_type>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harman/Kardon Sound</conns:sound_effects>
+        <conns:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</conns:Brand>
+        <conns:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</conns:remote_control_model>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <Manufacturers-Parts-Warranty:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One Year Parts and Labor</Manufacturers-Parts-Warranty:Labor>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <Color:Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</Color:Finish>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV without Stand (WxHxD):48.3” x 28.3” x 2”,TV with Stand (WxHxD): 48.3” x 29.9” x 8.4”</conns:Dimensions>
+        <conns:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</conns:computer_operating_system>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- conns.com:3 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:3">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6lbs</conns:Product-Weight>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved OLED 4K TV</conns:product_type>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harman/Kardon Sound</conns:sound_effects>
+        <conns:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</conns:Brand>
+        <conns:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</conns:remote_control_model>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <Manufacturers-Parts-Warranty:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One Year Parts and Labor</Manufacturers-Parts-Warranty:Labor>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <Color:Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</Color:Finish>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV without Stand (WxHxD):48.3” x 28.3” x 2”,TV with Stand (WxHxD): 48.3” x 29.9” x 8.4”</conns:Dimensions>
+        <conns:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</conns:computer_operating_system>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- conns.com:4 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:4">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6lbs</conns:Product-Weight>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved OLED 4K TV</conns:product_type>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harman/Kardon Sound</conns:sound_effects>
+        <conns:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</conns:Brand>
+        <conns:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</conns:remote_control_model>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <Manufacturers-Parts-Warranty:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One Year Parts and Labor</Manufacturers-Parts-Warranty:Labor>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <Color:Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</Color:Finish>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV without Stand (WxHxD):48.3” x 28.3” x 2”,TV with Stand (WxHxD): 48.3” x 29.9” x 8.4”</conns:Dimensions>
+        <conns:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</conns:computer_operating_system>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- conns.com:5 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:5">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6lbs</conns:Product-Weight>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved OLED 4K TV</conns:product_type>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harman/Kardon Sound</conns:sound_effects>
+        <conns:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</conns:Brand>
+        <conns:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</conns:remote_control_model>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <Manufacturers-Parts-Warranty:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One Year Parts and Labor</Manufacturers-Parts-Warranty:Labor>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <Color:Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</Color:Finish>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV without Stand (WxHxD):48.3” x 28.3” x 2”,TV with Stand (WxHxD): 48.3” x 29.9” x 8.4”</conns:Dimensions>
+        <conns:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</conns:computer_operating_system>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- conns.com:6 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:6">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6lbs</conns:Product-Weight>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved OLED 4K TV</conns:product_type>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harman/Kardon Sound</conns:sound_effects>
+        <conns:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</conns:Brand>
+        <conns:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</conns:remote_control_model>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <Manufacturers-Parts-Warranty:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One Year Parts and Labor</Manufacturers-Parts-Warranty:Labor>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <Color:Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</Color:Finish>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV with Stand (WxHxD): 48.3” x 29.9” x 8.4”</conns:Dimensions>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV without Stand (WxHxD):48.3” x 28.3” x 2”</conns:Dimensions>
+        <conns:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</conns:computer_operating_system>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- conns.com:7 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:7">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6lbs</conns:Product-Weight>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved OLED 4K TV</conns:product_type>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harman/Kardon Sound</conns:sound_effects>
+        <conns:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</conns:Brand>
+        <conns:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</conns:remote_control_model>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <Manufacturers-Parts-Warranty:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One Year Parts and Labor</Manufacturers-Parts-Warranty:Labor>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <Color:Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</Color:Finish>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV with Stand (WxHxD): 48.3” x 29.9” x 8.4”</conns:Dimensions>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV without Stand (WxHxD):48.3” x 28.3” x 2”</conns:Dimensions>
+        <conns:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</conns:computer_operating_system>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- conns.com:8 -->
+
+    <owl:NamedIndividual rdf:about="conns.com:8">
+        <conns:Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 Magic Remote Control</conns:Remote-Control>
+        <conns:Total-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20W</conns:Total-Output-Power>
+        <conns:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</conns:Resolution>
+        <conns:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Smart Curved OLED 4K TV</conns:Product-Type>
+        <conns:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6lbs</conns:Product-Weight>
+        <conns:Actual-Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6&quot; (Measured Diagonally)</conns:Actual-Screen-Size>
+        <conns:Manufacture-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Manufacture-SKU>
+        <conns:Conns-SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</conns:Conns-SKU>
+        <conns:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</conns:UPC>
+        <conns:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved OLED 4K TV</conns:product_type>
+        <conns:Audio-Decoding rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby® Digital Decoder</conns:Audio-Decoding>
+        <conns:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Harman/Kardon Sound</conns:sound_effects>
+        <conns:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</conns:Brand>
+        <conns:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</conns:remote_control_model>
+        <conns:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</conns:Refresh-Rate>
+        <Sleep:Wakeup-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Specified</Sleep:Wakeup-Timer>
+        <Manufacturers-Parts-Warranty:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">One Year Parts and Labor</Manufacturers-Parts-Warranty:Labor>
+        <conns:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF In (Antenna/Cable): 1 (Rear),Component Video In: 1 (Rear),Composite In (AV) : 1 (Rear),HDMI®: 3 (Side),USB 3.0/2.0: 1 / 2 (Side),Digital Audio Out (Optical): 1 (Rear),LAN: 1 (Rear),RS-232: 1 (Rear, Phone Jack)</conns:Ports>
+        <Color:Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</Color:Finish>
+        <conns:Screen-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart 3D Curved OLED 4K TV w/ webOS 2.0</conns:Screen-Technology>
+        <conns:Surround-Sound rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound Designed by harman/kardon®, ULTRA Surround</conns:Surround-Sound>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV with Stand (WxHxD): 48.3” x 29.9” x 8.4”</conns:Dimensions>
+        <conns:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV without Stand (WxHxD):48.3” x 28.3” x 2”</conns:Dimensions>
+        <conns:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</conns:computer_operating_system>
+        <conns:Manufacturer-Website rdf:datatype="http://www.w3.org/2001/XMLSchema#string">www.lg.com</conns:Manufacturer-Website>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

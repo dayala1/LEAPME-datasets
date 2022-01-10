@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "weight": "290g",
+    "resolution": "20.1 Megapixels",
+    "isosensitivity": "ISO 125 - 12800",
+    "framerate": "60p",
+    "opticalzoom": "2.9x Optical Zoom",
+    "continuousshootingspeed": "10 FPS Continuous Shooting",
+    "recordingmedia": "Memory Stick DUO/SD/SDHC/SDXC",
+    "shutterspeed": "30 sec. - 1/2000 sec.",
+    "screensize": "3.0\" LCD Monitor",
+    "powersource": "NP-BX1 Battery",
+    "dimensionswxhxd": "101.6mm x 58.1mm x 41.0mm",
+    "minimumaperture": "f11",
+    "sensor": "1.0\" CMOS Sensor",
+    "videoresolution": "1080p HD Recording",
+    "maximumaperture": "f1.8"
+}

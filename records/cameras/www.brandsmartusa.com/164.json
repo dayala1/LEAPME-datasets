@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "selftimer": "Yes",
+    "facedetection": "Yes",
+    "weight": "1 lbs 6.4 oz",
+    "panoramamode": "Yes",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "depth": "2.0 in",
+    "opticalzoom": "8x",
+    "height": "3.0 in",
+    "internalmemory": "25 MB",
+    "width": "5.0 in",
+    "digitalzoom": "4x",
+    "megapixelsmp": "16.0",
+    "viewfinder": "LCD Only",
+    "lcdscreensize": "3.0\"",
+    "flashmodes": "Auto",
+    "digitalcameratype": "Point & Shoot",
+    "hdmioutput": "HDMI Micro"
+}

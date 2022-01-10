@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "dimensionwxhxdmm": "94.0 x 57.6 x 31.1mm",
+    "aperturerange": "f3.2(W) \u2013 5.9(T)",
+    "battery": "Li-50B",
+    "label1": "2GB Internal memory",
+    "sensitivity": "ISO 64/100/200/400/800/1600/AUTO/HIGH",
+    "label3": "TruePic III Image Processor",
+    "whitebalance": "Auto, Preset (6 types)",
+    "selftimer": "2seconds, 12seconds",
+    "exposurecompensation": "\u00b12 EV in 1/3 EV steps",
+    "label0": "2.7 inch TFT colour LCD monitor",
+    "flashfunctions": "Auto, Red-Eye Reduction, Fill-in, Off",
+    "label12": "Sequential shooting",
+    "label10": "Histogram",
+    "shootingmodes": "Portrait, Landscape, Night Scene, Night+Portrait, Sport, Indoor, Candle, Self portrait, Sunset, Fireworks, Cuisine, Documents, Beach&Snow, Pet",
+    "label2": "SD/SDHC Card Slot",
+    "afmode": "iESP, Spot, Face Detect, tracking",
+    "focusingsystem": "CCD contrast detection"
+}

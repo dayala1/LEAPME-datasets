@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "function": "Support\u00a0WEB,OSD\u00a0Menu,Real\u00a0time\u00a0video\u00a0transmission.Motion\u00a0Detection\u00a0and\u00a0IO\u00a0alarm\u00a0are\u00a0link\u00a0front-end\u00a0storage.Support\u00a0front-end\u00a0playback/download.Support\u00a0motion\u00a0detection\u00a0and\u00a0IO\u00a0alarm\u00a0center\u00a0to\u00a0remind\u00a0and\u00a0screen\u00a0pop-up\u00a0linkage;\u00a0Support\u00a0MJPEG\u00a0Capture;\u00a0Support\u00a0unified\u00a0client\u00a0remote\u00a0monitoring\u00a0software,\u00a0MYE\u00a0platform\u00a0system\u00a0applications",
+    "weight": "1.0 Kg",
+    "waterproof": "IP\u00a066",
+    "irled": "36 PCS*IR LED\u00a0IR\u00a0Distance:40m",
+    "audiocompression": "/",
+    "powersupply": "DC\u00a012V",
+    "dsp": "Hi3518C",
+    "lens": "MP\u00a0MTV\u00a02.8/4/6/8mm\u00a0lens\u00a0Optional",
+    "videocompression": "H.264\u00a0Video\u00a0Compression,Double\u00a0streaming.AVI,Stream:0.1M~8Mpb\u00a0adjustable.Rate:1~30fps/s\u00a0adjustable.",
+    "alarmoutput": "/",
+    "model": "IP\u00a0Camera\u00a0960P",
+    "alarminput": "/",
+    "effectiveresolution": "1280*720(HD720P)",
+    "usbinterface": "/"
+}

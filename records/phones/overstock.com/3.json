@@ -1,0 +1,18 @@
+{
+    "2G": "GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1900 / 2100",
+    "4G": "LTE 700 / 800 / 850 / 900 / 1700 (AWS) / 1800 / 1900 / 2100 / 2600 (Bands, 1, 2, 3, 4, 5, 7, 8, 17, 20, 28)",
+    "Multi-Touchscreen": "5.5-inch IPS LCD",
+    "Lollipop": "Android v5.1",
+    "Camera": "16 Megapixel",
+    "Processor": "Dual-Core 1.82 GHz Cortex-A57 and Quad-Core 1.44 GHz Cortex-A53 ",
+    "Chipset": "Qualcomm MSM8992 Snapdragon 88, Graphics: Adreno 418 Graphics",
+    "Internal Memory": "32GB",
+    "RAM": "3GB",
+    "Bluetooth": "v4.1, A2DP, LE, apt-X",
+    "Browser": "HTML5",
+    "Battery": "Li-Ion 3000 mAh",
+    "Talktime": " Up to 19 Hours (2G)",
+    "Standby": "Up to 360 Hours (2G) / Up to 440 Hours (3G)",
+    "Dimensions": "148.9 x 76.1 x 6.3 (inches); Weight: 5.47 oz",
+    "Condition": "New"
+}

@@ -1,0 +1,22 @@
+{
+    "videodisplayresolution": "NA",
+    "metering": "ESP Light, Spot",
+    "bluetooth": "No",
+    "flashmodes": "Auto, Fill-in Flash",
+    "continuousshots": "Up to 3 fps (High Speed), 0.6 fps (Normal Speed)",
+    "category": "camera",
+    "whitebalancing": "Auto, Overcast, Sunlight, Tungsten, Underwater",
+    "usb": "USB 2.0 Hi-Speed",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 12 sec",
+    "gps": "NA",
+    "hdmi": "Yes; HDMI Connector (Type D)",
+    "flashrange": "(ISO 800) : Wide : 0.2 - 3.5m, Telephoto : 0.5 - 2.5m",
+    "isorating": "Auto: (Auto / High Auto / Manual : ISO / 80 / 100 / 200 / 400 / 800 /1600",
+    "imagestabilizer": "Digital & Optical",
+    "screensize": "3 Inches",
+    "facedetection": "Yes",
+    "builtinflash": "NA",
+    "shootingmodes": "Intelligent Auto, Program Auto, Sensor-Shift Image Stabilization, Panorama, Magic Mode, 3D Mode, Scene Modes (Portrait, Beauty, Landscape, Night Scene, Night Scene with portrait, Sports, Indoor, Candle, Self-portrait, Sunset, Fireworks, Cuisine",
+    "imagedisplayresolution": "920000 dots"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "cameraweight": "15 Gms.",
+    "format": "AVI (video), JPG (picture), WAV (sound)",
+    "battery": "Built-in 220mA rechargeable battery",
+    "pictureresolution": "5.0 mega pixel (interpolated by software), 3 mega pixel (recommended)",
+    "imagesensor": "CMOS image sensor",
+    "videocompression": "M-JPEG",
+    "lensangle": "60 degrees",
+    "chargingtime": "About 3 hours",
+    "camerasize": "45 x 29 x 10 in mm.",
+    "input": "DC-5V",
+    "label10": "Supports Micro SD/TF card expandable up to 16GB",
+    "label11": "Advanced video motion detection function",
+    "videoresolution": "1280 x 960 (30fps)"
+}

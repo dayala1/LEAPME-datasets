@@ -1,0 +1,1657 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="www.priceme.co.nz:www.priceme.co.nz#"
+     xml:base="www.priceme.co.nz:www.priceme.co.nz"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:www="www.priceme.co.nz:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:www2="www.priceme.co.nz:3">
+    <owl:Ontology rdf:about="www.priceme.co.nz:www.priceme.co.nz"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.priceme.co.nz:colour -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:colour">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">colour</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:digital-zoom -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:digital-zoom">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">digital zoom</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:focus-adjustment -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:focus-adjustment">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">focus adjustment</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:image-stabilizer -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:image-stabilizer">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">image stabilizer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:lens-aperture -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:lens-aperture">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lens aperture</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:light-sensitivity -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:light-sensitivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">light sensitivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:max-focal-length -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:max-focal-length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">max focal length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:max-image-resolution -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:max-image-resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">max image resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:min-focal-length -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:min-focal-length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">min focal length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:optical-sensor -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:optical-sensor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optical sensor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:optical-zoom -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:optical-zoom">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">optical zoom</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:resolution -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:shutter-speed -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:shutter-speed">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">shutter speed</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:still-image-format -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:still-image-format">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">still image format</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.priceme.co.nz:3d-support -->
+
+    <owl:DatatypeProperty rdf:about="www.priceme.co.nz:3d-support">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3d support</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.priceme.co.nz:0 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:0">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 25,600 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in</www:image-stabilizer>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:1 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:1">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">280mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:min-focal-length>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/1600s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.5-5.5</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 3200</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:10 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:10">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 - 3,200 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4288x2848</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW), RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:11 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:11">
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080</www:max-image-resolution>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mm</www:min-focal-length>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720mm</www:max-focal-length>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.1</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:12 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:12">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">180-1 / 2000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4032x3024</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:13 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:13">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4032x3024</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:14 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:14">
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/16000s</www:shutter-speed>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in</www:image-stabilizer>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:15 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:15">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160 - 12,800 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4592x3448</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:16 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:16">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160 - 12,800 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:17 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:17">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 1,600 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">224mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.2-6.9</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:18 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:18">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80 - 3,200 ISO</www:light-sensitivity>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.5-6.3</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:19 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:19">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25mm</www:min-focal-length>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">875mm</www:max-focal-length>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3- 5.9</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:2 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:2">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 3,200 ISO</www:light-sensitivity>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">600mm</www:max-focal-length>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.8</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:20 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:20">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4320x3240</www:max-image-resolution>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.7-5.7</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 100, ISO 1600, ISO 200, ISO 3200, ISO 400, ISO 80, ISO 800, Auto ISO</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Without Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:21 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:21">
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4256x2832</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 200, ISO 6400</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW), TIFF</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Without Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:22 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:22">
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80 - 6,400 ISO</www:light-sensitivity>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.5-6.8</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:23 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:23">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,500 ISO</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:24 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:24">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW), RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:25 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:25">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 - 25,600 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/8000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:26 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:26">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 2,800 ISO</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:27 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:27">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 3,200 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:28 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:28">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4928x3264</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW), RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:29 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:29">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:3 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:3">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:30 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:30">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125 - 6,400 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:31 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:31">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 - 5,600 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4896x3264</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:32 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:32">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 16,000 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4912x3264</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:33 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:33">
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4288x3216</www:max-image-resolution>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5mm</www:min-focal-length>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-1/2000s</www:shutter-speed>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90mm</www:max-focal-length>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.1-5.6</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 1600, ISO manual 1600</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:34 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:34">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:35 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:35">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 16,000 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4912x3264</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:36 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:36">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW)</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:37 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:37">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5472x3648</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:38 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:38">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:39 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:39">
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO anti-shake</www:image-stabilizer>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:4 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:4">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 25,600 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:40 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:40">
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4288x3216</www:max-image-resolution>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">576mm</www:max-focal-length>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64 - 6,400 ISO</www:light-sensitivity>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.1</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:41 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:41">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 3,200 ISO</www:light-sensitivity>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mm</www:min-focal-length>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">480mm</www:max-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4896x3672</www:max-image-resolution>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.3-6.4</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:42 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:42">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 25,600 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5760x3840</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:43 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:43">
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1-1/1200s</www:shutter-speed>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Auto (100-800), 100, 200, 400, 1600, 3200</www:light-sensitivity>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.1-F/5.6</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:44 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:44">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:45 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:45">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4928x3264</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:46 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:46">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 25,600 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4912x3264</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:47 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:47">
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.3mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4320x3240</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68.8mm</www:max-focal-length>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.3-5.9</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 6400</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LiveMOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:48 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:48">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">217mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4344x3258</www:max-image-resolution>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.5-5.8</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 3200</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:49 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:49">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/1.8-5.6</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:5 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:5">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">140mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4288x3216</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.6-6.2</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 3200</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Without Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:50 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:50">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:51 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:51">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 3,200 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3872x2592</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW), RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:52 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:52">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4896x3264</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:53 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:53">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW)</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:54 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:54">
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">504mm</www:max-focal-length>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.1-6.4</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 3200</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:55 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:55">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 25,600 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in</www:image-stabilizer>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:56 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:56">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 1,600 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">140mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.8-6.9</www:lens-aperture>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO anti-shake</www:image-stabilizer>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:57 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:57">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125 - 3,200 ISO</www:light-sensitivity>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25mm</www:min-focal-length>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">450mm</www:max-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4896x3672</www:max-image-resolution>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.4-6.3</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:58 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:58">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 25,600 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4928x3264</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:59 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:59">
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">96mm</www:max-focal-length>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.9-5.2</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 3200</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Without Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:6 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:6">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">156mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26mm</www:min-focal-length>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.5-6.5</www:lens-aperture>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO anti-shake</www:image-stabilizer>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:60 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:60">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">112mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.0-5.8</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 100, ISO 1600, ISO 200, ISO 3200, ISO 400, ISO 800, Auto ISO</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Without Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:61 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:61">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">153mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4320x3240</www:max-image-resolution>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80 - 3,200 ISO</www:light-sensitivity>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.3-5.9</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:62 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:62">
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mm</www:min-focal-length>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">384mm</www:max-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.3-5.9</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 3200</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:63 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:63">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 51,200 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:64 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:64">
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1/4000-30s</www:shutter-speed>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAW JPG RAW + JPG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:65 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:65">
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64 - 12,800 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7360x4912</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW), RAW, TIFF</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:66 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:66">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:67 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:67">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160 - 25,600 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4592x3448</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:68 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:68">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5472x3648</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:69 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:69">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.1mm</www:max-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3072x3204</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4-1/1500s</www:shutter-speed>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7mm</www:min-focal-length>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50 - 2,000 ISO</www:light-sensitivity>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.8-4.7</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:7 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:7">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 3,200 ISO</www:light-sensitivity>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">750mm</www:max-focal-length>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.2-6.9</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:70 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:70">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80 - 6,400 ISO</www:light-sensitivity>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/1.8-5.7</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:71 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:71">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 16,000 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:72 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:72">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5472x3648</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:73 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:73">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">128mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.3-5.9</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:74 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:74">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 16,000 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:75 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:75">
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4-1/4000s</www:shutter-speed>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.5mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4320x3240</www:max-image-resolution>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">94.5mm</www:max-focal-length>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.1-5.8</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 6400</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:76 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:76">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 3,200 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/1.8-4.9</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:77 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:77">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:78 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:78">
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/8000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:79 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:79">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:8 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:8">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">130mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4320x3240</www:max-image-resolution>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black, Blue, Pink, Purple, Red, Silver, Yellow</www:colour>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.2-6.5</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 3200</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Without Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:80 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:80">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW), RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:81 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:81">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 ISO</www:light-sensitivity>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mm</www:min-focal-length>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720mm</www:max-focal-length>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.8-5.6</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</www2:d-support>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:82 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:82">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/6000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4288x2848</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:83 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:83">
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4000x3000</www:max-image-resolution>
+        <www:focus-adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic focus</www:focus-adjustment>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:optical-sensor>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/2.8-4.9</www:lens-aperture>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 100, ISO 1600, ISO 200, ISO 400, ISO 80, ISO 800, Auto ISO</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:84 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:84">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 6,400 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:85 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:85">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 16,000 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:86 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:86">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 16,000 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:87 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:87">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4352x3264</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:88 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:88">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 - 25,600 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4592x3448</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:89 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:89">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, NEF (RAW), RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:9 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:9">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5184x3456</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens based only</www:image-stabilizer>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:90 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:90">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160 - 12,800 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:91 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:91">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">160 - 25,600 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:92 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:92">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 3,200 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">108mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36mm</www:min-focal-length>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.1</www:lens-aperture>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:93 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:93">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 25,600 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:94 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:94">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 12,800 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4032x3024</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live MOS</www:optical-sensor>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:95 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:95">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1,600 - 6,400 ISO</www:light-sensitivity>
+        <www:max-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100mm</www:max-focal-length>
+        <www:min-focal-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25mm</www:min-focal-length>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3456x3456</www:max-image-resolution>
+        <www:lens-aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F/3.9-5.7</www:lens-aperture>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www2:d-support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</www2:d-support>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:optical-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with the optics of the camera. The optical zoom &apos;moves&apos; you closer to the subject without sacrificing quality. The higher the optical zoom, the farther away you can be to take a photo and still get a clear, close-up image.</www:optical-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:96 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:96">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">125 ISO</www:light-sensitivity>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4608x3456</www:max-image-resolution>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG</www:still-image-format>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:image-stabilizer>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:97 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:97">
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/4000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4592x3056</www:max-image-resolution>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 3200</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Without Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:98 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:98">
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4592x3056</www:max-image-resolution>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60-1/4000s</www:shutter-speed>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISO 12800</www:light-sensitivity>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+        <www:digital-zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The number of times the image can be enlarged with digital technology. Unlike the optical zoom, the digital zoom has no moving parts. Instead, it uses its digital brain to understand what it&apos;s &quot;looking at&quot;, and digitally zooms in for a closer look.</www:digital-zoom>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Without Image Stabilizer</www:image-stabilizer>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.priceme.co.nz:99 -->
+
+    <owl:NamedIndividual rdf:about="www.priceme.co.nz:99">
+        <www:light-sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100 - 25,600 ISO</www:light-sensitivity>
+        <www:shutter-speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30-1/8000s</www:shutter-speed>
+        <www:max-image-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6000x4000</www:max-image-resolution>
+        <www:image-stabilizer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in</www:image-stabilizer>
+        <www:optical-sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:optical-sensor>
+        <www:still-image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG, RAW</www:still-image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The amount of detail that the camera can capture is called the resolution, and is measured in mega pixels (MP). The more mega pixels a camera has, the more details it can capture and the larger pictures can be without becoming blurry.</www:resolution>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

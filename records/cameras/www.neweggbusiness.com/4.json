@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "power": "Input: PoE (802.3af) Consumption: 5 Watts max.",
+    "color": "White",
+    "type": "Dome Camera",
+    "brand": "TRENDnet",
+    "networkingprotocol": "IPv4, IPv6, UDP, TCP, ICMP, ONVIF v2.2 DHCP, NTP, DNS, DDNS, SMTP, FTP, SNMP (v1, v2c, v3) NFS, SAMBA HTTP, HTTPS PPPoE UPnP, RTSP, RTP, RTCP, SSL",
+    "connectiontype": "10/100 Mbps PoE port",
+    "poweroverethernet": "Yes",
+    "nightvision": "Yes",
+    "pantiltzoom": "Pan: 356 degree manually Tilt: 15 - 90 degree manually",
+    "lenstype": "Focal length: 4 mm, F1.2 Focal depth: 20 cm + Board lens Zoom: user-defined digital zoom window",
+    "model": "TV-IP311PI (v1.0R)",
+    "sensor": "1/3\" CMOS",
+    "pixels": "3 Megapixel",
+    "ports": "10/100 Mbps PoE port Power port (for not PoE installations)"
+}

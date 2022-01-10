@@ -1,0 +1,7 @@
+{
+    "category": "camera",
+    "drivers": "NAND Flash, SDRAM, Serial port, RTC, Ethernet, TFT LCD, Touch screen, TF card, USB OTG, Audio input/output, LED, Key, RS485, Power Management (backlight) (All provided with source code)",
+    "item": "DescriptionInterfaceLinux SupportAndroid SupportWinCE Support",
+    "lcddisplay": "none 4.3 in. resistive (+US$110.00) 7 in. resistive (+US$130.00)",
+    "os": "ItemRemarks"
+}

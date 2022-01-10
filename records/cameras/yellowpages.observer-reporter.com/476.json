@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "securitycamerastyle": "Bullet",
+    "networkcapable": "No",
+    "nightrecording": "Yes",
+    "indooroutdoor": "Indoor/outdoor",
+    "itemweightlbs": "2",
+    "opticalzoom": "Yes",
+    "colororblackwhite": "Black & White",
+    "near": "New York, NY(Change)",
+    "wiredorwireless": "Wired",
+    "audiorecording": "No",
+    "securitycameratype": "Video"
+}

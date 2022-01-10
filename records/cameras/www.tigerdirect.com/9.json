@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "imageresolution": "4000 x 3000, 2816 x 2112, 1600 x 1200, 640 x 480, 4000 x 2248, 2816 x 1584, 1920 x 1080",
+    "megapixels": "12",
+    "movieresolution": "1920 x 1080, 1920 x 1080, 1280 x 720, 640 x 480, 320 x 240",
+    "weight": "6.8 oz.",
+    "cameratype": "Point and Shoot",
+    "color": "Blue",
+    "batterytype": "Lithium ion (Li-ion)",
+    "isospeedrange": "ISO 100, 800, 400, 200, 1600, 3200, ISO Auto",
+    "exactmegapixels": "12.1MP",
+    "opticalzoom": "5X",
+    "focusmode": "TTL Contrast Detection Autofocus",
+    "focallength": "F= 3-4.8",
+    "digitalzoom": "4X",
+    "displaysize": "3\"",
+    "flashmode": "Yes",
+    "dimensionslxwxh": "1.1\"D x 4.3\"W x 2.7\"H",
+    "displaytype": "LCD"
+}

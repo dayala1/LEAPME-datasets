@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "aperturerange": "f2.6(W) \u2013 5.9(T)",
+    "weight": "128 gm",
+    "label1": "18 MB Internal Memory",
+    "sensitivity": "ISO 100/200/400/800/1600/AUTO",
+    "whitebalance": "Auto, 6 types",
+    "selftimer": "2seconds, 12seconds",
+    "flashfunctions": "Auto, Red-Eye Reduction, Fill-in, OFF",
+    "recordingfileformat": "JPEG",
+    "dimensionwxhxd": "95.0 x 56.2 x 22.8 mm",
+    "label12": "VGA Video Recording",
+    "label13": "2.7 inch TFT colour LCD monitor",
+    "label16": "LI-70B Battery",
+    "label2": "SD/SDHC Memory Card Slot",
+    "afmode": "iESP, Spot, Face Detect, tracking",
+    "focusingsystem": "CCD contrast detection"
+}

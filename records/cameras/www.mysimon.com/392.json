@@ -1,0 +1,23 @@
+{
+    "flashtype": "Pop-up Flash",
+    "cameraflashfeatures": "AF Illuminator",
+    "additionalfeatures": "Brightness Control",
+    "flashmodes": "Auto Mode",
+    "hdmioutput": "Yes",
+    "category": "camera",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "stillimageformat": "JPEG",
+    "redeyereduction": "Yes",
+    "type": "Point & Shoot",
+    "brand": "Olympus",
+    "sensortype": "CCD",
+    "specialeffects": "Water Colour",
+    "digitalvideoformat": "MPEG-4",
+    "batteryformfactor": "Standard form factor",
+    "focusadjustment": "Autofocus & Manual Focus",
+    "shootingmodes": "Frame Movie Mode",
+    "viewfindertype": "None",
+    "supportedflashmemory": "SDXC Card",
+    "operatingsystemsupported": "Apple Mac OS X 10.3 - 10.5"
+}

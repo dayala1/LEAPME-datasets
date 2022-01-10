@@ -1,0 +1,23 @@
+{
+    "videooutput": "1 x HDMI / 1 x VGA",
+    "ptzcontrol": "Yes",
+    "series": "Watchbot HD",
+    "irremotecontrol": "Yes",
+    "videosystem": "HD-SDI or NTSC",
+    "powersource": "DC12V 6.67A",
+    "motiondetection": "Yes",
+    "dimensions": "380mm x 340mm x 72mm",
+    "usbport": "1 Front USB port & 1 Rear USB port",
+    "category": "camera",
+    "alarmio": "4 Inputs, 1 Output",
+    "brand": "AGI",
+    "videocompressionformat": "H.264 High Profile",
+    "networkprotocol": "Free DDNS Available",
+    "audioinputoutput": "4 Line Input & 1 Line Output",
+    "operatingtemperature": "5\u00b0C - 40\u00b0C",
+    "audiocompression": "G711",
+    "videoinput": "16 x BNC",
+    "hdd": "- Accommodates 1 SATA HDD - 2 without ODD - (Capacity 4TB each)",
+    "mobilesurveillance": "Watchbot HD (Apple and Android)",
+    "ethernet": "10/100/1000 base-TX Ethernet (RJ-45)"
+}

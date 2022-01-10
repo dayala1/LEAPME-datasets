@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="bestbuy.com:bestbuy.com#"
+     xml:base="bestbuy.com:bestbuy.com"
+     xmlns:bestbuy="bestbuy.com:"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="bestbuy.com:bestbuy.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- bestbuy.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Internal-Memory -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Internal-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Model -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:SKU -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:SKU">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SKU</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Shipping -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Shipping">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shipping</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Store-Pickup -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Store-Pickup">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Store Pickup</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:tagline -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:tagline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tagline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- bestbuy.com:0 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:0">
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.3MP rear-facing camera for full HD pictures and videos</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">128GB internal memory</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 USB cables (C-to-C cable, A-to-C cable)</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3450 mAh battery</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE speed</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7&quot; AMOLED Quad HD touch screen</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 6.0 Marshmallow OS</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nexus 6P 4G with 128GB Cell Phone (Unlocked</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Owner&apos;s manual</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm Snapdragon 810 processor</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM tool</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use your smartphone as a mobile hotspot</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wall charger</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Your fingerprint keeps your phone secure</bestbuy:tagline>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:1 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:1">
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16MP camera with real-time HDR and smart optical image stabilization</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB internal memory</bestbuy:tagline>
+        <bestbuy:SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4405059</bestbuy:SKU>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE speed</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot; quad HD touch screen</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.0.2 Lollipop OS</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth 4.1</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in wireless charging</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud headset</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6 edge 4G with 32GB Memory Cell Phone</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heart rate sensor lets you measure your heart rate through your fingertip</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium-ion battery</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Owner&apos;s manual</bestbuy:tagline>
+        <bestbuy:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SM-G925AZKAATT</bestbuy:Model>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung Exynos 7420 Octa-core processor</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung Pay lets you use this phone as a credit card in the checkout line</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen wraps around both edges of the phone</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultra Power Saving mode lets you keep your phone powered on for longer in between charges</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use your smartphone as a mobile hotspot</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wall charger, USB cable</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Your fingerprint keeps your phone secure</bestbuy:tagline>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:2 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:2">
+        <bestbuy:Store-Pickup rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Available at most stores</bestbuy:Store-Pickup>
+        <bestbuy:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32G</bestbuy:Internal-Memory>
+        <bestbuy:SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4417008</bestbuy:SKU>
+        <bestbuy:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black Sapphire</bestbuy:Color>
+        <bestbuy:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SMG925VZKA</bestbuy:Model>
+        <bestbuy:Shipping rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ships in 1 business day.</bestbuy:Shipping>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:3 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:3">
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16MP camera with real-time HDR and smart optical image stabilization</bestbuy:tagline>
+        <bestbuy:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32G</bestbuy:Internal-Memory>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB internal memory</bestbuy:tagline>
+        <bestbuy:SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4477058</bestbuy:SKU>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE speed</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot; quad HD touch screen</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.0.2 Lollipop OS</bestbuy:tagline>
+        <bestbuy:Store-Pickup rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Available at most stores</bestbuy:Store-Pickup>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth 4.1</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in wireless charging</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charger, USB 2.0 cable</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6 edge with 32GB Memory Cell Phone</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heart rate sensor lets you measure your heart rate through your fingertip</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium-ion battery</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Owner&apos;s manual</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM card, recycle bag</bestbuy:tagline>
+        <bestbuy:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPHG92532WTS</bestbuy:Model>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung Exynos 7420 Octa-core processor</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung Pay lets you use this phone as a credit card in the checkout line</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen wraps around both edges of the phone</bestbuy:tagline>
+        <bestbuy:Shipping rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ships in 1 business day.</bestbuy:Shipping>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultra Power Saving mode lets you keep your phone powered on for longer in between charges</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use your smartphone as a mobile hotspot</bestbuy:tagline>
+        <bestbuy:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White Pearl</bestbuy:Color>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:4 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:4">
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16MP camera with real-time HDR and smart optical image stabilization</bestbuy:tagline>
+        <bestbuy:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</bestbuy:Internal-Memory>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB internal memory</bestbuy:tagline>
+        <bestbuy:SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4424016</bestbuy:SKU>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE speed</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot; quad HD touch screen</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.0.2 Lollipop OS</bestbuy:tagline>
+        <bestbuy:Store-Pickup rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Available at most stores</bestbuy:Store-Pickup>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth 4.1</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in wireless charging</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charger, USB 2.0 cable</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S6 edge with 32GB Memory Cell Phone</bestbuy:tagline>
+        <bestbuy:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gold</bestbuy:Color>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Voice</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heart rate sensor lets you measure your heart rate through your fingertip</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium-ion battery</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Owner&apos;s manual</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM card, recycle bag</bestbuy:tagline>
+        <bestbuy:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SPH92032GLD</bestbuy:Model>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung Exynos 7420 Octa-core processor</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung Pay lets you use this phone as a credit card in the checkout line</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen wraps around both edges of the phone</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultra Power Saving mode lets you keep your phone powered on for longer in between charges</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use your smartphone as a mobile hotspot</bestbuy:tagline>
+        <bestbuy:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Your fingerprint keeps your phone secure</bestbuy:tagline>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

@@ -1,0 +1,16 @@
+{
+    "warranty": "- 3 year limited",
+    "category": "camera",
+    "specialfeatures": "- Hear and talk through the camera with built-in speaker and microphone - Play five soothing songs - Supports four video profiles simultaneously",
+    "dimensions": "- 70 x 65 x 88 mm (2.8 x 2.6 x 3.5 in.)",
+    "power": "- Input",
+    "operatinghumidity": "- Max. 85% non-condensing",
+    "minimumillumination": "- IR off",
+    "lens": "- Focal length",
+    "certifications": "- CE - FCC",
+    "networkprotocol": "- IPv4, UDP, TCP, ICMP - DHCP, NTP, DNS, DDNS, SMTP, FTP - SAMBA, 3GPP - HTTP - UPnP, Bonjour - LLTD, RTSP, RTP, RTCP",
+    "audio": "- Built-in microphone - Built-in speaker",
+    "videoresolution": "- H.264",
+    "viewingangle": "- Horizontal",
+    "operatingtemperature": "- 0 - 40 \u00b0C (32 - 104 \u00b0F)"
+}

@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "videoquality": "1080p",
+    "shutterspeed": "30 - 1/4000",
+    "isosensitivity": "12800",
+    "mediatype": "SD, SDHC, SDXC",
+    "screentype": "TFT",
+    "tripodmount": "Yes",
+    "screensize": "3\"",
+    "imageprocessor": "DIGIC 5",
+    "afpoints": "9",
+    "imagesensor": "CMOS",
+    "cameraresolution": "18 MP"
+}

@@ -1,0 +1,18 @@
+{
+    "motiondetection": "Select On of Off",
+    "category": "camera",
+    "microphone": "included",
+    "power": "DC5V",
+    "operationsystem": "Windows ME/2000/XP/Vista or above",
+    "photo": "JPEG, 1600 by 1200",
+    "sdcard": "up to 32 GB SD Card",
+    "label10": "Rechargeable 500mAh Li-Polymer Battery",
+    "camera": "1/4 color CMOS WXGA Night Vision Camera",
+    "video": "AVI Format, 1280 by 720 @ 30 fps, 640 by 480 30 fps",
+    "interface": "USB. 2.0",
+    "partnumber": "TDCAM-01",
+    "label11": "Cycled Recording",
+    "sensor": "OV9712",
+    "display": "2.4 inch TFT Colorful 270 degree rotating LCD",
+    "viewingangle": "120 degree"
+}

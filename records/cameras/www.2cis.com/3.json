@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "signaltonoiseratio": "50 db",
+    "power": "12V DC / 24V AC",
+    "weight": "4.8 lbs",
+    "syncsystem": "Internal / Line-Lock / VD2",
+    "minimumillumination": "1.5 lux (0.15fc) in color / 0.16 lux (0.016fc) in B/W (SENS Up: OFF)",
+    "controls": "SDIII Electronic Shutter AGC Sensitivity Enhancement White Balance Motion Detection Digital Noise Reduction Day/Night Mode Auto Image Stabilizer Back Focus Adjustment",
+    "lens": "2x variable focal lens",
+    "tiltangle": "150\u00b0",
+    "resolution": "540 lines (high color mode) 570 lines (B/W mode)",
+    "construction": "Die cast aluminum base with 3.5mm thick tinted polycarbonate bubble",
+    "type": "Color"
+}

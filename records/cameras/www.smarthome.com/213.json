@@ -1,0 +1,22 @@
+{
+    "videooutput": "1.0Vp-p composite output, 75O + test connection",
+    "iprating": "IP66",
+    "weight": "18-oz (500g)",
+    "gammacorrection": "0.45",
+    "chip": "1/3\" Sony Super HAD CCD",
+    "sharpness": "On/Off (adjustable range",
+    "sync": "Internal",
+    "motiondetection": "4 zones",
+    "privacy": "On/Off (8 programmable zones)",
+    "electronicshutter": "Auto/Manual (adjustable range",
+    "autogain": "Selectable",
+    "category": "camera",
+    "minimumillumination": "0.000006-Lux (LEDs on), 0.05-lux (LEDs off)",
+    "snratio": ">52dB (weight on)",
+    "powersupply": "12VDC / 24VAC dual voltage",
+    "backlightcompensation": "HLC/BLC/Off",
+    "lens": "2.8 - 12mm Varifocal",
+    "pictureelements": "768(H)x494(V)",
+    "dimensionslxwxh": "7\"x23/4\"x31/2\" (180x70x90mm) (with sunscreen)",
+    "whitebalance": "ATW / AWC / MANUAL (1800\u00b0~10,500\u00b0 K)"
+}

@@ -1,0 +1,23 @@
+{
+    "videooutput": "Composite * 1",
+    "powerconsumption": "The max electric current is 100mA",
+    "horizontalresolution": "420 TV Lines",
+    "frequency": "2.4 ~ 2.525GHz FHSS",
+    "powersource": "DC 12V / 0.5A for AC Adapter",
+    "storagetemperature": "-20\u00b0 ~ 70\u00b0C (-4\u00b0F~158\u00b0F)",
+    "category": "camera",
+    "antenna": "Omni-directional 3dBi",
+    "infraredwavelength": "850mm",
+    "nightvisiondistance": "20m / 65ft",
+    "waterproof": "IP64 weatherproof rated",
+    "minimumillumination": "While Infrared LED ON \"0\" lux",
+    "snratio": "More than 48dB(AGCOFF)",
+    "lens": "Standard fixed lens 6mm",
+    "videocompression": "MPEG4",
+    "shutterspeed": "1/60 - 1/15,000 NTSC; 1/50 - 1/15,000 PAL",
+    "backlightcompensation": "YES",
+    "operatingtemperature": "-10\u00b0 ~ 50\u00b0C (14\u00b0F~122\u00b0F)",
+    "imagesensor": "1/4\" CMOS",
+    "syncsystem": "Internal Synchronization",
+    "viewingangle": "53 degree"
+}

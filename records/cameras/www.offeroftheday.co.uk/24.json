@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio",
+    "productdescription": "Nikon Coolpix S3500 - digital camera",
+    "minfocusdistance": "50 cm",
+    "weight": "129 g",
+    "focusadjustment": "Automatic",
+    "colour": "Silver",
+    "lenssystem": "7 x zoom lens - 4.7 - 32.9 mm - f/3.4-6.4",
+    "cameraflash": "Built-in flash",
+    "imagestabiliser": "Optical",
+    "digitalzoom": "4 x",
+    "sensorresolution": "20.1 Megapixel",
+    "supportedbattery": "1 x Nikon EN-EL19 Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - compact",
+    "dimensionswxdxh": "9.68 cm x 2.05 cm x 5.78 cm",
+    "imageprocessor": "EXPEED C2",
+    "display": "LCD display - 2.7\"",
+    "maxvideoresolution": "1280 x 720",
+    "memorycardslot": "SD card"
+}

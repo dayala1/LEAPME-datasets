@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "minimumfocusingdistance": "0.3m",
+    "lenscap": "Snap-on",
+    "dimensions": "70 x 52.5 mm (Diameter x Length)",
+    "weight": "200 g",
+    "filterattachmentsize": "52 mm",
+    "brand": "Nikon",
+    "maximumfocallength": "35 mm",
+    "lenshood": "HB-46",
+    "name": "Standard",
+    "aperturewithmaxfocallength": "f/1.8",
+    "model": "AF-S DX NIKKOR 35 mm f/1.8G",
+    "aperturewithminfocallength": "f/22",
+    "type": "Prime",
+    "maximumreproductionratio": "0.16x",
+    "attr3months": "15%Rs. 5,304Rs. 15,910"
+}

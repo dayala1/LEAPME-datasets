@@ -1,0 +1,23 @@
+{
+    "usbterminal": "Yes",
+    "audioformat": "Dolby\u00ae Digital 2ch Stereo, Dolby\u00ae Digital Stereo Creator *9 , MPEG-4 AAC-LC 2ch *10",
+    "category": "camera",
+    "hdvideocodec": "AVCHD format ver.2.0 compatible:MPEG4-AVC/H.264",
+    "lensfilterdiameter": "Sony G Lens",
+    "stdvideocodec": "MPEG2-PS:MPEG-2 (Video) MP4: MPEG-4 AVC/H.264",
+    "dimensionswxhxd": "Approx. 58 x 57 x 117mm",
+    "zoommic": "Built-in Zoom Microphone",
+    "maximumstillimageresolutionphotomode": "8.9 megapixels 16:9(3984x2240)",
+    "smileshutter": "Dual Capture/Always On/Off",
+    "backlightcompensation": "Yes(Auto)",
+    "imagestabilisation": "Optical SteadyShot\u2122 image stabilization w/ Active mode (Wide to Tele)",
+    "imageprocessor": "BIONZ\u00ae image processor",
+    "facedetection": "Yes",
+    "opticaldigitalzoom": "Optical Zoom: 30x, Extended Zoom: 55x, Digital Zoom: 350x",
+    "lcdscreensizetype": "3.0\" Clear Photo LCD Plus\u2122 display (230K dots/Wide 16:9)",
+    "imagesensor": "\"Exmor R\" CMOS Sensor",
+    "braviasync": "Yes",
+    "hdmiterminal": "Yes (HDMI micro)",
+    "xvcolour": "Yes",
+    "mediastoragetype": "Internal Flash Memory, Memory Stick PRO Duo\u2122 (Mark 2),Memory Stick PRO-HG Duo\u2122, Memory Stick XC-HG Duo\u2122, SD/SDHC/SDXC Memory Card(Class 4 or Higher)"
+}

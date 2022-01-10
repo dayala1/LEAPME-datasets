@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "pictbridge": "Yes",
+    "dustreduction": "Dust Shield Glass",
+    "imagedisplayresolution": "921000 dots",
+    "metering": "Matrix, Spot, Center-Weighted",
+    "facedetection": "Yes",
+    "audioformats": "AAC",
+    "continuousshots": "Yes",
+    "isorating": "100-3200",
+    "redeyereduction": "Yes",
+    "whitebalancing": "Auto, Cloudy, Incandescent, Sunny, White Set",
+    "displaytype": "TFT LCD",
+    "imageformat": "NEF (RAW) 12, TIFF (RGB), JPEG, NEF (RAW+JPEG)",
+    "screensize": "3 Inches",
+    "videodisplayresolution": "1920 x 1080 Pixel",
+    "viewfinder": "Electronic View Finder",
+    "videoformat": "H.264, MOV, MPEG-4 AVC",
+    "microphone": "Stereo"
+}

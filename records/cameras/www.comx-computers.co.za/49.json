@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "productcode": "SONY DSC-HX400",
+    "software": "Operating System Compatibility : Windows Vista SP2 (Starter Edition is not supported) Windows 7 SP1; Windows 8; Mac OS X (10.6-10.8)",
+    "weightsandmeasurements": "Dimensions (Approx.) : W x H x D: 5 1/8\" x 3 3/4\" x 4 1/8\" (129.6mm x 93.2mm x 103.2mm)",
+    "power": "Power Requirements : AC 100V to 240V, 50/60 Hz, 70mA",
+    "advancedfeatures": "Image Stabilization : Optical SteadyShot Image Stabilization with Intelligent Active Mode",
+    "flash": "Flash Modes : Flash Off / Autoflash / Fill-flash / Slow Sync. / Advanced Flash / Rear Sync. / Wireless (with optional compliant flash)",
+    "opticslens": "Optical Zoom : 50x",
+    "imagingsensor": "Processor : Bionz X",
+    "recording": "Panorama Still Image Size : Sweep Panorama: Wide (7, 152 \u00d7 1,080 / 4,912 \u00d7 1, 920); Sweep Panorama: 360 (11, 520 \u00d7 1, 080)",
+    "interface": "NFC : NFC forum Type 3 Tag compatible, One-touch remote, One-touch sharing",
+    "camera": "Camera Type : High Zoom digital camera",
+    "drivesystem": "Burst Mode : Approx 10 fps at 20.4MP (Maximum 10 shots)",
+    "viewfinder": "Type : 0.2\" (0.5cm) 201k dots",
+    "exposuresystem": "D-Range Optimizer : Standard / Plus / Off",
+    "lcddisplay": "LCD Type : 3.0\" XtraFine LCD (921K dots)",
+    "focuscontrol": "AF Illuminator : Auto / Off",
+    "conveniencefeatures": "Power Save Mode : 1min / 2min / 5min / 30min"
+}

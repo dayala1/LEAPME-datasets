@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "microphone": "Built-in",
+    "battery": "Built-in\u00a0lithium\u00a0battery",
+    "lens": "6G\u00a0ultra\u00a0wide-angle\u00a0lens,\u00a0high-resolution\u00a0fisheye\u00a0wide\u00a0angle\u00a0lens\u00a0FOV150\u00a0\u00b0\u00a0HOV\u00a0=\u00a0132\u00a0\u00b0",
+    "video": "1920*1080P\u00a030fps\u00a0/1280*720P\u00a060fps",
+    "systemrequirements": "Windows\u00a02000/XP/Vista/Windows\u00a07,\u00a0MAC\u00a0OS\u00a0x\u00a010.3.6\u00a0above",
+    "usbinterface": "USB2.0",
+    "sdcardslot": "TF\u00a0card",
+    "videoformat": "MOV"
+}

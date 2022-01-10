@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "wireless": "NFC Wireless LAN",
+    "compression": "MPEG-4 AVC/H.264 Long-GOP 50 35 25",
+    "weight": "Less than 3 lb / 1.4 kg (includes camera body, XLR handle unit, NP-FV70 battery, lens hood, and large eye-cup)",
+    "outputs": "1 x 3G-SDI 1 x HDMI",
+    "lens": "12x optical zoom 24x Clear Image Zoom 48x with digital extender",
+    "recordingformat": "XAVC AVCHD DV",
+    "mediacardslots": "2 x SD",
+    "audio": "2 x 3-pin XLR female",
+    "sensor": "1\" Exmor R CMOS 20MP sensor 14.2MP effective pixels"
+}

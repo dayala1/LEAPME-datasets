@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "name": "specificationHardware",
+    "battery": "1200mALi",
+    "framerate": "15fps",
+    "storage": "8/16/32GTF",
+    "workingtime": "4 hours",
+    "resolution": "1080*720PPLens",
+    "videoformat": "AVI"
+}

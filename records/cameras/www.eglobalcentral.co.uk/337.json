@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "datarate": "54 Mbps (maximum logical data rates)",
+    "accessprotocols": "Infrastructure",
+    "standards": "IEEE 802.11b, IEEE 802.11g",
+    "rangelineofsight": "Approx. 98.4' / 30m (assumes no interference; range may vary with interference)",
+    "operatingfrequency": "2412 to 2462 MHz (channels 1 to 11)",
+    "communicationsprotocols": "802.11b - DSSS/CCK; 802.11g - OFDM",
+    "wirelesssetup": "Supports WPS",
+    "security": "Authentication - Open system, WPA2-PSK; Encryption - AES"
+}

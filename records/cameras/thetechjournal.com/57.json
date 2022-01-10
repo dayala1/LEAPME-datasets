@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "lcdpixels": "Approx. 230,000 dots",
+    "flashexposurecompensation": "+/-2 stops in 1/3-stop increments",
+    "autofocussystem": "Single (Continuous in Auto and Easy modes), Servo AF, Servo AE, Manual Focus",
+    "focallength": "5.0 (W) \u2013 60.0 (T) mm (35mm film equivalent: 28 (W) \u2013 336 (T) mm)",
+    "builtinflash": "Available",
+    "focusingrange": "Auto: 0.4 in. (1 cm) \u2013 infinity (W), 3.3 ft. (1 cm) \u2013 infinity (T) Normal: 2.0 in. (5 cm) \u2013 infinity (W), 3.3 ft. (1 m) \u2013 infinity (T) Macro: 0.4 in. 1.6 ft. (1-50 cm) (W)",
+    "flashrange": "1.6 \u2013 9.8 ft. (W), 3.3 \u2013 6.6 ft. (T) (50cm \u2013 3.0m (W), 1.0cm \u2013 2.0m (T))",
+    "lcdcoverage": "Approx. 100%",
+    "digitalzoom": "4x",
+    "effectivepixels": "Approx. 14.1 Megapixels",
+    "totalpixels": "Approx. 14.5 Megapixels",
+    "imagerecordingformat": "Normal, Fine",
+    "recyclingtime": "12 seconds or less (battery voltage: 3.0 V)",
+    "storagemedia": "SD Memory Card, SDHC Memory Card, SDXC Memory Card, Eye-Fi",
+    "jpegcompressionmode": "Still Image: 2.3 (JPEG)",
+    "lcdmonitor": "3.0-inch TFT color LCD with wide viewing angle",
+    "type": "14.1 Megapixel 1/2.3-inch CCD",
+    "fileformat": "Design rule for Camera File System, DPOF (Version 1.1) compliant"
+}

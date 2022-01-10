@@ -1,0 +1,23 @@
+{
+    "videooutput": "1 volt P-P into 75 ohms",
+    "weight": "12.5 oz.",
+    "horizontalresolution": "420 Lines",
+    "effectivepixels": "510 (H) x 492 (v) Pixels",
+    "gammacharacteristics": ".45 typ",
+    "category": "camera",
+    "dimensions": "2.75\" Dia. x 3.65\" (L)",
+    "synctype": "Internal",
+    "currentconsumption": "150 mA (LED off), 330 mA (LED on)",
+    "gaincontrol": "Automatic",
+    "tvstandard": "NTSC",
+    "led": "12 LEDs controlled by CDS",
+    "snratio": "48 dB",
+    "lens": "2.9mm",
+    "powerrequirements": "12v DC Regulated power supply @ 500mA",
+    "iris": "Electronics Shutter",
+    "operatingtemperature": "14 degrees F to 120 degrees F",
+    "minillumination": "0.01 lux (LED off), 0 lux (LED on)",
+    "cameratype": "Waterproof Color Day/Night",
+    "imagesensor": "1/4\" Color CCD",
+    "scanningsystem": "2:1 Interlace"
+}

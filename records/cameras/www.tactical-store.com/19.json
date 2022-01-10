@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "productcode": "UPCSKUThermal Eye TSC4500 IR Camera Options",
+    "startuptime": "~4 seconds",
+    "weight": "20oz. (567g)",
+    "f": "1.0 Athermalized / 1.2 Athermalized / 1.2 Athermalized",
+    "color": "Black Extruded Anodized Aluminum",
+    "analogoutput": "NTSC (color); Real-time 30Hz frame rate / PAL (color); Real-time 25Hz frame rate",
+    "weatherproofing": "Watertight to IP67",
+    "refreshrate": "Real-time 30Hz (9Hz available)",
+    "focusmethod": "Manual adjust with passive athermalized lens",
+    "storagetemperature": "-40\u00c2\u00b0C to 105\u00c2\u00b0C (-40\u00c2\u00b0F to 221\u00c2\u00b0F)",
+    "inputvoltage": "9 to 32 VDC",
+    "spectralresponse": "7-14um (filter bandwidth)",
+    "size": "8.3\"L x 2.5\"W x 2.7\"H (21.1cm x 6.6cm x 6.9cm)"
+}

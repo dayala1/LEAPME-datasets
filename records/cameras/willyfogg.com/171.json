@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "sound": "UDA1341",
+    "touchscreen": "Touch Screen driver",
+    "lcddisplay": "none 4.3 in. (+US$25.00) 7 in. (+US$50.00)",
+    "led": "LED1",
+    "language": "Multi-language Support",
+    "os": "ItemFeatureDescription",
+    "buttons": "User buttons",
+    "application": "Test applicationsCMOS Camera, ADC Testing, Button Testing, PWM Testing, LCD Testing, Watchdog Testing, EEPROM Testing, LED Test, Serial Port Test, Ping Testing, Recorder, Network Setting, Backlight Testing, Language Setting, Pen Pad",
+    "lcd": "Comes with driver for 4.3\" and 7\" TFT LCD",
+    "snapshot": "LCD picture capture application under Console platform",
+    "networkprotocol": "TCP/IPTCP/IP protocol",
+    "filesystem": "CRAMFS/EXT2/FAT32/NFS/YAFFS2",
+    "audio": "UDA1341",
+    "leds": "Four LEDs driver",
+    "touchpanel": "Touch panel driver"
+}

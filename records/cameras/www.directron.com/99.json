@@ -1,0 +1,18 @@
+{
+    "recordingquality": "Low, Normal, Good",
+    "category": "camera",
+    "audioout": "1",
+    "recordingframerate": "Up to 30 FPS Per Channel",
+    "alarmoutput": "1",
+    "recordingmodes": "Continuous, Scheduled, Sensor/ Motion trigger",
+    "storage": "Support One SATA Harddrive up to 2T (not included)",
+    "searchmode": "Time",
+    "audioin": "4",
+    "playback": "via Client Player",
+    "networkprotocol": "TCP/IP, Static IP, DHCP, DDNS",
+    "networkconnection": "10/100 Ethernet(RJ-45)",
+    "resolutionrecording": "CIF, Half D1, D1",
+    "supplyvoltage": "Output",
+    "alarminput": "4",
+    "recordingcompression": "H.264"
+}

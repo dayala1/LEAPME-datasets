@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "hdmioutput": "Can be selected from Auto, 480p, 720p, and 1080i",
+    "focusrangefromlens": "[W]: Approx. 50 cm to \u221e, [T]: Approx. 1.0 m to \u221e, Macro mode: Approx. 1 cm to \u221e ( wider than \u0394 )",
+    "weight": "Approx. 213 g (including battery and SD memory card)",
+    "batterylifeenel19": "Still pictures: Approx. 250 shots Movies: Approx. 1h 10 min (HD 1080p). (The maximum file size for a single movie is 4 GB and the maximum movie length for a single movie is 29 minutes, even when there is sufficient free space on the memory card for longer recording.)",
+    "imagesensor": "1/2.3-in. type CMOS; total pixels: approx. 16.79 million",
+    "powersources": "One Rechargeable Li-ion Battery EN-EL12 (supplied) AC Adapter EH-62F (available separately)",
+    "lens": "14x optical zoom, NIKKOR lens 4.5-63.0mm (angle of view equivalent to that of 25-350 mm lens in 35mm [135] format) f/3.3-5.9; Digital zoom Up to 2x (angle of view equivalent to that of approx. 700 mm lens in 35mm [135] format)",
+    "effectivepixels": "16.1 million",
+    "dimensionswxhxd": "Approx. 103.7 x 59.3 x 32.7 mm",
+    "interface": "Hi-Speed USB",
+    "storagemedia": "Internal memory (approx. 89 MB), SD/SDHC/SDXC memory card",
+    "suppliedaccessories": "Camera Strap, Rechargeable Li-ion Battery EN-EL12, Charging AC Adapter EH-69P, USB Cable UC-E6, Audio Video Cable EG-CP16, ViewNX 2 CD-ROM",
+    "isosensitivity": "ISO 100, 200, 400, 800, 1600, 3200 Auto (auto gain from ISO 100 to 1600) Fixed range auto (ISO 100 to 400, ISO 100 to 800)",
+    "monitor": "7.5 cm (3-in.), approx. 921k-dot, wide viewing angle TFT LCD with anti-reflection coating and 5-level brightness adjustment"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "maximumstillframeratefps": "30",
+    "productline": "PowerShot",
+    "color": "Black",
+    "colorclass": "Black",
+    "cameraresolutionmegapixel": "12.1",
+    "opticalzoomrangex": "11.0 - 14.9",
+    "focusmode": "Auto",
+    "lcdsizein": "3",
+    "lcdsizerange": "3.0 - 3.4\"",
+    "cameramegapixels": "10 - 14 Megapixel",
+    "imagestabilizationtype": "Optical",
+    "opticalzoomx": "14",
+    "resolution": "4000 x 3000",
+    "aspectratio": "169",
+    "digitalzoomx": "4"
+}

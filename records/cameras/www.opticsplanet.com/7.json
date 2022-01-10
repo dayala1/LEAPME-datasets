@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "exposurerange": ".001 sec to 24hrs (2x2 bin); .01sec to 24hrs (1x1 bin)",
+    "fullwellcapacity": "25,500 e-",
+    "weightlbs": "2 lbs (0.91 kg)",
+    "mounting": "2\" barrel and t-thread",
+    "imagingsensor": "Kodak KAF-8300 Color Sensor",
+    "adconversion": "16 bit",
+    "sensorsize": "17.96 mm x 13.52 mm (22.5 mm diagonal)",
+    "shutter": "Internal Mechanical",
+    "operatingenvironment": "40C\u00b0 to -40C\u00b0 (104F to -40F)",
+    "dynamicrange": "64.4 dB",
+    "opticalcoatings": "IR cutoff and anti-reflection multi-coatings",
+    "pixelsize": "5.4 micron square",
+    "cameraresolution": "8.3MP (3326x2504)",
+    "usbcable": "High-Speed 2.0, 10' cable length",
+    "powerrequirements": "12V DC 2.5Amp, tip positive",
+    "backfocusdistance": "55 mm w/ 2\" barrel; 26 mm w/o barrel"
+}

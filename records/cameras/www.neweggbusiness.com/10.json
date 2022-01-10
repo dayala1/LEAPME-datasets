@@ -1,0 +1,22 @@
+{
+    "networkingprotocol": "IP, HTTP, HTTPS, SSL/TLS, TCP, ICMP, SNMPv1/v2c/v3 (MIB-II), RTSP, RTP, UDP, IGMP, RTCP, SMTP, FTP, DHCP, UPnP, ARP, DNS, DynDNS, SOCKS, NTP",
+    "connectiontype": "RJ45",
+    "pantiltzoom": "Pan: -170\u00b0 to +170\u00b0, Max speed 100\u00b0/sec Tilt: -30\u00b0 to 90\u00b0, Max speed 90\u00b0/sec Zoom: 18x optical, 12x digital (216x in total) 20 preset positions Designed for operator control",
+    "lenstype": "18x zoom, auto focus F1.4, 4.1 - 73.8 mm, horizontal viewing angle 2.7\u00b0 - 48\u00b0 Focus range: 10 mm (wide) or 800 mm (tele) to infinity",
+    "category": "camera",
+    "shuttercontrol": "1 to 1/10000 sec",
+    "poweroverethernet": "No",
+    "labor": "1 year limited",
+    "parts": "1 year limited",
+    "type": "PTZ Camera",
+    "operatingsystemssupported": "Windows XP, 2000, Server 2003",
+    "power": "12 V DC, max 14 W",
+    "brand": "AXIS",
+    "model": "0246-004",
+    "sensor": "1/4\" Sony ExView HAD CCD",
+    "framerate": "Motion JPEG: Up to 30/25 fps in all resolutions MPEG-4: Up to 21/17 fps at 4CIF/2CIFExp Up to 30/25 fps at 2CIF/CIF/QCIF",
+    "videocaptureresolution": "Resolutions 4CIF, 2CIFExp, 2CIF, CIF, QCIF max 704x480 (NTSC) min 160x120 (NTSC)",
+    "maxresolution": "704 x 480",
+    "security": "Multiple user access levels with password protection, IP address filtering, HTTPS encryption",
+    "ports": "Ethernet 10BaseT/100BaseTX, RJ-45 Terminal block for 1 alarm input, 1 output and alternative power connection Audio connector: Line/mic in: Pink, 3,5mm tele jack Line out: Lime, 3,5mm tele jack"
+}

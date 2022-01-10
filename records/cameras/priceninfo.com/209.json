@@ -1,0 +1,23 @@
+{
+    "weight": "205 gm",
+    "battery": "Lithium-ion NB-6L",
+    "focusingrange": "2.0 in./5cm \u2013 infinity (W), 3.3 ft(1m) \u2013 infinity (T)",
+    "opticalviewfinder": "Real-image Optical Viewfinder",
+    "exposurecompensation": "+/-2 stops in 1/3-stop increments",
+    "effectivepixels": "12.1 megapixels",
+    "shootingcapacity": "280 shots",
+    "category": "camera",
+    "dimensions": "112.3 x 70.8 x 28 mm",
+    "selftimer": "10-sec, 2-sec",
+    "maximumaperture": "f/3.9 (W) \u2013 f/4.8 (T)",
+    "isosensitivity": "Auto, ISO 100/200/400/800/1600/3200",
+    "focallength": "5.0 (W) \u2013 25.0 (T) mm (35mm film equivalent",
+    "storagemedia": "SD/SDHC/SDXC",
+    "lcdmonitor": "3.0? inch TFT Color Display (461K dots)",
+    "shutterspeed": "1 \u2013 1/1600 sec to 15 \u2013 1/1600 sec",
+    "builtinflash": "Auto Red-eye Correction, Flash Off; FE lock, Auto, Red-eye Reduction, Flash On, Slow Synchro",
+    "imagesensor": "1/2.3? inch CMOS Sensor",
+    "opticalzoom": "5x",
+    "digitalzoom": "4x",
+    "playbacktime": "Up to 5 hours"
+}

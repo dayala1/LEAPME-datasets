@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "avinterfaces": "HDMI",
+    "productdescription": "Sony Cyber-shot DSC-WX60 - digital camera",
+    "minfocusdistance": "5 cm",
+    "weight": "108 g",
+    "focusadjustment": "Automatic",
+    "colour": "Black",
+    "lenssystem": "Carl Zeiss 8 x zoom lens - 4.5 - 36 mm - f/3.3-6.3",
+    "cameraflash": "Built-in flash",
+    "imagestabiliser": "Optical (Steady Shot)",
+    "sensorresolution": "16.2 Megapixel",
+    "supportedbattery": "1 x Sony NP-BN Li-ion rechargeable battery - 630 mAh ( included )",
+    "producttype": "Digital camera - compact",
+    "dimensionswxdxh": "9.2 cm x 2.3 cm x 5.3 cm",
+    "imageprocessor": "BIONZ",
+    "display": "LCD display - 2.7\"",
+    "maxvideoresolution": "1920 x 1080",
+    "memorycardslot": "Memory Stick PRO Duo card, SD card"
+}

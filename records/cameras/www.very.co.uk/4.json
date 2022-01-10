@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio",
+    "productdescription": "Sony Cyber-shot DSC-H400 - digital camera",
+    "minfocusdistance": "1 cm",
+    "weight": "628 g",
+    "focusadjustment": "Automatic",
+    "colour": "Black",
+    "lenssystem": "63 x zoom lens - 4.4 - 277 mm - f/3.4-6.5",
+    "cameraflash": "Pop-up flash",
+    "imagestabiliser": "Optical (Steady Shot with Intelligent Active Mode)",
+    "sensorresolution": "20.1 Megapixel",
+    "supportedbattery": "1 x Sony NP-BX1 Li-ion rechargeable battery - 1240 mAh ( included )",
+    "producttype": "Digital camera - compact",
+    "dimensionswxdxh": "12.96 cm x 12.23 cm x 9.5 cm",
+    "viewfinder": "Electronic - 0.2\" - colour",
+    "imageprocessor": "BIONZ",
+    "display": "LCD display - 3\"",
+    "maxvideoresolution": "1280 x 720",
+    "memorycardslot": "Memory Stick PRO Duo card, SD card"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "flashtype": "Built-in flash",
+    "redeyereduction": "Yes",
+    "brand": "Canon",
+    "tax": "Calculate",
+    "shipping": "Free Shipping",
+    "sensortype": "CCD",
+    "displaytype": "LCD",
+    "totalprice": "$99.99",
+    "specialeffects": "Toy camera      \u2022           Posterization      \u2022           Miniature      \u2022           Fisheye      \u2022           Monochrome",
+    "digitalvideoformat": "MOV      \u2022           iFrame      \u2022           H.264",
+    "baseprice": "$249.99 $99.99",
+    "supportedflashmemory": "SDXC Memory Card      \u2022           SDHC Memory Card      \u2022           SD Memory Card",
+    "type": "Point & Shoot",
+    "viewfindertype": "None"
+}

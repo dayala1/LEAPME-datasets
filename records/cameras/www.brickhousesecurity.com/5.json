@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "recordmode": "Standard, Motion, Overwrite",
+    "weight": "1.2lbs",
+    "storage": "SD Card (Up to 32GB SDHC)",
+    "framerate": "1, 5, 15, 20, 25, 30 FPS",
+    "standbytime": "Up to 365 days (1 Year)",
+    "videoinput": "NTSC/PAL Auto Detection",
+    "videoformat": "MPEG-4 ASF File Format",
+    "pictureformat": "JPG",
+    "poweroutput": "5V",
+    "maxresolution": "720P+, 1,280 x 960",
+    "recordingtime": "Varies by Settings. 20-210 Minutes per GB",
+    "batterytype": "3.7V 15000mA Lithium Battery",
+    "size": "4.75\"Lx3\"W x 1\" H"
+}

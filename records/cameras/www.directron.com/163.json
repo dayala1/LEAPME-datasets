@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p composite output (75 \u03a9/BNC)",
+    "irrange": "131ft(40m)",
+    "weatherproofrating": "IP66",
+    "minillumination": "0.14 Lux @ (AGC ON),0 Lux with IR",
+    "powerconsumption": "Max.5W",
+    "daynight": "ICR",
+    "imagesensor": "1/4\"Sensor",
+    "snratio": "More than 62dB",
+    "powersupply": "12V DC",
+    "humidity": "90% or less (non-condensing)",
+    "lens": "2.8-12mm",
+    "horizontalresolution": "700 TVL",
+    "synchronization": "Internal synchronization",
+    "effectivepixels": "720(H)x480(V)",
+    "signalsystem": "NTSC / PAL",
+    "workingtemperature": "-40 \u00b0C - 60 \u00b0C (-40 \u00b0F - 140\u00b0F)",
+    "shutterspeed": "NTSC",
+    "dimension": "134.2x123.9x88.1mm(5.28\"x4.88\"x3.47\")"
+}

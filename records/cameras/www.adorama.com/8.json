@@ -1,0 +1,22 @@
+{
+    "meteringrange": "For ISO 100/21\u00b0 EV -2 to EV 20",
+    "weight": "Approx:.21 oz./ 600 g (with battery, without camera cap)",
+    "mirrorlockup": "No",
+    "focus": "Manual",
+    "isorange": "Manual, from ISO 6/9\u00b0 to ISO 6400/39\u00b0.",
+    "category": "camera",
+    "flashsync": "1/50 second ; slower shutter speeds can be used.",
+    "dimensions": "(W x H x D) 138 mm x 77 mm x 38 mm,/ 5.43\" x 3.03\" x 1.49\"",
+    "selftimer": "No",
+    "format": "Compact 35mm Rangefinder System Camera",
+    "powersourcebattery": "One MS76L 3.0V Lithium Battery (1/3N), or Two MS76 Silver Batteries. (Note; Battery is only necessary for metering and display)",
+    "multiexposure": "No",
+    "focusmodes": "Manual",
+    "lensmount": "14 LEICA M lenses with focal lengths ranging from 21 to 135 mm.",
+    "specialfeatures": "All-metal body with foldable rear panel. Brass top plate and base plate, both chromium plated in silver or in black lacquer finish. Tripod thread 1/4\" in base plate. Displays in the viewfinder (lower edge) LED symbol for battery status. LED light balance wi th two triangular and one central circular LED for manual exposure set ting. Triangular LEDs show the required direction of rotation for compensation with aperture setting ring.",
+    "remotecontrol": "standard mechanical cable release",
+    "pcterminal": "No",
+    "exposuremodes": "Manual setting of shutter speed and aperture, compensation using LED light balance.",
+    "viewfinder": "Large, bright-line viewfinder with automatic parallax compensation of horizontal and vertical according to the focusing setting, 'Framing' Projection of pairs of bright-line frames : For 28 and 90 mm (90 mm frame only in LEICA MP 0.85) or for 35 and 135 mm (35 mm frame only in LEICA MP 0.58) or for 50 and 75mm. Automatic projection with the lens fitted. The desired frame can be projected using the frame preselector.",
+    "exposuremetering": "Through the lens (TTL), selectively with working aperture. Light reflected from a measuring field in the center of the first shutter curtain is measured. The measuring field is equal to approx. 13% of the total negative format."
+}

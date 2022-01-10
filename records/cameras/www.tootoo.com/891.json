@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "code": "Please enter the security code as they are shown in the image right",
+    "from": "Please enter the email. Please enter your correct business Email.",
+    "to": "SALON CAMERA & RADIO CO., LIMITED",
+    "color": "Silver, Brown, Light Blue, Light Pink and Natural Green",
+    "type": "Compact",
+    "opticalzoom": "2x - 7x",
+    "megapixel": "10.0 - 20.0MP",
+    "topic": "Your message's topic must be 1-150 characters in length.",
+    "memorycardtype": "SD Card",
+    "brandname": "Canon",
+    "imagestabilization": "No",
+    "screensize": "2\\' - 3\\'",
+    "message": "Your message must be 20-2000 characters in length. Account Characters:",
+    "specialfeature": "Cheap Camera",
+    "batterytype": "Rechargeable Battery Pack",
+    "modelnumber": "IXUS 105",
+    "videocapture": "Yes"
+}

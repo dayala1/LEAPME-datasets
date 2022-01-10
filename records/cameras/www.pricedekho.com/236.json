@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Daylight, Fluorescent, Overcast, Tungsten",
+    "videodisplayresolution": "640 x 480 pixels (VGA) @ 30 fps",
+    "flashrange": "4.38m - 2.30m",
+    "shootingmodes": "Intelligent Auto, Magic Filter, Program Auto, Scene",
+    "isorating": "Auto / 100/ 200/ 400/ 800/ 1600",
+    "imagestabilizer": "Digital",
+    "redeyereduction": "Yes",
+    "metering": "Digital ESP, Face Detection AE",
+    "pictureangle": "27 mm Wide Angle",
+    "selftimer": "2 sec, 12 sec",
+    "flashmodes": "Auto, Fill-in Flash",
+    "screensize": "2.7 Inches",
+    "builtinflash": "Yes",
+    "imagedisplayresolution": "230000 dots",
+    "facedetection": "Yes"
+}

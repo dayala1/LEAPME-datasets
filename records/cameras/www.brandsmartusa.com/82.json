@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "selftimer": "Yes",
+    "facedetection": "Yes",
+    "weight": "1 lbs 2.0 oz",
+    "panoramamode": "Yes",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "depth": "4.0 in",
+    "opticalzoom": "34x",
+    "height": "3.0 in",
+    "internalmemory": "59 MB",
+    "width": "5.0 in",
+    "digitalzoom": "4x",
+    "removablemediacompatibility": "SDXC Secure Digital (SD) Secure Digital High Capacity (SDHC)",
+    "megapixelsmp": "16.0",
+    "viewfinder": "LCD Only",
+    "lcdscreensize": "3.0\"",
+    "digitalcameratype": "Point & Shoot Long Zoom",
+    "hdmioutput": "HDMI Micro"
+}

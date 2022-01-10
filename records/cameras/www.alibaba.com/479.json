@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "irled": "4PCS ir array LED",
+    "electronicshuttertime": "Auto:PAL 1/50-1/100, 000Sec;NTSC 1/60-1/100, 000Sec",
+    "weight": "2.5kg",
+    "package": "50*39*35mm, 6PCS/CTN",
+    "gammacorrection": "0.45",
+    "tvsystem": "PAL/NTSC",
+    "snratio": "?52dB (AGC OFF)?48dB (AGC OFF)?46dB (AGC OFF)",
+    "dimension": "230(W) x180(H) x115(D)mm",
+    "lens": "8mm/12mm/16mm",
+    "operationtemperature": "-40\u00a0~ +50\u00a0RH95% Max",
+    "powersource": "DC12V 550mA",
+    "scanningsystem": "PAL:625 Lines, 50 Field/Sec;NTSC:525 Lines, 60 Field/Sec",
+    "storagetemperature": "-20\u00a0~ +60\u00a0RH95% Max",
+    "usableillumination": "0.001Lux/F2.00.01Lux/F2.00.001Lux/F2.0",
+    "syncsystem": "Auto",
+    "whitebalance": "Auto",
+    "videoout": "Composite Signal (1.0Vp-p, 75?)"
+}

@@ -1,0 +1,19 @@
+{
+    "motiondetection": "Motion detection distance 5 meters",
+    "category": "camera",
+    "network": "Using Peer to Peer (P2P) technology, no need configuration and no DDNS",
+    "weight": "Gross: 300g with box",
+    "powerconsumption": "< 5W",
+    "minillumination": "0.1 Lux (IR Off), 0 Lux (IR ON)",
+    "alarm": "Motion detection triggering email alert",
+    "ircut": "Built in IR-CUT, no color cast in day, clearer images at night",
+    "storage": "Local storage, support Micro-SD card, 2GB-32GB (class10 card recommended)",
+    "system": "Embedded Linux OS",
+    "lens": "3.6mm , 90 degree viewing angle, 3.0M pixels",
+    "nightvision": "Using 2pcs of 3rd generation LED ARRAY, more longer life 3-5yrs and more brighter Night vision distance about 20 meters",
+    "video": "H.264 Compression Format",
+    "voltage": "Worldwide usage, AC 100-250V",
+    "audio": "ADPCM Format Built-in microphone Could hear sound by Client software",
+    "operationtemp": "From -20 to 50 \u00b0C",
+    "imagesensor": "1/4\" CMOS progressive sensor,1.0M pixels"
+}

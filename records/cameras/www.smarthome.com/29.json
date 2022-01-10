@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p, 75ohms",
+    "sensingarea": "4.9mm x 3.7mm",
+    "lens": "3.6mm",
+    "irdistance": "49.21 feet (15 meters)",
+    "powerconsumption": "Min Req: 500mA / Recommended: 1A",
+    "imagesensor": "1/3\" Color Sony Super HAD CCD",
+    "minimumillumination": "0.0LUX (IR Lamps on)",
+    "snratio": ">48dB",
+    "electronicshutter": "1/60 to 1/100,000 sec",
+    "horizontalresolution": "480 TV Lines",
+    "effectivepixels": "510(H) x 492(V)",
+    "systemrequirements": "397503001017",
+    "irwavelength": "850nm",
+    "supplyvoltage": "12VDC",
+    "signalsystem": "NTSC",
+    "manufacturer": "Atrix, Inc."
+}

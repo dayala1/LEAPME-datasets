@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "NA",
+    "flashrange": "Wide : 0.4 - 8.0m, Telephoto : 2.5 - 4.4m",
+    "focallength": "5 - 90 mm (35 mm Equivalent to 28 - 504 mm)",
+    "builtinflash": "Yes",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "displaytype": "TFT LCD",
+    "lenstype": "Fujinon Lens",
+    "screensize": "3 Inches",
+    "viewfinder": "Electronic View Finder",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "230000 dots",
+    "flashmodes": "Auto, Forced, Slow Sync, Suppressed Flash"
+}

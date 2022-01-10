@@ -1,0 +1,22 @@
+{
+    "weight": "Approx. 232 gm",
+    "battery": "Li-ion NP-50 (included)",
+    "sensitivity": "Auto, ISO 100 / 200 / 400 / 800 / 1600 / 3200 / 6400* (Standard Output Sensitivity)",
+    "effectivepixels": "16.4 million pixels",
+    "imagestabilization": "Optical Image Stabilization (CMOS shift type)",
+    "category": "camera",
+    "dimensions": "116.1mm x 71.4mm x 30.3 mm",
+    "selftimer": "Approx. 10sec. / 2sec. delay, Group Timer",
+    "focusdistance": "Wide",
+    "ports": "USB 2.0 High-Speed, HDMI mini connector",
+    "focallength": "f=5.0mm \u2013 25.0mm, equivalent to 28 \u2013 140mm on a 35mm format",
+    "lens": "Fujinon 5x optical zoom lens",
+    "movieformat": "1920 x 1080pixels (60 fps) / 1280 x 720pixels (60 fps) / 640 x 480pixels (30 fps) with stereo sound",
+    "storagemedia": "SD / SDHC / SDXC (UHS-I) memory card",
+    "shutterspeed": "(Auto mode) 1/4sec. to 1/2000sec., (All other modes) 4sec. to 1/2000sec",
+    "imagesensor": "1/2.3-inch CMOS with primary color filter",
+    "opticalzoom": "5x",
+    "lcdscreensize": "3.0-inch, approx. 920K-dot, TFT color LCD monitor, approx. 100% coverage",
+    "digitalzoom": "2.0x (Up to approx. 10x)",
+    "aperturerange": "F3.9 / F6.2 (Wide), F4.9 / F8.0 (Telephoto)"
+}

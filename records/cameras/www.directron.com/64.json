@@ -1,0 +1,14 @@
+{
+    "ledindicators": "USB, Status, HDD1, HDD2, LAN, and Power",
+    "category": "camera",
+    "dimensions": "6.52(H) x 2.36(W) x 8.60(D) inch",
+    "certification": "CE/ FCC/ BSMI/ VCCI",
+    "powerconsumption": "18W W/R",
+    "operatinghumidity": "0% to 85% (Non-condensing)",
+    "system": "- OS",
+    "powersupply": "External power adapter, 12V, 36W, 100~240V",
+    "compressionformat": "H.264, MPEG-4, M-JPEG",
+    "usb20": "3",
+    "security": "- User accounts",
+    "operatingtemperature": "0 ~ 35\u00b0 C"
+}

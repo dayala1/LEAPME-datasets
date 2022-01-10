@@ -1,0 +1,22 @@
+{
+    "videooutput": "BNC 1.0V p-p 75\u2126",
+    "powerrequirement": "12VDC",
+    "weight": "8.8oz (250g)",
+    "powerconsumption": "290mA",
+    "effectivepixels": "NTSC: 510x492 PAL: 500x582",
+    "category": "camera",
+    "dimensions": "4\" x 2\" x 2.2\" (103 x 52 x 56mm)",
+    "clockfrequency": "NTSC: 16.0699MHz PAL: 18.9375MHz",
+    "electronicshutter": "1/10,000 sec Linear",
+    "autogain": "Switchable",
+    "minimumillumination": "1 lux",
+    "snratio": "46dB",
+    "backlightcompensation": "Switchable",
+    "autoiris": "CD Drive, AES, Video Drive",
+    "lensmount": "C/CS",
+    "manufacturer": "Dynatron USA",
+    "imagesensor": "1/4\" Sony CCD",
+    "resolution": "420 TV Lines",
+    "whitebalance": "Auto Tracking",
+    "gamma": "0.45"
+}

@@ -1,0 +1,23 @@
+{
+    "pictbridge": "Yes",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 24p fps",
+    "audioformats": "Linear PCM",
+    "displaytype": "TFT LCD",
+    "lenstype": "Nikkor Lens",
+    "manualfocus": "Yes",
+    "continuousshots": "Up to 6 fps",
+    "category": "camera",
+    "microphone": "Built-In Monaural Microphone",
+    "facedetection": "Yes",
+    "autofocus": "Yes",
+    "videoformat": "MOV",
+    "flashrange": "12m",
+    "focallength": "18 - 105 mm",
+    "metering": "3D Color Matrix II, Center-Weighted, Color Matrix II, Spot",
+    "imageformat": "JPEG (RAW)",
+    "flashmodes": "Auto, Auto with Red-eye Reduction, Forced On, Slow Sync with Red-eye Reduction, Forced Off",
+    "builtinflash": "Yes",
+    "aperturerange": "f/5.6",
+    "imagedisplayresolution": "921000 dots",
+    "screensize": "3 Inches"
+}

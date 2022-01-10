@@ -1,0 +1,1389 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="walmart.com:walmart.com#"
+     xml:base="walmart.com:walmart.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:walmart="walmart.com:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:walmart2="walmart.com:-">
+    <owl:Ontology rdf:about="walmart.com:walmart.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- walmart.com:Aspect-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Aspect-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aspect Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Assembled-Product-Dimensions-L-x-W-x-H -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Assembled-Product-Dimensions-L-x-W-x-H">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assembled Product Dimensions (L x W x H)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Assembled-Product-Weight -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Assembled-Product-Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assembled Product Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Audio -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Audio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Audio-playback -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Audio-playback">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio playback</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Back-Side-Illumination -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Back-Side-Illumination">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Back Side Illumination</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Band -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Band">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Band</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Battery -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Battery">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Battery-Capacity -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Battery-Capacity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Capacity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Battery-Life -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Battery-Life">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Life</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Battery-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Battery-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Bluetooth -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Bluetooth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Body-Color -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Body-Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Body Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Brand -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Built-in-Memory -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Built-in-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Camera -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Camera-Light-Source -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Camera-Light-Source">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera Light Source</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Cell-Phone-Service-Provider -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Cell-Phone-Service-Provider">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cell Phone Service Provider</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Cellular-Messaging-Services -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Cellular-Messaging-Services">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cellular Messaging Services</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Cellular-Network-Technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Cellular-Network-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cellular Network Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Chip -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Chip">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chip</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Condition -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Condition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Condition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Connector-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Connector-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connector Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Data-Transmission -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Data-Transmission">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Transmission</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Digital-Zoom -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Digital-Zoom">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Zoom</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Dimensions -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Dimensions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dimensions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Display-Color -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Display-Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Display-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Display-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Display-Size -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Display-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Display-Technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Display-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Display-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Display-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Features -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Focus-Adjustment -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Focus-Adjustment">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Focus Adjustment</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Form-Factor -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Form-Factor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Form Factor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Front-Camera-Aperture -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Front-Camera-Aperture">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front Camera Aperture</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Front-Camera-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Front-Camera-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front Camera Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Front-facing -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Front-facing">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front-facing</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:GPS -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:GPS">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Graphics-Accelerator -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Graphics-Accelerator">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graphics Accelerator</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Image-Stabilization -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Image-Stabilization">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image Stabilization</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:In-the-box -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:In-the-box">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In the box</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Infrared -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Infrared">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infrared</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Input-Device -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Input-Device">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Input Device</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Input-and-output -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Input-and-output">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Input and output</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Internal-Memory -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Internal-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Internet-use -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Internet-use">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internet use</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Jelly-Bean -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Jelly-Bean">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jelly Bean</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:LTE-Band -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:LTE-Band">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LTE Band</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Manufacturer -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Manufacturer">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Manufacturer-Part-Number -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Manufacturer-Part-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturer Part Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Manufacturer-Warranty -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Manufacturer-Warranty">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturer Warranty</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:MicroSD-Memory-Slot -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:MicroSD-Memory-Slot">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MicroSD Memory Slot</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Mobile-Broadband-Generation -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Mobile-Broadband-Generation">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Broadband Generation</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Mobile-Operating-System -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Mobile-Operating-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Operating System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Mobile-Services -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Mobile-Services">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Services</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Model -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Model-Name -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Model-Name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Model-No. -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Model-No.">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model No.</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Model-number -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Model-number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:NFC -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:NFC">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Network-Frequency -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Network-Frequency">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Network Frequency</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Number-of-Cores -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Number-of-Cores">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of Cores</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Number-of-Megapixels -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Number-of-Megapixels">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of Megapixels</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Operating-System -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Operating-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Operating-System-Provided -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Operating-System-Provided">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System Provided</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Operating-System-Required -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Operating-System-Required">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System Required</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Personal-Information-Management -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Personal-Information-Management">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Personal Information Management</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Phone-Functions -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Phone-Functions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Phone Functions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Pixel-Density -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Pixel-Density">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pixel Density</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Ports -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ports</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Processor -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Processor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Product-Name -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Product-Name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Product-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Product-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Product-in-Inches-L-x-W-x-H -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Product-in-Inches-L-x-W-x-H">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product in Inches (L x W x H)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Protection -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Protection">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Protection</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:RAM -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:RAM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:RAM-Memory -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:RAM-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAM Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:ROM -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:ROM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ROM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Rear-Camera-Aperture -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Rear-Camera-Aperture">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear Camera Aperture</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Rear-Camera-Flash -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Rear-Camera-Flash">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear Camera Flash</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Rear-Camera-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Rear-Camera-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear Camera Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Rear-HDR -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Rear-HDR">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear HDR</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Rear-facing -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Rear-facing">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear-facing</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Screen-Coating -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Screen-Coating">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Coating</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Screen-Size -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Screen-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Sensor-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Sensor-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensor Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Sensors -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Sensors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Service-Provider -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Service-Provider">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Service Provider</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Shipping-Weight-in-pounds -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Shipping-Weight-in-pounds">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shipping Weight (in pounds)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Size -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Special-Effects -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Special-Effects">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Special Effects</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Standby-time -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Standby-time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standby time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Supported-Digital-Audio-Standards -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Supported-Digital-Audio-Standards">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supported Digital Audio Standards</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Supported-Digital-Video-Standards -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Supported-Digital-Video-Standards">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supported Digital Video Standards</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Supported-Email-Protocols -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Supported-Email-Protocols">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supported Email Protocols</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Supported-Flash-Memory-Cards -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Supported-Flash-Memory-Cards">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supported Flash Memory Cards</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:System-requirements -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:System-requirements">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">System requirements</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Talk-Time -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Talk-Time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Talk Time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Talk-time -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Talk-time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Talk time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Total-Internal-Memory -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Total-Internal-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Total Internal Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Touchscreen -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Touchscreen">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchscreen</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Unlocked -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Unlocked">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unlocked</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:User-Memory -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:User-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">User Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Video-Recorder-Resolutions -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Video-Recorder-Resolutions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Recorder Resolutions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Video-Streaming-Quality -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Video-Streaming-Quality">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Streaming Quality</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Video-playback -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Video-playback">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video playback</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:WLAN -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:WLAN">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WLAN</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Walmart-No. -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Walmart-No.">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Walmart No.</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Wi-Fi -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Wi-Fi">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Wireless-Interface -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Wireless-Interface">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wireless Interface</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Wireless-data -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Wireless-data">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wireless data</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:battery -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:battery">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">battery</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:battery_type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:battery_type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">battery_type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:built-in-memory-with-microSD-slot -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:built-in-memory-with-microSD-slot">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">built-in memory with microSD slot</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:card_slot -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:card_slot">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">card_slot</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:chipset -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:chipset">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chipset</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:computer_operating_system -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:computer_operating_system">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">computer_operating_system</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:display_size -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:display_size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">display_size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:front-facing-camera -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:front-facing-camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">front-facing camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:front_cam_resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:front_cam_resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">front_cam_resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:gps -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:gps">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gps</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:iPhone-5C-4G-LTE-16GB-Smartphone-Display -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:iPhone-5C-4G-LTE-16GB-Smartphone-Display">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 5C 4G LTE 16GB Smartphone Display</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:network_generation -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:network_generation">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">network_generation</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:processor -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:processor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">processor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:rear-facing-camera -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:rear-facing-camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rear-facing camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:rear_cam_resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:rear_cam_resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rear_cam_resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:screen -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:screen">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">screen</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:standby_time -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:standby_time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">standby_time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:tagline -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:tagline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tagline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:usb -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:usb">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">usb</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:-Full-HD-resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:-Full-HD-resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Full HD resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- walmart.com:0 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:0">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.1 </walmart:Shipping-Weight-in-pounds>
+        <walmart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1136-by-640-pixel resolution at 326 ppi</walmart:Resolution>
+        <walmart:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 124.4 mm by 59.2 mm by 8.97 mm</walmart:Dimensions>
+        <walmart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 132 grams</walmart:Weight>
+        <walmart:iPhone-5C-4G-LTE-16GB-Smartphone-Display rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 4-inch (diagonal) Multi-Touch Retina display</walmart:iPhone-5C-4G-LTE-16GB-Smartphone-Display>
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 6.0 x 2.5 x 2.5 </walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 8-megapixel iSight camera for photos and 1080p HD video recording, FaceTime HD camera for video calls</walmart:Camera>
+        <walmart:Wireless-data rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 802.11a/b/g/n Wi-Fi (802.11n</walmart:Wireless-data>
+        <walmart:Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> A6</walmart:Chip>
+        <walmart:System-requirements rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Apple ID (required for some features) Internet access Syncing with iTunes on a Mac or PC requires: Mac: OS X v10.6.8 or later PC: Windows 7; Windows Vista; or Windows XP Home or Professional with Service Pack 3 or later iTunes 11.1 or later.</walmart:System-requirements>
+        <walmart:GPS rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Assisted GPS and GLONASS</walmart:GPS>
+        <walmart:Battery rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Built-in rechargeable lithium-ion batter</walmart:Battery>
+        <walmart:Input-and-output rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Lightning connector, 3.5-mm stereo headphone mini-jack, built-in speaker, built-in microphone, SIM card tray</walmart:Input-and-output>
+        <walmart:Video-playback rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 10 hours</walmart:Video-playback>
+        <walmart:Talk-time rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 10 hours on 3G</walmart:Talk-time>
+        <walmart:Standby-time rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 250 hours</walmart:Standby-time>
+        <walmart:Audio-playback rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 40 hours</walmart:Audio-playback>
+        <walmart:Internet-use rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 8 hours on 3G, up to 10 hours on LTE, up to 10 hours on Wi-Fi</walmart:Internet-use>
+        <walmart:In-the-box rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> iPhone 5c, Apple EarPods with Remote and Mic, Lightning to USB Cable, USB Power Adapter, Documentation</walmart:In-the-box>
+        <walmart:Assembled-Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.1</walmart:Assembled-Product-Weight>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pink</walmart:Color>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:1 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:1">
+        <walmart:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">	0.31&quot;L x 2.75&quot;W x 5.38&quot;H</walmart:Size>
+        <walmart:Mobile-Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">	Android</walmart:Mobile-Operating-System>
+        <walmart:Connector-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 x MicroUSB</walmart:Connector-Type>
+        <walmart:processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.9GHz quad-core</walmart:processor>
+        <walmart:Number-of-Megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 Megapixel</walmart:Number-of-Megapixels>
+        <walmart:rear-facing-camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13MP</walmart:rear-facing-camera>
+        <walmart:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16GB</walmart:ROM>
+        <walmart:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17 hours</walmart:Talk-Time>
+        <walmart:Video-Streaming-Quality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920 x 1080</walmart:Video-Streaming-Quality>
+        <walmart:front-facing-camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.0MP</walmart:front-facing-camera>
+        <walmart:battery rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2600mAH lithium-ion</walmart:battery>
+        <walmart:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2GB</walmart:RAM>
+        <walmart:Battery-Life rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 hours</walmart:Battery-Life>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5&quot;</walmart:Screen-Size>
+        <walmart:Assembled-Product-Dimensions-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.38 x 2.75 x 0.31 IN</walmart:Assembled-Product-Dimensions-L-x-W-x-H>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, Air Gestures, Air View, barometer, geomagnetic, gyro, proximity</walmart:tagline>
+        <walmart:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</walmart:Operating-System>
+        <walmart:Jelly-Bean rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 4.3</walmart:Jelly-Bean>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth ,  Wi-fi Ready ,  GPS ,  Camera ,  Full Web Browsers ,  Music Player</walmart:Features>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Email, picture messaging, text messaging, video messaging</walmart:tagline>
+        <walmart:gps rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS navigation</walmart:gps>
+        <walmart:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium Ion</walmart:Battery-Type>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Play music</walmart:tagline>
+        <walmart:Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</walmart:Manufacturer>
+        <walmart:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung Galaxy S4 ,  Samsung GS4</walmart:Model>
+        <walmart:Manufacturer-Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VZW-SCHI545KPP</walmart:Manufacturer-Part-Number>
+        <walmart:Cell-Phone-Service-Provider rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verizon</walmart:Cell-Phone-Service-Provider>
+        <walmart:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verizon Wireless</walmart:Brand>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voice recognition</walmart:tagline>
+        <walmart:Talk-time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">up to 17 hours</walmart:Talk-time>
+        <walmart:Standby-time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">up to 300 hours</walmart:Standby-time>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:2 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:2">
+        <walmart:screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 5&quot; Super AMOLED</walmart:screen>
+        <walmart:Connector-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 x Headphones</walmart:Connector-Type>
+        <walmart:processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.9GHz quad-core</walmart:processor>
+        <walmart:Number-of-Megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 Megapixel</walmart:Number-of-Megapixels>
+        <walmart:Rear-facing rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13MP</walmart:Rear-facing>
+        <walmart:built-in-memory-with-microSD-slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16GB</walmart:built-in-memory-with-microSD-slot>
+        <walmart2:Full-HD-resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920 x 1080</walmart2:Full-HD-resolution>
+        <walmart:Video-Streaming-Quality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920 x 1080</walmart:Video-Streaming-Quality>
+        <walmart:Front-facing rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2MP</walmart:Front-facing>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE</walmart:tagline>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5&quot;</walmart:Screen-Size>
+        <walmart:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.5&quot;L x 3.94&quot;W x 2.13&quot;H</walmart:Size>
+        <walmart:Assembled-Product-Dimensions-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.50 x 3.94 x 2.13 IN</walmart:Assembled-Product-Dimensions-L-x-W-x-H>
+        <walmart:Manufacturer-Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">610214635082</walmart:Manufacturer-Part-Number>
+        <walmart:Mobile-Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</walmart:Mobile-Operating-System>
+        <walmart:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</walmart:Operating-System>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth ,  Wi-fi Ready ,  GPS ,  Camera ,  Full Web Browsers ,  Music Player</walmart:Features>
+        <walmart:Model-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Galaxy S4</walmart:Model-Name>
+        <walmart:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium Ion</walmart:Battery-Type>
+        <walmart:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New</walmart:Condition>
+        <walmart:Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung</walmart:Manufacturer>
+        <walmart:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung Galaxy S4 ,  610214635082</walmart:Model>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smartphone mobile hotspot ready</walmart:tagline>
+        <walmart:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T-Mobile</walmart:Brand>
+        <walmart:Cell-Phone-Service-Provider rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T-Mobile</walmart:Cell-Phone-Service-Provider>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">T-Mobile prepaid smartphone supports Bluetooth connectivity</walmart:tagline>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WiFi calling capability</walmart:tagline>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:3 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:3">
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 	6.0 x 2.5 x 2.5 </walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.1 </walmart:Shipping-Weight-in-pounds>
+        <walmart:Assembled-Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.1 </walmart:Assembled-Product-Weight>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gray</walmart:Color>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:4 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:4">
+        <walmart:Manufacturer-Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1 Year Parts and Labor</walmart:Manufacturer-Warranty>
+        <walmart:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1 x USB - Micro</walmart:Ports>
+        <walmart:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16 Million</walmart:Display-Color>
+        <walmart:Rear-Camera-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16.0 Megapixels - Photo: 5312 x 2988/Video: 4096 x 2160p</walmart:Rear-Camera-Resolution>
+        <walmart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16:9</walmart:Aspect-Ratio>
+        <walmart:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2560 x 1440</walmart:Display-Resolution>
+        <walmart:RAM-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3 GB</walmart:RAM-Memory>
+        <walmart:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3.0 x 5.9 x 0.4 inches</walmart:Dimensions>
+        <walmart:Battery-Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3000 mAh</walmart:Battery-Capacity>
+        <walmart:Total-Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 32 GB</walmart:Total-Internal-Memory>
+        <walmart:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 5.5 inches</walmart:Display-Size>
+        <walmart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 5.5 oz</walmart:Weight>
+        <walmart:Pixel-Density rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 538 ppi</walmart:Pixel-Density>
+        <walmart:Front-Camera-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 8.0 Megapixels/Video: 1080p</walmart:Front-Camera-Resolution>
+        <walmart:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Ambient Light, Gyroscope, Proximity, Accelerometer</walmart:Sensors>
+        <walmart:Operating-System-Required rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Android 5.1 (Lollipop)</walmart:Operating-System-Required>
+        <walmart:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Bluetooth 4.1 + LE</walmart:Bluetooth>
+        <walmart:Data-Transmission rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> EVDO, EVDO Rev.A, 1xRTT, LTE</walmart:Data-Transmission>
+        <walmart:Rear-Camera-Aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> F/1.8</walmart:Rear-Camera-Aperture>
+        <walmart:Front-Camera-Aperture rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> F/2.0</walmart:Front-Camera-Aperture>
+        <walmart:Network-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> GSM 850/900/1800/1900 MHz</walmart:Network-Frequency>
+        <walmart:Screen-Coating rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Gorilla Glass 3</walmart:Screen-Coating>
+        <walmart:Display-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> IPS LCD</walmart:Display-Technology>
+        <walmart:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Integrated Speaker, 1 x Integrated Microphone, 1 x 1/8-inch (3.5 mm) Headphone</walmart:Audio>
+        <walmart:Product-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LG Electronics G4 US991 Smartphone</walmart:Product-Name>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Leather Black</walmart:Color>
+        <walmart:Image-Stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Optical</walmart:Image-Stabilization>
+        <walmart:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Qualcomm Snapdragon 808 with (integrated) 1.8 GHz 64-bit Hexa-Core</walmart:Processor>
+        <walmart:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Smartphone</walmart:Product-Type>
+        <walmart:MicroSD-Memory-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Supports Card Up to 2 TB</walmart:MicroSD-Memory-Slot>
+        <walmart:Model-number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> US991</walmart:Model-number>
+        <walmart:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 18.5 hours</walmart:Talk-Time>
+        <walmart:Infrared rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Infrared>
+        <walmart:GPS rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:GPS>
+        <walmart:Back-Side-Illumination rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Back-Side-Illumination>
+        <walmart:Rear-Camera-Flash rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Rear-Camera-Flash>
+        <walmart:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:NFC>
+        <walmart:Unlocked rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Unlocked>
+        <walmart:Rear-HDR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Rear-HDR>
+        <walmart:Touchscreen rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Touchscreen>
+        <walmart:Wi-Fi rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes, 802.11 a/b/g/n/ac</walmart:Wi-Fi>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:5 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:5">
+        <walmart:Video-Recorder-Resolutions rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1080p</walmart:Video-Recorder-Resolutions>
+        <walmart:Sensor-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 13 Megapixels</walmart:Sensor-Resolution>
+        <walmart:User-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16 GB</walmart:User-Memory>
+        <walmart:Built-in-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16 GB</walmart:Built-in-Memory>
+        <walmart:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2 GB</walmart:RAM>
+        <walmart:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2.7 x 5.4 x 0.3 inches</walmart:Dimensions>
+        <walmart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 4.6 oz</walmart:Weight>
+        <walmart:Mobile-Broadband-Generation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 4G</walmart:Mobile-Broadband-Generation>
+        <walmart:Digital-Zoom rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 4x</walmart:Digital-Zoom>
+        <walmart:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 5.0-inch Full HD Super AMOLED Display</walmart:Display-Type>
+        <walmart:Service-Provider rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> ATT</walmart:Service-Provider>
+        <walmart:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Accelerometer, ambient light sensor, proximity sensor, barometer, magnetometer, thermometer, gyro sensor, humidity, gesture</walmart:Sensors>
+        <walmart:Operating-System-Provided rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Android 4.2.2 (Jelly Bean)</walmart:Operating-System-Provided>
+        <walmart:Focus-Adjustment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Automatic</walmart:Focus-Adjustment>
+        <walmart:Personal-Information-Management rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Calendar, synchronization with PC, calculator, reminder, alarm clock</walmart:Personal-Information-Management>
+        <walmart:Special-Effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Cinema, HDR</walmart:Special-Effects>
+        <walmart:Data-Transmission rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> GPRS, EDGE, HSDPA, HSUPA, HSPA+, LTE</walmart:Data-Transmission>
+        <walmart:Protection rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Gorilla Glass 3 (scratch resistant glass)</walmart:Protection>
+        <walmart:Connector-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Headset jack - mini-phone 3.5 mm Micro-USB</walmart:Connector-Type>
+        <walmart:Camera-Light-Source rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LED light</walmart:Camera-Light-Source>
+        <walmart:LTE-Band rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LTE Band 4, LTE Band 17</walmart:LTE-Band>
+        <walmart:Battery rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Lithium ion</walmart:Battery>
+        <walmart:Cellular-Messaging-Services rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> MMS, SMS</walmart:Cellular-Messaging-Services>
+        <walmart:Body-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Mist black</walmart:Body-Color>
+        <walmart:Input-Device rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Multi-touch</walmart:Input-Device>
+        <walmart:Wireless-Interface rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> NFC, Bluetooth 4.0, IEEE 802.11a/ac/b/g/n</walmart:Wireless-Interface>
+        <walmart:Supported-Email-Protocols rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> POP3, IMAP4</walmart:Supported-Email-Protocols>
+        <walmart:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> QUALCOMM Snapdragon 600 1.9 GHz</walmart:Processor>
+        <walmart:Number-of-Cores rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Quad-Core</walmart:Number-of-Cores>
+        <walmart:Graphics-Accelerator rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Qualcomm ADRENO 320</walmart:Graphics-Accelerator>
+        <walmart:Model-number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> SGH-I337</walmart:Model-number>
+        <walmart:Product-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Samsung Galaxy S4 SGH-I337 Smartphone</walmart:Product-Name>
+        <walmart:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Smartphone</walmart:Product-Type>
+        <walmart:Phone-Functions rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Speakerphone, voice control, call timer, conference call, flight mode, voice dialing, vibrating alert</walmart:Phone-Functions>
+        <walmart:Form-Factor rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Touch</walmart:Form-Factor>
+        <walmart:Supported-Digital-Video-Standards rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> VC-1, MPEG-4, WMV, DivX, H.264, H.263, HEVC</walmart:Supported-Digital-Video-Standards>
+        <walmart:Mobile-Services rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Video Call, Google Play, YouTube, Samsung Apps, Google Search, Gmail, YPmobile, AT&amp;T Hot Spots, AT&amp;T Address Book, myAT&amp;T, Google Search by Voice, Google Latitude, Yahoo! Mail, Samsung ChatON, AT&amp;T U-verse Live TV, AT&amp;T Locker, Samsung Hub</walmart:Mobile-Services>
+        <walmart:Supported-Digital-Audio-Standards rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> WAV, WMA, AAC, Ogg Vorbis, Real Audio, AMR, MP3, FLAC, AC-3, AAC +, OGG, eAAC+, MIDI, apt-X</walmart:Supported-Digital-Audio-Standards>
+        <walmart:Band rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> WCDMA (UMTS)/GSM 850, 900, 1800, 1900</walmart:Band>
+        <walmart:Supported-Flash-Memory-Cards rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> microSDHC - up to 64 GB</walmart:Supported-Flash-Memory-Cards>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:7 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:7">
+        <walmart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440 pixels</walmart:Resolution>
+        <walmart:battery_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3,000mAh lithium-ion</walmart:battery_type>
+        <walmart:network_generation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G LTE network</walmart:network_generation>
+        <walmart:display_size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.5&quot; Quad HD IPS display</walmart:display_size>
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.86 x 3.0 x 0.38</walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Walmart-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">554105824</walmart:Walmart-No.>
+        <walmart:Model-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6782A</walmart:Model-No.>
+        <walmart:front_cam_resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8 megapixel camera</walmart:front_cam_resolution>
+        <walmart:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.1 (Lollipop) OS</walmart:computer_operating_system>
+        <walmart:chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm Snapdragon 808 (MSM8992) hexa-core processor</walmart:chipset>
+        <walmart:rear_cam_resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rear 16 megapixel camera</walmart:rear_cam_resolution>
+        <walmart:WLAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WiFi 802.11 a/b/g/n/ac</walmart:WLAN>
+        <walmart:usb rdf:datatype="http://www.w3.org/2001/XMLSchema#string">micro USB 2.0 port</walmart:usb>
+        <walmart:card_slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microSD slot</walmart:card_slot>
+        <walmart:standby_time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">up to 16.5 days</walmart:standby_time>
+        <walmart:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">up to 21 h</walmart:Talk-Time>
+        <walmart:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">up to 32GB</walmart:Internal-Memory>
+        <walmart:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v4.1</walmart:Bluetooth>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:8 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:8">
+        <walmart:Connector-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 x MicroUSB 2.0</walmart:Connector-Type>
+        <walmart:Number-of-Megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixel</walmart:Number-of-Megapixels>
+        <walmart:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 hours</walmart:Talk-Time>
+        <walmart:Assembled-Product-Dimensions-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.00 x 6.00 x 9.00 IN</walmart:Assembled-Product-Dimensions-L-x-W-x-H>
+        <walmart:Battery-Life rdf:datatype="http://www.w3.org/2001/XMLSchema#string">440 hours</walmart:Battery-Life>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.5&quot;</walmart:Screen-Size>
+        <walmart:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</walmart:Operating-System>
+        <walmart:Mobile-Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</walmart:Mobile-Operating-System>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</walmart:Color>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth ,  Wi-fi Ready ,  Tri Band ,  Dual Band ,  GPS ,  Camera ,  Full Web Browsers ,  Music Player</walmart:Features>
+        <walmart:Cellular-Network-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM</walmart:Cellular-Network-Technology>
+        <walmart:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H815 32GB BLK</walmart:Model>
+        <walmart:Manufacturer-Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H815 32GB BLK</walmart:Manufacturer-Part-Number>
+        <walmart:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</walmart:Brand>
+        <walmart:Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</walmart:Manufacturer>
+        <walmart:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium Ion</walmart:Battery-Type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:9 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:9">
+        <walmart:Connector-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">	1 x MicroUSB 2.0</walmart:Connector-Type>
+        <walmart:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">	20 Hours</walmart:Talk-Time>
+        <walmart:Number-of-Megapixels rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixel</walmart:Number-of-Megapixels>
+        <walmart:Assembled-Product-Dimensions-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.00 x 6.00 x 9.00 IN</walmart:Assembled-Product-Dimensions-L-x-W-x-H>
+        <walmart:Battery-Life rdf:datatype="http://www.w3.org/2001/XMLSchema#string">440 hours</walmart:Battery-Life>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.5&quot;</walmart:Screen-Size>
+        <walmart:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.86&quot;L x 2.99&quot;W x 0.24&quot;H</walmart:Size>
+        <walmart:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</walmart:Operating-System>
+        <walmart:Mobile-Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</walmart:Mobile-Operating-System>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</walmart:Color>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth ,  Wi-fi Ready ,  Dual Band ,  GPS ,  Camera ,  Full Web Browsers ,  Music Player</walmart:Features>
+        <walmart:Cellular-Network-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM</walmart:Cellular-Network-Technology>
+        <walmart:Manufacturer-Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H815 32GB BLK LEATHER</walmart:Manufacturer-Part-Number>
+        <walmart:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H815 32GB BLK LEATHER</walmart:Model>
+        <walmart:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</walmart:Brand>
+        <walmart:Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG</walmart:Manufacturer>
+        <walmart:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium Ion</walmart:Battery-Type>
+        <walmart:Cell-Phone-Service-Provider rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unlocked</walmart:Cell-Phone-Service-Provider>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

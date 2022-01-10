@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "code": "Please enter the security code as they are shown in the image right",
+    "from": "Please enter the email. Please enter your correct business Email.",
+    "supplyability": "200 Unit/Units per Day",
+    "topic": "Your message's topic must be 1-150 characters in length.",
+    "to": "Wanghui Camera Store",
+    "paymentterms": "L/C,D/A,D/P,T/T,Western Union,MoneyGram",
+    "minimumorderquantity": "1 Unit/Units",
+    "message": "Your message must be 20-2000 characters in length. Account Characters:"
+}

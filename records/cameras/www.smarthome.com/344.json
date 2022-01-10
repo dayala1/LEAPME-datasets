@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p Composite output, 75O",
+    "iprating": "IP65",
+    "pictureelements": "768x494",
+    "weight": "15-oz (430g)",
+    "gammacorrection": "0.45",
+    "chip": "Color",
+    "snratio": ">48dB",
+    "powersupply": "12VDC1\u00b00%",
+    "lens": "2.3mm",
+    "viewingangle": "160\u00b0",
+    "gaincontrol": "Auto",
+    "scanningsystem": "2",
+    "dimensionslxwxh": "71/2\"x51/2x121/32\" (190x140x42.3 mm)",
+    "minimumillumination": "0.1-Lux (F/1.4)",
+    "videooutputformat": "NTSC"
+}

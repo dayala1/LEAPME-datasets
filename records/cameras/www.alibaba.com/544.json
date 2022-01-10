@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "camerapowersupply": "DC\u00a012V",
+    "waterprooflevel": "IP68",
+    "storagemedium": "SD\u00a0card\u00a0(max32G)",
+    "movieformat": "AVI",
+    "monitorsize": "7 inch TFT\u00a0color\u00a0monitor",
+    "output": "DC\u00a012V/1000MA",
+    "battery": "12V\u00a04000MAH\u00a0rechargeable\u00a0li-ion\u00a0battery(18650)",
+    "casematerial": "Fire\u00a0board + aluminum\u00a0alloy",
+    "sensorsize": "1/4\u00a0inch",
+    "camerahousingmaterial": "Stainless\u00a0steel",
+    "osdlanguage": "English",
+    "totalpixels": "720*567(D1)",
+    "input": "AC100-240V~50/60Hz",
+    "camerasize": "\u03a623mm*141mm",
+    "illumination": "12 PCS\u00a0white\u00a0LEDS",
+    "pixels": "1440*234",
+    "operatingtemperature": "-10\u00b0C to\u00a0+50\u00b0C"
+}

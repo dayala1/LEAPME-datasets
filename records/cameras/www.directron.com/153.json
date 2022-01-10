@@ -1,0 +1,15 @@
+{
+    "ledindicators": "- USB, Status, HDD1, HDD2, LAN, Power",
+    "formfactor": "- Portable",
+    "lanport": "- 1 x Gigabit RJ-45 Ethernet port",
+    "dimensions": "- 165.5 (H) x 85 (W) x 218.4 (D) mm - 6.52 (H) x 3.35 (W) x 8.60(D) inch",
+    "powerconsumptionw": "- In operation",
+    "powersupply": "- External power adaptor, 60W, Input",
+    "buttons": "- System",
+    "hdd": "- 2 x 3.5\" SATA I/II hard disk drive (HDD) NOTE",
+    "fan": "- 1 x quiet cooling fan (6cm, 12V DC)",
+    "category": "camera",
+    "flashmemory": "- 16MB",
+    "cpu": "- Marvell 6281 1.2GHz",
+    "usb": "- 3 x USB 2.0 port (front"
+}

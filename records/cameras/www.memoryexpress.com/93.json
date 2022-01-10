@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "1.0V peak to peak @ 75 Ohms",
+    "temperature": "Working: -10 ~ 50\u00b0 C (14 ~ 122\u00b0 F) Storage: -20 ~ 70\u00b0 C (-4 ~ 158\u00b0 F)",
+    "weight": "315g (11.0 oz)",
+    "minimumillumination": "0 Lux w/ IR LEDs",
+    "snratio": "More than 52db (AGC Off)",
+    "imagingsensor": "8.5mm (1/3\") Color CCD image sensor",
+    "lens": "4.3mm Fixed Lens",
+    "effectivevideoresolution": "768 x 494 pixels,      480 TVL",
+    "viewangle": "58\u00b0",
+    "electronicshutter": "NTSC: 1/60 ~ 1/120,000 second PAL: 1/50 ~ 1/120,000 second",
+    "irledillumination": "Works up to 25m (82 feet)",
+    "dimension": "113 x 113 x 85mm (4.4 x 4.4 x 3.3\")",
+    "backlight": "Auto Backlight Compensation"
+}

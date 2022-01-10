@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "temperature": "Shooting Conditions",
+    "color": "Black",
+    "videoresolution": "1080p",
+    "specification": "Value",
+    "opticalzoom": "0",
+    "liveviewshootingat32f0c": "approx. 220approx. 210",
+    "at32f0c": "approx. 900approx. 750",
+    "at73f23c": "approx. 1000approx. 800",
+    "screensize": "3.0",
+    "liveviewshootingat73f23c": "approx. 230approx. 220",
+    "storagemedia": "Compact Flash",
+    "type": "Digital SLR",
+    "ae100": "AE 50%, FA 50%",
+    "features": "Face Detection"
+}

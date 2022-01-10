@@ -1,0 +1,23 @@
+{
+    "pictbridge": "Yes",
+    "videodisplayresolution": "1280 x 720 pixels (HD) @ 30 fps",
+    "metering": "NA",
+    "displaytype": "TFT LCD",
+    "lenstype": "Lumix DC Vario",
+    "continuousshots": "Up to 1.5 fps",
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Daylight, Incandescent, Shade, White Set",
+    "facedetection": "NA",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "flashrange": "(I.ISO) : Wide : 0.4 - 3.3m, Telephoto : 1.0 - 1.6m",
+    "focallength": "5 - 20 mm (35 mm Equivalent to 28 - 112 mm)",
+    "isorating": "100 / 200 / 400 / 800 / 1600, High Sensitivity Mode (ISO 1600-6400)",
+    "microphone": "Monaural Microphone",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "screensize": "2.7 Inches",
+    "builtinflash": "Yes",
+    "shootingmodes": "Intelligent Auto, Motion Picture, Normal Picture, SCN",
+    "flashmodes": "Auto, Forced, Slow Sync Flash",
+    "imagedisplayresolution": "230000 dots"
+}

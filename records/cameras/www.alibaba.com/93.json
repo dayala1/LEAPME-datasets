@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "ircut": "Test for intergrated photosensitive resistance and LED control circuit,intergrated IR-CUT drive,support Sensor+IR-CUT+photosensitization+ganged control by LED fill-in light,support passive mode control IR-CUT,support conversion between day and night,support controlling IR-CUT regularly,support full-color mode.",
+    "powerconsumption": "About 2W , 4W MAX",
+    "imagesensor": "Embedded RTOS design, dicaryon \u00a032-bit DSP(hi3518),pure hard decoding,it is like a house dog,16M FLASH,128M DDR3.",
+    "powersupply": "Input DC12V,POE power supply available",
+    "lens": "3MP high-definition len,4mm Focus(optional 6mm/8mm)",
+    "video": "Advanced automatic exposure,with the white balance algorithm,support 3D noise reduction,Digital wide dynamic, video code H.264, support mobile detection,support dual stream and JPEG photo format,support adjustable stream of 0.1M~6Mpbs, Support video superposition time and title watermark,support multual-line titles. 30 frams(CIF) for 1.3 million pixels,support adjustable 1-30 fram/second. Thw main stream--960P(1280*960),720P(1280*720) Subsidiary stream--D1/VGA/640*360/480*360/CIF/QVGA,etc."
+}

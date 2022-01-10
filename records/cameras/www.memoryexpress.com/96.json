@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "electronicshutter": "1/6 ~ 1/8,000 second",
+    "weight": "Camera Only: 111g (3.9 oz)",
+    "power": "Input: 4.9\u20135.1 Vdc @ 1.3A maximum, 6.5W",
+    "minimumillumination": "1.2 Lux",
+    "framerate": "30fps in all resolutions and image formats",
+    "imagingsensor": "6.35mm progressive scan RGB CMOS Sensor",
+    "lens": "2.8mm F2.0 Lens w/ fixed iris and adjustable focus",
+    "viewangle": "80\u00b0",
+    "irledillumination": "N/A",
+    "humidity": "Working: 20 ~ 80% RH, non-condensing",
+    "resolution": "Native Resolution: 1280 x 800 Software adjustable from 1280 x 800 to 320 x 240",
+    "lightsensitivity": "1.2 ~ 100,000 Lux",
+    "temperature": "Working: 0 ~ 40\u00b0 C (32 ~ 104\u00b0 F)"
+}

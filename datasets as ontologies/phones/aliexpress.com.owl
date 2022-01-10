@@ -1,0 +1,1371 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="aliexpress.com:aliexpress.com#"
+     xml:base="aliexpress.com:aliexpress.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:aliexpress="aliexpress.com:"
+     xmlns:aliexpress2="aliexpress.com:2"
+     xmlns:aliexpress3="aliexpress.com:3"
+     xmlns:aliexpress4="aliexpress.com:3.5"
+     xmlns:aliexpress5="aliexpress.com:4">
+    <owl:Ontology rdf:about="aliexpress.com:aliexpress.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- aliexpress.com:Alert-types -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Alert-types">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alert types</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Announced -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Announced">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Announced</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Apple-Model -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Apple-Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Audio -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Audio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:BOX -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:BOX">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOX</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Back -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Back">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Back</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Back-Camera -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Back-Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Back Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Band -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Band">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Band</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Band-Mode -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Band-Mode">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Band Mode</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Battery -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Battery">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Battery-Capacity -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Battery-Capacity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Capacity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Battery-CapacitymAh -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Battery-CapacitymAh">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Capacity(mAh)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Battery-Type -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Battery-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Bluetooth -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Bluetooth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Box -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Box">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Box</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Brand-Name -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Brand-Name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Browser -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Browser">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Browser</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:CPU -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:CPU">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CPU</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:CPU-Manufacturer -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:CPU-Manufacturer">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CPU Manufacturer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Camera -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Camera-Quantity -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Camera-Quantity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera Quantity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Camera-Type -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Camera-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Capacity -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Capacity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Card-slot -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Card-slot">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Card slot</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Cellular -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Cellular">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cellular</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Chipset -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Chipset">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chipset</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Colors -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Colors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Design -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Design">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Desing -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Desing">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desing</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Dimensions -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Dimensions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dimensions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Display-Color -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Display-Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Display-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Display-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Display-Size -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Display-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:EDGE -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:EDGE">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EDGE</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:External-Memory -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:External-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">External Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Feature -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Feature">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Feature</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Features -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Front -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Front">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Front-Camera -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Front-Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:GPRS -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:GPRS">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPRS</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:GPS -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:GPS">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:GPU -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:GPU">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPU</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Google-Play -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Google-Play">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Google Play</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:HTC-Model -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:HTC-Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTC Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Infrared-port -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Infrared-port">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infrared port</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Internal -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Internal">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Item-Condition -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Item-Condition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Item Condition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Java -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Java">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Java</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Language -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Language">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Language</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Loudspeaker -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Loudspeaker">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loudspeaker</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Messaging -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Messaging">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Messaging</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Model -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Multitouch -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Multitouch">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multitouch</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:NFC -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:NFC">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:OS -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:OS">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OS</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Operation-System -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Operation-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operation System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Package-Contents -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Package-Contents">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Package Contents</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Picture -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Picture">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Picture</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Ports -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ports</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Primary -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Primary">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Primary</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Protection -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Protection">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Protection</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:RAM -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:RAM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:ROM -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:ROM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ROM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Radio -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Radio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Radio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Recording-Definition -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Recording-Definition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recording Definition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Release-Date -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Release-Date">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Release Date</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Resolution -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:SIM -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:SIM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:SIM-Card-Quantity -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:SIM-Card-Quantity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM Card Quantity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:SIM-Quantity -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:SIM-Quantity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM Quantity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:SYSTEM -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:SYSTEM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SYSTEM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Screen-LCD-Type -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Screen-LCD-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen LCD Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Screen-Size -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Screen-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Screen-Type -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Screen-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Secondary -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Secondary">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Secondary</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Sensor -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Sensor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Sensors -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Sensors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Size -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Speed -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Speed">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speed</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Status -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Status">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Status</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Support-Languages -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Support-Languages">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Support Languages</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Talk-Time -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Talk-Time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Talk Time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Technology -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Thickness -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Thickness">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thickness</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Touch-Screen-Type -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Touch-Screen-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touch Screen Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Type -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:USB -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:USB">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Unlock-Phones -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Unlock-Phones">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unlock Phones</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Video -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Video">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:WIFI -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:WIFI">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WIFI</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:WLAN -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:WLAN">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WLAN</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Warranty -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Warranty">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Warranty</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:additional_features -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:additional_features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">additional_features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:is_customized -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:is_customized">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">is_customized</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:model -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:tagline -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:tagline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tagline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:weight -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:2G -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:2G">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2G</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:2G-Network -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:2G-Network">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2G Network</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:3G -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:3G">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3G</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:3G-Network -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:3G-Network">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3G Network</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:3.5mm-jack -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:3.5mm-jack">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm jack</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:4G-Network -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:4G-Network">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G Network</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- aliexpress.com:0 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:0">
+        <aliexpress2:G rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> GSM 850 / 900 / 1800 / 1900 - all versions</aliexpress2:G>
+        <aliexpress:Brand-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> HTC</aliexpress:Brand-Name>
+        <aliexpress:Recording-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080P</aliexpress:Recording-Definition>
+        <aliexpress:Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p</aliexpress:Video>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">144.6 x 69.7 x 9.6 mm</aliexpress:Size>
+        <aliexpress:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x108</aliexpress:Display-Resolution>
+        <aliexpress:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080px</aliexpress:Resolution>
+        <aliexpress:Band-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1SIM/Multi-Bands</aliexpress:Band-Mode>
+        <aliexpress:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.0MP</aliexpress:Camera>
+        <aliexpress:Back rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.0MP</aliexpress:Back>
+        <aliexpress:Release-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</aliexpress:Release-Date>
+        <aliexpress:Battery-CapacitymAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2840mAh</aliexpress:Battery-CapacitymAh>
+        <aliexpress:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300m</aliexpress:Talk-Time>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32G</aliexpress:ROM>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</aliexpress:ROM>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3G</aliexpress:RAM>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB</aliexpress:RAM>
+        <aliexpress:Front rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.0MP</aliexpress:Front>
+        <aliexpress:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0</aliexpress:Display-Size>
+        <aliexpress:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0inch</aliexpress:Screen-Size>
+        <aliexpress:Operation-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</aliexpress:Operation-System>
+        <aliexpress:SYSTEM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.0 OS</aliexpress:SYSTEM>
+        <aliexpress:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android OS 5.0</aliexpress:OS>
+        <aliexpress:Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar</aliexpress:Design>
+        <aliexpress:Touch-Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive Screen</aliexpress:Touch-Screen-Type>
+        <aliexpress:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</aliexpress:Display-Color>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:English,if you need others,please leave messages on your order</aliexpress:Language>
+        <aliexpress:BOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:OEM,if need original box,please leave messages on your orde</aliexpress:BOX>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English,Russian,German,French,Spanish,Polish,Portuguese,Italian,Turkish,Norwegian,Multi-Language</aliexpress:Language>
+        <aliexpress:Camera-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front &amp; Back Camera</aliexpress:Camera-Type>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,Email,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Video Player,Gravity Response,Front Camera,Message,HD Video Player,GPRS</aliexpress:Feature>
+        <aliexpress:Cellular rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM/WCDMA</aliexpress:Cellular>
+        <aliexpress:model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTC ONE M</aliexpress:model>
+        <aliexpress:HTC-Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M9</aliexpress:HTC-Model>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Detachable</aliexpress:Battery-Type>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa Core</aliexpress:CPU>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-Core , Qualcomm MSM8994 Snapdragon 810</aliexpress:CPU>
+        <aliexpress:CPU-Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm</aliexpress:CPU-Manufacturer>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm MSM8994 Snapdragon 810</aliexpress:CPU>
+        <aliexpress:Item-Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refurbished</aliexpress:Item-Condition>
+        <aliexpress:SIM-Card-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM Card</aliexpress:SIM-Card-Quantity>
+        <aliexpress:Thickness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slim(9mm-10mm)</aliexpress:Thickness>
+        <aliexpress3:G rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WCDMA 850/900/1900/2100MHz</aliexpress3:G>
+        <aliexpress:Google-Play rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Google-Play>
+        <aliexpress:Unlock-Phones rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Unlock-Phones>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:is_customized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:1 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:1">
+        <aliexpress:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">- HTC Sense UI 7.0</aliexpress:tagline>
+        <aliexpress:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</aliexpress:Warranty>
+        <aliexpress:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080 x 1920 pixels (~441 ppi pixel density)</aliexpress:Resolution>
+        <aliexpress:Recording-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080P</aliexpress:Recording-Definition>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">144.6 x 69.7 x 9.6 mm</aliexpress:Size>
+        <aliexpress:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">144.6 x 69.7 x 9.6 mm (5.69 x 2.74 x 0.38 in)</aliexpress:Dimensions>
+        <aliexpress:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">157 g (5.54 oz)</aliexpress:Weight>
+        <aliexpress:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080</aliexpress:Display-Resolution>
+        <aliexpress:Band-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1SIM/Dual-Bands</aliexpress:Band-Mode>
+        <aliexpress:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.0MP</aliexpress:Camera>
+        <aliexpress:Primary rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.7 MP, 5376 x 3752 pixels, autofocus, dual-LED (dual tone) flash, check quality</aliexpress:Primary>
+        <aliexpress:Release-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</aliexpress:Release-Date>
+        <aliexpress:Announced rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015, March</aliexpress:Announced>
+        <aliexpress:Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p@30fps, 1080p@60fps, 720p@120fps, HDR, stereo sound rec., check quality</aliexpress:Video>
+        <aliexpress:Battery-CapacitymAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2840mAh</aliexpress:Battery-CapacitymAh>
+        <aliexpress:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300M</aliexpress:Talk-Time>
+        <aliexpress:Internal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32 GB, 3 GB RAM</aliexpress:Internal>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32G</aliexpress:ROM>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3G</aliexpress:RAM>
+        <aliexpress:Secondary rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 MP, 1080p@30fps, HDR</aliexpress:Secondary>
+        <aliexpress:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0</aliexpress:Display-Size>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0 inches (~68.4% screen-to-body ratio)</aliexpress:Size>
+        <aliexpress:GPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adreno 430</aliexpress:GPU>
+        <aliexpress:Operation-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</aliexpress:Operation-System>
+        <aliexpress:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android OS, v5.0 (Lollipop)</aliexpress:OS>
+        <aliexpress:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic simultaneous video and image recording, geo-tagging, face/smile detection, HDR, panorama</aliexpress:Features>
+        <aliexpress:Status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Available. Released 2015, March</aliexpress:Status>
+        <aliexpress:Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar</aliexpress:Design>
+        <aliexpress:Touch-Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive Screen</aliexpress:Touch-Screen-Type>
+        <aliexpress:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</aliexpress:Display-Color>
+        <aliexpress:Protection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corning Gorilla Glass 4</aliexpress:Protection>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:English,if you need others,please leave messages on your order</aliexpress:Language>
+        <aliexpress:Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:OEM,if need original box,please leave messages on your order</aliexpress:Box>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English,Russian,German,French,Spanish,Polish,Portuguese,Italian</aliexpress:Language>
+        <aliexpress:Camera-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front &amp; Back Camera</aliexpress:Camera-Type>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Video Player,Gravity Response,Front Camera,HD Video Player,GPRS</aliexpress:Feature>
+        <aliexpress:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM / HSPA / LTE</aliexpress:Technology>
+        <aliexpress:Cellular rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM/WCDMA/LTE</aliexpress:Cellular>
+        <aliexpress:Brand-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTC</aliexpress:Brand-Name>
+        <aliexpress:Screen-LCD-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPS</aliexpress:Screen-LCD-Type>
+        <aliexpress:SIM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano-SIM</aliexpress:SIM>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Detachable</aliexpress:Battery-Type>
+        <aliexpress:HTC-Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ONE M9</aliexpress:HTC-Model>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa Core</aliexpress:CPU>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2 GHz Cortex-A57</aliexpress:CPU>
+        <aliexpress:CPU-Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm</aliexpress:CPU-Manufacturer>
+        <aliexpress:Chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm MSM8994 Snapdragon 810</aliexpress:Chipset>
+        <aliexpress:Item-Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refurbished</aliexpress:Item-Condition>
+        <aliexpress:SIM-Card-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM Card</aliexpress:SIM-Card-Quantity>
+        <aliexpress:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super LCD3 capacitive touchscreen, 16M colors</aliexpress:Type>
+        <aliexpress:Thickness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultra Slim(&lt;9mm)</aliexpress:Thickness>
+        <aliexpress:Alert-types rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vibration; MP3, WAV ringtones</aliexpress:Alert-types>
+        <aliexpress:WLAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA,hotspot</aliexpress:WLAN>
+        <aliexpress4:mm-jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress4:mm-jack>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:is_customized>
+        <aliexpress:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:NFC>
+        <aliexpress:GPS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, with A-GPS, GLONASS</aliexpress:GPS>
+        <aliexpress:Loudspeaker rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, with stereo speakers</aliexpress:Loudspeaker>
+        <aliexpress:Card-slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microSD, up to 128 GB</aliexpress:Card-slot>
+        <aliexpress:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v4.1, A2DP, apt-X</aliexpress:Bluetooth>
+        <aliexpress:Multitouch rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</aliexpress:Multitouch>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:2 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:2">
+        <aliexpress:Brand-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> HTC</aliexpress:Brand-Name>
+        <aliexpress:Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 x Nano SIM card slot,1 x Micro USB v2.0  + 1 x TF card slot,1 x 3.5mm Earphone port</aliexpress:Ports>
+        <aliexpress:Package-Contents rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 x Phone,1 x Data Cable,1 x Charger,1 x Battery</aliexpress:Package-Contents>
+        <aliexpress:Recording-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080P</aliexpress:Recording-Definition>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">144.6 x 69.7 x 9.6 mm</aliexpress:Size>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">144.6*69.7*9.61mm</aliexpress:Size>
+        <aliexpress:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">157g</aliexpress:Weight>
+        <aliexpress:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920 X 1080 pixels</aliexpress:Resolution>
+        <aliexpress:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x108</aliexpress:Display-Resolution>
+        <aliexpress:Band-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1SIM/Multi-Bands</aliexpress:Band-Mode>
+        <aliexpress:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.0MP</aliexpress:Camera>
+        <aliexpress:Release-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</aliexpress:Release-Date>
+        <aliexpress:Back-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20MP</aliexpress:Back-Camera>
+        <aliexpress:Battery-CapacitymAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2840mAh</aliexpress:Battery-CapacitymAh>
+        <aliexpress:Battery-Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2840mAh</aliexpress:Battery-Capacity>
+        <aliexpress:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300m</aliexpress:Talk-Time>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32G</aliexpress:ROM>
+        <aliexpress:Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB </aliexpress:Capacity>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3G</aliexpress:RAM>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB </aliexpress:RAM>
+        <aliexpress:Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GP, MP4 , H.263, etc.</aliexpress:Video>
+        <aliexpress:Front-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4MP</aliexpress:Front-Camera>
+        <aliexpress:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0</aliexpress:Display-Size>
+        <aliexpress:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0 inch</aliexpress:Screen-Size>
+        <aliexpress:WIFI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">802.11 a/n/b/g/ac</aliexpress:WIFI>
+        <aliexpress:Operation-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</aliexpress:Operation-System>
+        <aliexpress:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android OS 5.0</aliexpress:OS>
+        <aliexpress:Support-Languages rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arabic, Bahasa Indonesia, Dutch, Czech, Danish, English, French, Finnish, Filipino, Greek, German, Hindi, Hungarian, Hebrew, Italian, Japanese, Korean, Latvian, Norwegian, Portuguese, Polish, Russian, Romanian, Slovenscina, Spanish, Turkish, Thai, Vietnamese, Lithuanian, Slovenian, Bahasa Melayu, Chinese</aliexpress:Support-Languages>
+        <aliexpress:Band rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Band (2G): GSM 850/900/1800/1900MHz</aliexpress:Band>
+        <aliexpress:Band rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Band (3G): WCDMA 850/900/1900/2100MHz</aliexpress:Band>
+        <aliexpress:Band rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Band (4G): FDD-LTE B1/3/5/7/8/20/28</aliexpress:Band>
+        <aliexpress:Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar</aliexpress:Design>
+        <aliexpress:Touch-Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive Screen</aliexpress:Touch-Screen-Type>
+        <aliexpress:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</aliexpress:Display-Color>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:English,if you need others,please leave messages on your order</aliexpress:Language>
+        <aliexpress:BOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:OEM,if need original box,please leave messages on your orde</aliexpress:BOX>
+        <aliexpress:Camera-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual</aliexpress:Camera-Quantity>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English,Russian,German,French,Spanish,Polish,Portuguese,Italian,Turkish,Norwegian,Multi-Language</aliexpress:Language>
+        <aliexpress:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FDD-LTE , WCDMA , GSM</aliexpress:Type>
+        <aliexpress:Camera-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front &amp; Back Camera</aliexpress:Camera-Type>
+        <aliexpress:Sensor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">G-sensor, Gyroscope, Compass, Proximity sensor, Ambient light sensor, Magnetic sensor, Accelerometer</aliexpress:Sensor>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,Email,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Video Player,Gravity Response,Front Camera,Message,HD Video Player,GPRS</aliexpress:Feature>
+        <aliexpress:Cellular rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM/WCDMA</aliexpress:Cellular>
+        <aliexpress:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Capacitive</aliexpress:Screen-Type>
+        <aliexpress:model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTC ONE M</aliexpress:model>
+        <aliexpress:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTC One M9</aliexpress:Model>
+        <aliexpress:Picture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JPEG , PNG , BMP , GIF</aliexpress:Picture>
+        <aliexpress:HTC-Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M9</aliexpress:HTC-Model>
+        <aliexpress:External-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro SD card up to 128GB ( Not included)</aliexpress:External-Memory>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Detachable</aliexpress:Battery-Type>
+        <aliexpress:Audio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OGG , MP3 , AMR, etc.</aliexpress:Audio>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa Core</aliexpress:CPU>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa core 64-bit, 4 x  2.0GHz + 4 x 1.5GHz</aliexpress:CPU>
+        <aliexpress:CPU-Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm</aliexpress:CPU-Manufacturer>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm MSM8994 Snapdragon 810</aliexpress:CPU>
+        <aliexpress:Chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm Snapdragon 810#</aliexpress:Chipset>
+        <aliexpress:Item-Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refurbished</aliexpress:Item-Condition>
+        <aliexpress:SIM-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM</aliexpress:SIM-Quantity>
+        <aliexpress:SIM-Card-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM Card</aliexpress:SIM-Card-Quantity>
+        <aliexpress:Thickness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slim(9mm-10mm)</aliexpress:Thickness>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Undetachable , Li-polymer battery</aliexpress:Battery-Type>
+        <aliexpress:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V4.1</aliexpress:Bluetooth>
+        <aliexpress:Google-Play rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Google-Play>
+        <aliexpress:Unlock-Phones rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Unlock-Phones>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:is_customized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:3 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:3">
+        <aliexpress:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">- HTC Sense UI 7.0</aliexpress:tagline>
+        <aliexpress:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080 x 1920 pixels (-441 ppi pixel density)</aliexpress:Resolution>
+        <aliexpress:Recording-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080P</aliexpress:Recording-Definition>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">144.6 x 69.7 x 9.6 mm</aliexpress:Size>
+        <aliexpress:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">144.6 x 69.7 x 9.6 mm (5.69 x 2.74 x 0.38 in)</aliexpress:Dimensions>
+        <aliexpress:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">157 g (5.54 oz)</aliexpress:Weight>
+        <aliexpress:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1920x1080</aliexpress:Display-Resolution>
+        <aliexpress:Band-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1SIM/Multi-Bands</aliexpress:Band-Mode>
+        <aliexpress:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.0MP</aliexpress:Camera>
+        <aliexpress:Primary rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.7 MP, 5376 x 3752 pixels, autofocus, dual-LED (dual tone) flash, check quality</aliexpress:Primary>
+        <aliexpress:Release-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</aliexpress:Release-Date>
+        <aliexpress:Announced rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015, March</aliexpress:Announced>
+        <aliexpress:Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p@30fps, 1080p@60fps, 720p@120fps, HDR, stereo sound rec., check quality</aliexpress:Video>
+        <aliexpress:Battery-CapacitymAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2840mAh</aliexpress:Battery-CapacitymAh>
+        <aliexpress:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300m</aliexpress:Talk-Time>
+        <aliexpress:Internal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32 GB, 3 GB RAM</aliexpress:Internal>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32G</aliexpress:ROM>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3G</aliexpress:RAM>
+        <aliexpress:Secondary rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 MP, 1080p@30fps, HDR</aliexpress:Secondary>
+        <aliexpress:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0</aliexpress:Display-Size>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.0 inches (-68.4% screen-to-body ratio)</aliexpress:Size>
+        <aliexpress:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass</aliexpress:Sensors>
+        <aliexpress:GPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adreno 430</aliexpress:GPU>
+        <aliexpress:Operation-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</aliexpress:Operation-System>
+        <aliexpress:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android OS 5.0</aliexpress:OS>
+        <aliexpress:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android OS, v5.0 (Lollipop)</aliexpress:OS>
+        <aliexpress:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Automatic simultaneous video and image recording, geo-tagging, face/smile detection, HDR, panorama</aliexpress:Features>
+        <aliexpress:Status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Available. Released 2015, March</aliexpress:Status>
+        <aliexpress:Touch-Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive Screen</aliexpress:Touch-Screen-Type>
+        <aliexpress:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</aliexpress:Display-Color>
+        <aliexpress:Protection rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corning Gorilla Glass 4</aliexpress:Protection>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:English,if you need others,please leave messages on your order</aliexpress:Language>
+        <aliexpress:BOX rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:OEM,if need original box,please leave messages on your order</aliexpress:BOX>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English,Russian,German,French,Spanish,Polish,Portuguese,Italian,Turkish,Norwegian,Multi-Language</aliexpress:Language>
+        <aliexpress:additional_features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fast battery charging: 60% in 30 min (Quick Charge 2.0),Google Drive (100 GB cloud storage),Active noise cancellation with dedicated mic,XviD/MP4/H.264/WMV player,MP3/eAAC+/WMA/WAV/FLAC player,Document editor,Photo/video editor</aliexpress:additional_features>
+        <aliexpress:Camera-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front &amp; Back Camera</aliexpress:Camera-Type>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,Email,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Video Player,Gravity Response,Front Camera,Message,HD Video Player,GPRS</aliexpress:Feature>
+        <aliexpress:Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM / HSPA / LTE</aliexpress:Technology>
+        <aliexpress:Cellular rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM/WCDMA</aliexpress:Cellular>
+        <aliexpress:Brand-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTC</aliexpress:Brand-Name>
+        <aliexpress:Browser rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTML5</aliexpress:Browser>
+        <aliexpress:HTC-Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M9</aliexpress:HTC-Model>
+        <aliexpress:SIM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano-SIM</aliexpress:SIM>
+        <aliexpress:Java rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Java>
+        <aliexpress:Battery rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-removable Li-Po 2840 mAh battery</aliexpress:Battery>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Detachable</aliexpress:Battery-Type>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Octa Core</aliexpress:CPU>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad-core 1.5 GHz Cortex-A53 &amp; Quad-core 2 GHz Cortex-A57</aliexpress:CPU>
+        <aliexpress:CPU-Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm</aliexpress:CPU-Manufacturer>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm MSM8994 Snapdragon 810</aliexpress:CPU>
+        <aliexpress:Chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm MSM8994 Snapdragon 810</aliexpress:Chipset>
+        <aliexpress:Item-Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refurbished</aliexpress:Item-Condition>
+        <aliexpress:Messaging rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SMS (threaded view), MMS, Email, Push Email</aliexpress:Messaging>
+        <aliexpress:SIM-Card-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM Card</aliexpress:SIM-Card-Quantity>
+        <aliexpress:Thickness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slim(9mm-10mm)</aliexpress:Thickness>
+        <aliexpress:Radio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stereo FM radio with RDS</aliexpress:Radio>
+        <aliexpress:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Super LCD3 capacitive touchscreen, 16M colors</aliexpress:Type>
+        <aliexpress:Alert-types rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vibration; MP3, WAV ringtones</aliexpress:Alert-types>
+        <aliexpress:WLAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot</aliexpress:WLAN>
+        <aliexpress:Google-Play rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Google-Play>
+        <aliexpress:Infrared-port rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Infrared-port>
+        <aliexpress:GPS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, with A-GPS, GLONASS</aliexpress:GPS>
+        <aliexpress:Loudspeaker rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, with stereo speakers</aliexpress:Loudspeaker>
+        <aliexpress:Desing rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bar</aliexpress:Desing>
+        <aliexpress:Card-slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microSD, up to 128 GB</aliexpress:Card-slot>
+        <aliexpress:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB v2.0 (MHL 3.0 TV-out), USB Host</aliexpress:USB>
+        <aliexpress:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v4.1, A2DP, apt-X</aliexpress:Bluetooth>
+        <aliexpress4:mm-jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</aliexpress4:mm-jack>
+        <aliexpress:Multitouch rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</aliexpress:Multitouch>
+        <aliexpress:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</aliexpress:NFC>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</aliexpress:is_customized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:4 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:4">
+        <aliexpress:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</aliexpress:Warranty>
+        <aliexpress:Recording-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080P</aliexpress:Recording-Definition>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">115.2x58.6x9.3mm</aliexpress:Size>
+        <aliexpress:Battery-CapacitymAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1420mAh</aliexpress:Battery-CapacitymAh>
+        <aliexpress:Band-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1SIM/Multi-Bands</aliexpress:Band-Mode>
+        <aliexpress:Release-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</aliexpress:Release-Date>
+        <aliexpress:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5</aliexpress:Display-Size>
+        <aliexpress:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300m</aliexpress:Talk-Time>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">512M</aliexpress:RAM>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64G</aliexpress:ROM>
+        <aliexpress:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8MP</aliexpress:Camera>
+        <aliexpress:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">960x640</aliexpress:Display-Resolution>
+        <aliexpress:Brand-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APPLE</aliexpress:Brand-Name>
+        <aliexpress:Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar</aliexpress:Design>
+        <aliexpress:Touch-Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive Screen</aliexpress:Touch-Screen-Type>
+        <aliexpress:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</aliexpress:Display-Color>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:English,if you need others,please leave messages on your order</aliexpress:Language>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual Core</aliexpress:CPU>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English,Russian,German,French,Spanish,Polish,Portuguese,Italian</aliexpress:Language>
+        <aliexpress:Camera-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front &amp; Back Camera</aliexpress:Camera-Type>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,Email,FM Radio,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Video Player,Gravity Response,Front Camera,Message,HD Video Player,GPRS</aliexpress:Feature>
+        <aliexpress:Cellular rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM/WCDMA</aliexpress:Cellular>
+        <aliexpress:Screen-LCD-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPS</aliexpress:Screen-LCD-Type>
+        <aliexpress:CPU-Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intel</aliexpress:CPU-Manufacturer>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Detachable</aliexpress:Battery-Type>
+        <aliexpress:SIM-Card-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM Card</aliexpress:SIM-Card-Quantity>
+        <aliexpress:Thickness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Slim(9mm-10mm)</aliexpress:Thickness>
+        <aliexpress:Item-Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Used</aliexpress:Item-Condition>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:is_customized>
+        <aliexpress:Operation-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS</aliexpress:Operation-System>
+        <aliexpress:Apple-Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 4S</aliexpress:Apple-Model>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:5 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:5">
+        <aliexpress:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</aliexpress:Warranty>
+        <aliexpress:Recording-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080P</aliexpress:Recording-Definition>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">115.2x58.6x9.3mm</aliexpress:Size>
+        <aliexpress:Battery-CapacitymAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1420mAh</aliexpress:Battery-CapacitymAh>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16G</aliexpress:ROM>
+        <aliexpress:Band-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1SIM/Multi-Bands</aliexpress:Band-Mode>
+        <aliexpress:Release-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</aliexpress:Release-Date>
+        <aliexpress:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5</aliexpress:Display-Size>
+        <aliexpress:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300m</aliexpress:Talk-Time>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">512M</aliexpress:RAM>
+        <aliexpress:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8MP</aliexpress:Camera>
+        <aliexpress:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">960x640</aliexpress:Display-Resolution>
+        <aliexpress:Brand-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APPLE</aliexpress:Brand-Name>
+        <aliexpress:Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar</aliexpress:Design>
+        <aliexpress:Touch-Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive Screen</aliexpress:Touch-Screen-Type>
+        <aliexpress:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</aliexpress:Display-Color>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:English,if you need others,please leave messages on your order</aliexpress:Language>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual Core</aliexpress:CPU>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English,Russian,German,French,Spanish,Polish,Portuguese,Italian</aliexpress:Language>
+        <aliexpress:Camera-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front &amp; Back Camera</aliexpress:Camera-Type>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Video Player,Gravity Response,HD Video Player,GPRS</aliexpress:Feature>
+        <aliexpress:Screen-LCD-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPS</aliexpress:Screen-LCD-Type>
+        <aliexpress:CPU-Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intel</aliexpress:CPU-Manufacturer>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Detachable</aliexpress:Battery-Type>
+        <aliexpress:SIM-Card-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM Card</aliexpress:SIM-Card-Quantity>
+        <aliexpress:Thickness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultra Slim(&lt;9mm)</aliexpress:Thickness>
+        <aliexpress:Item-Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Used</aliexpress:Item-Condition>
+        <aliexpress:Cellular rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WCDMA</aliexpress:Cellular>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:is_customized>
+        <aliexpress:Operation-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS</aliexpress:Operation-System>
+        <aliexpress:Apple-Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 4S</aliexpress:Apple-Model>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:6 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:6">
+        <aliexpress:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1/3.2\&apos;\&apos; sensor size, 1.4 �m pixel size, simultaneous HD video and image recording, touch focus, geo-tagging, face detection, HDR panorama, HDR photo</aliexpress:Features>
+        <aliexpress:Recording-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080P</aliexpress:Recording-Definition>
+        <aliexpress:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124.4 x 59.2 x 9 mm (4.90 x 2.33 x 0.35 in)</aliexpress:Dimensions>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124.4x59.2x8.97mm</aliexpress:Size>
+        <aliexpress:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132 g (4.66 oz)</aliexpress:Weight>
+        <aliexpress:Battery-CapacitymAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1510mah</aliexpress:Battery-CapacitymAh>
+        <aliexpress:Internal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16/32 GB, 1 GB RAM</aliexpress:Internal>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16G</aliexpress:ROM>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1G</aliexpress:RAM>
+        <aliexpress:Band-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1SIM/Dual-Bands</aliexpress:Band-Mode>
+        <aliexpress:Release-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</aliexpress:Release-Date>
+        <aliexpress:Announced rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013, September</aliexpress:Announced>
+        <aliexpress:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300m</aliexpress:Talk-Time>
+        <aliexpress:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.0</aliexpress:Display-Size>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">640 x 1136 pixels, 4.0 inches (~326 ppi pixel density)</aliexpress:Size>
+        <aliexpress:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">640x1136</aliexpress:Display-Resolution>
+        <aliexpress:Primary rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8 MP, 3264x2448 pixels, autofocus, LED flash, check quality</aliexpress:Primary>
+        <aliexpress:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8MP</aliexpress:Camera>
+        <aliexpress:Brand-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APPLE</aliexpress:Brand-Name>
+        <aliexpress:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass</aliexpress:Sensors>
+        <aliexpress:additional_features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Active noise cancellation with dedicated mic,AirDrop file sharing,Siri natural language commands and dictation,iCloud cloud service,Twitter and Facebook integration,TV-out,Maps,iBooks PDF reader,Audio/video player/editor,Organizer,Document viewer/editor ((Word, Excel, PowerPoint),Image viewer/editor,Voice memo/dial/command,Predictive text input</aliexpress:additional_features>
+        <aliexpress:Chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple A6</aliexpress:Chipset>
+        <aliexpress:Status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Available. Released 2013, September</aliexpress:Status>
+        <aliexpress:Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar</aliexpress:Design>
+        <aliexpress:Touch-Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive Screen</aliexpress:Touch-Screen-Type>
+        <aliexpress:Speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DC-HSDPA, 42 Mbps; HSDPA, 21 Mbps; HSUPA, 5.76 Mbps, LTE, 100 Mbps; EV-DO Rev. A, up to 3.1 Mbps</aliexpress:Speed>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:English,if you need others,please leave messages on your order</aliexpress:Language>
+        <aliexpress:Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:OEM,if need original ones,please leave messages on your order</aliexpress:Box>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual Core</aliexpress:CPU>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual-core 1.3 GHz Swift (ARM v7-based)</aliexpress:CPU>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English,Russian,German,French,Spanish,Polish,Portuguese,Italian,Turkish,Norwegian,multi</aliexpress:Language>
+        <aliexpress:Camera-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front &amp; Back Camera</aliexpress:Camera-Type>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,Email,FM Radio,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Video Player,Gravity Response,Front Camera,Message</aliexpress:Feature>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,Email,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Memory C</aliexpress:Feature>
+        <aliexpress2:G-Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM 850 / 900 / 1800 / 1900 - all versions,CDMA 800 / 1700 / 1900 / 2100 - A1532 (CDMA), A1456</aliexpress2:G-Network>
+        <aliexpress:Cellular rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM/WCDMA</aliexpress:Cellular>
+        <aliexpress3:G-Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HSDPA 850 / 900 / 1700 / 1900 / 2100 - A1532 (GSM), A1532 (CDMA), A1456,HSDPA 850 / 900 / 1900 / 2100 - A1507, A1529,CDMA2000 1xEV-DO - A1533 (CDMA), A1453</aliexpress3:G-Network>
+        <aliexpress:Browser rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTML (Safari)</aliexpress:Browser>
+        <aliexpress:Screen-LCD-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IPS</aliexpress:Screen-LCD-Type>
+        <aliexpress:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED-backlit IPS LCD, capacitive touchscreen, 16M colors</aliexpress:Type>
+        <aliexpress5:G-Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LTE - all versions</aliexpress5:G-Network>
+        <aliexpress:SIM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano-SIM</aliexpress:SIM>
+        <aliexpress:Java rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Java>
+        <aliexpress:Card-slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Card-slot>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Detachable</aliexpress:Battery-Type>
+        <aliexpress:GPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PowerVR SGX 543MP3 (triple-core graphics)</aliexpress:GPU>
+        <aliexpress:CPU-Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm</aliexpress:CPU-Manufacturer>
+        <aliexpress:SIM-Card-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM Card</aliexpress:SIM-Card-Quantity>
+        <aliexpress:Thickness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultra Slim(&lt;9mm)</aliexpress:Thickness>
+        <aliexpress:Item-Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Used</aliexpress:Item-Condition>
+        <aliexpress:Alert-types rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vibration, proprietary ringtones</aliexpress:Alert-types>
+        <aliexpress:Colors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White, Blue, Green, Yellow, Pink</aliexpress:Colors>
+        <aliexpress:WLAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi hotspot</aliexpress:WLAN>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:is_customized>
+        <aliexpress:Multitouch rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Multitouch>
+        <aliexpress:GPRS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:GPRS>
+        <aliexpress:Loudspeaker rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Loudspeaker>
+        <aliexpress:EDGE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:EDGE>
+        <aliexpress:Unlock-Phones rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Unlock-Phones>
+        <aliexpress4:mm-jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress4:mm-jack>
+        <aliexpress:Secondary rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, 1.2 MP, 720p30fps, face detection, FaceTime over Wi-Fi or Cellular</aliexpress:Secondary>
+        <aliexpress:Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, 1080p30fps, video stabilization, check quality</aliexpress:Video>
+        <aliexpress:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, v2.0</aliexpress:USB>
+        <aliexpress:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, v4.0 with A2DP, LE</aliexpress:Bluetooth>
+        <aliexpress:GPS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, with A-GPS support and GLONASS</aliexpress:GPS>
+        <aliexpress:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">color</aliexpress:Display-Color>
+        <aliexpress:Messaging rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iMessage, SMS (threaded view), MMS, Email, Push Email</aliexpress:Messaging>
+        <aliexpress:Operation-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS</aliexpress:Operation-System>
+        <aliexpress:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS 7, upgradable to iOS 7.0.4</aliexpress:OS>
+        <aliexpress:Apple-Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 5C</aliexpress:Apple-Model>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:7 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:7">
+        <aliexpress:Screen-LCD-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></aliexpress:Screen-LCD-Type>
+        <aliexpress:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Active noise cancellation with dedicated mic,AirDrop file sharing,Siri natural language commands and dictation, iCloud cloud service,Twitter and Facebook integration, TV-out ,Maps,iBooks PDF reader, Audio/video player/editor,Organizer,Document viewer/editor ((Word, Excel, PowerPoint),Image viewer/editor,Voice memo/dial/command,Predictive text input</aliexpress:tagline>
+        <aliexpress:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> iOS 8</aliexpress:OS>
+        <aliexpress:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</aliexpress:Warranty>
+        <aliexpress:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1/3.2&apos;&apos; sensor size, 1.4 m pixel size,simultaneous HD video and image recording,touch focus, geo-tagging, face detection, HDR panorama, HDR photo</aliexpress:Features>
+        <aliexpress:Recording-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080P</aliexpress:Recording-Definition>
+        <aliexpress:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124.4 x 59.2 x 9 mm (4.90 x 2.33 x 0.35 in)</aliexpress:Dimensions>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">124.4x59.2x8.97mm</aliexpress:Size>
+        <aliexpress:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">132 g (4.66 oz)</aliexpress:weight>
+        <aliexpress:Battery-CapacitymAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1510mAh</aliexpress:Battery-CapacitymAh>
+        <aliexpress:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1G</aliexpress:RAM>
+        <aliexpress:Band-Mode rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1SIM/Multi-Bands</aliexpress:Band-Mode>
+        <aliexpress:Release-Date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</aliexpress:Release-Date>
+        <aliexpress:Announced rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013, September</aliexpress:Announced>
+        <aliexpress:Talk-Time rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300m</aliexpress:Talk-Time>
+        <aliexpress:ROM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32G</aliexpress:ROM>
+        <aliexpress:Display-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.0</aliexpress:Display-Size>
+        <aliexpress:Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">640 x 1136 pixels, 4.0 inches (~326 ppi pixel density)</aliexpress:Size>
+        <aliexpress:Display-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">640x1136</aliexpress:Display-Resolution>
+        <aliexpress:Primary rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8 MP, 3264 x 2448 pixels, autofocus, LED flash,check quality</aliexpress:Primary>
+        <aliexpress:Internal rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8/16/32 GB, 1 GB RAM</aliexpress:Internal>
+        <aliexpress:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8MP</aliexpress:Camera>
+        <aliexpress:Brand-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APPLE</aliexpress:Brand-Name>
+        <aliexpress:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer, gyro, proximity, compass</aliexpress:Sensors>
+        <aliexpress:Chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple A6</aliexpress:Chipset>
+        <aliexpress:Status rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Available. Released 2013, September</aliexpress:Status>
+        <aliexpress:Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bar</aliexpress:Design>
+        <aliexpress:Touch-Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacitive Screen</aliexpress:Touch-Screen-Type>
+        <aliexpress:Speed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DC-HSDPA, 42 Mbps;HSDPA, 21 Mbps;HSUPA, 5.76 Mbps, LTE, 100 Mbps; EV-DO Rev. A, up to 3.1 Mbps</aliexpress:Speed>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Default:English,if you need others,please leave messages on your order</aliexpress:Language>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual Core</aliexpress:CPU>
+        <aliexpress:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual-core 1.3 GHz Swift (ARM v7-based)</aliexpress:CPU>
+        <aliexpress:Language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English,Russian,German,French,Spanish,Polish,Portuguese,Italian,Norwegian</aliexpress:Language>
+        <aliexpress:Camera-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front &amp; Back Camera</aliexpress:Camera-Type>
+        <aliexpress:Feature rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS Navigation,Email,FM Radio,MP3 Playback,Touchscreen,Bluetooth,Wi-Fi,Video Player,Gravity Response,Front Camera,Message,HD Video Player,GPRS</aliexpress:Feature>
+        <aliexpress2:G-Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM 850 / 900 / 1800 / 1900 - all versions,CDMA 800 / 1700 / 1900 / 2100</aliexpress2:G-Network>
+        <aliexpress:Cellular rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM/WCDMA</aliexpress:Cellular>
+        <aliexpress3:G-Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HSDPA 850 / 900 / 1700 / 1900 / 2100,HSDPA 850 / 900 / 1900 / 2100,CDMA2000 1xEV-DO</aliexpress3:G-Network>
+        <aliexpress:Browser rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTML (Safari)</aliexpress:Browser>
+        <aliexpress:CPU-Manufacturer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intel</aliexpress:CPU-Manufacturer>
+        <aliexpress:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED-backlit IPS LCD, capacitive touchscreen, 16M colors</aliexpress:Type>
+        <aliexpress:SIM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano-SIM</aliexpress:SIM>
+        <aliexpress:Java rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Java>
+        <aliexpress:Radio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Radio>
+        <aliexpress:Card-slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Card-slot>
+        <aliexpress:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Detachable</aliexpress:Battery-Type>
+        <aliexpress:GPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PowerVR SGX 543MP3 (triple-core graphics)</aliexpress:GPU>
+        <aliexpress:SIM-Card-Quantity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM Card</aliexpress:SIM-Card-Quantity>
+        <aliexpress:Thickness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultra Slim(&lt;9mm)</aliexpress:Thickness>
+        <aliexpress:Item-Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Used</aliexpress:Item-Condition>
+        <aliexpress:Alert-types rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vibration, proprietary ringtones</aliexpress:Alert-types>
+        <aliexpress:Colors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White, Blue, Green, Yellow, Pink</aliexpress:Colors>
+        <aliexpress:WLAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi hotspot</aliexpress:WLAN>
+        <aliexpress:Loudspeaker rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Loudspeaker>
+        <aliexpress:GPRS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:GPRS>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:is_customized>
+        <aliexpress:Multitouch rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:Multitouch>
+        <aliexpress4:mm-jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress4:mm-jack>
+        <aliexpress:EDGE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</aliexpress:EDGE>
+        <aliexpress:Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, 1080p@30fps, video stabilization,check quality</aliexpress:Video>
+        <aliexpress:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, v2.0</aliexpress:USB>
+        <aliexpress:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, v4.0 with A2DP, LE</aliexpress:Bluetooth>
+        <aliexpress:GPS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes, with A-GPS support and GLONASS</aliexpress:GPS>
+        <aliexpress:Display-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">color</aliexpress:Display-Color>
+        <aliexpress:Messaging rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iMessage, SMS (threaded view), MMS, Email, Push Email</aliexpress:Messaging>
+        <aliexpress:Operation-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS</aliexpress:Operation-System>
+        <aliexpress:Apple-Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 5C</aliexpress:Apple-Model>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

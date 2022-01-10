@@ -1,0 +1,14 @@
+{
+    "refreshrate": "9Hz",
+    "category": "camera",
+    "description": "Chauvin Arnoux C.A 1877 Thermal Imaging Camera, Temperature Measurement Range: -20 \u2192 +250 \u00b0C",
+    "fieldofview": "10 x 8\u00b0",
+    "minimumfocus": "10 cm",
+    "displaysize": "2.5in",
+    "application": "Industrial",
+    "horizontalfieldofview": "8\u00b0",
+    "storagemedia": "SD Card",
+    "focustype": "Manual",
+    "thermalsensitivity": "0.08\u00b0C",
+    "visualcamera": "Yes"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p @ 75\u2126",
+    "gammacharacteristic": "0.45",
+    "dimensions": "1.18\" x 1.18\" x 0.55\" (30 x 30 x 18mm), camera only",
+    "pictureelements": "NTSC: 768x494",
+    "powerconsumption": "65mA",
+    "imagesensor": "1/3\" SONY Super HAD CCD",
+    "minimumillumination": "0.2 LUX @ F2.0",
+    "snratio": "More than 48 dB",
+    "upc": "690240026245",
+    "electronicshutter": "1/60s - 1/100,000s",
+    "operatingtemperature": "14\u00b0 to 122\u00b0F (-10\u00b0 to 50\u00b0C)",
+    "resolution": "550 lines",
+    "whitebalance": "Automatic",
+    "iriscontrol": "Automatic",
+    "syncsystem": "Internal",
+    "lensfocallength": "5.5mm",
+    "powerrequirements": "12VDC",
+    "manufacturer": "Channel Vision"
+}

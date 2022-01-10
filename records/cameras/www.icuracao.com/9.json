@@ -1,0 +1,23 @@
+{
+    "wirelessconnection": "IEEE 802.11b/g/n",
+    "producttype": "Digital camera - compact",
+    "autofocuspointszonesqty": "9",
+    "maxvideoresolution": "1920 x 1080",
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "facedetection": "Face Detection AF/AE/FE/WB, Face Detection Self-timer, Wink Self-timer, Smile Shutter",
+    "totalpixels": "16,800,000 pixels",
+    "autofocus": "TTL contrast detection",
+    "enclosurecolor": "Red",
+    "aeafcontrol": "Subject-tracking AF",
+    "imagestabilizer": "Optical (Intelligent IS with Advanced Dynamic Mode)",
+    "digitalvideoformat": "H.264",
+    "imagerecordingformat": "JPEG",
+    "imageprocessor": "DIGIC 4+",
+    "effectivesensorresolution": "16,000,000 pixels",
+    "opticalsensortype": "BSI-CMOS",
+    "opticalzoom": "18 x",
+    "digitalzoom": "4 x",
+    "sensorresolution": "16.0 Megapixel",
+    "opticalsensorsize": "1/2.3\""
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "sound": "WM9713",
+    "usb": "USB Host, USB Device driver",
+    "item": "FeatureDescription",
+    "system": "Drivers7\" Touch Screen",
+    "sdcard": "SD card driver",
+    "buttons": "User buttons",
+    "application": "Alarm Clock, Bluetooth chat, Browser, Gallery, Calculator, Camera, Phone, Email, Maps, ES File Explorer, Mediaplayer, Music, Picsay, ASTRO, Gallery",
+    "lcd": "Comes with drivers for 4.3\" and 7\" TFT LCD",
+    "camera": "CMOS/CCS camera driver",
+    "snapshot": "LCD picture capture application under console platform",
+    "networkprotocol": "TCP/IPTCP/IP protocol",
+    "filesystem": "File SystemYAFFS",
+    "serial": "Serial driver",
+    "lcddisplay": "none 4.3 in. (+US$30.00) 7 in. (+US$50.00) 10.1 in. (+US$120.00) 15 in. (+US$220.00)",
+    "other": "Supports USB and Serial interface to download application to Flash debug",
+    "touchpanel": "Touch panel driver"
+}

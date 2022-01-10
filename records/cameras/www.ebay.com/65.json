@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "cameratype": "Point & Shoot",
+    "brand": "Fujifilm",
+    "opticalzoom": "8x",
+    "displaytype": "LCD",
+    "digitalzoom": "6.7x",
+    "sensorresolution": "14.0 MP",
+    "screensize": "2.7\"",
+    "displaysize": "2.7\"",
+    "supportedflashmemory": "SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "model": "JZ100 / JZ110",
+    "maxvideoresolution": "1280 x 720"
+}

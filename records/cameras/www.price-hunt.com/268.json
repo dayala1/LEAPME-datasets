@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "type": "Point & Shoot",
+    "name": "Panasonic Digital DMC-F5 Point & Shoot Camera",
+    "color": "Silver",
+    "series": "Digital",
+    "brand": "Panasonic",
+    "opticalzoom": "5x",
+    "lcdscreensize": "2.7",
+    "memorycardtype": "SD / SDHC / Sdxc",
+    "opticalsensorresolutioninmegapixel": "14.1 Megapixels",
+    "builtinflash": "Built in Flash",
+    "warrantysummary": "3 Year Warranty",
+    "batterytype": "Lithium-ion",
+    "flashmodes": "Auto",
+    "contents": "Battery, Contents-Camera, AC Adapter, cd-ROM",
+    "modelid": "Dmc-f5"
+}

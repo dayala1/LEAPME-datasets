@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "releasedate": "2012Year",
+    "weight": "<100g",
+    "storagetype": "SD Card",
+    "batterytype": "Rechargeable Battery Pack",
+    "imageresolutionvideo": "SD (640x480)",
+    "opticalzoom": "Fixed Focus",
+    "megapixel": "< 5.0MP",
+    "externalflash": "No",
+    "memorycardtype": "MicroSD / TF",
+    "modelnumber": "U8",
+    "screensize": "< 2\"",
+    "imagestabilization": "No",
+    "sensortype": "CMOS",
+    "specialfeature": "Cheap Camera",
+    "type": "Compact",
+    "videocapture": "Yes"
+}

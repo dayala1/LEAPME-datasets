@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p,75\u03a9",
+    "imageresolution": "1280H x 960V",
+    "irled": "36PCS IR Led, 30-35M",
+    "imagesensor": "1 Megapixel 1/3-Inch Digital Image Sensor \u00a0 Recon and iLCC",
+    "snratio": ">58dB",
+    "agc": "ATW/Manual/Auto",
+    "whitebalance": "ATW/Manual/Auto",
+    "lens": "4-9mm,2.8-12mm \u00a0optional (standard match 4-9mm)",
+    "horizontalresolution": "1000TVL",
+    "operatingenvironment": "-20 \u00b0C ~60\u00b0C\u00a0/ 10% ~ 95%RH",
+    "voltage": "DC12V",
+    "model": "GIZ36L-3CQ",
+    "tvsystem": "PAL/NTSC",
+    "blc": "ON/OFF"
+}

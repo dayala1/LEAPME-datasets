@@ -1,0 +1,23 @@
+{
+    "videooutput": "VBS 1.0V p-p \u00b110% 75\u2126",
+    "privacymask": "8 Zones",
+    "powerrequirement": "24VAC 100mA 12VDC 120mA",
+    "weight": "14.1oz (400g)",
+    "sensitivity": "0.003 lux F1.2 @ 50IRE",
+    "sync": "Internal",
+    "horizontalresolution": "700TV Lines",
+    "effectivepixels": "NTSC: 976x494 PAL: 976x582",
+    "motiondetection": "Yes 24x16 Block Alarm Area",
+    "dimensions": "2.56\" x 2.17\" x 4.17\" (65 x 55 x 126mm)",
+    "osdlanguage": "EN, FR, DE, ES, POR, SC, RUS, JP",
+    "daynight": "True Day & Night by ICR",
+    "category": "camera",
+    "snratio": ">50dB with AGC Off at 50IRE",
+    "lensmount": "C/CS (C-mount ring optional)",
+    "manufacturer": "Vitek",
+    "imagedevice": "High Density Sony 1/3\" EX-View CCD (960H)",
+    "operatingtemperature": "-4\u00b0 to 122&degF (-20\u00b0 to 50\u00b0C)",
+    "operatinghumidity": "0 to 85% Non-Condensing",
+    "upc": "814850012553",
+    "whitebalance": "1800 ~ 10,500&deg:K Automatic Tracking"
+}

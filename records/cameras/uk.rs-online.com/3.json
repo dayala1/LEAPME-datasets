@@ -1,0 +1,19 @@
+{
+    "refreshrate": "9Hz",
+    "category": "camera",
+    "visualcamera": "Yes",
+    "weight": "0.726kg",
+    "description": "Fluke Ti110 Thermal Imaging Camera, Temperature Measurement Range: -20 \u2192 +250 \u00b0C",
+    "fieldofview": "22.5 x 31\u00b0",
+    "minimumfocus": "15.25 cm",
+    "displaysize": "3.5in",
+    "height": "135mm",
+    "width": "86mm",
+    "length": "284mm",
+    "horizontalfieldofview": "22.5\u00b0",
+    "interfacetype": "USB",
+    "storagemedia": "SD Card",
+    "focustype": "Manual",
+    "thermalsensitivity": "\u226480mK",
+    "dimensions": "284 x 86 x 135mm"
+}

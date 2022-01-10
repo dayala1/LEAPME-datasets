@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "inputs": "HDMI (x1) 3G/HD/SD-SDI (x1)",
+    "dimensions": "4.02 x 2.64 x 6.18\" (10.2 x 6.7 x 15.7 cm)",
+    "weight": "14.11 oz (400 g)",
+    "powerconsumption": "3.5 W (3 hours with 2200 mA battery)",
+    "powerinput": "Mini XLR (x1, DC 6~17 V) Multi vendor battery support",
+    "displaytype": "3.5\" Retina LCD",
+    "speaker": "x1, mono",
+    "displayresolution": "960 x 640",
+    "storagetemperature": "-4 ~ 158\u00b0 F (-20 ~ 70\u00b0 C)",
+    "output": "3G/HD/SD-SDI (x1) 3.5mm Stereo Headphone Jack (x1)",
+    "operatingtemperature": "14 ~ 158\u00b0 F (-10 ~ 70\u00b0 C)"
+}

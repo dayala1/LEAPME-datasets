@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD)",
+    "flashrange": "(ISO Auto) : Wide : 0.3 - 13.5m Wide, Telephoto : 1.0 - 7.3m",
+    "focallength": "4.5 - 108 mm (35 mm Equivalent to 25 - 600 mm)",
+    "builtinflash": "Yes",
+    "manualfocus": "Yes",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "displaytype": "TFT LCD",
+    "lenstype": "Leica DC Vario-Elmarit",
+    "screensize": "3 Inches",
+    "viewfinder": "Electronic View Finder Color",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "460000 dots",
+    "flashmodes": "1st and 2nd Slow Sync, Auto, Forced, Sync Flash"
+}

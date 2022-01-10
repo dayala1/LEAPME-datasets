@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "softwareincluded": "IC WDM UVCCAM TIS, IC Capture.AS",
+    "computerinterface": "USB 2.0",
+    "cameratype": "Single Frame Camera",
+    "cameracooling": "Natural Convection",
+    "sensortype": "CCD",
+    "sensormodel": "ICX618AQA",
+    "sensormanufacturer": "Sony",
+    "camerawarranty": "1 year",
+    "cameraseries": "Imaging Source DBK"
+}

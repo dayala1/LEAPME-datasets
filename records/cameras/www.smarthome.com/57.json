@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "powerrequirement": "100~240VAC",
+    "dimensions": "8\" x 8\" x 14\" (203 x 203 x 356mm)",
+    "weight": "4.5lb (2kg)",
+    "powerconsumption": "Standby: 1.27W Operating: 14W",
+    "upc": "817553001923",
+    "weatherproof": "IP44",
+    "cameraresolution": "640x480",
+    "memory": "SD Card (up to 64GB)",
+    "lcddisplay": "Year, Date, Time",
+    "ledindicator": "Red: SD card missing Green: Recording Flashing Green: SD Card Full",
+    "manufacturer": "SmartGuard"
+}

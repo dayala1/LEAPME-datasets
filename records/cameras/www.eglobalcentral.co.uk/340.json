@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "minimumfocusingdistance": "1 m",
+    "focusadjustment": "manual",
+    "focallength": "85 mm",
+    "maximumaperture": "1.4",
+    "angleofview": "28.3\u00b0",
+    "minimumaperture": "22",
+    "parameter": "Value"
+}

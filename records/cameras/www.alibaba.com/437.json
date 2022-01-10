@@ -1,0 +1,22 @@
+{
+    "networkfunction": "WEB configure and OSD supported, real time recording, transmission and playback, download.",
+    "tfcard": "optionalWIFI:optionalOnvoif:support",
+    "networkinterface": "1RJ45 Ethernet interface, 10/100M\u00a0adaptation",
+    "voltage": "DC12V",
+    "technology": "NetWorkSpecial Features:Vandal-proofResolution:full hd",
+    "category": "camera",
+    "consumption": "3W",
+    "analogoutput": "1 analog video output ,CVBS supported, PAL/NTSC (configurable)",
+    "daynight": "IR cut filter with auto switch, IR sensor. 1 IR lamp control interface algorithm control IR lamp open and close",
+    "waterproof": "support",
+    "minimumillumination": "0.6Lux F1.2 ( color), 0.08 Lux F1.2 (B/W)",
+    "videocompression": "H.264 compression ,dual stream (\u00a00.1M-6Mpbs adjustable)",
+    "autoiris": "Support, DC drive auto iris lens, 1 auto Iris interface.",
+    "lensmount": "CS ( M12/M14 optional )",
+    "type": "Digital CameraStyle:Dome CameraSensor:CMOS",
+    "imagesensor": "1/2.5\u2019\u2019\u00a05.0 Megapixel\u00a0CMOS Image sensor.",
+    "framerate": "5.0 Megapixel 10FPS, 3.0 Megapixel 17FPS, 2.0 Megapixel 25FPS",
+    "vandalproof": "supportnight vision:supportNVR:support",
+    "model": "NY-D20HA",
+    "placeoforigin": "Guangdong China (Mainland)Brand Name:Cam4lifeModel Number:NY-B20HB"
+}

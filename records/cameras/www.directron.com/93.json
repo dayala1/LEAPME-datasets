@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p composite output (75 Ohm/BNC)",
+    "minillumination": "0.03 Lux",
+    "imagesensor": "1/3\"Sensor",
+    "snratio": "52dB",
+    "humidity": "85% or less (non-condensing)",
+    "lens": "3.7mm pinhole lens",
+    "synchronization": "Internal synchronization",
+    "effectivepixels": "1280(H)x960(V)",
+    "signalsystem": "NTSC / PAL",
+    "workingtemperature": "-10\u00b0C - 50\u00b0C (14\u00b0F - 122\u00b0F)",
+    "autogaincontrol": "Auto",
+    "dimension": "2.7\" x 1.9\" x 4.7\"(69.5 x 48.0 x 119.0mm)",
+    "shutterspeed": "- NTSC",
+    "whitebalance": "ATW",
+    "blc": "Auto"
+}

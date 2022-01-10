@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "backlightcompensation": "On/Off",
+    "presets": "256",
+    "weight": "5Kg",
+    "focuslength": "3.2~86.4mm",
+    "menu": "Chinese/English",
+    "minimumillumination": "0Lux,IR ON",
+    "snratio": ">50dB(AGC OFF)",
+    "powersupply": "DC12V(4A)",
+    "patternscan": "4 groups (each group of 500 instruction)",
+    "electronicshutter": "PAL:1/50~1/10000 seconds NTSC:1/60~1/12000 seconds",
+    "modelno": "CSJ-H6RC-S",
+    "horizontalresolution": "700TVL",
+    "preset": "256",
+    "workingtemperature": "-35~65\u00b0C",
+    "whitebalance": "Auto",
+    "imagesensor": "1/3\" SONY CCD",
+    "effectivepixel": "976(H) x 5960(V)"
+}

@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "opticalsensortype": "CMOS",
+    "imagestabilizer": "optical",
+    "opticalzoom": "60 x",
+    "fileformatstillvideo": "JPEG/H.264 AAC (MOV)",
+    "storagemedia": "SD/SDHC/SDXC",
+    "opticalsensorsize": "1/2.3\"",
+    "sensorresolution": "16.1 Megapixel",
+    "imagestabilizationtype": "Optical and digital",
+    "dimensionswhd": "5x3.4x4.2 inches"
+}

@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 30 fps",
+    "imagestabilizer": "Lens Shift Type",
+    "metering": "Average, Multi, Spot, TTL 256-Zones",
+    "selftimer": "2 sec, 10 sec Delay",
+    "displaytype": "TFT LCD",
+    "screensize": "3 Inches",
+    "facedetection": "Yes"
+}

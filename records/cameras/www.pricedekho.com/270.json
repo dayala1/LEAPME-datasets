@@ -1,0 +1,22 @@
+{
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 30 fps",
+    "metering": "256-Segment Matrix, Center-Weighted",
+    "lenstype": "Nikkor ED Lens",
+    "manualfocus": "Yes",
+    "continuousshots": "Up to 3 Shots at 7.1 fps (Continuous H), Up to 12 Shots at 1.4 fps (Continuous L)",
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Daylight, Flash, Fluorescent, Incandescent, Manual",
+    "facedetection": "Yes",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "autofocus": "Contrast Detection AF",
+    "flashrange": "Wide : 0.3 to 3.5m, Telephoto : 0.5 to 2.2m",
+    "focallength": "5 - 25 mm (35 mm Equivalent to 28 - 140 mm)",
+    "isorating": "Auto (Auto Gain ISO 125-800), Fixed range Auto (ISO 125-400), ISO 125 / 200 / 400 / 800 / 1600 / 3200",
+    "imagestabilizer": "Five advanced Vibration Reduction",
+    "screensize": "3 Inches",
+    "builtinflash": "Yes",
+    "shootingmodes": "Auto, Easy Auto, Movie, Scene, Smart Portrait",
+    "flashmodes": "Auto, Fill-in, Slow Sync Flash",
+    "imagedisplayresolution": "460000 dots"
+}

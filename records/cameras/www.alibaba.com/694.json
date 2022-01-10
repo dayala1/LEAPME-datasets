@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1.0\u00b10.2VP-P",
+    "baudrate": "1200bps , 2400bps , 4800bps , 9600bps , 19200bps",
+    "netweight": "1kg",
+    "pantiltspeed": "Pan 0.05\u00b0 ~ 300\u00b0/sec;Tilt:0.05\u00b0 ~ 60\u00b0/sec",
+    "power": "DC12V\u00b10.5V/15W",
+    "signalformat": "PAL/NTSC",
+    "imagesensor": "1/4'' color CCD",
+    "pantiltrange": "Pan: 0\u00b0 ~ 360\u00b0continuous ; tilt-15\u00b0 ~ 90\u00b0,auto flip",
+    "agc": "Auto/manual",
+    "opticalzoom": "18\u00d718\u00d718\u00d718\u00d726\u00d726\u00d736\u00d7",
+    "signalnoiseratio": "\u226550dB",
+    "backlightcompensation": "Auto/manual",
+    "application": "Outdoor / Vehicle",
+    "horizontalresolution": "480TVL",
+    "workingtemperature": "-25\u00b0C ~ 70\u00b0C",
+    "digitalzoom": "12\u00d7",
+    "model": "CVV45CVV48CVV480CVV490CVV980CVV990CVV1010"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "microphone": "2ch Stereo",
+    "dimensions": "93.9 x 125.6 x 44.1 mm",
+    "weight": "238 gm",
+    "powerconsumption": "4.0W (Recording) / 3.4W (Charging)",
+    "recordingformat": "[MP4] MPEG-4 AVC / H.264, [iFrame] MPEG-4 AVC / H.264, JPEG (DCF/Exif2.2)",
+    "imagesensor": "1/2.33? MOS",
+    "imagestabilizer": "Active E.I.S [Electronic Image Stabilizer]",
+    "focus": "Auto / Manual",
+    "focallength": "6.8-34.0 mm",
+    "digitalzoom": "120 x (Motion Image), 50 x (Still Image)",
+    "lensconfiguration": "F3.5 (WIDE) / F3.7 (TELE)",
+    "shutterspeedrange": "1/30-1/10000",
+    "memory": "SD/SDHC/SDXC Memory Card",
+    "inputoutput": "AV Output, mini HDMI, USB2.0, AC Cable",
+    "lcdmonitor": "2.6? Wide LCD Monitor (230,400 Dots)",
+    "whitebalance": "Auto / Manual (Sunny / Cloudy / Indoor1 / Indoor2 / White Set)"
+}

@@ -1,0 +1,17 @@
+{
+    "videocapability": "Yes",
+    "category": "camera",
+    "weight": "480 g",
+    "builtinflash": "Yes",
+    "isosensitivity": "AUTO(100-6400), 100-6400 in 1-stop increments ISO can be expanded to H: 12800 During Movie shooting: Auto (100-6400), 100-6400 (Whole stop increments)",
+    "colourofproduct": "Black",
+    "lenssystem": "EF/EF-S",
+    "batterytype": "Rechargeable Li-ion Battery LP-E10",
+    "lcdscreensize": "3 \"",
+    "sensortype": "DIGIC 4",
+    "compatiblememorycards": "SD, SDHC, SDXC",
+    "lenstype": "18-55mm",
+    "dimensionswxdxh": "129.6 x 77.9 x 99.7 mm",
+    "megapixel": "18",
+    "type": "Digital SLR"
+}

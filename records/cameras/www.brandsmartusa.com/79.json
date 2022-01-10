@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "removablemediacompatibility": "microSD",
+    "megapixelsmp": "16.0",
+    "facedetection": "Yes",
+    "weight": "11.0 oz",
+    "flashmodes": "Auto Flash On Flash Off Slow Sync",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "depth": "3.15 in",
+    "opticalzoom": "34x",
+    "lcdscreensize": "3.0\"",
+    "stabilizationtype": "Optical",
+    "width": "4.11 in",
+    "digitalzoom": "4x",
+    "selftimer": "Yes",
+    "imagestabilization": "Yes",
+    "height": "2.72 in",
+    "digitalcameratype": "Point & Shoot"
+}

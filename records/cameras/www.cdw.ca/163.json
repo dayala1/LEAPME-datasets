@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "model": "P1204 Network Camera",
+    "productline": "AXIS",
+    "features": "Motion sensor , ONVIF support , Power over Ethernet , Tamper-detection",
+    "cameratype": "Network camera",
+    "connectivitydetailstype": "Data cable",
+    "totalqty": "1",
+    "networkinterface": "Ethernet 10Base-T/100Base-TX",
+    "connectivitytechnology": "Wired",
+    "digitalvideoformat": "H.264 , MJPEG",
+    "includedqty": "1",
+    "interface": "Ethernet 10Base-T/100Base-TX",
+    "colororbw": "Color",
+    "compatibility": "PC",
+    "packagedquantity": "1",
+    "connectortype": "RJ-45",
+    "brand": "Axis",
+    "networkprotocols": "HTTPS",
+    "manufacturer": "Axis Communications"
+}

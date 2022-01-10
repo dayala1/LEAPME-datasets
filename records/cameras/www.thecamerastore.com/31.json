@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "weight": "831g",
+    "minimumfocusdistance": "3cm",
+    "sensor": "1.0\" MOS Sensor",
+    "isosensitivity": "ISO 125 - 12800",
+    "powersource": "DMW-BLC12PP Li-ion Battery",
+    "framerate": "60p",
+    "opticalzoom": "16x Optical Zoom",
+    "continuousshootingspeed": "12 FPS Continuous Shooting",
+    "recordingmedia": "SD/SDHC/SDXC",
+    "shutterspeed": "60 sec. - 1/16000 sec.",
+    "screensize": "3.0\" LCD Monitor",
+    "bitrate": "100 Mb/s Maximum Bitrate",
+    "dimensionswxhxd": "137mm x 99mm x 131 mm",
+    "autofocuspoints": "49 Point AF",
+    "resolution": "20.1 Megapixels",
+    "videoresolution": "4K HD Recording",
+    "maximumaperture": "f2.8-4.0"
+}

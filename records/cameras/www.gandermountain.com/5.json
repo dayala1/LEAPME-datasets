@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "leds": "46",
+    "flash": "IR Flash",
+    "dimensions": "5.1\"W x 6.9\"H x 2.6\"D",
+    "flashrange": "50'",
+    "megapixels": "7.0",
+    "video": "Yes",
+    "memory": "Requires SD Card",
+    "output": "USB and TV",
+    "audio": "Yes",
+    "powersource": "6 AA or 12V"
+}

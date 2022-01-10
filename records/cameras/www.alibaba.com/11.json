@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videoframerate": "25fps",
+    "snr": "50dB Min",
+    "pixelcount": "1280*960",
+    "powerconsumption": "<6W",
+    "agc": "Auto",
+    "networkingprotocol": "HTTP,TCP/IP,ICMP.RTSP,RTP,UDP,RTCP,SMTP,FTP,DHCP,DNS, DDNS,PPPOE",
+    "imagingsensor": "9D111 CMOS",
+    "videobitrate": "200k~2Mbps Bitrate adjustable",
+    "localstorage": "Supports local micro SD Card storage",
+    "illumination": "0Lux with IR",
+    "lensmount": "CS",
+    "videoresolution": "1280*960 Max",
+    "whitebalance": "Auto"
+}

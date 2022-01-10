@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "dimensions": "L 3.3in x W 1.2in x H 0.39in",
+    "power": "USB bus power",
+    "imagesensor": "1/4in micron",
+    "sensitivity": ">11.5V / lux-s @ 550nm",
+    "snratio": ">45dB",
+    "weight": "1 lb",
+    "upc": "738549877639",
+    "transmissionrange": "Up to 500ft line of sight",
+    "videosystem": "NTSC",
+    "compatibility": "Windows XP, Vista and 7",
+    "resolution": "720x480 pixels",
+    "whitebalance": "Auto tracking",
+    "manufacturer": "KJB Security"
+}

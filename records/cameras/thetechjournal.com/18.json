@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "stillimage": "16MP",
+    "weight": "12.3oz",
+    "stillimageformat": "Exif 2.2 (JPEG)",
+    "isosensitivity": "Auto, ISO 80 / 100 / 200 / 400 / 800 / 1600/ 3200",
+    "antishake": "Optical Image Stabilization",
+    "highdynamicrange": "Yes",
+    "zoom": "15x Optical, 6x Digital",
+    "recording": "640\u00d7480 pixels",
+    "battery": "AA alkaline or NiMH",
+    "internalflash": "Auto, Red-Eye Reduction, Forced Flash, No Flash, Slow Synchro, Red-Eye Reduction + Slow Synchro",
+    "movieformat": "MPEG-4 AVC/H.264(MOV)",
+    "audioformat": "G.711 Monaural",
+    "dimensionswxhxd": "4.06\u2033 \u00d7 2.92\u2033 \u00d7 2.68\u2033",
+    "effectiveimagesensorpixels": "16 Megapixel",
+    "detectionfeatures": "Face Detection, Smile Detection, Blink Detection",
+    "imagecompression": "Best, Fine, Normal"
+}

@@ -1,0 +1,22 @@
+{
+    "attr30": "10,33\u00a0\u20ac309,89\u00a0\u20ac9,47 %9,9 %",
+    "wlan": "Ja",
+    "stromversorgung": "Spezialakku",
+    "attr24": "12,62\u00a0\u20ac302,88\u00a0\u20ac9,47 %9,9 %",
+    "usb": "Ja",
+    "microdrive": "Nein",
+    "sensorchip": "CMOS",
+    "attr6": "47,10\u00a0\u20ac282,60\u00a0\u20ac9,47 %9,9 %",
+    "category": "camera",
+    "touchscreen": "Nein",
+    "hdmi": "Ja",
+    "typ": "LCD",
+    "mmc": "Nein",
+    "attr10": "28,70\u00a0\u20ac287,00\u00a0\u20ac9,47 %9,9 %",
+    "attr12": "24,11\u00a0\u20ac289,32\u00a0\u20ac9,47 %9,9 %",
+    "farbe": "schwarz",
+    "selbstauslser": "Ja",
+    "memorystick": "Nein",
+    "attr18": "16,44\u00a0\u20ac295,92\u00a0\u20ac9,47 %9,9 %",
+    "sd": "SD / SDHC / SDXC"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "lens": "High precision F/2.4 lens",
+    "fov": "152\u00b0FOV(wide)/125\u00b0FOV(narrow)",
+    "sensor": "12MP Sony Exmor CMOS sensor",
+    "capacity": "1,200 mA",
+    "usb": "Battery recharge/File management/Time sync/External mic",
+    "format": "Yes/No (memory card format)",
+    "photo": "Thumb nail/Play/Slide show/Previous file/Next file",
+    "mic": "Built-in MIC/External MIC connection via USB",
+    "wifi": "Wi-Fi On/Off",
+    "storage": "Micro SDHC/SDXC (up to 64GB)",
+    "microhdmi": "Live/Playback",
+    "buttons": "3 Buttons (shutter/quick set/menu)",
+    "lcd": "Built-in 2\" LCD for Live/Playback/Setup",
+    "tvout": "NTSC/PAL",
+    "video": "Thumb nail/Play/Backward play/REW/FF/Previous file/Next file",
+    "resolution": "12M (4000\u00d73000) 4:3",
+    "led": "LED On/Off",
+    "batterytype": "Rechargeable Li-ion battery"
+}

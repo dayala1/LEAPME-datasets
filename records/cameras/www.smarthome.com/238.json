@@ -1,0 +1,22 @@
+{
+    "warranty": "1 year, limited",
+    "videooutput": "1.0 V p-p 75\u2126 Composite, BNC",
+    "weight": "11.3oz (320g)",
+    "powerconsumption": "2.5W / 210mA (maximum)",
+    "effectivepixels": "NTSC: 510(H) x 492(V) PAL: 500(H) x 582(V)",
+    "powersource": "12VDC \u00b110%, 2.1mm DC jack input",
+    "storagetemperature": "-4\u00b0 to 158\u00b0 F (-20\u00b0 to 70\u00b0 C)",
+    "category": "camera",
+    "dimensions": "2.7\" x 3.7\" dia (69 x 94mm dia)",
+    "electronicshutter": "Auto 1/60 (1/50) ~1/100,000 sec.",
+    "minimumillumination": "0.3 lux / f2.0 (50 IRE) (0.0 lux / IR On)",
+    "snratio": ">48 dB (AGC OFF)",
+    "lens": "4.3mm Fixed",
+    "irdistance": "50' (15m) (14pcs IR LED)",
+    "weatherresistant": "IP66",
+    "manufacturer": "Mace",
+    "operatingtemperature": "14\u00b0 to 122\u00b0 F (10\u00b0 to 50\u00b0 C)",
+    "imagesensor": "1/3\" Sony CCD",
+    "upc": "843925003998",
+    "resolution": "420 TV lines (color)"
+}

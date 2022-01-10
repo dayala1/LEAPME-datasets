@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "BNC",
+    "operatingtemperature": "-10 ? ~ +50 ?",
+    "power": "DC12V 1A",
+    "shutterspeed": "1/50 (1/60) -1/100, 000 sec",
+    "minimumillumination": "1.0Lux/F1.2",
+    "snratio": "48dB or more",
+    "accessories": "power adapter, lens, video cable, tripod, BNC-RCA conversion plug",
+    "weight": "190g",
+    "effectivepixels": null,
+    "lensmounttype": "CS",
+    "resolution": null,
+    "imagesensor": null,
+    "dimensions": "52 (W) \u00d7 58 (H) \u00d7 60 (d) mm"
+}

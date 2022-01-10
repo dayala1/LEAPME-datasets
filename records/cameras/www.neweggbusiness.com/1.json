@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "operatingsystemssupported": "Platform Support: PC",
+    "framerate": "30fps",
+    "brand": "AXIS",
+    "networkingprotocol": "IP HTTP HTTPS QoS FTP SMTP Bonjour UPnP DNS DDNS NTP RTSP RTP TCP UDP IGMP RTCP ICMP DHCP ARP SOCKS",
+    "connectiontype": "1 x RJ-45 10/100Base-TX",
+    "labor": "3 years limited",
+    "pantiltzoom": "Optical Zoom: 10x Digital Zoom: 12x",
+    "parts": "3 years limited",
+    "lenstype": "Focal Length : 5.1 - 51mm",
+    "maxresolution": "1920 x 1080",
+    "model": "0304-001",
+    "sensor": "CMOS",
+    "videocaptureresolution": "1920 x 1080, 1280 x 720",
+    "ports": "1 x RJ-45 10/100Base-TX 1 x 3.5mm Microphone 1 x 3.5mm Audio Out 1 x RS-422 Serial 1 x RS-485 Serial 3 x RCA Video Out 1 x RCA Composite Video Out 1 x DC Power Input"
+}

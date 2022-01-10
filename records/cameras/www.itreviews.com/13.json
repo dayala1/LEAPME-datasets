@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "interfaceports": "Proprietary, micro HDMI",
+    "touchscreen": "Yes",
+    "shutterlag": "0.05 seconds",
+    "mediaformat": "Secure Digital, Secure Digital High Capacity, Secure Digital Extended Capacity",
+    "dimensions": "3.2 x 4.7 x 1.8 inches",
+    "weight": "14 oz",
+    "maximumiso": "25600",
+    "videoresolution": "720p, 1080p",
+    "lcdsize": "3 inches",
+    "megapixels": "16 MP",
+    "sensorsize": "Micro Four Thirds (17.3 x 13mm) mm",
+    "sensortype": "CMOS",
+    "viewfindertype": "EVF",
+    "imagestabilization": "In-Body",
+    "lensmount": "Micro Four Thirds",
+    "recycletime": "0.12 seconds",
+    "type": "Compact Interchangeable Lens",
+    "gps": "No"
+}

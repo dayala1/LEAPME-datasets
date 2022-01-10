@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "wifi": "System requirementSupport Iphone(IOS), Android, Windows all",
+    "framerate": "5 to 30fps(Adjustable in computer client end)",
+    "supportedprotocols": "HTTP,DNS,DHCP,PPPOE,SMTP,FIP,SSL,TFTP,NTP,ARP,",
+    "lens": "Viewing angle120\u00b0 ultra-wide angle",
+    "memory": "Type of memory cardTF flash card(supports 512MB to 32GB)",
+    "interface": "InputAC 110V -240V",
+    "wirelessstandard": "IEEE 802.11b/g/n",
+    "videoformat": "AVI ( with H.264 compressed format)"
+}

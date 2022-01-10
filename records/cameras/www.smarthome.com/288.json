@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "1.0 Vp-p Composite 75 ohms",
+    "lens": "2.8mm-12mm",
+    "dimensions": "4.6\" x 3.5\"",
+    "weight": "0.5lbs",
+    "whitebalance": "On/Off by OSD",
+    "minimumillumination": "0.001 lux",
+    "synchronizingsystem": "Internal",
+    "upc": "000355000885",
+    "powersupply": "12V DC",
+    "electronicshutter": "1/60 - 1/100,000 Sec",
+    "resolution": "650 TV Lines, High Resolution",
+    "autogaincontrol": "On/Off by OSD",
+    "daynight": "True Day & Night, controlled by OSD",
+    "imagesensor": "1/3\" SONY SuperHad",
+    "blc": "Auto/On/Off /HSBLC by OSD",
+    "manufacturer": "Hawk-i Security"
+}

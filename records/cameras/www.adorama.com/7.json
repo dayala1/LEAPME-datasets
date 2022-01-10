@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "externalflashconnection": "Hot shoe with center contact",
+    "shuttertype": "Focal plane: Mechanical rubber blanket slotted shutter with horizontal movement",
+    "exposurecontrol": "Manual: shutter speed on body only, aperture on attached lens",
+    "weight": "1.3lbs / 0.59kg",
+    "cameratype": "Mechanical rangefinder",
+    "flashsynchronization": "With first curtain, up to 1/50 seconds",
+    "lenssystem": "Leica M lenses from 16-135mm focal length",
+    "dimensions": "5.4 x 1.5 x 3\" / 137.16 x 38.1 x 76.2mm",
+    "magnification": "0.72x",
+    "filmformat": "1.38\" / 35mm",
+    "shutterspeedrange": "1 to 1/1000 seconds in 1 EV increments, bulb",
+    "lensmount": "Leica M bayonet",
+    "viewfindertype": "Bright line frame viewfinder with automatic parallax correction",
+    "tripodmount": "1/4\" / 6.35mm",
+    "eyepiece": "Calibrated to -0.5 diopter"
+}

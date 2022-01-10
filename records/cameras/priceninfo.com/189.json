@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "audioout": "Stereo",
+    "continuousshooting": "Approx. 2.4 shots/sec. (in P mode) and Approx. 10.3 shots/sec. (in High-speed Burst HQ mode)*",
+    "dimensions": "122.9 x 92.4 x 107.7mm",
+    "weight": "600 gm",
+    "flashrange": "1.6 \u2013 23 ft. (W), 4.6 \u2013 9.8 ft. (T), (50 cm \u2013 7.0 m (W), 1.4 \u2013 3.0 m (T))",
+    "shootingmodes": "C2, C1, M, Av, Tv, P Auto*1, Sports, SCN*2, Creative Filters*3, Movie*4",
+    "builtinflash": "Auto, Red-eye Reduction, Flash On, Flash Off; FE lock, Slow Synchro, Smart Flash",
+    "sensitivity": "AUTO, ISO 100/200/400/800/1600/3200",
+    "whitebalancecontrol": "Auto*, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, Flash, Custom",
+    "selftimer": "Custom",
+    "focallength": "4.3 (W) \u2013 150.5mm (T) (35mm film equivalent",
+    "videoout": "NTSC/PAL",
+    "shootingcapacity": "380 shots",
+    "label0": "12.1 Megapixels 1/2.3-inch CMOS sensor",
+    "label11": "SD memory card, SDHC memory card, SDXC memory card, Eye-Fi",
+    "shutterspeed": "1-1/3200 sec. 15-1/3200 sec. (Total shutter speed range)",
+    "label14": "Battery Pack NB-10L, Compact Power Adapter CA-PS700 (when used with AC Adapter Kit ACK-DC80)",
+    "maximumaperture": "f/2.7 (W), f/5.8 (T)"
+}

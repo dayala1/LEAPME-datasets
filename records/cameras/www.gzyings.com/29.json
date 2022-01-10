@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "large": "2992 x 2992, Medium 1",
+    "macrohybrid": "Corrects for shift-type camera shake, which typically occurs in macro         (close-up) shooting",
+    "normal": "Corrects for a wide range of camera movement when shooting stills",
+    "powered": "Compensates for hand movement when shooting video at the telephoto end         of the zoom range, where camera shake is magnified",
+    "dynamic": "Effective for video shooting at wide-angle focal lengths, eliminating         the unwanted shaking that typically occurs while walking",
+    "tripod": "When tripod use is detected, the Image Stabilizer is stopped because it         is not needed",
+    "attr1": "1] Large",
+    "attr3": "2] Large",
+    "attr16": "9] Large",
+    "attr4": "3] Large",
+    "panning": "Panning motion is detected so that IS does not interfere with desired         camera movement",
+    "medium2": "1220 x 1200, Small"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p,75\u03a9",
+    "imageresolution": "720P 1280*720",
+    "imagesensor": "1/2.9\"CMOS 1.0M",
+    "agc": "AUTO",
+    "whitebalance": "ATW/AWC/Manual/Outdoor(1,800\u00b0K ~ 10,500\u00b0K)Indoor(4,500\u00b0K ~ 8,500\u00b0K)",
+    "wdr": "\u2014",
+    "voltage": "DC12V (9V ~ 15V)",
+    "dnr": "\u2014",
+    "tvsystem": "PAL/NTSC",
+    "model": "MVT-CV11A",
+    "operatingenviroment": "-20 \u00b0C ~60 \u00b0C / 10% ~ 95%RH",
+    "blc": "ON",
+    "osd": "\u2014"
+}

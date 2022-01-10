@@ -1,0 +1,22 @@
+{
+    "weight": "125gm",
+    "isosensitivitysetting": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "exposurecompensation": "Plus / Minus 2.0EV, 1 / 3EV step",
+    "flashmode": "Auto, Flash On, Flash Off, Slow Synchro",
+    "effectivepixels": "14.1 Mega Pixels",
+    "label10": "White Balance Auto / Daylight / Cloudy / Fluorescent / Incandescent / Flash",
+    "lightmetering": "Multi-Pattern / Center Weighted / Spot",
+    "label14": "SD/SDHC/MS/MS-Pro memory card slot",
+    "label15": "Lithium ION Battery Rechargeable Battery",
+    "category": "camera",
+    "batterylife": "220 Shots/ 110 Mins video recording",
+    "selftimer": "10sec / 2sec / off / Potrait 1 / Potrait 2",
+    "dimensionswxhxd": "96.3 x 55.6 x 21.2mm",
+    "label2": "LCD 2.7 (6.9 cm) (230K pixels), Clear Photo LCD",
+    "label4": "Aperture iAuto (F3.3 \u2013 F9.3) / Program Auto (F3.3 \u2013 F9.3)",
+    "sensortype": "1/2.3 Super HAD CCD",
+    "shutterspeed": "iAuto (1/4 \u2013 1/2,000) / Program Auto (2 \u2013 1/2,000)",
+    "autofocusmode": "Intelligent",
+    "opticalzoom": "5x and Precision Digital Zoom",
+    "focusmode": "Multi-point AF (9 points) / Center-weighted AF"
+}

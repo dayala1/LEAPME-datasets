@@ -1,0 +1,23 @@
+{
+    "usagetime": "2 Hours",
+    "scene": "Auto, Scenery, Night scene, Portrait, Night Portrait, Sports, Party, Beach, High Sensitivity, Underwater",
+    "powersource": "Lithium-Ion Battery",
+    "label12": "Pictbridge",
+    "label13": "PC CAM",
+    "label10": "Face Detection",
+    "label11": "Image Stabilization",
+    "label14": "Microphone",
+    "videoformat": "AVI",
+    "category": "camera",
+    "flash": "Auto, Force On, Force Off, Red-Eye Reduction",
+    "selftimer": "2,5, 10 Seconds or 3 Continuous Shoots",
+    "imageresolution": "4032\u00c3\u00973024 (12MP by Interpolation), 3456\u00c3\u00972592 (9MP by  Interpolation), 2560\u00c3\u00971920 (5MP), 2048\u00c3\u00971536 Pixels (3MP), 1280\u00c3\u0097960  (1.3MP), 640\u00c3\u0097480 (VGA)",
+    "batterysize": "550mAh",
+    "imageformat": "JPG",
+    "exposure": "-3, -2, -1,0 ,+1, +2, +3",
+    "operatingtemperature": "-10 to 40 Degree Celsius",
+    "language": "English, Simplified Chinese, Traditional Chinese, French, German,  Spanish, Portuguese, Italian, Russian, Japanese, Korean",
+    "iso": "Auto, 100, 200, 400",
+    "videoresolution": "640\u00c3\u0097480 Pixels (VGA), 320\u00c3\u0097240 Pixels (QVGA)",
+    "whitebalance": "Auto, Daylight, Cloudy, Tungsten, Fluorescent"
+}

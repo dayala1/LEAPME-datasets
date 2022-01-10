@@ -1,0 +1,23 @@
+{
+    "videooutput": "1.0Vp-p Composite video, 75\u2126",
+    "weight": "42.3-oz",
+    "powerconsumption": "Camera only: 9W;Camera w/ fan: 10W;Camera w/ fan and heater: 20W",
+    "sync": "Internal/Line-Lock",
+    "zoom": "12x Optical / 16x Digital",
+    "effectivepixels": "768x494 pixels",
+    "videooutputformat": "NTSC",
+    "category": "camera",
+    "dimensions": "4 13/16 x 7 x 4 13/16 in.",
+    "operatingvoltage": "24VAC",
+    "cablelength": "31.5 in. (80cm)",
+    "daynight": "Auto, Color, B/W (ICR)",
+    "minimumillumination": "Color: 0.2 Lux / B/W: 0.04 Lux",
+    "lens": "3.94~46.05mm",
+    "osdcontrol": "RS-485",
+    "protocols": "Pelco-D, Pelco-P (automatic)",
+    "manufacturer": "Enforcer",
+    "operatingtemperature": "-4\u00b0F~131\u00b0F (-20\u00b0C~55\u00b0C)",
+    "upc": "676544015574",
+    "scanningsystem": "2:1 Interlace",
+    "resolution": "600TVL"
+}

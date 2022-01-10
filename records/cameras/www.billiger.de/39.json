@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "touchscreen": "Nein",
+    "wlan": "Nein",
+    "usb": "Ja",
+    "microdrive": "Nein",
+    "farbe": "silber",
+    "selbstauslser": "Ja",
+    "stromversorgung": "Spezialakku",
+    "memorystick": "Nein",
+    "sensorchip": "CCD",
+    "optischersucher": "Nein",
+    "sd": "SD / SDHC / SDXC",
+    "typ": "LCD",
+    "mmc": "Nein",
+    "hdmi": "Nein"
+}

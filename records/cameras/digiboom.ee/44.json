@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "shutter": "1/4000 to 30 s in steps of 1/3 EV, bulb",
+    "recordingpixelscompression": "Frame size/rate: 1920 \u00d7 1080, 24 fps; 1280 \u00d7 720, 30 fps",
+    "imageprocessor": "EXPEED 2",
+    "lcdmonitor": "3-in. (7.5cm)., approx. 230k-dot TFT LCD with brightness adjustment",
+    "dimensions": "(W \u00d7 H \u00d7 D): Approx.124 \u00d7 96 \u00d7 74.5 mm",
+    "weight": "Approx. 505 g with battery and memory card but without body cap",
+    "imagesensor": "23.1 x 15.4 mm CMOS sensor",
+    "flash": "Flash sync speed: X=1/200 s; synchronizes with shutter at 1/200 s or slower",
+    "memorycard": "SD (Secure Digital), SDHC, SDXC, and Eye-Fi memory cards",
+    "lens": "AF-S DX Nikkor 18-105mm f/3.5-5.6G ED VR",
+    "interface": "Hi-Speed USB, Type C HDMI connector",
+    "other": "Retouch functions: D-Lighting, red-eye correction, trim, monochrome, filter effects, color balance, small picture, image overlay, NEF (RAW) processing, quick retouch, straighten, distortion control, fisheye, color outline, perspective control, miniature effect, edit movie",
+    "focusing": "Single-point AF, dynamic-area AF, auto-area AF, 3D-tracking (11 points)",
+    "viewfinder": "Eye-level pentamirror single-lens reflex",
+    "shooting": "Up to 3 fps (manual focus, mode M or S, shutter speed 1/250 s or faster, and other settings at default values)",
+    "whitebalance": "Auto (TTL white balance with main image sensor and 420-pixel RGB sensor); incandescent, fluorescent (7 types), direct sunlight, flash, cloudy, shade, preset manual, all except preset manual with fine tuning.",
+    "exposurecontrol": "Exposure compensation: -5 to +5 EV in increments of 1/3 EV; ISO sensitivity (Recommended Exposure Index): ISO 100 to 3200 in steps of 1 EV; can also be set to approx. 2 EV above ISO 3200 (ISO 12800 equivalent); auto ISO sensitivity control available"
+}

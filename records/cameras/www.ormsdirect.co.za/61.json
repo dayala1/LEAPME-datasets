@@ -1,0 +1,23 @@
+{
+    "control": "Program AE",
+    "isoequivalent": "Auto, 100, 200, 400, 800, 1600, 3200, 6400",
+    "pictureeffects": "Beauty Face, Contiuous Shot, Landscape, Macro, Panorama, Action Freeze, Rich tone, Silhouette, Sunset, Low Light Shot, Fireworks, Light Trace",
+    "shooting": "1) Smart Auto, 2) Program, 3) A/S/M, 4) Smart, 5) Magic Plus, 6) Set, 7) Movie, 8) Wi-Fi",
+    "imagesize": "16M : 4608\u00d73456, 14MP : 4608\u00d73072, 12M W : 4608\u00d72592, 10M : 3648\u00d72736, 8M (1:1) : 2832\u00d72832, 5M : 2592\u00d71944, 3M : 1984\u00d71488, 2MW : 1920\u00d71080, 1M : 1024\u00d7768",
+    "category": "camera",
+    "compensation": "\u00b12EV (1/3EV steps)",
+    "focallength": "f = 3.58 ~ 214.8mm (35mm film equivalent : 20 ~ 1200 mm)",
+    "externalmemoryoptional": "SDSC (up to 2GB guaranteed), SDHC (up to 32GB guaranteed), SDXC (up to 64GB guaranteed)",
+    "mainlcdscreen": "3.0\" (75.0mm) TFT LCD",
+    "label0": "MODES Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash Off, Red-eye fix",
+    "label1": "USB 2.0 Yes",
+    "label3": "HD MOVIE Yes",
+    "internalmemory": "Approximate 17MB",
+    "meteringsystem": "Metering : Multi, Spot, Center-weighted, Face Detection AE, Metering Range : EV 2~17 (Wide, ISO Auto), EV 4~17 (Tele, ISO Auto)",
+    "edit": "Miniature, Vignetting, Fish Eye, Classic, Retro, Cross Filter",
+    "opticalzoom": "60X",
+    "digitalzoom": "2X",
+    "fno": "2.8 (W) ~ 5.9 (T)",
+    "viewfinder": "EVF 300(H) x 224(V)",
+    "resolution": "460K dots"
+}

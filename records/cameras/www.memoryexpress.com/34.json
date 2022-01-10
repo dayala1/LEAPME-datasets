@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "humidity": "Max. 85% non-condensing",
+    "temperature": "Operating: 0 - 40 \u00b0C (32 - 104 \u00b0F)",
+    "weight": "85 g/3.0 oz (without bracket); 235 g/8.3 oz (with bracket)",
+    "focallength": "3.35 mm, F 2.0",
+    "minimumillumination": "IR off: 0.5 lux IR on: 0 lux 5 meters (16 ft.) IR illumination distance",
+    "standards": "IEEE 802.3, IEEE 802.3u, IEEE 802.3x, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n",
+    "jpeg": "1280 x 720 up to 5 fps",
+    "zoom": "4x digital",
+    "power": "Input: 100 - 240 V AC, 50/60 Hz, 0.2 A Output: 5 V DC , 1 A external power adapter Max. Consumption: 5 W",
+    "networkprotocol": "IPv4, IPv6, ARP, TCP, UDP, ICMP, LLTD, ONVIF Profile S DHCP, NTP, DNS, DDNS, SMTP, FTP, Samba HTTP PPPoE UPnP RTP, RTCP, RTSP, 3GPP",
+    "interface": "10/100 Mbps Ethernet port Micro SD slot (up to 32 GB) Reset button WPS button LED indicator Speaker jack Power jack",
+    "audio": "Built-in microphone port 3.5 mm audio jack for 3rd party speaker",
+    "sensor": "1/4\" CMOS Sensor",
+    "viewingangle": "Diagonal: 68\u00b0 Horizontal: 60\u00b0 Vertical: 40\u00b0",
+    "dimensions": "Camera: 103 x 62 x 35 mm (4.1 x 2.5 x 1.4 in.) Bracket: 93 x 93 x 100 mm (3.7 x 3.7 x 3.9 in.)"
+}

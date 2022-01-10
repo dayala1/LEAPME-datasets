@@ -1,0 +1,16 @@
+{
+    "warranty": "10 Year Detector / 5 Year Battery / 2 Year Parts and Labor",
+    "category": "camera",
+    "description": "ProductPrice",
+    "weight": "0.825 kg (1.82 lbs)",
+    "framerate": "60 Hz",
+    "focus": "Manual",
+    "lensoptions": "Standard: 25\u00b0; Optional: 15\u00b0 Tele, 45\u00b0 Wide",
+    "modelnumber": "FLIR E40FLIR E50FLIR E60",
+    "zoom": "2\u00d7 Continuous Digital4\u00d7 Continuous Digital",
+    "optionalaccessories": "15\u00b0 and 45\u00b0 lenses, sunshield, tripod adapter, cigarette lighter adapter kit, Bluetooth headset, and more",
+    "videoout": "Composite",
+    "thermalsensitivity": "< 0.07\u00b0C< 0.05\u00b0C",
+    "temperaturerange": "-4\u00b0F to 1,202\u00b0F (-20\u00b0C to 650\u00b0C)",
+    "accuracy": "\u00b12\u00b0C or \u00b12% of reading"
+}

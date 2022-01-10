@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "sensortype": "1/2.3\u2033(Approx. 7.76mm) CCD",
+    "exposuremeteringsystem": "Multi, Spot, Centre-weighted, Face Detection AE",
+    "focusingtype": "TTL Auto Focus (Centre AF, Multi AF, Object Tracking AF, Face Detection AF)",
+    "exposurecontrol": "Programme AE",
+    "flashrange": "Wide: 0.2m to 4.1m, Tele: 0.5m to 1.4m",
+    "focallength": "Samsung 5x Zoom Lens f = 4.5 to 22.5mm (35mm film equivalent: 25 \u2013 125mm)",
+    "shutterspeed": "Smart Auto: 1/8 to 1/2000 sec., Programme: 1 to 1/2000 sec., Night: 8 to 1/2000 sec., Fireworks: 2 sec.",
+    "focusingrange": "Normal: 80cm to Infinity (Wide), 150cm to Infinity (Tele) Macro: 5cm to 80cm (Wide), 100cm to 150cm (Tele) Auto Macro: 5cm-Infinity (Wide), 100cm to Infinity (Tele)",
+    "effectivepixel": "Approx. 16 Mega pixel",
+    "totalpixel": "Approx. 16.4 Mega pixel",
+    "exposurecompensation": "\u00b12EV (1/3EV steps)",
+    "flashmode": "Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash Off, Red-eye fix",
+    "digitalzoom": "Still Image mode: 1x to 5x Play mode: Eliminated Spec",
+    "displaytype": "3\u2033 (7.62cm), 460K dots Front TFT LCD 1.5\u2033(3.8cm), 61k dots"
+}

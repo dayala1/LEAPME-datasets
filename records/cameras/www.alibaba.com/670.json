@@ -1,0 +1,21 @@
+{
+    "control": "RS485/ RS232",
+    "videooutput": "1.0Vp-p 75 \u03a9",
+    "effectivepixel": "PAL:976(H) x 582(V)\u00a0\u00a0 NTSC:976(H) x 494(V)",
+    "whitebalance": "Auto",
+    "language": "English",
+    "iris": "Auto",
+    "focuslength": "3.3~99.0 mm",
+    "resolution": "super high resolution",
+    "minimumillumination": "Color 0.01Lux\u00a0 B/W 0.001Lux/0Lux",
+    "gaincontrol": "Auto/Manual",
+    "powersupply": "12V 4A",
+    "focus": "Auto/manual, take high-performance DSP to realize complete digit and ultra-high speed focus function",
+    "electronicshutter": "1/50~1/120000 seconds",
+    "dimension": "201 mmX280(h)mm",
+    "horizontalresolution": "700TVL",
+    "workingtemperature": "-20\u00b0C~+50\u00b0C",
+    "category": "camera",
+    "syncsystem": "Internal sync",
+    "imagesensor": "1/3\" EFFIO-S CCD"
+}

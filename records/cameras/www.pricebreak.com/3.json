@@ -1,0 +1,22 @@
+{
+    "microphones": "Monaural",
+    "recordingformat": "- Audio Recording w/ Video, Mono - Video Recording",
+    "isosensitivity": "Auto,     100-3200 High Sensitivity Mode (1600 - 6400)",
+    "exposurecompensation": "1/3 EV step, \u00c2\u00b13 EV",
+    "meteringmode": "Multi     Metering / Center Weighted / Spot",
+    "focusingarea": "- Normal",
+    "category": "camera",
+    "selftimer": "2 sec / 10     sec",
+    "osdlanguage": "English,     Spanish",
+    "speaker": "Monaural",
+    "power": "- Li-ion Battery Pack (3.6V, 895 mAh)",
+    "label7": "Extended Battery Life",
+    "interface": "- Digital",
+    "exposure": "Aperture     Priority, Manual, Programmed Auto, Shutter Priority",
+    "recordingmedia": "- Built-in Memory - SD Memory Card - SDHC Memory Card - SDXC Memory Card",
+    "builtinflash": "- Auto - Auto/Red-eye Reduction - Forced On - Slow Sync./Red-eye Reduction - Forced Off",
+    "opticalzoom": "20x,     Digital",
+    "burstshootingmode": "- Up to 10 fps at 3 MP",
+    "afassistlamp": "Yes",
+    "whitebalance": "Auto /     Daylight / Cloudy / Shade / Incandescent / Custom / Manual /     Preset Manual"
+}

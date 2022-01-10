@@ -1,0 +1,10 @@
+{
+    "lensmounts": "Canon EF mount",
+    "category": "camera",
+    "compatiblelenses": "Canon EF lenses (including EF-S lenses) * Excluding EF-M lenses (35mm-equivalent focal length is approx. 1.6 times the lens focal length)",
+    "afpoints": "9-point AF (Center point: cross-type and vertical line sensitive to f/2.8)",
+    "recordingmedia": "SD/SDHC/SDXC card (Compatible with UHS-I)",
+    "focusmodes": "One-Shot AF (ONE SHOT) AI Servo AF (AI SERVO) AI Focus AF (AI FOCUS) Manual focusing (MF)",
+    "type": "CMOS sensor",
+    "pixels": "Effective pixels: Approx. 18.00 megapixels Total pixels: Approx. 18.50 megapixels"
+}

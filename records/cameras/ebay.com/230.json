@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "dimensionshxwxd": "3.7\" x 2.7\" x 1\" (95 x 68 x 25 mm)",
+    "audio": "Built-in microphone for audio monitoring 3.5mm speaker jack for external speaker Audio Compression: G.711",
+    "operatingtemperature": "+32 ~ 122\u00c2\u00b0F (+0~+50\u00c2\u00b0C)",
+    "weight": "9.9 oz. (280 g), including camera bracket, excluding AC adapter",
+    "approvals": "EMC: - CE, FCC Part 15 Subpart B Class B Wireless RF: CE, FCC Part 15 Subpart C Power Supply: CE, FCC, UL, EN 60950",
+    "imagesensor": "Separate Day and Night image sensors Automatic exposure, white balance, gain, and brightness controls",
+    "lightsensitivity": "0.2 Lux (IR LED Off) 0 Lux (up to 10 meters with IR LED On) Automatically activated IR LED in low light conditions",
+    "buttons": "One reset button, to factor default settings One WPS button for automatic WiFi setup",
+    "videocompression": "H.264, baseline profile level 3.1",
+    "pirsensor": "Effective distance up to 7 meters",
+    "wevemadeafewchangestobidding": "Were these helpful?",
+    "supportedprotocols": "IPv4, HTTP, TCP, ICMP, RTSP, TRP, UDR, RTCP, SMTP, SNTP, FTP, DHCP, ARP, DNS, PPPoE, etc.",
+    "networkinterface": "Ethernet 10BaseT/100BaseTX, Auto-MDIX, RJ45",
+    "security": "Web management username/password protection Video display ID/password protection WiFi WEP and WPA/WPA2 security modes",
+    "lenses": "Separate Day and Night lenses"
+}

@@ -1,0 +1,18 @@
+{
+    "weightg": "380.0",
+    "category": "camera",
+    "lensconstruction": "16 elements in 13 groups",
+    "aperturetype": "7 diaphragm blades / Circular aperture diaphragm",
+    "focallength": "f=45mm to 200mm (35mm film camera equivalent 90mm to 400mm)",
+    "aperturerange": "F4.0(Wide) - F5.6(Tele)",
+    "closestfocusingdistance": "1.0m at all focal lengths",
+    "maxdiameter": "? 70mm / 2.75 in",
+    "filtersize": "?52mm / 2.05 in",
+    "diagonalangleofview": "27dig(W)-6.2dig(T)",
+    "opticalimagestabilizer": "YES",
+    "maximummagnification": "Apporox. 0.19x / 0.38x (35mm film camera equivalent)",
+    "minimumaperture": "F22",
+    "mount": "Micro Four Thirds mount",
+    "overalllength": "Approx. 100mm / 3.93 in (from the tip of the lens to the base side of the lens mount)",
+    "weightoz": "13.4"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "shutter": "Type: Electronic dan Mechanical Speed: 30 - 1/4000 sec",
+    "lcdmonitor": "3.0\" 921k-Dot LCD Monitor",
+    "videorecording": "Full HD",
+    "liveview": "Yes",
+    "isosensitivity": "100-12800 (High Sensitivity Mode: 100-25600)",
+    "autofokus": "Auto dan Manual",
+    "whitebalance": "Auto, Cloudy, Direct Sunlight, Flash, Fluorescent, Incandescent, Preset Manual, Shade",
+    "externalflash": "Hot Shoe",
+    "exposurecompensation": "-5 EV to +5 EV (in 1/3 EV steps)",
+    "internalflash": "Built-in Flash",
+    "playback": "Yes",
+    "viewfinder": "Pentamirror Viewfinder Coverage : 95%",
+    "lensmount": "Nikon F",
+    "imageprocessor": "EXPEED 4",
+    "sensor": "CMOS, 23.2 x 15.4 mm",
+    "model": "DX-Format Digital SLR",
+    "dustreductionsystem": "Yes"
+}

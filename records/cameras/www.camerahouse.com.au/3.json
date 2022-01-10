@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "dimensions": "Approx. 125.0 x 85.0 x 106.5 mm",
+    "power": "One Rechargeable Li-ion Battery EN-EL23",
+    "memorysize": "SD/SDHC/SDXC memory card",
+    "sensitivity": "ISO 100-1600 ISO 3200, 6400 (available when using P, S, A or M mode) Hi 1 (equivalent to ISO 12800) (available when using High ISO monochrome in special effects mode)",
+    "flash": "Built-In Flash",
+    "storage": "SD/SDHC/SDXC memory card",
+    "zoom": "60 x Optical Zoom",
+    "weight": "Approx. 565 g",
+    "megapixel": "16.1 Megapixel",
+    "standoutfeature1": "Advanced BSI-CMOS Sensor",
+    "screensize": "3.0\" LCD Screen",
+    "ccd": "1/2.3-in. type CMOS Sensor",
+    "shutterspeed": "1/4000 * -1 s 1/4000 * -15 s (when ISO sensitivity is 100 in M mode) * When the aperture value is set to f/7.6 (wide-angle end)"
+}

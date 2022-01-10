@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "shippingmethod": ":Courier Services, Self Collect",
+    "imageresolution": "12M (4000 \u00c3\u0097 3000), 10M (3648x2736), 8 M (3264x2448), 5M (2560\u00c3\u00971920)",
+    "shipto": ":Within Malaysia",
+    "weight": "Approx. 72g",
+    "photo": "JPEG",
+    "imagesensor": "5M pixels (CMOS)",
+    "whitebalance": "Automatic",
+    "powersupply": "Built-in 3.7V rechargeable lithium",
+    "shutter": "Electronic shutter",
+    "storagemedium": "MicroSD card (Supporting up to 32GB),( without build-in flash memory)",
+    "cameralens": "F3.1 f=2.9mm",
+    "usbinterface": "High-speed USB 2.0 interface",
+    "videoresolution": "VGA: 640x480 (120 frames / sec), HD: 1280x720 (60 frames/sec.) HD: 1280x720 (30 frames/sec), FHD: 1920x1080 (30 frames/sec.)",
+    "fileformats": "VideoAVI",
+    "exposure": "Automatic"
+}

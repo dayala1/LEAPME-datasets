@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Daylight, Fluorescent-H, Fluorescent-L, Manual, Tungsten",
+    "facedetection": "NA",
+    "shootingmodes": "Aperture Priority, Continuous Shooting, Manual, Panorama, Program, Scene Mode, Shutter Priority, Smart Scene",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted, Matrix, Spot",
+    "displaytype": "LCD",
+    "screensize": "3 Inches",
+    "pictureangle": "25 mm Wide Angle",
+    "imagedisplayresolution": "460000 dots",
+    "videodisplayresolution": "1280 x 720 pixels (HD) @ 30 fps"
+}

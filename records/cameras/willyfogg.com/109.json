@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "sdram": "64MB",
+    "led": "6",
+    "flash": "64MB",
+    "externalmemory": "yes",
+    "serialport": "2 Ports",
+    "gpio": "yes",
+    "usbcable": "yes",
+    "internalram": "4KB"
+}

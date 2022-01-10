@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "memorycardslot": "microSD card",
+    "wirelessconnection": "IEEE 802.11b/g/n",
+    "focusadjustment": "Focus free",
+    "weight": "147 g",
+    "colour": "Black",
+    "lenssystem": "Wide-angle lens - f/2.5",
+    "mediatype": "Flash card",
+    "imagestabiliser": "Electronic",
+    "sensorresolution": "3.32 Mpix",
+    "supportedbattery": "1 x Li-Polymer rechargeable battery - 1450 mAh ( included )",
+    "producttype": "Action camera - 1080p - widescreen",
+    "effectivesensorresolution": "Video: 2.8 Mpix - Photo: 2.8 Mpix",
+    "minfocusdistance": "30 cm"
+}

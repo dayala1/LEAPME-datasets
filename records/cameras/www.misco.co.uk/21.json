@@ -1,0 +1,23 @@
+{
+    "weight": "209g (unloaded), 229g (with battery & SD card)",
+    "battery": "Rechargeable lithium-ion battery D-LI92",
+    "externalmemory": "Compatible SD, SDHC, SDXC and eye-Fi Memory cards",
+    "videoformat": "MPEG-4 AVC/H.264",
+    "category": "camera",
+    "usb": "USB 2.0(Hi-Speed): USB/AV terminal, HDMI terminal (Type D) (Micro port)",
+    "drivemodes": "One shot, Self-timer (10 sec, 2 sec, Remote Control (immediately, 3 sec)), Continuous Shooting, Burst Shooting, Remote Control (2 receivers in front and back of the camera), Auto Bracketing",
+    "photoformat": "JPEG (Exif 2.3), DCF 2.0, DPOF, PRINT Image Matching III",
+    "productdescription": "Ricoh Optio WG-3 16MP Black Tough waterproof camera",
+    "imagesize": "16M(4608x3456), 12M(1:1)(3456x3456),12M(16:9) (4608x 2592), 7M(3072x2304), 5M(16:9)(3072x1728), 5M(2592x1944), 4M(16:9)(2592x1464), 3M (2048x1536), 2M(16:9)(1920x1080), 1024(1024x768), 640(640 x 480) (Unit:pixels)",
+    "focallength": "4.5 - 18mm, approx. 25 - 100mm in 35mm",
+    "internalmemory": "approx. 70 MB",
+    "operatingsystems": "PC: Windows XP (SP3), Vista TM ,7 and 8 Mac: OS X 10.4 or above",
+    "dimensions": "approx 125(W) x 64.5(H) x 32(D) mm",
+    "focusingtype": "TTL contrast detection auto focus system, 9-point AF, Spot AF, Auto tracking AF",
+    "opticalzoom": "4X",
+    "flashmodes": "Flash-on, Flash-off,\u00a0\"Red-eye\" compensation function with pre-discharge",
+    "digitalzoom": "Approx. 7.2x",
+    "software": "PC: MediaImpression 3.6.2 LE Mac: MediaImpression 2.2 LE",
+    "videoresolution": "Full HD 1920 (1920\uff581080),approx. 30fps, HD 1280 (1280x720), approx. 60/30fps,",
+    "focusrange": "Infinity-landscape, Pan Focus, Manual Focus Standard 0.4m - infinity (whole zoom area), Macro 0.1m - 0.5m (whole zoom area), 1cm Macro 0.01m - 0.3m (mid-zoom to telephoto) Manual focus range 0.01m - infinity (Depends on the zooming steps)"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "wirelessconnectivity": "Yes (IEEE 802.11n support)",
+    "imagesensortype": "CMOS",
+    "cameratype": "Interchangeable Lens",
+    "flashmodes": "Modes : Smart Flash, Auto, Auto+Red-eye reduction, Fill-in, Fill-in+Red-eye reduction, 1st Curtain, 2nd Curtain, OFF",
+    "resolution": "8VGA ( 640X40 ) 921k dots",
+    "isoequivalent": "ISO Equivalent : Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800 (1 or 1/3EV step) * AUTO ISO Upper Level is Selectable. (Up to ISO3200)",
+    "effectivepixel": "Approx 20.3 Megapixels",
+    "productsizewxhxd": "4.59\" x 2.46\" x 1.44\"",
+    "smartauto": "2.0",
+    "fileformat": "RAW (SRW), JPEG (EXIF 2.21), DCF, DPOF 1.1, PictBridge 1.0",
+    "lenstype": "20-50mm F/3.5-5.6 ED Lens",
+    "opticalimagestabilization": "OIS Mode1 / Mode2 / OFF",
+    "focusingmodes": "Modes : Single AF, Continuous AF, MF",
+    "mount": "Samsung NX Mount",
+    "display": "Main LCD Screen : 3\u201d TFT LCD",
+    "inputsoutputs": "Video Out USB 2.0 (HI-SPEED)"
+}

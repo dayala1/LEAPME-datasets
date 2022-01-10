@@ -1,0 +1,20 @@
+{
+    "selftimerdelay": "2 seconds, 5 seconds,10 seconds,off",
+    "category": "camera",
+    "imageresolution": "640 x480(VGA), 1600 X 1200(2M), 2048 x 1536(3M) 2592 X 1944(5M)4032 X 3024( interpolation)",
+    "autopoweroff": "1 minute/3 minutes/5 minutes/disable",
+    "zoom": "Digital zoom x 4",
+    "features": "Mutli- Mode Digital still camera, Mass storage driver",
+    "shootingmodes": "Auto",
+    "focusingrange": "120cm ~ \u221e ,Macro: 22~27mm TFT LCD TXD/TG 2.4\" TFT",
+    "micinput": "Speaker",
+    "manual": "(+/-3.0EV in steps of 1 EV)",
+    "scene": "Portrait, Party,Night Portrait,Night scenery,High senstivity,Sports, Landscape,beach, Night Landscape, Back light",
+    "lens": "ST-6038-A6",
+    "osdlanguage": "English,Francais,Espanol,Portugues,Deutsch,Nederlands,Italiano,Simplified Chinese,Japanese,Traditional Chinese",
+    "frequency": "50Hz/60Hz",
+    "external": "SD&MMC Card",
+    "usb20": "I / O interfaceAV OUT",
+    "imagesensor": "5.0Mega pixels, 1/2.5\" MI5100 CMOS sensor",
+    "exposurecontrol": "Auto"
+}

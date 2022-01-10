@@ -1,0 +1,17 @@
+{
+    "function": "WEB configuration, OSD, real-time video transmission, motion detection and picture pop up linkage, front end storage ,playback and download, uniform client and platform system application, complete SDK for second development.",
+    "videooutput": "Main streaming:2592\u00d71920,2048\u00d71536,1920\u00d71080,1600\u00d71200,1280\u00d71024,1280\u00d7960,1024\u00d7768,1280\u00d7720 Sub streaming;960*540,640\u00d7360,480\u00d7270,352\u00d7288,320\u00d7240, 352\u00d7192,320\u00d7192,288\u00d7192,256\u00d7192;500",
+    "weight": "1120g",
+    "operationtemperature": "-10\u00b0C~+60\u00b0C, 10%~90%RH",
+    "dnmode": "Auto switching, black and white vide and IR cut action linkage",
+    "framerate": "5.0MP 10 frame,3.0MP 17 frame, Less than2.0MP 25 frame(full real time),support 1~25frame/seconds adjustable",
+    "system": "Embed RTOS, 32 bit DSP(TI DM368), watch dog,32M FLASH,128M DDR2",
+    "powersupply": "DC12V/POE(optional)",
+    "lens": "Vari-focal 4-9MM/2.8-12MM lens",
+    "irdistance": "25-30M( 30pcs \u03a65 IR LEDs)",
+    "illumination": "Color 1.0Lux at F1.2,Black 0.1 Lux at F1.2",
+    "networkinterface": "RJ45 ethernet,10/100M;RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP protocol supported",
+    "sensor": "5.0M Pixel 1/2.5\" CMOS Sensor",
+    "dimension": "305*97*81mm",
+    "category": "camera"
+}

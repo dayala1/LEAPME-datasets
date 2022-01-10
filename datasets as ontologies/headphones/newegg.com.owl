@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="newegg.com:newegg.com#"
+     xml:base="newegg.com:newegg.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:newegg="newegg.com:">
+    <owl:Ontology rdf:about="newegg.com:newegg.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- newegg.com:Accessories-Furnished -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Accessories-Furnished">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accessories Furnished</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Brand -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Cable -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Cable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Connectivity -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Connectivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connectivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Driver-Diameter -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Driver-Diameter">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Driver Diameter</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Earpiece-Design -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Earpiece-Design">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earpiece Design</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Features -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Fit-Design -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Fit-Design">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fit Design</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Frequency-Response -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Frequency-Response">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency Response</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Impedance -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Impedance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Impedance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Magnet -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Magnet">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magnet</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Maximum-Input-Power -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Maximum-Input-Power">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maximum Input Power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Model -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Sensitivity -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Sensitivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensitivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Type -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- newegg.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="newegg.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- newegg.com:0 -->
+
+    <owl:NamedIndividual rdf:about="newegg.com:0">
+        <newegg:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1,600mW @ 1kHz</newegg:Maximum-Input-Power>
+        <newegg:Frequency-Response rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 15 ~ 28,000Hz</newegg:Frequency-Response>
+        <newegg:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 285 g (without cable and connector)</newegg:Weight>
+        <newegg:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 38 O</newegg:Impedance>
+        <newegg:Driver-Diameter rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 45 mm</newegg:Driver-Diameter>
+        <newegg:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 99 dB/mW</newegg:Sensitivity>
+        <newegg:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> ATH-M50x</newegg:Model>
+        <newegg:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Audio-Technica</newegg:Brand>
+        <newegg:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Black</newegg:Color>
+        <newegg:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Closed-back dynamic</newegg:Type>
+        <newegg:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Ear-Cup (Over the Ear)</newegg:Earpiece-Design>
+        <newegg:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Foldable</newegg:Features>
+        <newegg:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Headband</newegg:Fit-Design>
+        <newegg:Cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Interchangeable cables: detachable 1.2 m - 3.0 m coiled cable, detachable 3.0 m straight cable and detachable 1.2 m straight cable</newegg:Cable>
+        <newegg:Magnet rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Neodymium / CCAW coil</newegg:Magnet>
+        <newegg:Accessories-Furnished rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Protective carrying pouch, Ø6.3 mm snap-on adapter</newegg:Accessories-Furnished>
+        <newegg:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Wired </newegg:Connectivity>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

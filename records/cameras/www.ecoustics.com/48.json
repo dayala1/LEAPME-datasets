@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "hdmimini": "1",
+    "features": "Touchscreen, HD video recording, Articulating screen, Wi-Fi",
+    "resolution": "921,600 dots",
+    "flash": "External only",
+    "opticalzoom": "3x",
+    "exposurecompensation": "+/-3.0 EV",
+    "digitalzoom": "4x",
+    "maxisosensitivity": "25,600",
+    "usb": "1",
+    "videoout": "Yes",
+    "afpoints": "99",
+    "whitebalance": "Auto, Daylight, Shade, Cloudy, Incandescent, Fluorescent, Flash, Color temperature range 2500 to 9900K, Custom",
+    "size": "3\u2033"
+}

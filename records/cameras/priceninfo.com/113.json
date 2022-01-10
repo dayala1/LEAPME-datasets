@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "lcdsize": "2.7 inch",
+    "videodisplayresolution": "1280 x 720",
+    "weight": "495 g",
+    "focallength": "18 -55 mm",
+    "lcdinfodisplay": "TFT color LCD",
+    "sensorsize": "22.2 x 14.7 mm",
+    "sensortype": "CMOS",
+    "lenstype": "EF / EF-S",
+    "opticalsensorresolution": "12.2 Megapixels",
+    "colorfilter": "RGB Color Filter Array",
+    "manualfocus": "Yes",
+    "viewfinder": "Eye-level pentamirror",
+    "autofocus": "Quick mode, Live mode",
+    "imagedisplayresolution": "230,000 dots",
+    "batterytype": "Rechargeable Li-ion Battery LP-E10",
+    "usbcable": "USB 2.0 High Speed",
+    "dimensions": "130 x 100 x 78 mm"
+}

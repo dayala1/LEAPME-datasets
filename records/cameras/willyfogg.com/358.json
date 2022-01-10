@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "lcddisplay": "7 in. capacitive 4.3 in. capacitive (-US$30.00) 4.3 in. resistive (-US$67.00) 5 in. resistive (-US$40.00) 7 in. resistive (-US$34.00) 8 in. resistive (+US$20.00) 10.1 in. resistive (+US$100.00)",
+    "hdmi": "Port on CPU ModulePort on Base Board",
+    "item": "Tiny210SDK1Tiny210V2SDK",
+    "filesystem": "Ubi filesystem, yaffs, ext2/3",
+    "ethernet": "PHY on Base BoardPHY on CPU Module",
+    "audio": "Codec on Base BoardCodec on CPU Module"
+}

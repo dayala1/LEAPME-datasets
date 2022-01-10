@@ -1,0 +1,23 @@
+{
+    "meteringrange": "n/an/an/a0 - 20 EV0 - 20 EV",
+    "burstshooting": "8fps unlimited 47 JPEG/n/a raw5fps (mechanical shutter) (60fps with fixed focus, electronic shutter)20fps (60fps with fixed focus)9fps 17 JPEG/11 raw11fps n/a",
+    "is": "OpticalOpticalOpticalSensor shiftOptical",
+    "metering": "256 zonesn/an/a324 area1,200 zones",
+    "sensitivityrange": "ISO 100 (exp)/200 - ISO 6400/51200 (exp)ISO 160 - ISO 6400ISO 160 - ISO 12800ISO 200 - ISO 25600ISO 100 - ISO 25600",
+    "focallengthmultiplier": "1.5x2.7x2.7x2.0x1.5x",
+    "category": "camera",
+    "na": "$1,049.95 (with 10-30 and 30-110mm lenses)n/a$1,099.99 (with 14-42mm lens)n/a",
+    "flash": "Included add-onYesYesIncluded add-onYes",
+    "storage": "1 x SD1 x SD1 x micro SD1 x SD1 x SD",
+    "autofocus": "49-area     contrast AF;  phase-detection AF41-point phase detection, 135-area contrast AF105-point phase detection 171-area contrast AF35-area contrast AF175-point phase detection, 25-area contrast AF",
+    "imagestabilizer": "optical",
+    "wireless": "Wi-FiNoneWi-FiNoneWi-Fi, NFC",
+    "shutterspeed": "30-1/4,000 sec.; bulb to 60 min; 1/180 x-sync30 - 1/4,000 (mechanical); 1/16,000 sec (electronic); bulb; 1/60 x-sync (mechanical); 1/250 x-sync (electronic)30 -  1/16,000 sec (electronic shutter); bulb; 1/250 x-sync60 - 1/4,000 sec.; bulb to 8 minutes; 1/250 sec x-sync (flash-dependent)30-1/4,000 sec.; bulb; 1/160 sec x-sync",
+    "lcdsize": "3-inch fixed LCD 1.04 million dots3-inch fixed 920,000 dots3-inch tilting touch screen 1.04 million dots3-inch tilting touch screen OLED 614,000 dots3-inch tilting touch screen 921,600 dots",
+    "opticalsensortype": "CMOS",
+    "opticalzoom": "3 x",
+    "sensorresolution": "18.4 Megapixel",
+    "opticalsensorsize": "13.2 x 8.8mm",
+    "viewfinder": "EVF 0.5-inch 2.4 million dots 100% coverage 1.2x/0.77x0.5-inch EVF 1.44 million dots 100% coverage n/aBundled EVF 0.5-inch 2.4 million dots 100% coverage n/aEVF n/a-inch 1.44m dots 100% coverage 1.15x/0.58xOLED EVF 0.4-inch 1.44 million dots 100% coverage 1.07x/0.71x",
+    "audio": "Stereo; mic inputStereo; mic inputStereo; mic inputStereo; mic inputStereo; mic (via accessory shoe)"
+}

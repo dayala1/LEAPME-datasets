@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "iscustomized": "Yes",
+    "imagestabilization": "Optical Image Stabilizer",
+    "storagetype": "Flash-Based DV",
+    "highdefinitionsupport": "1080P (Full-HD)",
+    "chip": "Novatek",
+    "opticalzoom": "< 10x",
+    "mediatype": "HDD / Flash Memory",
+    "sensortype": "CMOS",
+    "videocompressionformat": "H264",
+    "osdlanguage": "multi language",
+    "frequency": "50Hz / 60Hz",
+    "screensize": "< 2\"",
+    "modelnumber": "SJ4000",
+    "usage": "Home Use",
+    "type": "HD Camera",
+    "pixels": "6 million more",
+    "battery": "900mAh"
+}

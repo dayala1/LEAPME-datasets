@@ -1,0 +1,23 @@
+{
+    "videooutput": "1.0Vp-p Composite Signal (75 ohm)",
+    "sharpness": "Off",
+    "powersupply": "DC 12V 110mA +/- 10%",
+    "mirror": "Off",
+    "motiondetection": "Off",
+    "dwdr": "On",
+    "currentconsumption": "Max. 410mA (CDS On)",
+    "daynight": "Yes",
+    "blc": "Off",
+    "category": "camera",
+    "lens": "3.6mm Fixed Board Lens",
+    "shutterspeed": "- 1/60 ~ 1/100,000sec. (NTSC) - 1/50 ~ 1/100,000sec. (PAL)",
+    "privacymasking": "Off",
+    "leds": "30 IR LEDs",
+    "minillumination": "0Lux (IR LED On)",
+    "imagesensor": "1/3\" High Resolrution CCD",
+    "effectivepixel": "976(H) x 494(V) NTSC / 976(H) x 582(V) PAL",
+    "agc": "High",
+    "scanningsystem": "2",
+    "resolution": "700 TV Lines (Color) / 750 TV Lines (B/W)",
+    "whitebalance": "ATW"
+}

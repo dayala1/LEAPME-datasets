@@ -1,0 +1,8 @@
+{
+    "category": "camera",
+    "drivers": "Debug serial port, RTC, Ethernet, NAND Flash, TFT LCD, Touch screen, TF card, USB Device, USB host, Audio input/output, RS485, NLED, Keypad, PRU",
+    "item": "DescriptionInterfaceLinux SupportAndroid SupportWinCE Support",
+    "lcddisplay": "none 4.3 in. (+US$110.00) 7 in. (+US$130.00)",
+    "os": "ItemRemarks",
+    "app": "Application moduleFlash Player plugin and Flash player"
+}

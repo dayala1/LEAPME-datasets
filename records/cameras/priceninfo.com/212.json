@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "label9": "CCD Image Sensor Type",
+    "label3": "16.1 Mega Pixels sensor",
+    "dimensions": "3.62 \u00d7 2.21 \u00d7 0.72 inches",
+    "internalmemory": "10MB",
+    "label1": "LCD adjustable from 0 to 180 degrees",
+    "interfaces": "HDMI 1.3, USB 2.0",
+    "flash": "Multi AF, Face Detection AF, Center AF, Smart Face Recognition AF, Object Trackikng AF, One Touch Shooting AF",
+    "label4": "5x Optical Zoom",
+    "label6": "3D photo, Beauty shot, Live Panorama and Self stand",
+    "label5": "3-inch touch panel",
+    "lens": "Schneider Lens",
+    "imagestabilization": "Dual Image Stabilization",
+    "batterymodel": "740 mAh",
+    "label7": "HD video recording",
+    "label16": "Stereo Microphone, Mono Speaker",
+    "imagesensor": "16.15 Mega pixels",
+    "label14": "Micro SD Card Slot",
+    "label15": "Audio recording"
+}

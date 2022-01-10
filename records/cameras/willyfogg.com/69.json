@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "productdescription": "USB3.0 four ports PCI Express Host Controller",
+    "operationtemperature": "0 to 57\u00b0C (32 to 134\u00b0F)",
+    "powerinput": "4-pin CD-ROM Type Power Connector",
+    "bracket": "Standard 121mm / Low Profile 79.2mm",
+    "interface": "USB3.0",
+    "storagetemperature": "-20 to 85\u00b0C (-4 to 185\u00b0F)",
+    "poweroutput": "+5V / 900mA (each port)",
+    "speed": "Data Transfer rate of 1.5/12/480/5000 Mbps. Low Speed (1.5Mbps), Full Speed(12Mbps), High Speed(480Mbps), Super Speed(5Gpbs)"
+}

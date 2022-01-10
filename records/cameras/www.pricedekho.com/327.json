@@ -1,0 +1,22 @@
+{
+    "videodisplayresolution": "1280 x 720 pixels (HD)",
+    "metering": "Average, Multi, Spot, TTL 256-Zones",
+    "lenstype": "Fujinon Lens",
+    "continuousshots": "3D: Top-40 (max. 2 fps \"S\" only), 2D: Top-40 (max. 1 fps), 2D: High speed Top-40 (max. 3 fps \"S\" only)",
+    "category": "camera",
+    "dustreduction": "NA",
+    "facedetection": "Yes",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "syncterminal": "Yes",
+    "autofocus": "Contrast Detection AF",
+    "flashrange": "(ISO 800)",
+    "focallength": "6.3 - 18.9 mm (35 mm Equivalent to 35 - 105 mm)",
+    "isorating": "Auto 400 / 800 / 1600, Standard Output Sensitivity (ISO 100 / 200 / 400 / 800 / 1600)",
+    "whitebalancing": "Automatic Scene Recognition, Fine, Fluorescent (D: Daylight Color, Incandescent, N: Daylight White, Shade, Underwater, W: Cool White)",
+    "screensize": "3.5 Inches",
+    "builtinflash": "Yes",
+    "shootingmodes": "SP Mode: Natural Light, Natural Light And With Flash, Portrait, Landscape, Sport, Night, Night (Tripod), Sunset, Snow, Beach, Underwater, Party, Anti-Blur; Adv 3D: Interval 3D Shooting, Individual Shutter 3D Shooting; Adv 2D: Tele/Wide Simultaneous Shooting, 2-Color Simultaneous Shooting, 2-Sensitivity Simultaneous Shooting",
+    "flashmodes": "Auto, Forced, Slow Sync, Suppressed Flash",
+    "imagedisplayresolution": "1150000 dots"
+}

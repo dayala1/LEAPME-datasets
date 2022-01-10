@@ -1,0 +1,6 @@
+{
+    "category": "camera",
+    "drivers": "Audio (I2S and AC97), Backlight, Battery, Camera, CEC, CMM (codec memory management), Display, I2C, IROM BOOT, JPEG, Keypad, MFC (Multi-Format Codec, MPEG2, MPEG4, H.263, H.264, VC-1), Nand Flash, NLED, OTG, Power Button, Power Control, SD/MMC, Serial, SPI, Touch Screen, TVOUT (HDMI and Composite Video), USB EHCI, USB OHCI, DM9000 NDIS",
+    "item": "DescriptionInterfaceAndroid SupportWinCE Support",
+    "os": "ItemRemarks"
+}

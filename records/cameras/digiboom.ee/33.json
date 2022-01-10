@@ -1,0 +1,18 @@
+{
+    "memorycard": "SD (Secure Digital), SDHC, and SDXC memory cards",
+    "shutter": "1/4000 - 30 s in steps of 1/3 or 1/2 EV; Bulb; Time (requires optional ML-L3 remote control)",
+    "recordingpixelscompression": "1,920 x 1,080, 30 p/25 p/24 p, high/normal 1,280 x 720, 30 p/25 p/24 p, high/normal 640 x 424, 30 p/25 p, high/normal A frame rate of 30 p (actual frame rate 29.97 fps) is available when NTSC is selected for video mode. 25 p is available when PAL is selected for video mode. Actual frame rate when 24 p is selected is 23.976 fps.",
+    "lcdmonitor": "7.5 cm (3-in.), 921k-dot vari-angle LCD monitor with wide viewing angle",
+    "dimensions": "(W x H x D): Approx.128 x 97 x 79 mm",
+    "weight": "Approx. 510 g",
+    "imagesensor": "23.6 x 15.6 mm CMOS sensor; Effective pixels 16.2 million",
+    "flash": "Auto modes (auto; auto, flash off ); programmed auto with flexible program (P); shutter-priority auto (S); aperture-priority auto (A); manual (M); scene modes (portrait; landscape; child; sports; close up; night portrait; night landscape; party/indoor; beach/snow; sunset; dusk/dawn; pet portrait; candlelight; blossom; autumn colors; food); special effects modes (night vision; color sketch; miniature effect; selective color; silhouette; high key; low key)",
+    "powersupply": "One rechargeable Li-ion EN-EL14 battery",
+    "lens": "AF-S DX Nikkor 18-105mm f/3.5-5.6G ED VR",
+    "interface": "Hi-Speed USB, NTSC, PAL, Type C mini-pin HDMI connector",
+    "focusing": "Single-point AF, dynamic-area AF, auto-area AF, 3D-tracking (11 points)",
+    "viewfinder": "Eye-level pentamirror single-lens reflex viewfinder",
+    "shooting": "4 fps continuous shooting: enables you to capture fast-moving action at four frames per second.",
+    "whitebalance": "Auto, incandescent, fluorescent (7 types), direct sunlight, flash, cloudy, shade, preset manual, all except preset manual with fine tuning.",
+    "category": "camera"
+}

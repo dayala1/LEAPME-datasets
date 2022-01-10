@@ -1,0 +1,16 @@
+{
+    "warranty": "- 3 year limited",
+    "category": "camera",
+    "certifications": "- CE - FCC - UL 60950",
+    "dimensions": "- 60 x 60 x 152 mm (2.4 x 2.4 x 6.2 in.)",
+    "power": "- Input",
+    "operatinghumidity": "- Max. 95% non-condensing",
+    "housing": "- Weather rating",
+    "zoom": "- User-defined digital zoom",
+    "lens": "- Focal length",
+    "video": "- D-WDR",
+    "networkprotocol": "- IPv4, IPv6, UDP, TCP, ICMP, ONVIF v2.2 DHCP, NTP, DNS, DDNS, SMTP, FTP, SNMP (v1, v2c, v3) - NFS, SMB/CIFS - HTTP, HTTPS - PPPoE - UPnP, Bonjour, RTSP, RTP, RTCP, SSL",
+    "minimumillumination": "- IR off",
+    "viewingangle": "- Horizontal",
+    "operatingtemperature": "- -30 - 60 \u00b0C (-22 - 140 \u00b0F)"
+}

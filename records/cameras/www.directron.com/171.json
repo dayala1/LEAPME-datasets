@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1.0 Vp-p (Sync. Negative) Termination 75 Ohm",
+    "effectivepixel": "976(H) x 494(V) NTSC",
+    "led": "36 IR LEDs",
+    "minillumination": "0.01 Lux (24 LED On)",
+    "operatingtemp": "14\u00b0F to 122\u00b0F",
+    "resolution": "700 TV Lines",
+    "imagesensor": "1/3\" High Resolution CCD",
+    "snratio": "52 dB or more (AGC Off)",
+    "agc": "LOW / MIDDLE / HIGH / OFF",
+    "currentconsumption": "Max. 350mA (LED On)",
+    "powersupply": "12V DC +/- 10%",
+    "lens": "2.8~12mm Varifocal Lens",
+    "synchronization": "Internal",
+    "scanningsystem": "2",
+    "shutter": "1/60 - 1/100,000 sec (NTSC)",
+    "daynight": "Electronic",
+    "dimension": "\u03a63.65 X 3.07(H) inch"
+}

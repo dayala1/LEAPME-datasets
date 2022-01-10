@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p @ 75",
+    "snratio": "More than 48dB (AGC off)",
+    "imagesensor": "1/3\" SHARP CCD",
+    "operatingtemperature": "14 ~ 122 degrees F (-10 ~ 50 degrees C)",
+    "ntsc": "60Hz",
+    "gammacorrection": "0.45",
+    "label1": "Picture element 500 (H) x 582 (V) CCIR/PAL 510 (H) x 492 (V) EIA/NTSC",
+    "minimumillumination": "0.2 Lux @ F2.0, 0 Lux (IR LED on at night)",
+    "ioport": "Video (BNC jack) / power (DC jack)",
+    "powersupply": "12VDC, 300mA",
+    "irpoweron": "CDS automatic control",
+    "electronicshutter": "1/50 (1/60) ~ 100,000 sec.",
+    "nightvision": "30 ~ 40 m",
+    "label3": "510 (H) x 492 (V) EIA/NTSC",
+    "synchronization": "Internal sync.",
+    "resolution": "420 TV lines",
+    "label2": "500 (H) x 582 (V) CCIR/PAL"
+}

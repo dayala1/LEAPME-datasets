@@ -1,0 +1,21 @@
+{
+    "selftimerdelay": "2s / 5s / 10s",
+    "category": "camera",
+    "microphone": "Yes",
+    "userreviews": "Write a review",
+    "imageresolutions": "640x480 / 2048x1536 / 2592x1944 / 3264x2448 / 4000x3000",
+    "imageformat": "JPEG",
+    "productrating": "0 out of 5",
+    "flashmodes": "Auto / Fill-in / Off / Red Eye Reduction",
+    "brand": "Vivitar",
+    "ean": "0681066477878, 0681066980453, 0681066372364, 0876544694469, 0876544693936",
+    "upc": "681066477878, 681066980453, 681066372364, 876544694469, 876544693936",
+    "screentype": "LCD",
+    "productname": "Vivitar T027",
+    "aperture": "F/3.0",
+    "exposurecompensation": "-/+ 3 EV range, in 1/3 EV steps",
+    "digitalvideoformat": "AVI",
+    "whitebalancepresets": "Cloudy / Daylight / Sunny / Incandescent",
+    "resolution": "12.1 MP (more than 57%)",
+    "screensize": "2.7\""
+}

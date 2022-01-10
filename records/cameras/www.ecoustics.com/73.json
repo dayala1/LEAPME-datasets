@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "AV",
+    "weight": "90.3 g (without battery)",
+    "battery": "BP70A",
+    "imagesensor": "16.2 effective megapixel 1/2.3\u2033 CCD",
+    "storage": "Micro SD Card (up to 2GB), Micro SDHC (up to 8GB)",
+    "wificonnectivity": "N/A",
+    "display": "67.5mm(2.7\u201d) TFT LCD screen",
+    "lens": "5x Optical Zoom Lens, 25mm Wide Angle, F2.5(W) ~ 6.3(T)",
+    "video": "MP4 (Video: MPEG4, AVC/H.264, Audio: AAC) 1280\u00d7720 (30fps, 15fps), 640\u00d7480(30fps, 15fps), 320\u00d7240 (30fpss 15fps)",
+    "dimensionwxhxd": "91.6 x 55.2 x 17.5 mm",
+    "iso": "Auto, 80, 100, 200, 400, 800, 1600, 3200",
+    "image": "JPEG format 16M, 14M, 12M Wide, 10M, 5M, 3M, 2M Wide, 1M",
+    "is": "DIS"
+}

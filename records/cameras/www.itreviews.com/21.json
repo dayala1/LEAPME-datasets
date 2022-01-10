@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "interfaceports": "Proprietary, mini HDMI, Mic",
+    "touchscreen": "No",
+    "shutterlag": "0.15 seconds",
+    "mediaformat": "Secure Digital, Secure Digital High Capacity, Secure Digital Extended Capacity",
+    "dimensions": "3.1 x 4.7 x 2 inches",
+    "weight": "14.1 oz",
+    "maximumiso": "6400",
+    "videoresolution": "720p, 1080p, 480p",
+    "lcdsize": "3 inches",
+    "megapixels": "12 MP",
+    "opticalzoom": "7.1 x",
+    "sensorsize": "1/1.7\" (7.6 x 5.7mm) mm",
+    "sensortype": "CMOS",
+    "viewfindertype": "EVF",
+    "imagestabilization": "Optical",
+    "recycletime": "0.12 seconds",
+    "type": "Compact",
+    "gps": "No"
+}

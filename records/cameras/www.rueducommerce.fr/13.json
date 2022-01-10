@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "alimentation": "-",
+    "dimensions": "-",
+    "typedecapteur": "CMOS",
+    "balancedesblancs": "-",
+    "flash": "-",
+    "modesdeflash": "Flash integr\u00e9 : Modes Auto, Portrait, Enfants, Gros plan, Portrait de nuit, F\u00eate/int\u00e9rieur, Animaux domestiques : flash auto \u00e0 ouverture automatique P, S, A, M, Aliments : ouverture manuelle avec commande d'ouverture Automatique, automatique avec att\u00e9nuation des yeux rouges, dosage flash/ambiance, synchro lente automatique, synchro lente automatique avec att\u00e9nuation des yeux rouges et synchro lente sur le second rideau",
+    "viseur": "-",
+    "poids": "Environ 560 g (sans accumulateur, carte m\u00e9moire ni bouchon de bo\u00eetier)",
+    "typedebatterie": "Accumulateur Li-ion rechargeable EN-EL14",
+    "exposition": "-",
+    "tailleducapteur": "23,6 x 15,8 mm",
+    "capteur": "-",
+    "ecranlcd": "ACL TFT 7,5 cm/3 pouces orientable, 921 000 pixels (angle de vision \u00e0 170\u00b0) avec ajustement de la luminosit\u00e9",
+    "retardateur": "Peut \u00eatre s\u00e9lectionn\u00e9 avec une dur\u00e9e de 2, 5, 10 ou 20s",
+    "miseaupoint": "-",
+    "bracketing": "3 vues par incr\u00e9ments de 1"
+}

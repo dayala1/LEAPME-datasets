@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "shutter": "Electronically controlled vertical-travel focal-plane 1/4000 to 30 sec. in steps of 1/3 EV, Bulb Single-frame [S] mode Continuous Self-timer mode Quiet Shutter Release",
+    "lcdmonitor": "3.0&quot TFT-LCD with bridghtenss adjustment 230,000 Dots",
+    "videorecording": "1920 x 1080 (24p): 24 fps (23.976 fps) 1280 x 720 (30p): 30 fps (29.97 fps) 1280 x 720 (25p): 25 fps 1280 x 720 (24p): 24 fps (23.976 fps) 640 x 424 (24p): 24 fps (23.976 fps)",
+    "liveview": "Live View Shooting",
+    "isosensitivity": "ISO 100 to 3200 in steps of 1 EV Can also be set to approx. 1 EV above ISO 3200 (ISO 6400 equivalent) or to approx. 2 EV above ISO 3200 (ISO 12800 equivalent Auto ISO sensitivity control available",
+    "whitebalance": "Auto, Incandescent, Fluorescent (7 types), Direct Sunlight. Flash, Cloudy, Shade, Preset, Manual, All except preset manual with fine tuning",
+    "autofokus": "11 focus points Nikon Multi-CAM 1000 autofocus sensor module with TTL phase detection",
+    "exposurecompensation": "\u00b15 EV in increments of 1/3EV",
+    "internalflash": "Yes Auto Auto with red-eye reduction Fill-flash Auto slow sync Auto slow sync with red-eye correction Rear curtain with slow sync Guide Number 39/12, 43/13 with manual flash (ft/m, ISO 100, 68\u00b0F/20\u00b0C)Approx. Flash Compensation -3 to +1 EV in increments of 1/3 EV",
+    "playback": "Full frame Calendar Thumbnail (4, 9 or 72 images) Zoom Movie Playback Slideshow Histogram display Highlights Auto image rotation Image Comment (up to 36 characters) Highlight point display",
+    "viewfinder": "Eye-level pentamirror single-lens reflex viewfinder Viewfinder Frame Coverage : 95% horizontal, 95% vertical Approx. Viewfinder Magnification : 0.80x (50mm f/1.4 lens at infinity; -1.0m\u00af\u00b9) Approx. Viewfinder Eyepoint : 18mm (-1.0m\u207b\u00b9) Viewfinder Diopter Adjustment : -1.7 to +0.5m\u207b\u00b9",
+    "lensmount": "Nikon F bayonet mount",
+    "imageprocessor": "EXPEED 2",
+    "sensor": "CMOS",
+    "model": "DX-Format Digital SLR",
+    "dustreductionsystem": "Yes Image sensor cleaning Airflow Control System Image Dust Off reference data (optional Capture NX 2 software required)"
+}

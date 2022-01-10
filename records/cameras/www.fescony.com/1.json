@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "facedetection": "8 faces",
+    "waterproof": "Yes",
+    "trackingfocus": "Off / Auto",
+    "backgrounddefocus": "Yes",
+    "superiorauto": "Yes",
+    "intelligentauto": "Yes",
+    "freezeproof": "Yes",
+    "pictureeffects": "HDR Painting / Richtone Monochrome / Miniature / Toy camera / Pop Color / Partial color / Soft High-key / Watercolor / Illustration",
+    "incameraediting": "Beauty Effect / Trimming / Unsharp Masking / Date view / Picture Effect",
+    "sweeppanorama": "Underwater Sweep Panorama / Intelligent Sweep Panorama (360)",
+    "imagestabilization": "Optical SteadyShot\u2122 Image Stabilization with Active mode",
+    "smileshuttertechnology": "Yes",
+    "dustproof": "Yes",
+    "blinkdetection": "Yes",
+    "shockproof": "Yes",
+    "antimotionblur": "Yes"
+}

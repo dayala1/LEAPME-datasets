@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "dimensions": "74 x 53 x 35 mm (W x H x D )",
+    "weight": "110g (0.25lb) (excluding the battery)",
+    "battery": "Lithium-ion rechargable battery (3.7 V)",
+    "imagesensor": "1/3.2\" 7.99 Mrga pixel CMOS sensor",
+    "wifi": "Compatibel with IEEE802.11b/g/n (2.4 GHz band only)",
+    "zoom": "Digital zoom: up to 5x",
+    "lens": "F2.4 f=2.46mm (Fixed Focus)",
+    "operatingenvironment": "operating temp.: -10C to +40C",
+    "waterresistance": "equivalent to IEC Standard publication 529 IPX8",
+    "storagemedia": "SD/SDHC/SDXC card slot support up to 128 GB",
+    "lcdmonitor": "1.5\" 0.11 Mega pixel color LCD",
+    "videoresolution": "NTSC: 1920x1080/60 fps, 1920x1080/30 fps, 1280x960/30fps, 1280x720/60 fps, 1280x720/30 fps, 848x480/30 fps",
+    "fileformat": "Movie: MPEG-4 (.mp4)",
+    "photoresolution": "16 M: 4608x3456 (with super-resolution technology)"
+}

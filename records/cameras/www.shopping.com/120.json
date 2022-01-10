@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "operatingsystemsupported": "MS Windows 7      \u2022           MS Windows Vista      \u2022           MS Windows XP SP2      \u2022           Apple Mac OS X 10.4 or later",
+    "facedetection": "Yes",
+    "focusadjustment": "Automatic",
+    "flashtype": "Built-in flash",
+    "shootingmodes": "Frame Movie Mode",
+    "redeyereduction": "Yes",
+    "brand": "Kodak",
+    "exposuremodes": "Automatic      \u2022           Program",
+    "sensortype": "CCD",
+    "displaytype": "LCD",
+    "additionalfeatures": "KODAK PERFECT TOUCH Technology      \u2022           YouTube Capture Mode      \u2022           Digital Image Rotation      \u2022           Orientation Detection      \u2022           USB Charging      \u2022           Automatic Face Tracking      \u2022           Panorama Preview",
+    "viewfindertype": "None",
+    "autofocustype": "TTL contrast detection",
+    "supportedflashmemory": "SDHC Memory Card      \u2022           SD Memory Card",
+    "digitalvideoformat": "QuickTime      \u2022           MJPEG",
+    "type": "Point & Shoot"
+}

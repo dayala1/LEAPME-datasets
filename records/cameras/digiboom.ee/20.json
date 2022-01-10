@@ -1,0 +1,20 @@
+{
+    "memorycard": "SD card, SDHC card or SDXC card",
+    "shutter": "30-1/4000 sec (1/2 or 1/3 stop increments), Bulb (Total shutter speed range. Available range varies by shooting mode)",
+    "recordingpixelscompression": "1920 x 1080 (29.97, 25, 23.976 fps); 1280 x 720 (59.94, 50 fps); 640 x 480 (59.94, 50 fps)",
+    "imageprocessor": "DIGIC 4",
+    "lcdmonitor": "Vari angle 7.7cm (3.0\") 3:2 Clear View TFT, approx. 1040K dots",
+    "dimensions": "133.1 x 99.5 x 79.7 mm",
+    "weight": "Approx. 570g (CIPA testing standard, including battery and memory card)",
+    "imagesensor": "22.3 x 14.9mm CMOS; Approx. 18.0 megapixels",
+    "flash": "Auto, Manual flash, Integrated Speedlite Transmitter",
+    "powersupply": "1 x Rechargeable Li-ion Battery LP-E8",
+    "lens": "EF-S 18-135mm f/3.5-5.6 IS",
+    "interface": "Hi-Speed USB, Video output (PAL/ NTSC) (integrated with USB terminal), HDMI mini output (HDMI-CEC compatible), External microphone (3.5mm Stereo mini jack)",
+    "focusing": "9 AF points (f/5.6 cross type at centre, extra sensitivity at f/2.8)",
+    "viewfinder": "Pentamirror, Approx. 95% Coverage",
+    "shooting": "Max. Approx. 3.7fps for approx. 34 JPEG images, 6 images RAW",
+    "whitebalance": "AWB, Daylight, Shade, Cloudy, Tungsten, White Fluorescent light, Flash, Custom",
+    "category": "camera",
+    "exposurecontrol": "+/-5 EV in 1/3 or 1/2 stop increments (can be combined with AEB)"
+}

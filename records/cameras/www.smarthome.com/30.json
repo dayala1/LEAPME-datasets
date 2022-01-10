@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "recordingtime": "~40 minutes per GB @ 720x480",
+    "framerate": "1,5,15,20,25,30fps",
+    "imagesensor": "1/4 CMOS",
+    "storage": "SD Card (up to 32GB SDHC)",
+    "recordmode": "Standard, Motion, Schedule, Overwrite",
+    "standbytime": "Up to 365 days (1 Year)",
+    "videoinput": "NTSC/PAL Auto Detection",
+    "videoformat": "MPEG-4 ASF file format",
+    "pictureformat": "JPG",
+    "pcinterface": "USB 2.0",
+    "maxresolution": "720P+, 1280x960",
+    "size": "8\"H x 9\"L x 7\"W",
+    "batterytype": "3.7V 15000mA Lithium Battery",
+    "cameraresolution": "480 TV Lines"
+}

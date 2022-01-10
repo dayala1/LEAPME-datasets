@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "dimensions": "108.0 x 71.0 x 43.9 mm",
+    "power": "Rechargeable Li-ion Battery NB-6LH",
+    "memorysize": "SD, SDHC, SDXC",
+    "sensitivity": "AUTO, 100, 200, 400, 800, 1600",
+    "flash": "Built-In Flash",
+    "storage": "SD, SDHC, SDXC",
+    "zoom": "16 x Optical Zoom",
+    "weight": "Approx. 251 g",
+    "megapixel": "16 Megapixel",
+    "standoutfeature1": "ECO Mode",
+    "screensize": "3.0\" LCD Screen",
+    "ccd": "1/2.3 type CCD Sensor",
+    "exposuresystem": "+/- 2 EV in 1/3 stop increments. Enhanced i-Contrast for automatic dynamic range correction",
+    "shutterspeed": "1 \u2013 1/3200 sec. (factory default) 15 \u2013 1/3200 sec. (total range \u2013 varies by shooting mode)"
+}

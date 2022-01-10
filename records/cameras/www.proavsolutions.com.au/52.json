@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "HD - HD-SDI, Analog Component (Y/Pb/Pr) SD - VBS, Y/C",
+    "exposurecontrol": "Auto /Manual /Priority AE /Exposure compensation /Bright",
+    "powerconsumption": "Max. 30 W (at DC 12 V)",
+    "minimumillumination": "15 lx (50 IRE, F1.8)",
+    "pantilt": "Pan - \u00b1100\u00b0 (Max. speed 300\u00b0/sec.) tilt - \u00b125\u00b0 (Max. speed 125\u00b0/sec.)",
+    "whitebalance": "Auto / Indoor / Outdoor /One pushauto / Manual",
+    "lens": "10xoptical Zoom,40x with digital zoom, f = 3.4 to 33.9 mm, F 1.8 to F 2.1",
+    "signalsystem": "HD - 1080/59.94i, 1080/50i, 1080/29.97p, 1080/25p, 720/59.94p, 720/50p, 720/29.97p, 720/25p SD - NTSC, PAL",
+    "mass": "2kg",
+    "dimensionswxhxd": "259 x 150 x 169mm",
+    "horizontalangleofview": "8\u00b0 (tele) to 70\u00b0 (wide) at HD signal output",
+    "storagetemperature": "-20 to 60\u00b0C (-4 to 140\u00b0F)",
+    "shutterspeed": "1/2 to 1/10,000 sec.",
+    "imagesensor": "1/3-type CMOS",
+    "powerrequirements": "12 V DC (10.8 to 13.0 V DC)",
+    "operatingtemperature": "0 to 40\u00b0C (32 to 104\u00b0F)"
+}

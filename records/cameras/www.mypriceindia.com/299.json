@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "sensortype": "BSI CMOS",
+    "microphone": "Yes, Stereo",
+    "upgradablememory": "Yes",
+    "dimensions": "129 (W) x 71 (H) x 19 (D) mm",
+    "weight": "305 g (with Batteries)",
+    "focallength": "35 mm Equivalent to 23 - 481 mm",
+    "isorating": "100 - 3200",
+    "hdmi": "Yes, HDMI",
+    "opticalzoom": "20.9x",
+    "sensorsize": "1/2.3 inch",
+    "internalmemory": "8.0 GB",
+    "memorycardtype": "microSD / microSDHC / microSDXC",
+    "cameraresolution": "16.3 MP",
+    "seller": "ShippingPriceDetails",
+    "type": "Point & Shoot",
+    "videoresolution": "1920 x 1080 pixels at 30 fps",
+    "videoformat": "MPEG-4, H.264"
+}

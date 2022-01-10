@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "weight": "Approx. 111g without Battery and SD Memory Card (0.24 lb) / Approx. 126g with Battery and SD Memory Card (0.28 lb)",
+    "batterylife": "250 pictures (CIPA Standard)*1",
+    "videofileformat": "HD Video: 1280 x 720 pixels, 24 fps (HD / Motion JPEG),STD Video:640 x 480 pixels, 30 fps (VGA / Motion JPEG) / 320 x 240 pixels, 30fps (QVGA / Motion JPEG)",
+    "focallength": "f=4.5-45.0mm (25-250mm in 35mm equiv.) / (29-290mm in 35mm equiv. in video recording)",
+    "shutterspeed": "approx. 8 - 1/1600 sec / 15 sec / 30 sec / 60 sec in Starry Sky mode",
+    "screen": "6.7cm (2.7\") TFT Screen LCD Display (230K dots) / Field of View : approx. 100%",
+    "flash": "Auto, Auto/Red-eye Reduction, Forced On, Slow Sync./Red-eye Reduction, Forced Off, 0.6 - 4.1m (Wide/i ISO), 1.5 - 2.1m (Tele/i ISO)",
+    "memorycard": "Built-in Memory, SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "opticalzoom": "10x",
+    "selftimer": "2sec / 10sec",
+    "pixelresolution": "16.1 Megapixels",
+    "interface": "AV Output (PAL/NTSC), USB(AV/USB Multi)",
+    "poweroptions": "Li-ion Battery Pack (3.6V / 690mAh / 2.5Wh) / AC Adaptor (Input: 110-240V AC)(Included, connect with USB cable)",
+    "focusing": "Normal / Quick AF (Always On), Continuous AF(only for motion picture)",
+    "software": "PHOTOfunSTUDIO 9.0 LE / Adobe Reader",
+    "type": "Digital Camera",
+    "whitebalance": "Auto / Daylight / Cloudy / Shade / Incandescent / White Set",
+    "dimensions": "94.8 x 55.8 x 21.9 mm / (3.73 x 2.20 x 0.86 inch)"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio",
+    "wirelessconnection": "Wireless LAN",
+    "productdescription": "Canon IXUS 140 - digital camera",
+    "focusadjustment": "Automatic",
+    "weight": "133 g",
+    "colour": "Silver",
+    "lenssystem": "8 x zoom lens - 5 - 40 mm",
+    "cameraflash": "Built-in flash",
+    "digitalzoom": "4 x",
+    "sensorresolution": "16.0 Megapixel",
+    "supportedbattery": "1 x Canon NB-11L Li-ion rechargeable battery - 680 mAh ( included )",
+    "imagestabiliser": "Optical",
+    "dimensionswxdxh": "9.54 cm x 2.06 cm x 5.6 cm",
+    "producttype": "Digital camera - compact",
+    "imageprocessor": "DIGIC 4",
+    "display": "LCD display - 3\"",
+    "maxvideoresolution": "1280 x 720",
+    "memorycardslot": "SD card"
+}

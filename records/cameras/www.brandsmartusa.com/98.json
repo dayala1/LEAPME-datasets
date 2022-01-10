@@ -1,0 +1,23 @@
+{
+    "weight": "2 lbs",
+    "digitalcameratype": "Point & Shoot",
+    "height": "8.0 in",
+    "imagestabilization": "Yes",
+    "hdmioutput": "Yes",
+    "category": "camera",
+    "removablemediacompatibility": "SDXC Secure Digital (SD) Secure Digital High Capacity (SDHC)",
+    "facedetection": "Yes",
+    "digitalzoom": "4x",
+    "stabilizationtype": "Optical",
+    "width": "10.0 in",
+    "lcdscreen": "Yes",
+    "megapixelsmp": "12.1",
+    "burstmode": "Yes",
+    "flashmodes": "Auto Flash On Flash Off Slow Sync",
+    "builtinflash": "Yes",
+    "opticalzoom": "50x",
+    "lcdscreensize": "2.8\"",
+    "depth": "8.0 in",
+    "imagestitching": "Yes",
+    "selftimer": "Yes"
+}

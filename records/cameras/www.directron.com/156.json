@@ -1,0 +1,15 @@
+{
+    "ledindicators": "Status, 10 GbE, LAN, eSATA, hard drives, 10 GbE (reserved), eSATA (reserved)",
+    "formfactor": "2U, Rack mountable",
+    "lanport": "4 x Gigabit RJ-45 Ethernet port",
+    "usb": "- 2 x USB 3.0 ( back",
+    "certification": "CE, FCC, VCCI, BSMI, C-Tick",
+    "powerconsumption": "167W Write/Read (with 12 x 2TB HDD installed)",
+    "powersupply": "Input",
+    "buttons": "System",
+    "fan": "3 x 6cm smart cooling fan",
+    "videooutput": "1x VGA",
+    "category": "camera",
+    "processor": "Quad Core Intel Xeon Processor E3",
+    "operationenvironment": "- Temperature 0~40\u00b0C/ 32~104\u00b0F - Humidity 0~90% R.H."
+}

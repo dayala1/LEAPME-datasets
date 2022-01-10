@@ -1,0 +1,22 @@
+{
+    "videooutput": "1.0V p-p 75\u2126",
+    "powerrequirement": "12VDC",
+    "powerconsumption": "120mA max",
+    "sync": "internal",
+    "weatherproof": "IP66",
+    "effectivepixels": "768x594",
+    "category": "camera",
+    "dimensions": "1.89\" dia x 1.46\" (48mm dia x 37mm)",
+    "gaincontrol": "Auto",
+    "minimumillumination": "LEDs Off: 0.1 lux LEDs On: 0.0002 lux",
+    "snratio": ">50dB (AGC Off)",
+    "lens": "3.4mm Fixed",
+    "irleds": "10",
+    "manufacturer": "Speco Technologies",
+    "operatingtemperature": "-14\u00b0 to 120&degF (-25\u00b0 to 50\u00b0C)",
+    "imagesensor": "1/3\" Sony Super HAD CCD",
+    "electronicshutterspeed": "1/60 ~ 1/120,000 sec",
+    "upc": "030519001090",
+    "resolution": "540 TV Lines",
+    "whitebalance": "Auto"
+}

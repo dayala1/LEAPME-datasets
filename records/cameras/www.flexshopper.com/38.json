@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "wirelessconnection": "Wireless LAN",
+    "productdescription": "Canon EOS 70D - digital camera - body only",
+    "memorycardslot": "SD card",
+    "weight": "23.8 oz",
+    "cameraflash": "Pop-up flash",
+    "microsoftcertification": "Compatible with Windows 7",
+    "dimensionswxdxh": "5.5 in x 3.1 in x 4.1 in",
+    "sensorresolution": "20.2 Megapixel",
+    "supportedbattery": "1 x Canon LP-E6 Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - SLR with Live View mode, movie recording",
+    "manufacturerwarranty": "1 year warranty",
+    "lensincluded": "Body only",
+    "viewfinder": "Optical - fixed eye-level pentaprism",
+    "imageprocessor": "DIGIC 5+",
+    "display": "LCD display - 3\"",
+    "maxvideoresolution": "1920 x 1080"
+}

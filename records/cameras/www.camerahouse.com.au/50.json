@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "dimensions": "100.0mm (W) x 58.5mm (H) x 33.3mm (D)",
+    "power": "NP-48 Li-ion battery (included)",
+    "memorysize": "SD / SDHC / SDXC(UHS-I) memory card*1",
+    "sensitivity": "AUTO (Control available up to ISO3200), Equivalent to ISO 100 / 200 / 250 / 320 / 400 / 500 / 640 / 800 / 1000 / 1250 / 1600 / 2000 / 2500 / 3200 / 4000 / 5000 / 6400 / 12800 (Standard Output Sensitivity)",
+    "flash": "Built-In Flash",
+    "storage": "SD / SDHC / SDXC(UHS-I) memory card*1",
+    "weight": "Approx. 206g",
+    "megapixel": "12 Megapixel",
+    "standoutfeature1": "X-Trans CMOS II Sensor",
+    "screensize": "3.0\" LCD Screen",
+    "interface": "USB 2.0 High-Speed",
+    "ccd": "2/3-inch X-Trans CMOS II Sensor",
+    "shutterspeed": "(Auto mode) 1/4 sec. to 1/3000 sec., (All other modes) 30 sec. to 1/4000 sec. * up to 1/4000 sec. at small aperture, up to 1/1000 sec. at full aperture"
+}

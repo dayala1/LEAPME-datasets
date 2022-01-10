@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "shutter": "(Auto mode) 1/4 sec. to 1/4000 sec., (All other modes) 30 sec. to 1/4000 sec.",
+    "lcdmonitor": "3.0-inch, approx. 460,000 dots, TFT color LCD monitor, approx. 100% coverage",
+    "whitebalance": "Automatic scene recognition Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Custom, Color temperature selection (2,500K - 10,000K)",
+    "dimensions": "135(W) x 107(H) x 149(D) mm",
+    "weight": "905g",
+    "color": "Black",
+    "imagesensor": "Number of effective pixels*1  12.0 million pixels Image sensor  2/3-inch EXR CMOS with primary color filter",
+    "flash": "Flash  Auto flash (super intelligent flash) Effective range : (ISO AUTO (800)) Wide : Approx. 30 cm - 8.0 m / 0.9 ft. - 26.2 ft. Telephoto : Approx. 2.0 m - 4.0 m / 6.5 ft. - 13.1 ft. Flash modes  Red-eye removal OFF : Auto, Forced Flash, Suppressed Flash, Slow Synchro. Red-eye removal ON : Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro.",
+    "memorycard": "Internal memory (approx. 26 MB) SD / SDHC / SDXC(UHS-I) memory card",
+    "lens": "Lens    name     Fujinon 26x optical zoom lens focal length     f=6.1 - 158.6 mm, equivalent to 24 - 624 mm on a 35 mm camera full-aperture     F2.8 (Wide) - F5.6 (Telephoto) constitution     12 groups 17 lenses (4 aspherical molded lenses, 2 ED lenses included)   Digital zoom  Intelligent digital zoom approx. 2x (1.4) (up to 52 x when combined with optical zoom) Aperture  F2.8 - F11(Wide) F5.6 - F11(Telephoto) 1/3EV step (controlled 9-blade aperture diaphragm)",
+    "focusing": "Normal     Wide : Approx. 30 cm / 0.9 ft. to infinity     Telephoto : Approx. 2.0 m / 6.5 ft. to infinity Macro     Wide : Approx. 7 cm - 3.0 m / 2.8 in. - 9.8 ft.     Telephoto : Approx. 2.0 m - 3.5 m / 6.5 ft. - 11.5 ft. Super Macro     Approx. 1.0 cm - 1.0 m / 0.4 in. - 3.3 ft",
+    "powersupply": "NP-95 Li-ion battery (included)",
+    "accessories": "Accessories included  Li-ion battery NP-95 Battery charger BC-65N Shoulder strap Lens cap and Lens cap cord Lens hood USB cable CD-ROM Owner's manual Optional accessories  Li-ion battery NP-95 Battery charger BC-65N Shoe Mount Flash EF-42 / EF-20 Remote release RR-80",
+    "viewfinder": "0.47-inch, approx. 1440,000 dots, TFT color LCD monitor Approx. 100% coverage Diopter adjustment : -5 - +3 m-1(dpt)",
+    "shooting": "Shooting modes    SP     Natural Light & Flash, Natural Light, Portrait, Portrait Enhancer, Dog, Cat, Landscape, Sport, Night, Night (Tripod), Fireworks, Sunset, Snow, Beach, Party, Flower, Text MODE DIAL     EXR, AUTO, Adv., SP, C3, C2, C1, M, A, S, P",
+    "interface": "Video output     NTSC / PAL selectable with Monaural sound Digital interface     USB 2.0 High-Speed HDMI output     HDMI Mini connector External microphone     \u00f83.5 Mini with Stereo sound",
+    "filetype": "still image     JPEG (Exif Ver 2.3)*3, RAW (RAF format), RAW + JPEG     (Design rule for Camera File system compliant / DPOF-compatible) movie     H.264 (MOV) with Stereo sound",
+    "exposurecontrol": "Exposure control  TTL 256-zones metering, Multi / Spot / Average Exposure mode  Programmed AE, Aperture Priority AE, Shutter Priority AE, Manual"
+}

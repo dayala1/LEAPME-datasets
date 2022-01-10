@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "operatingtemperaturerange": "14\u00b0 to 122\u00b0 F / -10\u00b0 to 50\u00b0 C",
+    "autopoweroff": "Yes, Selectable in Custom Functions",
+    "storagetemperaturerange": "-4\u00b0 to 140\u00b0 F / -20\u00b0 to 60\u00b0 C",
+    "exposurecompensation": "(+/-) 9.9 EV in 1/10 steps)",
+    "productweight": "0.60lbs./0.30kg.",
+    "customfunctions": "14",
+    "diopteradjustment": "-2.5 to 1.0D",
+    "productdimensions": "6.70x3.80x1.90 in./17.00x9.70x4.80 cm",
+    "type": "Digital exposure meter for ambient and flash light"
+}

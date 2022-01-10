@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "communicationinterface": "1 RJ45 10M / 100M ethernet interface",
+    "alarmtrigger": "Motion detection\u00a0\u00a0Auto",
+    "minillumination": "Color:0.6Lux(F1.2 AGC ON), 0 Lux with IR, B/W:0.08Lux(F1.2 AGC ON), 0lux with IR",
+    "videocompression": "H.264",
+    "powerconsumption": "Max. 10W (Max. 12 W with IR cut filter on)",
+    "bitrate": "32Kbps~16 Mbps",
+    "imagesensor": "1/4\" OV Progressive Scan CMOS Sensor",
+    "framerate": "30fps(1280*720)",
+    "systemcompatibility": "ONVIF",
+    "powersupply": "12 VDC \u00b1 10%",
+    "operatingconditions": "-30 \u00b0C ~ 60 \u00b0C (-22 \u00b0F ~ 140 \u00b0F) \u00a0 \u00a0Humidity 95% or less (non-condensing)",
+    "dualstream": "Yes",
+    "effectivepixels": "1MP (1280*720)",
+    "alarmoutput": "E-mail, explorer, Software",
+    "daynight": "IR cut filter with auto switch",
+    "imagesettings": "AGC, WB, Private, Area Mask",
+    "protocols": "TCP/IP,UDP, RTP, RTSP, RTCP, HTTP, DNS, DDNS, DHCP, FTP, NTP, PPPOE, SMTP, UPNP"
+}

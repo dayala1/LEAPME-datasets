@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "Composite Video Output 1.0Vp-p 75\u03a9",
+    "infraredled": "42 pcs, 850nm Wavelength",
+    "operationtemperature": "-20 o C to 50 o C (-4 o F to 122 o F), RH95%MAX",
+    "minimumillumination": "0 Lux (IR LED on)",
+    "snratio": ">=52db",
+    "powersupply": "DC 12V 500mA ( AC Power Adapter not included ).",
+    "electronicshutter": "NTSC 1/50 ~ 1/100,000 Sec",
+    "horizontalresolution": "700 TV Lines",
+    "effectivepixels": "510 (H) x 492 (V)",
+    "builtinlens": "3.6mm Fixed Lens",
+    "ireffectivedistance": "105FT",
+    "imagepickupdevice": "1/3\" Sony Super HAD CCD",
+    "viewangle": "60 o",
+    "videoformat": "NTSC"
+}

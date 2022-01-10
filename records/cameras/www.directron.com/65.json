@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "motiondetection": "- Grid Type Selecion - Sensitivity Levels adjustable - Can Trigger",
+    "videocodec": "Latest H.264 Codec",
+    "usb": "2 USB ports (1 front, 1 rear)",
+    "internalstorage": "2 x Internal SATA (3 TB each - *May increase with software update) (Optional Capacity",
+    "mainprocessor": "High Performance Embedded Microprocessor",
+    "alarm": "16 Alarm Input / 1 Alarm Output",
+    "rs485": "Standard 485 port, Half-Duplex, Green Terminal",
+    "powersupply": "12V DC / 4 Amp",
+    "searchmode": "Time/Date, Alarm, Motion Detection, Log Search",
+    "recordingresolution": "960H / D1 / CIF / QCIF",
+    "recordingmode": "Manual Recording, Motion Detection Recording, Time Recording, Alarm Recording",
+    "network": "10/100Mbps, RJ45 Port",
+    "audioio": "16 Input / 1 Output",
+    "operatingsystem": "Embedded Linux Operating System",
+    "audiocodec": "G711 Audio Compression",
+    "videoplayback": "1 / 4 / 9 / 16 Simultaneously"
+}

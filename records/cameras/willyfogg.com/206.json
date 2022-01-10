@@ -1,0 +1,16 @@
+{
+    "lightsource": "Fluorescent light",
+    "pictbridge": "No",
+    "productdimensions": "390mm (W) x 300mm (D) x 145mm (H)",
+    "networking": "802.11b/g/n Wi-Fi",
+    "temperature": "24\u63b3C",
+    "weight": "4.2kg",
+    "powerconsumption": "Approx. 12W (ISO/IEC 24712), 2.7W (Sleep Mode)",
+    "lcdscreen": "No",
+    "ratedvoltage": "AC 100 ~ 240V",
+    "humidity": "60% RH",
+    "sensortype": "CIS",
+    "connectivity": "High Speed USB \ufffd\ufffd Compatible with the USB 2.0 Specification",
+    "scannertype": "A4 Flatbed colour image scanner",
+    "category": "camera"
+}

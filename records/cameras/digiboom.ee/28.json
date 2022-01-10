@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "shutter": "Shutter type Electronically-controlled vertical-travel focal-plane shutter  Shutter speed 1/4000 - 30 s in steps of 1/3 or 1/2 EV, bulb, time (requires optional ML-L3 remote control), X200",
+    "whitebalance": "Auto (2 types), incandescent, fluorescent (7 types), direct sunlight, flash, cloudy, shade, preset manual (up to 4 values can be stored), choose color temperature (2500 K - 10000 K), all with fine-tuning",
+    "exposurecontrol": "TTL exposure metering using 2,016-pixel RGB sensor",
+    "weight": "850 g",
+    "imagesensor": "35.9 x 24.0 mm CMOS sensor",
+    "sensitivity": "ISO 100-6400 in steps of 1/3 or 1/2 EV. Can also be set to approx. 0.3, 0.5, 0.7, or 1 EV (ISO 50 equivalent) below ISO 100 or to approx. 0.3, 0.5, 0.7, 1, or 2 EV (ISO 25600 equivalent) above ISO 6400; auto ISO sensitivity control available",
+    "flash": "X=1/200 s; synchronizes with shutter at 1/250 s or slower (flash range drops at speeds between 1/200 and 1/250 s);  Auto, portrait, child, close up, night portrait, party/indoor, pet portrait: Auto flash with auto pop-up P, S, A, M, food: Manual pop-up with button release",
+    "accessories": "BS-1 accessory shoe cover, DK-21 rubber eyecup, BM-14 monitor cover, BF-1B body cap, EN-EL15 rechargeable Li-ion battery (with terminal cover), MH-25 battery charger, DK-5 eyepiece cap, AN-DC10 strap, UC-E15 USB cable, ViewNX 2 CD",
+    "lens": "Nikon F mount (with AF coupling and AF contacts)",
+    "effectivepixels": "24.3 million (24.7 million Total)",
+    "powersupply": "Rechargeable Li-ion EN-EL15 battery",
+    "imagesize": "FX (36x24) image area 6,016 x 4,016 (L), 4,512 x 3,008 (M), 3,008 x 2,008 (S). DX (24x16) image area 3,936 x 2,624 (L), 2,944 x 1,968 (M), 1,968 x 1,312 (S). FX-format photographs taken in movie live view 6,016 x 3,376 (L), 4,512 x 2,528 (M), 3,008 x 1,688 (S). DX-format photographs in movie live view 3,936 x 2,224 (L), 2,944 x 1,664 (M), 1,968 x 1,112 (S)",
+    "filesystem": "DCF (Design Rule for Camera File System) 2.0, DPOF (Digital Print Order Format), Exif (Exchangeable Image File Format for Digital Still Cameras) 2.3, PictBridge",
+    "focusing": "Type B BriteView Clear Matte Mark VIII screen with AF area brackets (framing grid can be displayed);  Nikon Multi-CAM 4800 autofocus sensor module with TTL phase detection, fine-tuning, 39 focus points (including 9 cross-type sensors; the center 33 points are available at apertures slower than f/5.6 and faster than f/8, while the center 7 focus points are available at f/8), and AF-assist illuminator (range approx. 0.5-3 m/1 ft 8 in.-9 ft 10 in.)",
+    "viewfinder": "Eye-level pentaprism single-lens reflex viewfinder",
+    "type": "Single-lens reflex digital camera",
+    "compatibility": "Compatible with AF NIKKOR lenses, including type G, E, and D lenses (some restrictions apply to PC lenses) and DX lenses (using DX 24 x 16 1.5x image area), AI-P NIKKOR lenses, and non-CPU AI lenses (A and M modes only). IX NIKKOR lenses, lenses for the F3AF, and non-AI lenses can not be used. The electronic rangefinder can be used with lenses that have a maximum aperture of f/8 or faster (the electronic rangefinder supports the center 7 focus points with lenses that have a maximum aperture of f/8 or faster and the center 33 focus points with lenses that have a maximum aperture of f/6.8 or faster).",
+    "dimensions": "141 x 113 x 82 mm"
+}

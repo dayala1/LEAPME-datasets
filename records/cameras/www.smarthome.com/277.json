@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "gpsreceiver": "N/A",
+    "storagememory": "SDHC card (32GB Maxima)",
+    "dimensions": "2.75 inches x 2.1 inches x 1.18 inches",
+    "weight": "0.13 pounds",
+    "lcddisplay": "2.0 inch LCD panel",
+    "powerconsumption": "4.75 Volts - 5.25 Volts / 1A",
+    "hdmi": "HDMI 1.3",
+    "powersupply": "12-24 Volt DC input / 5 Volts / 1A output",
+    "lens": "126\u00b0 wide viewing angle",
+    "operatingtemperature": "32\u00b0F - 149\u00b0F",
+    "manufacturerwarranty": "1-year warranty",
+    "usb": "USB 2.0",
+    "storagetemperature": "-4\u00b0F - 158\u00b0F",
+    "manufacturer": "PAPAGO",
+    "upc": "840494171103",
+    "imagesensor": "HD 1.3 Mega Pixels Sensor",
+    "gsensor": "3-axis G-sensor",
+    "videoformat": "1280 x 720 / 30 FPS / .MOV"
+}

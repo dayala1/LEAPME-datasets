@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "brand": "Olympus",
+    "sensortype": "CCD",
+    "displaytype": "LCD",
+    "additionalfeatures": "USB",
+    "supportedflashmemory": "SDXC Card",
+    "type": "Point & Shoot"
+}

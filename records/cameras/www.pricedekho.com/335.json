@@ -1,0 +1,22 @@
+{
+    "videodisplayresolution": "NA",
+    "metering": "Center-Weighted, Evaluative, Spot",
+    "lenstype": "14 elements in 12 groups (1 UD Lens, 1 Double-Sided Aspherical Lens, 1 Single-Sided Aspherical UA Lens, 1 Light Folding Prism)",
+    "continuousshots": "Program Mode: 3.3 Shots/sec, High-speed Burst: 7.8 Shots/sec",
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Custom, Daylight, Fluorescent, Fluorescent-H, Tungsten",
+    "facedetection": "Yes",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "flashrange": "Wide : 0.3 - 3.1m, Telephoto : 1.0 - 1.7m",
+    "focallength": "5 - 60 mm (35 mm Equivalent to 28 - 336 mm)",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "imagestabilizer": "Lens Shift Type",
+    "colorfilter": "Primary Color",
+    "screensize": "3.2 Inches",
+    "externalflash": "Yes",
+    "builtinflash": "Yes",
+    "shootingmodes": "Best Image Selection, Color Accent, Color Sw, Fish-Eye Effect, Handheld Night Scene, High-Speed Burst, Kids & Pets, Low Light, Miniature Effect, Monochrome, Movie Digest, Portrait, Poster Effect, Smart Auto, Smart Shutter, Super Vivid, Toy Camera Effect",
+    "flashmodes": "Auto, Manual, Slow Sync Flash",
+    "imagedisplayresolution": "461000 dots"
+}

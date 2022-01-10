@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "ethernettechnology": "Gigabit Ethernet",
+    "modelname": "NVR-0208",
+    "features": "Digital Video Recorder",
+    "weight": "10 lb",
+    "width": "8.6\"",
+    "height": "2.8\"",
+    "item": "579343",
+    "depth": "9.6\"",
+    "videoformats": "Motion JPEG; MPEG-4; H.264; AVI",
+    "producttype": "Video Surveillance Station",
+    "ethernet": "Yes",
+    "brandname": "LevelOne",
+    "productname": "NVR-0208 Video Surveillance Station",
+    "networkrj45": "Yes",
+    "inputvoltage": "19 V DC",
+    "manufacturer": "CP Technologies",
+    "usb": "Yes"
+}

@@ -1,0 +1,23 @@
+{
+    "networkfunction": "Network\u00a0SteadinessAuto\u00a0Reconnect,\u00a0Register,\u00a0UPNP,\u00a0HB\u00a0Display,\u00a0Synchronization",
+    "exposurecontrol": "DSP\u00a0Auto\u00a0Adjust",
+    "weight": "Net\u00a0Weight:\u00a00.45\u00a0Kg~0.50\u00a0Kg\u00a0\u00a0\u00a0Gross\u00a0Weight:16.20\u00a0Kg~18.00\u00a0Kg(36\u00a0CTN)",
+    "videooutput": "1ch\u00a0Local\u00a0Analog\u00a0Output,\u00a0BNC\u00a0Interface.",
+    "powerconsumption": "DC\u00a012V\u00b15%\u00a0,IR\u00a0Led\u00a0on:\u00a05W",
+    "illumination": "Color:0.1Lux/BW:0.01Lux(F1.2,AGC\u00a0ON)Color:0.6Lux/BW:0.08Lux(F1.2,AGC\u00a0ON)",
+    "supportagreement": "Support\u00a0ONVIF\u00a02.0,\u00a0PPPOE,DHCP,TCP/IP,HTTP,UDP,RTP/RTCP,\u00a0RTSP,UPNP,SMTP, FTP,NTP,DDNS,DNS\u00a0etc.",
+    "category": "camera",
+    "poe": "Power\u00a0over\u00a0Ethernet",
+    "generalfunction": "FeatureSimplificationWide\u00a0Dynamic\u00a0RangeHigh-resolution",
+    "dualstream": "Dual\u00a0Stream\u00a0Transfer(H.264,CBR/VBR\u00a0Adjustable Main\u00a0Stream(1M~8Mbps)With\u00a0Local\u00a0Skim,\u00a0SD\u00a0Card\u00a0etc. Sub-Stream(0.5MK~2Mbps)With\u00a0Network\u00a0Transfer.",
+    "lens": "Standard\u00a04-9mm(F1.2/M12\u00a0Mount)Mega\u00a0HD\u00a0Lens",
+    "p2p": "Adapting\u00a0P2P\u00a0Intelligence\u00a0Mobile\u00a0Phone\u00a0Visit",
+    "irdistance": "30M\u00a0Night\u00a0Vision\u00a0(30pcs\u00a0IR\u00a0led)",
+    "shutterspeed": "1/60Sec~\u00a01/100,000Sec,Shutter\u00a0Speed\u00a0Adjustable",
+    "f": "Model\u00a0No.BW-D1170H2BW-D2371H2BW-D2571H2",
+    "alarm": "I/O\u00a0alarm\u00a0Port\u00a0(optional)",
+    "wifi": "Support\u00a0protocol:\u00a0802.11\u00a0b/g;\u00a0Support\u00a0encrypt:\u00a0WEP64,\u00a0WEP128,\u00a0WPA,\u00a0WPA2(optional)",
+    "imagesetting": "Saturation,\u00a0Luminance,\u00a0Contrast\u00a0Ratio\u00a0Adjustable\u00a0Through\u00a0Client\u00a0or\u00a0IE.",
+    "wdr": "Non120dBNon",
+    "audio": "Audio\u00a0EncodingWith\u00a0G.726/G.722/G.711\u00a0Standard\u00a0Code,64Kbps\u00a0Transfer\u00a0Speed\u00a0(optional)"
+}

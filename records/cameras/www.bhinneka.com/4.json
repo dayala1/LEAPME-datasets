@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "shutter": "Type : Electronic, Speed : 30 - 1/4000 second",
+    "isosensitivity": "Auto, 100-3200 (Extended Mode: 100-25600)",
+    "whitebalance": "Auto, Cloudy, Custom, Daylight, Flash, Fluorescent, Fluorescent (Day White), Fluorescent (Natural White), Fluorescent (White), Incandescent, Kelvin, Shade",
+    "autofokus": "Yes",
+    "exposurecompensation": "-3 EV to +3 EV (in 0.33 EV steps)",
+    "internalflash": "Yes",
+    "viewfinder": "Electronic, LCD Display",
+    "lensmount": "Sony Alpha/ Minolta",
+    "lcdmonitor": "3.0\" Tiltable LCD",
+    "sensor": "APS-C CMOS Sensor",
+    "model": "APS-C Digital SLT"
+}

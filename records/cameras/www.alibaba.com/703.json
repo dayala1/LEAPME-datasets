@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "tvout": "Yes, NTSC, PAL",
+    "exposure": "Auto",
+    "battery": "LR14 size C x 4 pcs (not included)",
+    "programming": "Button Interface",
+    "timelapse": "5~600 seconds (Programmable)",
+    "photoburst": "1-9 burst (Programmable)",
+    "whitebalance": "Auto",
+    "lens": "Standard Lens, 50 Deg, PIR detection angle: 48 degrees",
+    "memoryexpansion": "Up to 32GB SD Card(not included)",
+    "video": "1280 x 720 pixels/20fps with Audio",
+    "imageformat": "8MP=3264x2448 / 5MP = 2592x1944 (JPEG)",
+    "infraredlight": "40 pcs no glow IR 940nm LED, up to 22 meters ( 75ft )",
+    "videoformat": "Motion JPEG",
+    "sensor": "8 Mega Pixels MAX,real 5 Mega Pixels coms",
+    "display": "Status LCD",
+    "stillimage": "8 Mega Pixel max."
+}

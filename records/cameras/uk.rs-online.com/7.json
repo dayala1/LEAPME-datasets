@@ -1,0 +1,20 @@
+{
+    "refreshrate": "9Hz",
+    "category": "camera",
+    "dimensions": "219 x 96 x 95mm",
+    "weight": "550g",
+    "application": "Building",
+    "fieldofview": "34 x 26\u00b0",
+    "minimumfocus": "0.5 m",
+    "displaysize": "3.5in",
+    "height": "95mm",
+    "width": "96mm",
+    "length": "219mm",
+    "horizontalfieldofview": "26\u00b0",
+    "interfacetype": "USB 2.0",
+    "displayresolution": "320 x 240pixel",
+    "storagemedia": "Internal Storage",
+    "focustype": "Fixed",
+    "emissivity": "0.01 \u2192 1",
+    "description": "Testo 870-1 Thermal Imaging Camera"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "usbjack": "Mini-AB \u00d71",
+    "audioout": "RCA Pin \u00d72",
+    "builtinndfilters": "Clear, 1/4, 1/16, 1/64",
+    "memorycardslot": "MS PRO Duo, SD/SDHC/SDXC compatible \u00d71",
+    "componentout": "mini D terminal \u00d71",
+    "powerconsumption": "9.6 W (60i), 8.8 W (50i)",
+    "numberofpixels": "Total pixels approx. 11.6M Effective pixels in movie shooting (16:9) approx. 8.3M Effective pixels in still picture shooting (16:9) approx. 8.4M (3:2) approx. 7.1M",
+    "operatingtemperature": "0 ~ 40\u00b0C",
+    "powersupply": "DC7.2 V (Battery Pack), DC7.6 V (AC-DC adaptor)",
+    "headphonejack": "Stereo mini jack (\u00f83.5 mm) \u00d71",
+    "colortemperature": "AUTO, ONE PUSH AB, INDOOR (3200K), OUTDOOR (5800K\u00b17 positions), MANU WB TEMP (2300K~15000K, 100K step)",
+    "recordingformat": "Video recording format HD MPEG-4 AVC/H.264 AVCHD Ver.2.0 SD MPEG-2 PS Audio recording format Linear PCM 2ch (48kHz 16-bits) (in HD) Dolby Digital 2ch (48 kHz 16-bits)",
+    "screensize": "8.8 cm (3.5type, 16:9)",
+    "storagetemperature": "\u221220 ~ +60\u00b0C",
+    "dimensionswhd": "145.0 mm \u00d7 178.5 mm \u00d7 235.5 mm (including protrusions)",
+    "remote": "Stereo mini-mini jack (\u00f82.5 mm) \u00d71",
+    "videoout": "RCA Pin \u00d71"
+}

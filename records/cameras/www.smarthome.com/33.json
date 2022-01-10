@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p, 75OHms",
+    "irwavelength": "850nm",
+    "powerconsumption": "Less than 4.5W",
+    "sensitivity": "0.5 LUX (IR LED OFF) - 0 LUX (IR LED ON)",
+    "snratio": "48 dB",
+    "powersupply": "DC12V / AC24V",
+    "pickupdevice": "1/3-inch. Super HAD CCD",
+    "lens": "2.8-11mm varifocal lens",
+    "horizontalresolution": "420 TVL",
+    "effectivepixels": "510(H) X 492(V)",
+    "videosystem": "NTSC",
+    "irdistance": "20M",
+    "electronicshutter": "Auto",
+    "gamma": "0.45",
+    "operatingtemperature": "-10\u00b0C to +50\u00b0C / 14\u00b0F to 122\u00b0F"
+}

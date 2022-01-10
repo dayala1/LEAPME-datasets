@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Standard form factor",
+    "displayrotation": "Built-in",
+    "focusadjustment": "Automatic",
+    "flashtype": "Built-in flash",
+    "stillimageformat": "JPEG",
+    "brand": "Olympus",
+    "exposuremodes": "Program",
+    "sensortype": "CCD",
+    "displaytype": "LCD",
+    "opticalviewfindertype": "Real-image",
+    "additionalfeatures": "Direct Print",
+    "viewfindertype": "Optical",
+    "supportedflashmemory": "SmartMedia",
+    "exposuremetering": "Spot",
+    "type": "Point & Shoot",
+    "flashmodes": "Auto Mode"
+}

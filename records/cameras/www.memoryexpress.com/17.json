@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "certifications": "CE CE LVD FCC C-Tick",
+    "dimensions": "N/A",
+    "power": "5 V DC, 1.2 A through external power adapter or PoE connection (FOR PoE version only) External Power Adapter Input: 100 to 240 V AC, 50/60 Hz",
+    "weight": "N/A",
+    "humidity": "Operating: 20% to 80% non-condensing Storage: 5% to 95% non-condensing",
+    "mobilesupport": "Windows 7/Vista/XP system, Pocket PC, or mobile phone mydlink\u2122 mobile app for iOS and Android mobile devices",
+    "dviewcamsoftwarefunctions": "Remote management/control of up to 32 cameras Viewing of up to 32 cameras on one screen Scheduled motion triggered, or manual recording options Supports all management functions in web interface",
+    "eventmanagement": "Motion detection Event notification and uploading of snapshots/video clips via e-mail or FTP Supports multiple SMTP and FTP servers Multiple event notifications Multiple recording methods for easy backup",
+    "remotemanagement": "Take snapshots/video clips and save to local hard drive or NAS via web browser Configuration interface accessible via web browser",
+    "temperature": "Operating: -25 to 50 \u00b0C (-13 to 122 \u00b0F) Storage: -20 to 70 \u00b0C (-4 to 158 \u00b0F)"
+}

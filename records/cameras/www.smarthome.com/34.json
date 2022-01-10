@@ -1,0 +1,9 @@
+{
+    "motiondetection": "Yes, 3 different areas",
+    "category": "camera",
+    "privacymask": "Yes, 3 different areas",
+    "compressionformat": "H.264/ JPEG/ MPEG4 (3GPP only)",
+    "security": "Password protection",
+    "audio": "Yes, 2 way",
+    "videoresolution": "NTSC"
+}

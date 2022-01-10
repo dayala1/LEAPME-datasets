@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "dimensions": "Approx. 103.0 x 58.3 x 32.0 mm",
+    "power": "One Rechargeable Li-ion Battery EN-EL12",
+    "memorysize": "SD/SDHC/SDXC memory card",
+    "sensitivity": "ISO 80-3200 ISO 6400, Hi 1 (equivalent to ISO 12800) (available when using P, S, A or M mode) Hi 2 (equivalent to ISO 25600) (available when using High ISO monochrome in special effects mode)",
+    "flash": "Built-In Flash",
+    "storage": "SD/SDHC/SDXC memory card",
+    "zoom": "5 x Optical Zoom",
+    "weight": "Approx. 194 g",
+    "megapixel": "12.2 Megapixel",
+    "standoutfeature1": "Built-In WiFi",
+    "screensize": "3.0\" LCD Screen",
+    "ccd": "1/1.7-in. type CMOS Sensor",
+    "shutterspeed": "1/2000-1 s 1/2000-60 s (when ISO sensitivity is set to 80-400 in M mode) 1/4000 s (maximum speed during high-speed continuous shooting)"
+}

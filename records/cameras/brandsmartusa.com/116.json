@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "removablemediacompatibility": "SDXC Secure Digital (SD) Secure Digital High Capacity (SDHC)",
+    "facedetection": "Yes",
+    "weight": "1 lbs",
+    "flashmodes": "Auto Flash On Flash Off Slow Sync",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "depth": "2.0 in",
+    "opticalzoom": "8x",
+    "height": "4.0 in",
+    "selftimer": "Yes",
+    "width": "6.0 in",
+    "digitalzoom": "4x",
+    "megapixelsmp": "16.0",
+    "viewfinder": "LCD Only",
+    "lcdscreensize": "2.7\"",
+    "digitalcameratype": "Point & Shoot"
+}

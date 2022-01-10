@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "sensortype": "1 / 2.33 type",
+    "dimensions": "123.7 \u00d7 84.8 \u00d7 105.0 mm",
+    "weight": "519 g without batteries and memory card",
+    "flashmodes": "auto, red-eye reduction, fill, off",
+    "isosensitivity": "auto, 64, 100, 200, 400, 800, 1600, 3200, 6400",
+    "zoom": "26X optical, 5X digital, total zoom range 130X",
+    "lens": "26\u2013676 mm (35 mm equiv.) f/2.8\u20135.0 SCHNEIDER-KREUZNACH VARIOGON optical zoom lens",
+    "focusmodes": "normal, macro, super macro, infinity, manual",
+    "effectivepixels": "14 MP (4368 \u00d7 3256)",
+    "power": "KODAK Ni-MH Pre-Charged Rechargeable / Ni-MH Rechargeable Digital Camera Batteries (4 AA), optional AC adapter",
+    "imageformat": "JPEG/EXIF v2.21, KDC RAW image file format",
+    "memory": "64 MB internal memory available, MICROSD/MICROSDHC card expansion slot",
+    "shutterspeed": "auto, 16-1/2000 sec. (S/M modes)",
+    "whitebalance": "auto, daylight, tungsten, fluorescent, open shade",
+    "videoformat": "QUICKTIME MOV h.264 (video) & AAC LC (audio)"
+}

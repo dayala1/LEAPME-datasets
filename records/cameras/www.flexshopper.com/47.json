@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio",
+    "productdescription": "Sigma SD1 Merrill - digital camera - body only",
+    "memorycardslot": "CompactFlash Card",
+    "weight": "1.5 lbs",
+    "cameraflash": "Pop-up flash",
+    "sensorresolution": "46.0 Megapixel",
+    "supportedbattery": "1 x Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - SLR",
+    "dimensionswxdxh": "5.7 in x 3.1 in x 4.5 in",
+    "lensincluded": "Body only",
+    "viewfinder": "Optical - fixed eye-level pentaprism",
+    "imageprocessor": "Dual TRUE II",
+    "display": "LCD display - 3\""
+}

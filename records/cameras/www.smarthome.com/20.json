@@ -1,0 +1,23 @@
+{
+    "powerconsumption": "8 Watts maximum",
+    "autowhitebalance": "Yes",
+    "audioin": "Internal Omni-directional microphone Sensitivity: -48dB +/- 3dB Freq Response: 50~16000Hz External Mic. In",
+    "lenstype": "CS mount Lens",
+    "autogaincontrol": "Yes",
+    "poe": "802.3af",
+    "audiocodec": "PCM/AMR",
+    "imagecompression": "H.264 baseline, MPEG4 simple profile and MJPEG",
+    "category": "camera",
+    "environment": "Operation Temp: 0 to 45 degrees C Operation Humidity: 20 to 85% non-condensing Storage Temp: -15 to 60 degrees C Storage Humidity: 0 to 90% non-condensing",
+    "focuslength": "4.0mm",
+    "approvals": "FCC/CE class B",
+    "minimumillumination": "1 LUX",
+    "resetbutton": "Push and Release bottom will Reboot Push and hold over 5 seconds will Factory Reset",
+    "supportedprotocols": "TCP/IP, IPV6, UDP, ICMP, DHCP, NTP, DNS, DDNS, SMTP, FTP, HTTP, HTTPs, Samba, PPPoE, UPnP, Bonjour, RTP, RTSP, RTCP",
+    "manufacturer": "LiveLine",
+    "audioout": "External output to active speaker;Mono",
+    "imagesensor": "1/3.2\u00b0 Color Mega CMOS Sensor",
+    "upc": "816045010108",
+    "ethernet": "One RJ45 port;IEEE 802.3u compliant 10/100 Mbps Fast Ethernet with Auto-MDIX",
+    "resolution": "1600 x 1200"
+}

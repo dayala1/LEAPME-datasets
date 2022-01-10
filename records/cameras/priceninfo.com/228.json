@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "capturemodes": "Single, Continuous (approx. 0.9 fps up to 3 shots), BSS (Best Shot Selector), Multi-shot 16 (16 frames with a single burst)",
+    "batterylife": "Approx. 220 shots",
+    "videorecording": "VGA (640\u00d7480), QVGA (320\u00d7240)",
+    "weight": "117gm (Weight with battery and memory card)",
+    "focusrangemacro": "8cm and Normal mode",
+    "label0": "Nikkor Lens f=4.9-19.6mm / F3.2-5.9",
+    "label1": "Electronic VR Vibration Reduction",
+    "sensitivity": "Auto (auto gain ISO 80-1600), Fixed range auto (ISO 80 to 400, 80-800), Manual selection",
+    "label4": "2.7\u201d inch LCD Monitor",
+    "label5": "16Mb Internal memory and SD/SDHC Memory Card support",
+    "selftimer": "2 and 10 sec. duration",
+    "digitalzoom": "Up to 4x",
+    "exposuremeteringsystem": "256-segment matrix metering, Center-weighted metering, Spot metering",
+    "label12": "Rechargeable Li-ion Battery EN-EL19, AC Adapter EH-62G (optional)",
+    "label10": "White Balance Auto, Preset manual, Daylight, Incandescent, Fluorescent, Cloudy, Flash",
+    "dimensions": "93.1\u00d757.1\u00d720.0 mm"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p, 75ohms",
+    "supplyvoltage": "DC 12V",
+    "irwavelength": "850nm (2.75Ft)",
+    "powerconsumption": "Min Req",
+    "imagesensor": "1/3\" Color SHARP Color CCD",
+    "snratio": ">48dB",
+    "electronicshutter": "1/60 to 1/100,000 sec",
+    "color": "Black ( White )",
+    "horizontalresolution": "700 TV Lines",
+    "signalsystem": "NTSC",
+    "effectivepixels": "1020(H) x 508(V)",
+    "irdistance": "50Ft (15m)",
+    "minimumillumination": "0 LUX (IR on)",
+    "lens": "3.6mm"
+}

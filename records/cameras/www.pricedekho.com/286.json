@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "pictbridge": "Yes",
+    "dustreduction": "NA",
+    "externalflash": "Yes",
+    "videodisplayresolution": "1280 x 720 pixels (HD)",
+    "displaytype": "TFT LCD",
+    "flashmodes": "Auto (Flash -Off), Fill-in Flash",
+    "isorating": "Auto / ISO (100 -1600)",
+    "redeyereduction": "Yes",
+    "whitebalancing": "Auto, Cloudy, Daylight, Flash, Fluorescent, Incandescent",
+    "metering": "Center-Weighted Average, Evaluative, Spot",
+    "selftimer": "2 sec, 10 sec",
+    "exposurecompensation": "1/3 EV Steps, +/-2.0 EV",
+    "screensize": "2.7 Inches",
+    "builtinflash": "Yes",
+    "imagedisplayresolution": "230000 Dots",
+    "facedetection": "Yes"
+}

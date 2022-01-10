@@ -1,0 +1,22 @@
+{
+    "videooutput": "Composit 1.0Vp-p at 75ohm",
+    "weight": "0.45KG",
+    "exposuremode": "EE",
+    "powersupply": "DC12V /2A",
+    "horizontalresolution": "800TVL / 900TVL",
+    "effectivepixels": "728(H) * 488\u00a0(V)",
+    "factorylocation": "Longhua, Shenzhen, Guangdong. China",
+    "category": "camera",
+    "numberofqcstaff": "5 - 10 People",
+    "electronicshutter": "1/50,1/60----1/10000sec(NTSC/PAL)",
+    "factorysizesqmeters": "1,000-3,000 square meters",
+    "contractmanufacturing": "OEM Service Offered \u00a0  Design Service Offered \u00a0  Buyer Label Offered",
+    "snratio": ">52dB(AGC OFF)",
+    "lens": "3.6 / 6/ 8 mm",
+    "signalsystem": "PAL / NTSC",
+    "numberofrdstaff": "5 - 10 People",
+    "irled": "36IR( diameter 5mm)",
+    "imagesensor": "1/4''CMOS,1/3''CMOS",
+    "syncsystem": "Internal",
+    "whitebalance": "Auto"
+}

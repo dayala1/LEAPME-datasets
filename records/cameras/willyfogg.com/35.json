@@ -1,0 +1,8 @@
+{
+    "category": "camera",
+    "function": "220MB NAND Flash for user",
+    "drivers": "SDROM, Flash, Serial ports, RTC, 4.3\u00c2\u0094 LCD including Touch Screen, MMC/SD, High Speed SD card, user buttons",
+    "system": "CharacteristicKITL kernel debug, Reboot, Watchdog, RTC",
+    "filesystem": "File System FormatExt3",
+    "os": "ItemFeatureDescription"
+}

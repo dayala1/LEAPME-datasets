@@ -1,0 +1,16 @@
+{
+    "videoframerate": "30fps",
+    "category": "camera",
+    "storagesupport": "MicroSD (TF)",
+    "chargingvoltage": "DC-5V",
+    "videoencoding": "M-JPEG",
+    "supportsystem": "Windows me/2000/xp/2003/vista;Mac os;Linux;",
+    "item": "parameter",
+    "interfacetype": "Mini 8Pin USB",
+    "workingtime": "About 100 minutes",
+    "pictureformat": "JPG",
+    "cameraresolution": "320*240",
+    "videoresolution": "1920 * 1080",
+    "imageratio": "4:3",
+    "videoformat": "AVI"
+}

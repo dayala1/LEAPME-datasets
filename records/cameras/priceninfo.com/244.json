@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "label9": "USB 2.0",
+    "focusingtype": "TTL auto focus (Multi AF, Centre AF, Face Detection AF, Tracking AF)",
+    "weight": "143gm",
+    "focallength": "Samsung 7X Zoom Lens f = 5.6 ~ 39.2mm (35mm film equivalent",
+    "isoequivalent": "Auto, 80, 100, 200, 400, 800, 1,600, 3,200",
+    "effectivepixel": "14.2 Mega pixel",
+    "label4": "Metering Multi, Spot, Centre Weighted, Face Detection AE",
+    "externalmemory": "SD Card (up to 2GB) SDHC (up to 8GB)",
+    "internalmemory": "90MB",
+    "compensation": "\u00b12EV (1/3EV steps)",
+    "rechargeablebattery": "BP70ACharger",
+    "dimensionswxhxd": "99.8 x 59.5 x 21.0mm",
+    "selftimer": "Off, 2 seconds, 10 seconds, Double, Motion timer",
+    "imagesensor": "7.76mm (2.3) CCD",
+    "videoout": "AV"
+}

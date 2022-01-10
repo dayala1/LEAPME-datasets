@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="overstock.com:overstock.com#"
+     xml:base="overstock.com:overstock.com"
+     xmlns:overstock2="overstock.com:2"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:overstock3="overstock.com:4"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:overstock="overstock.com:">
+    <owl:Ontology rdf:about="overstock.com:overstock.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- overstock.com:Battery -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Battery">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Bluetooth -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Bluetooth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Browser -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Browser">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Browser</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Camera -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Chipset -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Chipset">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chipset</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Color-options -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Color-options">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color options</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Compatible-with-all-GSM-Carriers -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Compatible-with-all-GSM-Carriers">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compatible with all GSM Carriers</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Condition -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Condition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Condition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Dimensions -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Dimensions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dimensions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:GPS -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:GPS">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GPS</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Internal-Memory -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Internal-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Internal-memory -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Internal-memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Lollipop -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Lollipop">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lollipop</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Messaging -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Messaging">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Messaging</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Multi-Touchscreen -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Multi-Touchscreen">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-Touchscreen</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Operating-System -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Operating-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Processor -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Processor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:RAM -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:RAM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Standby -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Standby">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standby</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Talktime -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Talktime">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Talktime</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:USB -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:USB">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:Wi-Fi -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:Wi-Fi">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:battery -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:battery">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">battery</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:camera -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:multi-touch-screen -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:multi-touch-screen">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multi-touch screen</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:2G -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:2G">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2G</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- overstock.com:4G -->
+
+    <owl:DatatypeProperty rdf:about="overstock.com:4G">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- overstock.com:0 -->
+
+    <owl:NamedIndividual rdf:about="overstock.com:0">
+        <overstock:Talktime rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 19 Hours (2G)</overstock:Talktime>
+        <overstock:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">148.9 x 76.1 x 6.3 (inches); Weight: 5.47 oz</overstock:Dimensions>
+        <overstock:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixel</overstock:Camera>
+        <overstock:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</overstock:Internal-Memory>
+        <overstock:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB</overstock:RAM>
+        <overstock:Multi-Touchscreen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.5-inch IPS LCD</overstock:Multi-Touchscreen>
+        <overstock:Lollipop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android v5.1</overstock:Lollipop>
+        <overstock:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual-Core 1.82 GHz Cortex-A57 and Quad-Core 1.44 GHz Cortex-A53 </overstock:Processor>
+        <overstock2:G rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1900 / 2100</overstock2:G>
+        <overstock:Browser rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTML5</overstock:Browser>
+        <overstock3:G rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LTE 700 / 800 / 850 / 900 / 1700 (AWS) / 1800 / 1900 / 2100 / 2600 (Bands, 1, 2, 3, 4, 5, 7, 8, 17, 20, 28)</overstock3:G>
+        <overstock:Battery rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Li-Ion 3000 mAh</overstock:Battery>
+        <overstock:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New</overstock:Condition>
+        <overstock:Chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm MSM8992 Snapdragon 88, Graphics: Adreno 418 Graphics</overstock:Chipset>
+        <overstock:Standby rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 360 Hours (2G) / Up to 440 Hours (3G)</overstock:Standby>
+        <overstock:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v4.1, A2DP, LE, apt-X</overstock:Bluetooth>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- overstock.com:1 -->
+
+    <owl:NamedIndividual rdf:about="overstock.com:1">
+        <overstock:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> v4.0, A2DP</overstock:Bluetooth>
+        <overstock:Compatible-with-all-GSM-Carriers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(phones that use a SIM card) like ATT, T-Mobile, etc.</overstock:Compatible-with-all-GSM-Carriers>
+        <overstock:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1GB</overstock:RAM>
+        <overstock:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.55 ounces</overstock:Weight>
+        <overstock:multi-touch-screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.7-inch LED-backlit IPS LCD</overstock:multi-touch-screen>
+        <overstock:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.44 inches high x 2.64 inches wide x .27 inches deep</overstock:Dimensions>
+        <overstock:Internal-memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64GB</overstock:Internal-memory>
+        <overstock:camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-megapixel</overstock:camera>
+        <overstock:Wi-Fi rdf:datatype="http://www.w3.org/2001/XMLSchema#string">802.11 a/b/g/n/ac, Wi-Fi hotspot</overstock:Wi-Fi>
+        <overstock:GPS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-GPS, GLONASS</overstock:GPS>
+        <overstock:Chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple A8, PowerVR GX6650 (hexa-core graphics) graphics</overstock:Chipset>
+        <overstock:battery rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in rechargeable lithium-ion</overstock:battery>
+        <overstock:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual-Core 1.4GHz Cyclone (ARM v8-based)</overstock:Processor>
+        <overstock2:G rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1700 / 1900 / 2100</overstock2:G>
+        <overstock:Browser rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTML</overstock:Browser>
+        <overstock3:G rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LTE 700 / 850 / 900 / 1800 / 1900 / 2100 / 2600 / 850</overstock3:G>
+        <overstock:Color-options rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Space Gray, silver, gold</overstock:Color-options>
+        <overstock:Talktime rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 14 hours (3G)</overstock:Talktime>
+        <overstock:Standby rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 250 hours (3G)</overstock:Standby>
+        <overstock:Messaging rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iMessage, SMS, MMS, Email, Push Email</overstock:Messaging>
+        <overstock:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS 8</overstock:Operating-System>
+        <overstock:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v2.0</overstock:USB>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- overstock.com:2 -->
+
+    <owl:NamedIndividual rdf:about="overstock.com:2">
+        <overstock:Talktime rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 19 Hours (2G)</overstock:Talktime>
+        <overstock:Dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">148.9 x 76.1 x 6.3 (inches); Weight: 5.47 oz</overstock:Dimensions>
+        <overstock:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 Megapixel</overstock:Camera>
+        <overstock:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</overstock:Internal-Memory>
+        <overstock:RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3GB</overstock:RAM>
+        <overstock:Multi-Touchscreen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.5-inch IPS LCD</overstock:Multi-Touchscreen>
+        <overstock:Lollipop rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android v5.1</overstock:Lollipop>
+        <overstock:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual-Core 1.82 GHz Cortex-A57 and Quad-Core 1.44 GHz Cortex-A53 </overstock:Processor>
+        <overstock2:G rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1900 / 2100</overstock2:G>
+        <overstock:Browser rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HTML5</overstock:Browser>
+        <overstock3:G rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LTE 700 / 800 / 850 / 900 / 1700 (AWS) / 1800 / 1900 / 2100 / 2600 (Bands, 1, 2, 3, 4, 5, 7, 8, 17, 20, 28)</overstock3:G>
+        <overstock:Battery rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Li-Ion 3000 mAh</overstock:Battery>
+        <overstock:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New</overstock:Condition>
+        <overstock:Chipset rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm MSM8992 Snapdragon 88, Graphics: Adreno 418 Graphics</overstock:Chipset>
+        <overstock:Standby rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 360 Hours (2G) / Up to 440 Hours (3G)</overstock:Standby>
+        <overstock:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">v4.1, A2DP, LE, apt-X</overstock:Bluetooth>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

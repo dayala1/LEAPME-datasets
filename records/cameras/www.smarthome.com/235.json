@@ -1,0 +1,20 @@
+{
+    "digitalnoisereduction": "2D DNR",
+    "irled": "42, 5mm IR LEDs",
+    "senseupdss": "No",
+    "digitalwidedynamicrange": "ATR",
+    "operatingtemperature": "-20\u00b0C ~ 50\u00b0C",
+    "minimumillumination": "0 Lux When IR is On",
+    "rs485": "No",
+    "irdistance": "105 - 120 feet",
+    "effectivepixels": "976 H x 494 V",
+    "imagingsensor": "1/3\" Sony 672AK CCD +Sony Effio-E 4127 DSP",
+    "lens": "2.8 - 12mm Manual Varifocal Lens",
+    "horizontalresolution": "650 TVL",
+    "signalsystem": "NTSC",
+    "powersupply": "DC 12V / AC 24V",
+    "snratio": "More than 50dB (AGC Off)",
+    "osdmenu": "8 Languages: Chinese, Japanese, English, French, Russian, German, Spanish, Portuguese",
+    "category": "camera",
+    "manufacturer": "Camstar"
+}

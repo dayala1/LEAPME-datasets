@@ -1,0 +1,23 @@
+{
+    "warranty": "Voigtlander One-Year Warranty",
+    "meteringrange": "EV 1-19 (ISO 100 with 50mm f/1.5 lens)",
+    "weight": "1 lb (430 g)",
+    "focusingrange": "Close focus .7 meter",
+    "isorange": "Manually set: 25-3200",
+    "batteries": "Two 1.5-Volt A76 (LR44) alkaline batteries",
+    "remotecontrol": "Works with Standard Mechanical Cable Release",
+    "category": "camera",
+    "dimensions": "WxHxD: 5.4\" x 3.2\" x 1.4\" (135.5mm x 81mm x 33.5mm)",
+    "selftimer": "No",
+    "type": "35mm rangefinder with interchangeable lens system",
+    "focusingtype": "Manual",
+    "lensmount": "Voigtlander \"M\" Mount",
+    "shutterspeed": "1/2000th to 1 Second + bulb X synchronic contact, synchronized at 1/125 sec or lower speed",
+    "exposure": "Manual",
+    "shuttertype": "Mechanical",
+    "pcterminal": "Yes",
+    "viewfinderinformation": "LED Shutter speed indication lights up to indicate suggested speeds",
+    "multipleexposure": "No",
+    "viewfindertype": "x.52 Magnification field of view 85%, object distance 3 m superimposed rangefinder with brightlines for 21, 25, 28, 35 & 50mm lenses",
+    "exposuremetering": "Center-weighted average metering"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "shutter": "30 - 1/4000 sec",
+    "lcdmonitor": "2.7\" Rear Screen Tilting  LCD",
+    "videorecording": "Yes",
+    "liveview": "Yes",
+    "isosensitivity": "Auto, 100-16000",
+    "autofokus": "Auto and Manual",
+    "whitebalance": "Auto, Cloudy, Custom, Daylight, Flash, Fluorescent, Fluorescent (Day White), Fluorescent (White), Incandescent, Kelvin, Shade",
+    "externalflash": "Hot Shoe",
+    "exposurecompensation": "-3 EV to +3 EV (in .3 EV steps)",
+    "internalflash": "Built in Flash",
+    "viewfinder": "Electronic Viewfinder Coverage 100%",
+    "lensmount": "Sony Alpha/ Minolta",
+    "imageprocessor": "CMOS",
+    "sensor": "APS-C",
+    "model": "APS-C Digital SLT",
+    "dustreductionsystem": "Yes"
+}

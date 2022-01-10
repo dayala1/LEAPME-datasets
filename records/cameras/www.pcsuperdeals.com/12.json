@@ -1,0 +1,22 @@
+{
+    "features": "Face Detection",
+    "color": "Gray",
+    "producttype": "Compact Camera",
+    "displayscreentype": "LCD",
+    "category": "camera",
+    "productline": "ViviCam",
+    "usb": "Yes",
+    "effectivecameraresolution": "10.1 Megapixel",
+    "manufacturerpartnumber": "VX018-GRAY",
+    "manufacturerwebsiteaddress": "http://www.sakar.com",
+    "brandname": "Vivitar",
+    "screensize": "1.8\"",
+    "batterysizesupported": "AAA",
+    "manufacturer": "Sakar International, Inc",
+    "productmodel": "X018",
+    "productname": "ViviCam X018 Digital Camera",
+    "numberofbatteriessupported": "3",
+    "digitalzoom": "8x",
+    "viewfindertype": "No",
+    "platformsupported": "PC"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "northamerica": "confidential11.19",
+    "protocol": "TCP/IP,\u00a0HTTP,\u00a0DHCP,DNS,DDNS,RTSP,PPPoE,SMTP,NTP,P2P,ONVIF2.0",
+    "operatingtemperature": "-10\u00b0C~50\u00b0C",
+    "shutterspeed": "1/25~1/100,000Sec",
+    "imagesensor": "1.0M\u00a0CMOS",
+    "framerate": "NTSC:30fps/CH\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0PAL:25fps/CH",
+    "powersupply": "DC\u00a012V,1A",
+    "westerneurope": "confidential5.16",
+    "lens": "2.8-12mm\u00a0varifocal\u00a0lens",
+    "coderate": "32Kbps~8Mbps\u00a0Adjustable",
+    "model": "SpecificationsChief CharacteristicBoard specification",
+    "poe": "Optional",
+    "daynight": "IR\u00a0CUT",
+    "pixel": "1280x720",
+    "resolution": "Main\u00a0stream:\u00a0720P,\u00a0VGA,\u00a0QVGA; Sub\u00a0srteam:\u00a0VGA,\u00a0QVGA"
+}

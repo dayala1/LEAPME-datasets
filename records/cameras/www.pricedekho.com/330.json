@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "selftimer": "Yes",
+    "whitebalancing": "Auto, Cloudy, Custom, Daylight, Fluorescent-H, Fluorescent-L, Tungsten",
+    "facedetection": "Yes; Face Detection AE",
+    "flashrange": "(ISO Auto) : Wide : 0.2m - 3.4m, Telephoto : 0.5m - 2.0m",
+    "focallength": "4.9 - 24.5 mm (35 mm Equivalent to 27 - 135 mm)",
+    "isorating": "Auto / 80 / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted, Face Detection AE, Multi, Spot",
+    "colorfilter": "NA",
+    "flashmodes": "Auto, Fill-in, Slow Sync Flash",
+    "builtinflash": "Yes",
+    "autofocus": "Center AF, Face Detection, Multi AF, Tracking AF"
+}

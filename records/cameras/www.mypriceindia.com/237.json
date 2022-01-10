@@ -1,0 +1,22 @@
+{
+    "pictbridge": "Yes",
+    "memorycardtype": "SD / SDHC / SDXC",
+    "videoformat": "AVI (M-JPEG)",
+    "category": "camera",
+    "microphone": "Yes, Analog Mic",
+    "dimensions": "260 (W) x 203 (H) x 51 (D) mm",
+    "seller": "ShippingPriceDetails",
+    "type": "Camcorder",
+    "cameraresolution": "8.1 MP",
+    "hdmi": "Yes",
+    "imagestablizer": "Yes, Anti-Shake Reduction",
+    "whitebalancing": "Automatic, Presets",
+    "externalflash": "No",
+    "imageformat": "JPEG",
+    "usbcable": "Yes",
+    "facedetection": "Yes, Photo",
+    "sensortype": "CMOS",
+    "builtinflash": "No",
+    "upgradablememory": "Yes",
+    "maxresolution": "1920 x 1080 Pixels"
+}

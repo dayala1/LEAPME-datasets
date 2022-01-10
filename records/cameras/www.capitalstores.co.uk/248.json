@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "closestfocusingdistance": "0.9 m",
+    "focallengthrangeff": "95 mm",
+    "camerashutterspeed": "0.05 s",
+    "lightexposuremodes": "Auto",
+    "builtinflash": "Yes",
+    "lensstructureelementsgroups": "2/2",
+    "batterytechnology": "Alkaline",
+    "focus": "Auto",
+    "colourofproduct": "Black",
+    "flashmodes": "Auto",
+    "cameratype": "Compact",
+    "shootingcapacity": "10 rolls",
+    "lightexposurecorrection": "\u00b1 2EV (1/3EV step)",
+    "numberofbatteriessupported": "4",
+    "batterytype": "AA",
+    "camerashuttertype": "Electronic"
+}

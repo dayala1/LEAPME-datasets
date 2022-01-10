@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "selftimer": "2 sec, 10 sec",
+    "microphone": "Monaural Microphone",
+    "facedetection": "Yes; Photo",
+    "deletefunction": "Single, Multi, All, All Except Favorites",
+    "focallength": "5 - 40 mm (35 mm Equivalent to 28 - 224 mm)",
+    "isorating": "80 / 100 / 200 / 400 / 800 / 1600, High Sensitivity Mode (ISO 1600-6400)",
+    "flashrange": "5.8m",
+    "redeyereduction": "Yes",
+    "whitebalancing": "Auto, Cloudy, Daylight, Halogen, Shade, White Set",
+    "metering": "Multi",
+    "colorfilter": "Primary Color",
+    "flashmodes": "Auto, Forced, Slow Sync Flash",
+    "lenstype": "Lumix DC Vario",
+    "builtinflash": "Yes",
+    "continuousshots": "Up to 4.6 fps"
+}

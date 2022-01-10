@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1Vpp, 75 Ohm",
+    "gammacharacteristic": "0.45",
+    "operatingtemperature": "14\u00b0 F ~ 122\u00b0 F (-10 ~ 50\u00b0 C)",
+    "powercurrent": "DC 12V",
+    "imagesensor": "1/3  CCD",
+    "snratio": ">48dB",
+    "infraredleds": "35pcs \u00d88 Infrared LEDs",
+    "lens": "2.8-12mm",
+    "scanningsystem": "2",
+    "horizontalresolution": "650TVL",
+    "dimensionmm": "152(L) x 104(W) x 96(H)",
+    "irdistance": "165ft(with IR on)",
+    "autogaincontrol": "Auto",
+    "storagetemperature": "1\u00b0 F ~ 144\u00b0 F (-30 ~ 60\u00b0 C)",
+    "autoelectronicshutter": "NTSC",
+    "minimumillumination": "0 Lux (with IR RED ON)",
+    "synchronoussystem": "Internal, Negative sync.",
+    "waterresistance": "IP66"
+}

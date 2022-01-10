@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "imagesensorformat": "FX",
+    "flashsyncmodes": "Front-curtain sync (normal), Rear-curtain sync, Red-eye reduction, Red-eye reduction with slow sync, Slow sync",
+    "imagesensortype": "CMOS",
+    "cardslot": "1 CompactFlash\u00a9 (CF) card and 1 Secure Digital (SD) card",
+    "playbackfunctions": "Auto Image Rotation, Full-Frame and Thumbnail (4, 9, or 72 images or calendar), Histogram Display, Image Comment , Movie Playback, Movie Slideshow, Playback with Zoom, Slideshow, Highlights",
+    "batterylifeshotspercharge": "900 Battery Life (shots per charge) (CIPA)",
+    "builtinflash": "Yes",
+    "sensorsize": "35.9mm x 24mm",
+    "wififunctionality": "Eye-Fi Compatible, WT-4A",
+    "picturecontrol": "Landscape, Monochrome, Neutral, Portrait, Standard, User-customizable Settings, Vivid",
+    "effectivepixels": "36.3 million",
+    "totalpixels": "36.8 million",
+    "viewfinder": "Eye-level Pentaprism Single-Lens Reflex Viewfinder",
+    "lensmount": "Nikon F bayonet mount",
+    "dustoffreferencephoto": "Yes",
+    "dustreductionsystem": "Image sensor cleaning",
+    "gps": "GP-1 GPS unit"
+}

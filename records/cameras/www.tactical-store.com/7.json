@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "outputformat": "Analog - NTSC (1000380-0001) or PAL (1000380-0002) monochrome on rear outlet jack",
+    "operatingtemperature": "+14F to 12\u00c2\u00b0 F (-10C to 50C)",
+    "weight": "13oz (381g) batteries installed",
+    "spectralresponse": "7-14 \u03bcm (filter bandwidth)",
+    "minimumfocusdistance": "~ 3ft (1m)",
+    "eyecup": "Integral to camera body with 2\" eye relief",
+    "powersource": "2 AA batteries",
+    "focusmethod": "Manual",
+    "storagetemperature": "-4\u00c2\u00b0 F to 176\u00c2\u00b0 F (-20\u00c2\u00b0 C to 80\u00c2\u00b0 C)",
+    "viewfinderdisplay": "Monochrome LCD (320 x 240 pixels)",
+    "thermalsensitivity": "\u2264150 mK",
+    "size": "5-1/4\" L x 4-1/2\" W x 2\" H (13.4 x 11.4 x 5.1cm)"
+}

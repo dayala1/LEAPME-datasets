@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "displaysizeinch": "3",
+    "imagesizespixels": "1920 x 1080 , 5184 x 3456 , 720 x 480",
+    "connectivity": "HDMI , USB",
+    "color": "Black",
+    "shutterspeed": "767011",
+    "brand": "Canon",
+    "mediatype": "SD , SDHC , SDXC",
+    "videosize": "640 x 480 , HD 1280 x 720 , HD 1920 x 1080",
+    "stillimageformat": "JPEG",
+    "producttype": "Digital SLR Cameras",
+    "stabilisation": "Yes",
+    "model": "700DMTK",
+    "isosensitivitymax": "25600",
+    "batterytype": "LithiumIon",
+    "shootingmodes": "12"
+}

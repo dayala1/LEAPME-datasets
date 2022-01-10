@@ -1,0 +1,16 @@
+{
+    "motiondetection": "support",
+    "category": "camera",
+    "minillumination": "0.1LUX",
+    "power": "DC12V 2A",
+    "resolution": "1280(H)*720(V)1920(H) \u00d71080(V)",
+    "framerate": "25fps/S",
+    "lens": "4-16mm 1.0 megapixels lens for optioanl4-16mm 3.0 megapixels lens for optioanl",
+    "compressionformat": "H.264 Multi-streaming",
+    "networkprotocol": "Support IPv4/IPv6 ,HTTP,TCP,ICMP,RTSP,RTP,UDP,IGMP,RTCP,SMTP,FTP,DHCP,DNS,DDNS,UPN etc",
+    "irdistance": "40m",
+    "maxpixels": "1280(H)*800(V)2592(H)*1944(V)",
+    "model": "IP230LIP230TIP230P",
+    "sensor": "CMOS 1.0 megapixels 720pCMOS 1.3 megapixels 720pCMOS 2.0 megapixels 1080p",
+    "operatingsystem": "Embedded Linux"
+}

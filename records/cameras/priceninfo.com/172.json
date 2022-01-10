@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "sensortype": "1/2.3? Super HAD CCD Sensor",
+    "dimensions": "92.9 x 52.4 x 19.3mm",
+    "weight": "113 gm",
+    "powerconsumption": "1.0Watt",
+    "afmodes": "Multi Point AF /Center Weighted AF / Spot AF",
+    "isosensitivity": "Auto 80/100/200/400/800/1600/3200",
+    "redeyereduction": "Auto / On / Off",
+    "powersupply": "AC 100V to 240V, 50/60 Hz, 2W",
+    "shutterspeeds": "iAuto(1/8 \u2013 1/1,600) / Program Auto(1? \u2013 1/1,600)",
+    "memorycard": "MS Duo and SD/SDHC/SDXC",
+    "selftimer": "Off / 10sec. / 2sec. / portrait1 / portrait2",
+    "focallength35mmequivalent": "Still 16",
+    "effectivepixels": "Approx. 14.1 megapixels",
+    "burstmode": "Approx 1 fps at 14.1MP (Maximum 100 shots)",
+    "opticalzoom": "4x",
+    "batterytype": "Lithium-on NP-BN 3.6V",
+    "flashmodes": "Auto / Flash On / Slow Synchro / Flash Off",
+    "lcdtype": "2.7? Clear Photo LCD (230K dots)"
+}

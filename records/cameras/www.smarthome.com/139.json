@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "buttons": "Reset Button",
+    "lens": "Focal length: 3.1mm, F2.6",
+    "videofeatures": "Adjust image size and quality. Flip and mirror image",
+    "imagesensor": "VGA 1/4\" CMOS sensor",
+    "framerate": "Up to 30 frames",
+    "upc": "0722868910399",
+    "audioin": "Built-in microphone, -38 dB +/- 2dB",
+    "interface": "10/100Base-TX Fast Ethernet,",
+    "audiocompression": "G.711, PCM",
+    "resolution": "160x120, 320x240, 640x480",
+    "viewangle": "Horizontal: 64\u00b0, Vertical: 48\u00b0, Diagonal: 80\u00b0",
+    "manufacturer": "Belkin"
+}

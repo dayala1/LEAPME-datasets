@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "afassistbeam": "Yes",
+    "weight": "Approx. 147 g (including battery/batteries and memory card)",
+    "afpointselection": "Size (Normal, Small)",
+    "focallength": "4.5 \u2013 54.0 mm (35 mm equivalent: 25 \u2013 300 mm)",
+    "afmodes": "Single, Continuous, Servo AF/AE\u00b9, Tracking AF",
+    "closestfocusingdistance": "1 cm (W) from front of lens in ma",
+    "afsystempoints": "AiAF (Face Detection / 9-point), 1-point AF (fixed to centre)",
+    "zoom": "Optical 12x ZoomPlus 24x Digital Approx. 4x. (with Digital Tele-Converter Approx. 1.6x or 2.0x). Combined Approx. 48x\u00b9",
+    "imagestabilisation": "Yes (lens shift-type), Approx. 2.5-stop\u00b9. Intelligent IS plus Enhanced Dynamic IS",
+    "colourfiltertype": "Primary Colour",
+    "construction": "9 elements in 7 groups (1 double-sided aspherical UA lens, 1 double-sided aspherical lens, 1 single-sided aspherical lens)",
+    "operatingenvironment": "0 \u2013 40 \u00b0C, 10 \u2013 90% humidity",
+    "effectivepixels": "Approx. 16.0M",
+    "dimensionswxhxd": "99.7 x 57.6 x 22.4 mm",
+    "maximumfnumber": "f/3.6 \u2013 f/7.0",
+    "type": "TTL",
+    "aflock": "On/Off Selectable"
+}

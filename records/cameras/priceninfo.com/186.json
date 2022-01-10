@@ -1,0 +1,23 @@
+{
+    "weight": "291 gms",
+    "sensitivity": "Auto, ISO 80/100/200/400/800",
+    "label18": "Stereo audio out",
+    "label19": "Powered by 2 AA Alkaline batteries",
+    "label10": "Built-in Flash",
+    "label16": "Mini-HDMI connector",
+    "label15": "SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "category": "camera",
+    "continuousshooting": "0.8 shots/sec. (in P mode), 2.8 shots/sec. (in Low Light mode)",
+    "selftimer": "Approx. 10-sec. delay, approx. 2-sec. delay, custom",
+    "focallength": "5.0 (W) \u2013 80.0 (T) mm (35mm film equivalent",
+    "exposurecontrolmethod": "Manual Exposure, Program Shift, Safety Shift, AE Lock",
+    "maximumaperture": "f/3.5 (W) \u2013 f/5.9 (T)",
+    "dimensionswxhxd": "111.0 x 72.5 x 44.1 mm",
+    "flashrange": "1.6 \u2013 9.8 ft. (W), 2.0 \u2013 6.6 ft. (T) (50cm \u2013 3.0m (W), 60cm \u2013 2.0m (T))",
+    "label0": "16.0 Megapixels, 1/2.3-inch CCD Sensor",
+    "label1": "16X optical and 4X Digital Zoom",
+    "label5": "3.0-inch LCD Monitor with wide viewing angle",
+    "shutterspeed": "1-1/3200 sec. 15-1/3200 sec. (shutter speed range)",
+    "videoout": "NTSC/PAL",
+    "shootingmodes": "M, Av, Tv, P, Live View Control, Auto, SCN, Creative Filters, Discreet, Movie"
+}

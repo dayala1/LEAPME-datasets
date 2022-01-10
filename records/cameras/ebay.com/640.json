@@ -1,0 +1,23 @@
+{
+    "exposurecontrol": "Auto exposure",
+    "picturemodes": "Auto",
+    "sensitivity": "ISO 100 equivalent",
+    "colordepth": "30-bit (10 bits x 3 colors)",
+    "category": "camera",
+    "flash": "Built-in flash with range up to 3 meters Flash modes: auto, auto with red-eye, forced on, and forced off",
+    "selftimer": "10 second delay",
+    "memory": "Average number of photos per 8 MB card*: Superfine - 10 Fine - 20 Basic - 80 *CompactFlash Type I",
+    "aperture": "f/2.8, f/3.9, f/5.6, f/9.8",
+    "sensor": "2.1 MegaPixel, 1/2.7 inch (15 mm) CCD",
+    "focus": "TTL auto focus, 30 cm (11.8 inches) to infinity",
+    "lens": "5-element glass lens, f/2.8, TTL auto focus, 5.8 mm (38 mm = 35mm equivalent)",
+    "lcd": "46 mm (1.8 inch) color LCD with 71,760 pixels 4x playback magnification Thumbnails or full screen views",
+    "shutterspeed": "1/750 to 2 seconds",
+    "exposure": "Auto",
+    "metering": "TTL",
+    "shootingmodes": "Single shot",
+    "zoom": "1.5x, 2x, 2.5x variable digital zoom",
+    "viewfinder": "Separate optical viewfinder (real image)",
+    "resolution": "2.1 MP (1600 x 1200)",
+    "whitebalance": "Auto"
+}

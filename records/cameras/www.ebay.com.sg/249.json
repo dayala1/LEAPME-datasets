@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "operationtemperature": "-20\u00a0-\u00a060\u00b0C",
+    "videoresolution": "1920*1080P\u00a0\u00a015fps",
+    "mic": "YES",
+    "waterproof": "IP54",
+    "powersupply": "DC\u00a0:6V-1.5A\u00a0\u00a0or\u00a0\u00a0 4-8\u00a0AA\u00a0Battery (Not included)",
+    "irfilter": "Full\u00a0Automatic\u00a0IR\u00a0Filter",
+    "lens": "F=3.1;\u00a0FOV=52\u00a0\u00b0",
+    "triggerspeed": "1.0\u00a0second",
+    "interface": "TV\u00a0out\u00a0(NTSC/PAL);\u00a0USB;\u00a0SD\u00a0Card\u00a0Holder;\u00a06V\u00a0DC External",
+    "speaker": "1W\u00a08R",
+    "memory": "Support\u00a0SD\u00a0Card\u00a08MB~32GB (not included) Min class6",
+    "standbytime": "3(6)months\u00a0\u00a0LR6\u00a0AA\u00a0AM-3\u00a01.5V*4(8)\u00a0battery",
+    "sensor": "5\u00a0Megapixel\u00a01/2.5\u201d\u00a0HD\u00a0CMOS\u00a0Sensor",
+    "fileformat": "JPEG/AVI(MJPG)",
+    "exposure": "Auto"
+}

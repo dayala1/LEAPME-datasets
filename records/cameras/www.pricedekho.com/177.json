@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto",
+    "facedetection": "NA",
+    "audioformats": "Linear PCM",
+    "displaytype": "LCD",
+    "isorating": "100-12800",
+    "brand": "Nikon",
+    "metering": "TTL",
+    "selftimer": "2 sec, 5 sec, 10 sec, 20 sec",
+    "exposurecompensation": "+/- 5EV in increments 1/3- or 1/2-EV",
+    "imageformat": "JPEG (DCF)",
+    "videodisplayresolution": "NA",
+    "viewfinder": "Eye-level Pentamirror Single-Lens Reflex View Finder",
+    "videoformat": "H.264, MOV, MPEG-4",
+    "announced": "2014, September",
+    "screensize": "3.2 Inches"
+}

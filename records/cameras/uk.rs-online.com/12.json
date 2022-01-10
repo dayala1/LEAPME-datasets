@@ -1,0 +1,22 @@
+{
+    "weight": "900g",
+    "fieldofview": "32 x 23\u00b0",
+    "height": "262mm",
+    "description": "Testo 875-1i Thermal Imaging Camera, Temperature Measurement Range: -20 \u2192 +350 \u00b0C",
+    "category": "camera",
+    "dimensions": "152 x 108 x 262mm",
+    "width": "108mm",
+    "application": "Thermography",
+    "displayresolution": "320 x 240pixel",
+    "focustype": "Manual",
+    "minimumfocus": "0.1 m",
+    "visualcamera": "Yes",
+    "date": "Nov 1, 2014",
+    "storagemedia": "SD Card",
+    "refreshrate": "33Hz",
+    "horizontalfieldofview": "32\u00b0",
+    "displaysize": "3.5in",
+    "length": "152mm",
+    "interfacetype": "USB 2.0",
+    "emissivity": "1"
+}

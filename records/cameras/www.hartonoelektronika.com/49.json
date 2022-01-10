@@ -1,0 +1,23 @@
+{
+    "exposurecontrol": "TTL 256-zone metering, Multi / Spot / Average",
+    "exposuremode": "Programmed AE, Aperture Priority AE, Shutter Priority AE, Manual",
+    "powersupply": "NP-50 Li-ion battery (included)",
+    "exposurecompensation": "-2.0EV - +2.0EV 1/3EV step",
+    "category": "camera",
+    "dimensions": "117.0 (W) x 69.6 (H) x 56.8 (D) mm",
+    "flash": "Auto flash (Super intelligent Flash) Effective range (ISO AUTO): Normal Wide : Approx. 30cm - 7.0m / 11.7in. - 22.9ft. Telephoto : Approx. 50cm - 5.0m / 1.6ft. - 16.4ft.",
+    "terminal": "Digital interface USB 2.0 High-Speed/ Microphone input (only with MIC-ST1 w/adapter sold separately) HDMI output HDMI mini connector",
+    "aperture": "F2.0 - F11 (Wide) F2.8 - F11 (Telephoto) 1/3EV step (controlled 7 - blade aperture diaphragm)",
+    "movierecording": "1920 x 1080 pixels (60fps) / 1280 x 720 pixels (60fps) / 640 x 480 pixels (30fps) with stereo sound Optical zoom (manual) can be used. * SD memory card with a class 10 write speed (10 MB/sec.) or better is recommended.",
+    "sensitivity": "AUTO (Control available up to ISO3200), Equivalent to ISO 100/200/250/320/400/500/640/800/1000/1250/ 1600/2000/2500/3200/4000/5000/6400/12800 (Standard Output Sensitivity)",
+    "numberofeffectivepixels": "12.0 million pixels",
+    "imagestabilizer": "Lens shift type",
+    "lens": "Name Fujinon 4x optical zoom lens Focal length f=7.1 - 28.4mm, equivalent to 28-112mm on a 35mm format Full-aperture F2.0 (Wide) - F2.8 (Telephoto) Constitution 9 groups 11 lenses",
+    "storagemedia": "Internal memory SD/ SDHC/ SDXC(UHS-I) memory card*1",
+    "lcdmonitor": "2.8-inch, approx. 460K-dot, TFT color LCD monitor, approx. 100% coverage",
+    "shutterspeed": "(Auto mode) 1/4 sec. to 1/4000* sec. , (All other modes) 30 sec. to 1/4000* sec. * 1/4000sec. at small aperture, 1/1000sec. at full aperture",
+    "flashmodes": "Red-eye Removal OFF Auto, Forced Flash, Suppressed Flash, Slow Synchro. Red-eye Removal ON Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro.",
+    "imagesensor": "2/3-inch X-Trans CMOS II with primary color filter",
+    "digitalzoom": "Intelligent digital zoom approx. 2x (up to 8 x when combined with optical zoom)",
+    "fileformat": "Still image JPEG (Exif Ver 2.3)*2, RAW (RAF format), RAW+JPEG (Design rule for Camera File system compliant / DPOF-compatible) Movie MOV (H.264, Audio : Linear PCM / stereo sound)"
+}

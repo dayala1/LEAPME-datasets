@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "iscustomized": "Yes",
+    "pixels": "5.0 Mega,H.264 Video format",
+    "battery": "1000 mAh Li-ion Battery",
+    "infraredremotecontrol": "support",
+    "opticalzoom": "< 10x",
+    "mediatype": "MiniDV",
+    "digitalzoom": "4x",
+    "modelnumber": "WDV5000",
+    "powersupply": "1000 mAh Li-ion Battery",
+    "screensize": "< 2\"",
+    "videoresolution": "FHD (1920*1080P 30FPS) ; HD (1280*720P 60FPS) ; HD (1280*720P 30FPS)",
+    "type": "Portable",
+    "viewangle": "120 degree wide angle",
+    "highdefinitionsupport": "1080P (Full-HD)"
+}

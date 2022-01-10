@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "humidity": "Max. 90% non-condensing",
+    "temperature": "Operating: -25 - 60 \u00b0C (-13 - 140 \u00b0F)",
+    "weight": "456 g (1.00 lb)",
+    "focallength": "4 mm, F1.2",
+    "minimumillumination": "IR off: 0.05 lux IR on: 0 lux 25 meter IR illumination distance Smart IR",
+    "standards": "IEEE 802.1x, IEEE 802.3, IEEE 802.3u, IEEE 802.3x, IEEE 802.3af",
+    "zoom": "user-defined digital zoom window",
+    "power": "Input: PoE (802.3af) Max. Consumption: 5 Watts Output: 12 V DC , 1 A external power adapter -                       Model: 12VDC1000, sold separately - 5.5 mm barrel connector",
+    "networkprotocol": "IPv4, IPv6, UDP, TCP, ICMP, ONVIF v2.2 DHCP, NTP, DNS, DDNS, SMTP, FTP, SNMP (v1, v2c, v3) NFS, SAMBA HTTP, HTTPS PPPoE UPnP, RTSP, RTP, RTCP, SSL",
+    "pantilt": "Pan: 356\u00b0 Tilt: 15 - 90\u00b0",
+    "interface": "10/100 Mbps PoE port Power port (for non-PoE installations) LED indicator Reset button",
+    "audio": "N/A",
+    "sensor": "1/3\" CMOS",
+    "viewingangle": "Diagonal: 89\u00b0 Horizontal: 70\u00b0 Vertical: 52\u00b0",
+    "dimensions": "111 x 111 x 82 mm (4.4\" x 4.4\" x 3.2\")"
+}

@@ -1,0 +1,22 @@
+{
+    "videooutput": "NTSC or PAL",
+    "isosensitivity": "100 to 1,600 in steps of 1 EV with additional setting one step over 1,600",
+    "effectivepixels": "10.2 million",
+    "category": "camera",
+    "playbackfunction": "1 frame; Thumbnail (4 or 9 segments); Magnifying playback; Slide show; Histogram indication; Highlight point display; Auto image rotation",
+    "viewfindermagnification": "Approx. 0.8x with 50mm lens at infinity; -1.0m-1",
+    "deletefunction": "Card format, All frames delete, Selected frames delete",
+    "imagesizepixels": "3,872 x 2,592 [L], 2,896 x 1,944 [M], 1,936 x 1,296 [S]",
+    "focusingscreen": "Type B BriteView Clear Matte screen Mark V with superimposed focus brackets",
+    "pictureangle": "Equivalent in 35mm [135] format is approx. 1.5 times lens focal length",
+    "interface": "High-speed USB: Mass Storage and MTP/PTP selectable",
+    "storagemedia": "SD memory card, SDHC compliant",
+    "lcdmonitor": "2.5-in., 230,000-dot, low-temperature polysilicon TFT LCD with brightness adjustment",
+    "viewfinderframecoverage": "Approx. 95% (vertical/horizontal)",
+    "eyepoint": "18mm (-1.0m-1)",
+    "imagesensor": "RGB CCD, 23.6 x 15.8 mm; total pixels: 10.75 million, Nikon DX format",
+    "filesystem": "Exif 2.21, Compliant DCF 2.0 and DPOF",
+    "viewfinder": "Fixed-eyelevel penta-Dach mirror type; built-in diopter adjustment (-1.7 to +0.5m-1)",
+    "typeofcamera": "Single-lens reflex digital camera",
+    "whitebalance": "Auto (TTL white-balance with 420-pixel RGB sensor), six manual modes with fine-tuning and preset white balance"
+}

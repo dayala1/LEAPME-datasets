@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "afassistbeam": "Yes",
+    "weight": "Approx. 142 g (including battery/batteries and memory card)",
+    "afmodes": "Single, Continuous (Auto mode only), Servo AF/AE, Tracking AF\u00b9",
+    "closestfocusingdistance": "1 cm (W) from front of lens in macro",
+    "afsystempoints": "AiAF (Face Detection / 9-point), 1-point AF (fixed to centre)",
+    "colourfiltertype": "Primary Colour",
+    "effectivepixels": "Approx. 20.0M",
+    "operatingenvironment": "0 \u2013 40 \u00b0C, 10 \u2013 90% humidity",
+    "dimensionswxhxd": "95.3 x 56.8 x 23.7 mm",
+    "type": "TTL",
+    "aflock": "Yes"
+}

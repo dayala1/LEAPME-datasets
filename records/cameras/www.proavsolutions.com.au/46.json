@@ -1,0 +1,18 @@
+{
+    "attr35mmequivalentfocallength": "29.8mm - 357.6mm",
+    "opticalimagestabilization": "5-Axis Hybrid OIS",
+    "sensortype": "MOS (x3, with backside illumination)",
+    "focallength": "2.84 - 34.1mm",
+    "recordingmodes": "PS mode: approx. 28 Mbps (60p only) PH mode: approx. 21-24 Mbps HA mode: approx. 17 Mbps HE mode: approx. 6 Mbps",
+    "lenscoating": "Nano Surface Coating",
+    "sensorsize": "1/4.7\"",
+    "aperture": "Max: f/1.5",
+    "recordingmedia": "SD Card Slot (x2, compatible with UHS-1 and SDXC/SDHC/SD memory cards)",
+    "signalsystem": "NTSC (60 Hz)",
+    "sensorresolution": "2.19 MP (2,190,00 effective pixels)",
+    "framerates": "HD 1080: 60p, 60i, 30p, 24p SD 480: 60i",
+    "audiochannels": "CH1, CH2",
+    "audioformat": "Dolby Digital",
+    "category": "camera",
+    "videoformat": "AVCHD"
+}

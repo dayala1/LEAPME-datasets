@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1280 x 720 pixels (HD) @ 30 fps",
+    "audioformats": "WAV",
+    "inbuiltmemory": "26 MB",
+    "focallength": "4.1 - 12.3 mm (35 mm Equivalent to 29 - 87 mm)",
+    "upgradeablememory": "Yes",
+    "displaytype": "TFT LCD Touchscreen",
+    "lenstype": "Nikkor Lens",
+    "imageformat": "JPEG (DCF, EXIF 2.3, DPOF)",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "230400 dots",
+    "videoformat": "AVI Motion JPEG",
+    "memorycardtype": "SD, SDHC, SDXC",
+    "screensize": "2.7 Inches"
+}

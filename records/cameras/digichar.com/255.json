@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "touchscreen": "Yes",
+    "cameratype": "Point & Shoot",
+    "brand": "Polaroid",
+    "brandpolaroid": "Megapixels: 16.0 MP",
+    "opticalzoom": "8x",
+    "upc": "681066350386",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "sensorresolution": "16.0 MP",
+    "supportedflashmemory": "SD Card",
+    "model": "IS827",
+    "maxvideoresolution": "1280 x 720"
+}

@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "videooutput": "NTSC or PAL",
+    "operatingtemperaturerange": "-25\u00c2\u00b0C to 55\u00c2\u00b0C",
+    "weight": "~9 lbs",
+    "productcode": "UPCSKUFLIR M-625 Premium 640x480 Maritime Thermal Night Vision Camera Options",
+    "focallength": "25mm",
+    "fieldofview": "25\u00c2\u00b0 x 20\u00c2\u00b0",
+    "digitalezoom": "2x to 4x",
+    "connectortypes": "BNC or BNC-to-RCA adapter",
+    "sensortype": "VOx microbolometer",
+    "sensorresolution": "640x480",
+    "tiltcoverage": "+/- 90\u00c2\u00b0",
+    "powerrequirements": "12 VDC to 24 VDC"
+}

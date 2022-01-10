@@ -1,0 +1,22 @@
+{
+    "powerrequirement": "12VDC, 1A , 802.3afPoE Max 2.5W",
+    "chip": "1/4\" Mega Pixel CMOS",
+    "browsers": "IE 6.x or above",
+    "audiocodec": "G.711/AMR",
+    "imagecompression": "H.264 / MPEG4 / MJPEG",
+    "category": "camera",
+    "dimensions": "1.14\" x 2.36\" x 3.74\" (29 x 60 x 95mm)",
+    "focallength": "f=3.6mm",
+    "minimumillumination": "1 lux, LED off 0 lux, LED on",
+    "supportedprotocols": "TCP/IP, UDP, ICMP, DHCP, NTP, DNS, DDNS, SMTP, FTP, HTTP, Samba, PPPoE, UPnP, Bonjour, RTP, RTSP, RTCP",
+    "operatingsystems": "Windows 2000/XP/Vista",
+    "manufacturer": "Level One",
+    "certifications": "FCC, CE",
+    "audiostreaming": "2-way Audio",
+    "operatingtemperature": "32\u00b0to 122\u00b0F (0\u00b0to 50\u00b0C)",
+    "operatinghumidity": "10% to 80%",
+    "upc": "846359014806",
+    "ethernet": "10/100Mbps RJ45",
+    "resolution": "1280x800",
+    "viewingangle": "H: 55.7\u00b0, V: 36.5\u00b0"
+}

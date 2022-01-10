@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "maximumstillframeratefps": "30",
+    "minimumaperture": "f/3.5",
+    "productline": "Lumix",
+    "color": "Black",
+    "colorclass": "Black",
+    "cameraresolutionmegapixel": "16.1",
+    "opticalzoomrangex": "2.0 - 4.9",
+    "focusmode": "Auto",
+    "lcdsizein": "3.5",
+    "lcdsizerange": "> 3.5\"",
+    "cameramegapixels": "15 - 20 Megapixel",
+    "imagestabilizationtype": "Optical",
+    "opticalzoomx": "4",
+    "resolution": "4608 x 3456",
+    "aspectratio": "169",
+    "digitalzoomx": "4"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "powerrequirement": "DC 12V",
+    "dimensionwxhxdmm": "145 x 164 x 164",
+    "powerconsumption": "12W",
+    "imagesensor": "1/2.8-type Exmor CMOS",
+    "presetposition": "6",
+    "snratio": "More than 50 dB",
+    "minimumillumination": "High sensitivity mode: 0.5 lx (F1.6, 50 IRE); normal mode: 1.7 lx (F1.6, 50 IRE)",
+    "opticalzoom": "20x",
+    "whitebalance": "Auto, Indoor, Outdoor, One-push, Manual",
+    "lens": "Focal Length:f=4.7mm (wide) to 94.0mm (Tele) F1.6 to F3.5",
+    "digitalzoom": "12x",
+    "tiltangle": "+90 degree/- 20 degree (Maximum speed 90 degree/sec)",
+    "horizontalviewingangle": "55.4 degrees (wide) to 2.9 degrees (tele)",
+    "gain": "Auto/Manual/Max. AE Gain Limit (-3 dB to +28 dB, 2 dB steps)",
+    "packagecontent": "Camera Unit, AC Adaptor, AC Power cable, IR Remote Commander unit, Ceiling Bracket, Operating Instruction, RS-422 connector plug",
+    "mass": "1,550g",
+    "shutterspeed": "1 to 1/10,000s",
+    "cameracontrol": "(Interface) - RS-232C / RS-422 (Protocol) - VISCA"
+}

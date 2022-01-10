@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "facedetection": "NA",
+    "shootingmodes": "Blur Reduction, Panorama, Program, Scene, Smart Capture, Sport, Video",
+    "aperturerange": "f/2.8 - f/4.5",
+    "redeyereduction": "Yes",
+    "metering": "Spot",
+    "selftimer": "2 sec, 10 sec"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 60 fps",
+    "hdmi": "Yes; HDMI Mini Connector",
+    "flashrange": "(ISO 1600) : 0.5 - 9m",
+    "flashmodes": "Auto, Forced, Slow Sync, Suppressed Flash",
+    "builtinflash": "Yes",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "displaytype": "TFT LCD",
+    "lenstype": "Fujinon Lens",
+    "screensize": "2.8 Inches",
+    "usb": "USB 2.0 Hi-Speed",
+    "viewfinder": "Electronic View Finder",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "460000 dots",
+    "gps": "NA"
+}

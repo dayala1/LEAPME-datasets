@@ -1,0 +1,562 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="microcenter.com:microcenter.com#"
+     xml:base="microcenter.com:microcenter.com"
+     xmlns:Viewing-Angles-H="microcenter.com:Viewing-Angles-H/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:microcenter="microcenter.com:">
+    <owl:Ontology rdf:about="microcenter.com:microcenter.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- microcenter.com:Aspect-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Aspect-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aspect Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Brightness -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Brightness">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brightness</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Color-Support -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Color-Support">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color Support</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Component-In -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Component-In">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Component In</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Composite-In -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Composite-In">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite In</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Depth-With-Stand -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Depth-With-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depth (With Stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Depth-Without-Stand -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Depth-Without-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depth (Without Stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Digital-Audio-Out -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Digital-Audio-Out">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Audio Out</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Display-Type -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Display-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Ethernet-Port -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Ethernet-Port">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ethernet Port</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Features -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:HD-Signal-Support -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:HD-Signal-Support">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD Signal Support</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:HDMI -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:HDMI">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Height-With-Stand -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Height-With-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Height (With Stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Height-Without-Stand -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Height-Without-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Height (Without Stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Interface -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Interface">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interface</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Labor -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Labor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Labor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Memory-Cards-Supported -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Memory-Cards-Supported">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Cards Supported</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Mfr-Part -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Mfr-Part">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mfr Part#</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Model-Number -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Model-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Native-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Native-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Native Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Parts -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Parts">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parts</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Power-Consumption-Standby -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Power-Consumption-Standby">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Consumption (Standby)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Power-Supply -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Power-Supply">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Supply</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:RS-232-Ports -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:RS-232-Ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RS-232 Ports</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Refresh-Rate -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Refresh-Rate">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refresh Rate</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:SKU -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:SKU">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SKU</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Screen-Size -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Screen-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Series -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Series">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Series</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Speakers -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Speakers">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speakers</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:TV-Tuner -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:TV-Tuner">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV Tuner</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:UPC -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:UPC">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UPC</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:USB-interfaces -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:USB-interfaces">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB interfaces</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:User-Controls -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:User-Controls">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">User Controls</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:VESA-Mount-Compatibility -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:VESA-Mount-Compatibility">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VESA Mount Compatibility</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Voltage-Required -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Voltage-Required">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voltage Required</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Weight-With-Stand -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Weight-With-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight (With Stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Weight-Without-Stand -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Weight-Without-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight (Without Stand)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Whats-in-the-Box -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Whats-in-the-Box">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">What&apos;s in the Box</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Width -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Width">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Width</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- microcenter.com:Viewing-Angles-H/V -->
+
+    <owl:DatatypeProperty rdf:about="microcenter.com:Viewing-Angles-H/V">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viewing Angles H/V</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- microcenter.com:0 -->
+
+    <owl:NamedIndividual rdf:about="microcenter.com:0">
+        <microcenter:Component-In rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Component-In>
+        <microcenter:Composite-In rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Composite-In>
+        <microcenter:RS-232-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:RS-232-Ports>
+        <microcenter:Ethernet-Port rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Ethernet-Port>
+        <microcenter:Digital-Audio-Out rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Digital-Audio-Out>
+        <microcenter:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</microcenter:Parts>
+        <microcenter:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</microcenter:Labor>
+        <microcenter:Color-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.07 Billion color support</microcenter:Color-Support>
+        <microcenter:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</microcenter:Aspect-Ratio>
+        <Viewing-Angles-H:V rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 horizontal / 178 vertical viewing angles</Viewing-Angles-H:V>
+        <microcenter:USB-interfaces rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</microcenter:USB-interfaces>
+        <microcenter:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</microcenter:HDMI>
+        <microcenter:Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.9&quot;</microcenter:Height-With-Stand>
+        <microcenter:Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.9&quot;</microcenter:Height-Without-Stand>
+        <microcenter:Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.7 lbs.</microcenter:Weight-Without-Stand>
+        <microcenter:Native-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840x2160</microcenter:Native-Resolution>
+        <microcenter:Brightness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">400 cd/m2</microcenter:Brightness>
+        <microcenter:Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6 lbs.</microcenter:Weight-With-Stand>
+        <microcenter:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.3&quot;</microcenter:Width>
+        <microcenter:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4k Smart Curved TV; Power Cable; Owner&apos;s Manual; Software CD; Magic Remote; (2) x 3D Glasses</microcenter:Whats-in-the-Box>
+        <microcenter:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55&quot;</microcenter:Screen-Size>
+        <microcenter:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</microcenter:Model-Number>
+        <microcenter:Mfr-Part rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</microcenter:Mfr-Part>
+        <microcenter:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596948</microcenter:UPC>
+        <microcenter:HD-Signal-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720p 1080p 480p 4K Ultra HD</microcenter:HD-Signal-Support>
+        <microcenter:Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.4&quot;</microcenter:Depth-Without-Stand>
+        <microcenter:Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.9&quot;</microcenter:Depth-With-Stand>
+        <microcenter:SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">815902</microcenter:SKU>
+        <microcenter:Power-Consumption-Standby rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&lt;0.3 Watts</microcenter:Power-Consumption-Standby>
+        <microcenter:Voltage-Required rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AC 100-240V (50/60Hz)</microcenter:Voltage-Required>
+        <microcenter:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</microcenter:Color>
+        <microcenter:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EG Series</microcenter:Series>
+        <microcenter:Interface rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI x3 Composite x1 Component x1</microcenter:Interface>
+        <microcenter:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Integrated Stereo Speakers</microcenter:Speakers>
+        <microcenter:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</microcenter:Display-Type>
+        <microcenter:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MHL Support HDCP Support</microcenter:Features>
+        <microcenter:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NTSC ATSC</microcenter:TV-Tuner>
+        <microcenter:Power-Supply rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Cord</microcenter:Power-Supply>
+        <microcenter:User-Controls rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power On/Off</microcenter:User-Controls>
+        <microcenter:Memory-Cards-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</microcenter:Memory-Cards-Supported>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- microcenter.com:1 -->
+
+    <owl:NamedIndividual rdf:about="microcenter.com:1">
+        <microcenter:Digital-Audio-Out rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Digital-Audio-Out>
+        <microcenter:Component-In rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Component-In>
+        <microcenter:Composite-In rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Composite-In>
+        <microcenter:Ethernet-Port rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Ethernet-Port>
+        <microcenter:RS-232-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:RS-232-Ports>
+        <microcenter:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</microcenter:Parts>
+        <microcenter:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</microcenter:Labor>
+        <microcenter:Color-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.07 Billion color support</microcenter:Color-Support>
+        <microcenter:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</microcenter:Aspect-Ratio>
+        <Viewing-Angles-H:V rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 horizontal / 178 vertical viewing angles</Viewing-Angles-H:V>
+        <microcenter:USB-interfaces rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</microcenter:USB-interfaces>
+        <microcenter:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</microcenter:HDMI>
+        <microcenter:Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.9&quot;</microcenter:Height-Without-Stand>
+        <microcenter:Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.9&quot;</microcenter:Height-With-Stand>
+        <microcenter:Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.7 lbs.</microcenter:Weight-Without-Stand>
+        <microcenter:Native-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840x2160</microcenter:Native-Resolution>
+        <microcenter:Brightness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">400 cd/m2</microcenter:Brightness>
+        <microcenter:Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6 lbs.</microcenter:Weight-With-Stand>
+        <microcenter:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.3&quot;</microcenter:Width>
+        <microcenter:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4k Smart Curved TV; Power Cable; Owner&apos;s Manual; Software CD; Magic Remote; (2) x 3D Glasses</microcenter:Whats-in-the-Box>
+        <microcenter:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55&quot;</microcenter:Screen-Size>
+        <microcenter:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</microcenter:Model-Number>
+        <microcenter:Mfr-Part rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</microcenter:Mfr-Part>
+        <microcenter:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596948</microcenter:UPC>
+        <microcenter:HD-Signal-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720p 1080p 480p 4K Ultra HD</microcenter:HD-Signal-Support>
+        <microcenter:Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.4&quot;</microcenter:Depth-Without-Stand>
+        <microcenter:Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.9&quot;</microcenter:Depth-With-Stand>
+        <microcenter:SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">815902</microcenter:SKU>
+        <microcenter:Power-Consumption-Standby rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&lt;0.3 Watts</microcenter:Power-Consumption-Standby>
+        <microcenter:Voltage-Required rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AC 100-240V (50/60Hz)</microcenter:Voltage-Required>
+        <microcenter:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</microcenter:Color>
+        <microcenter:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EG Series</microcenter:Series>
+        <microcenter:Interface rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI x3 Composite x1 Component x1</microcenter:Interface>
+        <microcenter:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Integrated Stereo Speakers</microcenter:Speakers>
+        <microcenter:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</microcenter:Display-Type>
+        <microcenter:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MHL Support HDCP Support</microcenter:Features>
+        <microcenter:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NTSC ATSC</microcenter:TV-Tuner>
+        <microcenter:Power-Supply rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Cord</microcenter:Power-Supply>
+        <microcenter:User-Controls rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power On/Off</microcenter:User-Controls>
+        <microcenter:Memory-Cards-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</microcenter:Memory-Cards-Supported>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- microcenter.com:2 -->
+
+    <owl:NamedIndividual rdf:about="microcenter.com:2">
+        <microcenter:RS-232-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:RS-232-Ports>
+        <microcenter:Ethernet-Port rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Ethernet-Port>
+        <microcenter:Composite-In rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Composite-In>
+        <microcenter:Component-In rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Component-In>
+        <microcenter:Digital-Audio-Out rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Digital-Audio-Out>
+        <microcenter:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</microcenter:Labor>
+        <microcenter:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</microcenter:Parts>
+        <microcenter:VESA-Mount-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100mm x 100mm</microcenter:VESA-Mount-Compatibility>
+        <microcenter:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</microcenter:Aspect-Ratio>
+        <Viewing-Angles-H:V rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 horizontal / 178 vertical viewing angles</Viewing-Angles-H:V>
+        <microcenter:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 x 10 Watt Integrated Speakers</microcenter:Speakers>
+        <microcenter:Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2&quot;</microcenter:Depth-Without-Stand>
+        <microcenter:USB-interfaces rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</microcenter:USB-interfaces>
+        <microcenter:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</microcenter:HDMI>
+        <microcenter:Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.1&quot;</microcenter:Height-Without-Stand>
+        <microcenter:Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34.8&quot;</microcenter:Height-With-Stand>
+        <microcenter:Native-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840x2160</microcenter:Native-Resolution>
+        <microcenter:Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47 lbs.</microcenter:Weight-Without-Stand>
+        <microcenter:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57&quot;</microcenter:Width>
+        <microcenter:Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58.4 lbs.</microcenter:Weight-With-Stand>
+        <microcenter:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60Hz</microcenter:Refresh-Rate>
+        <microcenter:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65&quot;</microcenter:Screen-Size>
+        <microcenter:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65EG9600</microcenter:Model-Number>
+        <microcenter:Mfr-Part rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65EG9600</microcenter:Mfr-Part>
+        <microcenter:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65EG9600 Curved OLED TV; Magic Remote; (2) 3D Glasses</microcenter:Whats-in-the-Box>
+        <microcenter:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596948</microcenter:UPC>
+        <microcenter:HD-Signal-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720p 1080p 480p 4K Ultra HD</microcenter:HD-Signal-Support>
+        <microcenter:SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">832329</microcenter:SKU>
+        <microcenter:Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.3&quot;</microcenter:Depth-With-Stand>
+        <microcenter:Power-Consumption-Standby rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&lt;0.3 Watts</microcenter:Power-Consumption-Standby>
+        <microcenter:Voltage-Required rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AC 100-240V (50/60Hz)</microcenter:Voltage-Required>
+        <microcenter:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATSC</microcenter:TV-Tuner>
+        <microcenter:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</microcenter:Color>
+        <microcenter:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EG Series</microcenter:Series>
+        <microcenter:Interface rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI x3 Composite x1 Component x1</microcenter:Interface>
+        <microcenter:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</microcenter:Display-Type>
+        <microcenter:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MHL Support HDCP Support Dolby Digital Clear Voice Technology Quad-Core Processor Triple XD Engine Real Cinema 24p </microcenter:Features>
+        <microcenter:Power-Supply rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Cord</microcenter:Power-Supply>
+        <microcenter:User-Controls rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power On/Off</microcenter:User-Controls>
+        <microcenter:Memory-Cards-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</microcenter:Memory-Cards-Supported>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- microcenter.com:3 -->
+
+    <owl:NamedIndividual rdf:about="microcenter.com:3">
+        <microcenter:Component-In rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Component-In>
+        <microcenter:Ethernet-Port rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Ethernet-Port>
+        <microcenter:Composite-In rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Composite-In>
+        <microcenter:RS-232-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:RS-232-Ports>
+        <microcenter:Digital-Audio-Out rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</microcenter:Digital-Audio-Out>
+        <microcenter:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</microcenter:Parts>
+        <microcenter:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year</microcenter:Labor>
+        <microcenter:VESA-Mount-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100mm x 100mm</microcenter:VESA-Mount-Compatibility>
+        <microcenter:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</microcenter:Aspect-Ratio>
+        <Viewing-Angles-H:V rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 horizontal / 178 vertical viewing angles</Viewing-Angles-H:V>
+        <microcenter:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 x 10 Watt Integrated Speakers</microcenter:Speakers>
+        <microcenter:Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2&quot;</microcenter:Depth-Without-Stand>
+        <microcenter:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</microcenter:HDMI>
+        <microcenter:USB-interfaces rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</microcenter:USB-interfaces>
+        <microcenter:Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.1&quot;</microcenter:Height-Without-Stand>
+        <microcenter:Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34.8&quot;</microcenter:Height-With-Stand>
+        <microcenter:Native-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840x2160</microcenter:Native-Resolution>
+        <microcenter:Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47 lbs.</microcenter:Weight-Without-Stand>
+        <microcenter:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57&quot;</microcenter:Width>
+        <microcenter:Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58.4 lbs.</microcenter:Weight-With-Stand>
+        <microcenter:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60Hz</microcenter:Refresh-Rate>
+        <microcenter:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65&quot;</microcenter:Screen-Size>
+        <microcenter:Mfr-Part rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65EG9600</microcenter:Mfr-Part>
+        <microcenter:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65EG9600</microcenter:Model-Number>
+        <microcenter:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65EG9600 Curved OLED TV; Magic Remote; (2) 3D Glasses</microcenter:Whats-in-the-Box>
+        <microcenter:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596948</microcenter:UPC>
+        <microcenter:HD-Signal-Support rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720p 1080p 480p 4K Ultra HD</microcenter:HD-Signal-Support>
+        <microcenter:SKU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">832329</microcenter:SKU>
+        <microcenter:Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.3&quot;</microcenter:Depth-With-Stand>
+        <microcenter:Power-Consumption-Standby rdf:datatype="http://www.w3.org/2001/XMLSchema#string">&lt;0.3 Watts</microcenter:Power-Consumption-Standby>
+        <microcenter:Voltage-Required rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AC 100-240V (50/60Hz)</microcenter:Voltage-Required>
+        <microcenter:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATSC</microcenter:TV-Tuner>
+        <microcenter:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</microcenter:Color>
+        <microcenter:Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EG Series</microcenter:Series>
+        <microcenter:Interface rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI x3 Composite x1 Component x1</microcenter:Interface>
+        <microcenter:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</microcenter:Display-Type>
+        <microcenter:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MHL Support HDCP Support Dolby Digital Clear Voice Technology Quad-Core Processor Triple XD Engine Real Cinema 24p</microcenter:Features>
+        <microcenter:Power-Supply rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Cord</microcenter:Power-Supply>
+        <microcenter:User-Controls rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power On/Off</microcenter:User-Controls>
+        <microcenter:Memory-Cards-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</microcenter:Memory-Cards-Supported>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

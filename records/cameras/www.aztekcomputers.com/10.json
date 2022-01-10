@@ -1,0 +1,22 @@
+{
+    "displaydiagonalsize": "2.7 Inch",
+    "height": "0.70 Inch",
+    "exposurecompensation": "+/-2 stops in 1/3-stop increments",
+    "producttype": "Digital Camera",
+    "category": "camera",
+    "displayformat": "230,000 Pixel",
+    "lightsensitivity": "ISO 80; ISO 100; ISO 200; ISO 400; ISO 1600",
+    "width": "3.63 Inch",
+    "effectivesensorresolution": "14.1 MP",
+    "enclosurecolor": "Pink",
+    "whitebalancepresets": "Auto, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, Custom Facial color is evaluated in Face AiAF.",
+    "focallength": "5-20 mm",
+    "focusadjustment": "TTL autofocus",
+    "opticalsensortype": "CCD",
+    "batterytechnology": "Lithium ion",
+    "opticalzoom": "4 x",
+    "digitalzoom": "4x",
+    "depth": "2.21 Inch",
+    "lensaperture": "Maximum Aperture: f/2.8 (W) - f/5.9 (T)",
+    "supportedflashmemory": "SD; MMC; SDHC; SDXC; MMC Plus Card; HC MMC Plus Card"
+}

@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "dimensions": "Environ 129 x 98 x 78 mm",
+    "vitessedobturation": "1/4000 \u00e0 30 s par incr\u00e9ments d'1/3 ou 1/2 IL, pose B, pose T (t\u00e9l\u00e9commande ML-L3 requise",
+    "viseur": "Viseur de type reflex avec pentamiroir \u00e0 hauteur d\u2019oeil",
+    "grossissement": "Environ 0,78x (objectif 50 mm f/1.4 r\u00e9gl\u00e9 sur l\u2019infini, -1 d)",
+    "poids": "Environ 555 g avec accumulateur et carte m\u00e9moire, mais sans bouchon de bo\u00eetier ; environ 505 g (bo\u00eetier seul)",
+    "accessoiresfournis": "Accumulateur Li-ion EN-EL14 (avec cache-contacts), chargeur d'accumulateur MH-24, courroie AN-DC3, c\u00e2ble USB UC-E17, c\u00e2ble audio vid\u00e9o EG-CP16, protecteur d\u2019oculaire DK-5, volet de la griffe flash BS-1, oeilleton en caoutchouc DK-20, bouchon de bo\u00eetier BF-1B, CD-ROM ViewNX 2, Manuel d\u2019utilisation",
+    "balancedesblancs": "Automatique, incandescent, fluorescent (7 types), ensoleill\u00e9, flash, nuageux, ombre, pr\u00e9-r\u00e9glage manuel ; r\u00e9glage pr\u00e9cis disponible avec toutes ces options \u00e0 l\u2019exception de pr\u00e9-r\u00e9glage manuel",
+    "autofocus": "AF par d\u00e9tection de contraste \u00e0 n'importe quel endroit du cadre (l'appareil choisit",
+    "bracketing": "Bracketing de l\u2019exposition : 3 vues par incr\u00e9ments d\u20191/3 ou 1/2 IL Bracketing de la balance des blancs : 3 vues par incr\u00e9ment de 1 Bracketing du D-Lighting actif : 2 vues"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "lcdsize": "2 inch",
+    "videodisplayresolution": "1080p / 960p / 720p / 480p",
+    "imagesizing": "3:2, 4:3, 16:9",
+    "builtinflash": "Yes",
+    "brand": "ISAW",
+    "upgradeablememory": "Yes",
+    "metering": "3:2 (2304 x 1536), High Speed Recording: 720p (60 fps), 480p (120 fps), Video Quality: Superfine / Fine / Normal",
+    "opticalsensorresolution": "3.5 Megapixels",
+    "selftimer": "Interface Buttons: Shutter, Quick Setup, Mode, User Interface: Color Graphical LCD Screen, Battery Running Time; 2.5 hrs Continuous Recording (1080p (30 fps)), Recharging Time: 3.5 hrs by USB",
+    "memorycardtype": "microSDHC / SDXC",
+    "lenstype": "High Precision f/2.0 Lens",
+    "dimensionswxdxh": "61 (W) x 43 (H) x 32 (D) mm",
+    "autofocus": "Sports & Action",
+    "lcddisplay": "Yes",
+    "batterytype": "Lithium Battery",
+    "usbcable": "USB",
+    "continuousshots": "Continuous Recording (2.5 hrs Running Time)"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "afmode": "Face Detect & iESP, Spot, AF Tracking",
+    "dimensions": "106.3 x 68.7 x 39.5 mm",
+    "weight": "226 gms",
+    "digitalopticalzoom": "96 X/ 24 X",
+    "focallength": "25-600 mm",
+    "imagesensor": "16 Megapixels Backlit CMOS Sensor",
+    "imagestabilizer": "CMOS shift",
+    "lcdscreensize": "3.0? TFT color LCD 460000 pixels",
+    "connectivity": "HDMI",
+    "maximumisosensitivity": "3200",
+    "movierecording": "MPEG-4 AVC/H.264",
+    "resolution": "16.0 MP",
+    "removablememory": "SD/SDHC/SDXC",
+    "battery": "Li-ion Rechargeable Battery (LI-50B)"
+}

@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "headroom": "12 dB",
+    "bitdepth": "8 bits / 10 bits",
+    "operatingtemperature": "0? to 40? (32\u00b0F to 104\u00b0F)",
+    "weight": "Approx. 750 g / 24.46 oz (main unit only)",
+    "operatinghumidity": "10% to 80% (no condensation)",
+    "hdmiout": "HDMI type A (VIERA link not supported), 2 channels (linear PCM)",
+    "powersource": "12 V DC, 1.5A (including a digital camera)",
+    "dimensionswxhxd": "160 x 64 x 91 mm / 6.30 x 2.52 x 3.58 in (excluding protrusions and HDMI terminal)"
+}

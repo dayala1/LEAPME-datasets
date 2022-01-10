@@ -1,0 +1,22 @@
+{
+    "battery": "LI-THIUM",
+    "powersupply": "Battery or car adapter",
+    "externalmemory": "SD Card up to 32GB(SD Card not Included)",
+    "videoresolution": "- HD720P",
+    "videoformat": "H.264",
+    "category": "camera",
+    "microphone": "YES",
+    "operationsystem": "Windows XP/VISTA/7, MAC",
+    "speaker": "YES",
+    "sensor": "1/4\" color CMOS",
+    "imageresolution": "- 4000 x 3000 (12MP) 4",
+    "lens": "145 degree wide angle",
+    "imageformat": "JPEG",
+    "otherfeatures": "- Voice Record - Wide Angle - Night Vision - Continue File when Interrupt - Record when CAR power on",
+    "videoframerate": "- 720P(for HD) 30fps - D1(for DVD) 30fps - VGA(for TV) 30fps - QVGA(for WEB) 45fps",
+    "tvout": "-",
+    "tripodmount": "Yes",
+    "maxresolution": "12.0Mega Pixels",
+    "resolution": "1.3 Megapixel",
+    "focusrange": "-"
+}

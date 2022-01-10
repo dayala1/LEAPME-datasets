@@ -1,0 +1,22 @@
+{
+    "ram": "512MB",
+    "label12": "Google Play",
+    "label13": "1.3 Megapixel Front-Facing Camera + 2 Megapixel Rear Camera",
+    "label10": "FM Radio",
+    "label11": "Portable WiFi Hotspot (3G Tethering)",
+    "label15": "Mic and Speaker",
+    "category": "camera",
+    "languages": "Bahasa Indonesia, Bahasa Melayu, German, English, Spanish, French, Italian, Dutch, Portugues (Brasil), Portugues (Portugal), Vietnamese, Turkish, Greek, Russian, Hebrew, Arab, Thai, Chinese (Simplified), Chinese (Traditional)",
+    "osversion": "4.2",
+    "attr3g": "WCDMA",
+    "label8": "Bluetooth",
+    "label9": "Adobe Flash",
+    "usagetime": "3 Hours",
+    "batterysize": "1500mAh",
+    "label7": "GPS",
+    "wifi": "802.11 b/g/n",
+    "attr36": "US$67.973.61%",
+    "attr2g": "GSM 850/900/1800/1900MHz",
+    "videoresolution": "640x480 Front / 640x480 Back",
+    "cpu": "MT6572W Dual core"
+}

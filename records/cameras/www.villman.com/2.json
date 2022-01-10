@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "builtinmicrophone": "Yes",
+    "imagestabilizer": "Yes",
+    "autowhitebalance": "Yes",
+    "sensortype": "1/3.2\" BSI CMOS",
+    "audioformat": "AAC",
+    "recordingformat": "H.264",
+    "recordingresolution": "Full HD 1920x1080 30p/25p (17Mbps), HD 1280x720 30p/25p (8MBps)",
+    "autofocus": "Yes",
+    "noofpixels": "5 MP"
+}

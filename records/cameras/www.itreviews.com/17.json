@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "interfaceports": "mini USB",
+    "touchscreen": "No",
+    "shutterlag": "0.23 seconds",
+    "mediaformat": "Secure Digital, Secure Digital High Capacity, Secure Digital Extended Capacity",
+    "dimensions": "2.8 x 4.25 x 1.7 inches",
+    "weight": "8.9 oz",
+    "maximumiso": "1600",
+    "videoresolution": "720p",
+    "lcdsize": "3 inches",
+    "megapixels": "16 MP",
+    "opticalzoom": "16 x",
+    "sensorsize": "1/2.3\" (6.2 x 4.6mm) mm",
+    "sensortype": "CCD",
+    "viewfindertype": "None",
+    "imagestabilization": "Optical",
+    "recycletime": "2.1 seconds",
+    "type": "Superzoom",
+    "gps": "No"
+}

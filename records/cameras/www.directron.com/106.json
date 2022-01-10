@@ -1,0 +1,16 @@
+{
+    "ledindicators": "- Status, LAN, USB, eSATA, Power, HDD 1, HDD 2, HDD 3, HDD 4",
+    "formfactor": "- 1U rackmount",
+    "lanport": "- 2 x Gigabit RJ-45 Ethernet port",
+    "dimensions": "- 44(H) x 439(W) x 499(D) mm - 1.73(H) x 16.97(W) x 19.65(D) inch",
+    "certification": "- CE, FCC, VCCI, BSMI",
+    "powersupply": "- Input",
+    "powerconsumptionw": "- Sleep mode",
+    "buttons": "- Power button, one-touch-auto-video-backup button, reset button",
+    "hdd": "- 4 x 3.5\" SATA(II)/2.5\" SATA/SSD NOTE",
+    "fan": "- 3 x cooling fan (4 cm, 12V DC; internal )",
+    "category": "camera",
+    "flashmemory": "- 512MB DOM",
+    "cpu": "- Dual-core Intel Atom processor",
+    "usb": "- 5 x USB 2.0 port (Front"
+}

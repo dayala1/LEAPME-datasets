@@ -1,0 +1,7 @@
+{
+    "category": "camera",
+    "code": "Please enter the security code as they are shown in the image right",
+    "from": "Please enter the email. Please enter your correct business Email.",
+    "topic": "Your message's topic must be 1-150 characters in length.",
+    "message": "Your message must be 20-2000 characters in length. Account Characters:"
+}

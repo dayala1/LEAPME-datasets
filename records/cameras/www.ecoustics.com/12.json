@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "languages": "Czech, Danish, German, English, Spanish, French, Indonesian, Italian, Dutch, Norwegian, Polish, Portuguese, Russian, Finnish, Swedish, Chinese (Simplified and Traditional), Japanese, Korean, Thai",
+    "batterylife": "Approx. 250 shots with alkaline, 600 shots with lithium, or 300 shots with EN-MH1, or 250 shots with oxyride batteries (based on CIPA standard)",
+    "focusrangefromlens": "40cm (1 ft. 4 in.) to infinity (\u221e), Macro close-up mode: 15cm (5.9 in.) to infinity (\u221e)",
+    "weight": "L11: Approx. 125 g (4.4 oz.) without battery and SD memory card L10: Approx. 115 g (4.1 oz.) without battery and SD memory card",
+    "imagesizepixels": "L11: 2816 x 2112 (High: 2816*/Normal: 2816), 2048 x 1536 (Normal: 2048), 1024 x 768 (PC screen: 1024), 640 x 480 (TV screen: 640) L10: 2560 x 1920 (High: 2560*/Normal: 2560), 2048 x 1536 (Normal: 2048), 1024 x 768 (PC screen: 1024), 640 x 480 (TV screen: 640)",
+    "builtinflash": "Range: (W) approx. 0.4-3.0m (1 ft. 4 in. \u2014 9 ft. 10 in.), (T) approx. 0.4-2.5m (1 ft. 4 in. \u2014 8 ft. 2 in.)",
+    "imagesensor": "1/2.5-in. CCD; total pixels: approx. 6.18 million (L11)/ 5.05 million total pixels (L10)",
+    "powersources": "Two AA alkaline, oxyride, or lithium batteries, two EN-MH1 rechargeable NiMH batteries (optional), EH-65A AC adapter (optional)",
+    "storagemedia": "Internal memory (approx. 7 MB), SD memory cards",
+    "optionalaccessories": "Battery Charger MH-71, Ni-MH Rechargeable Battery EN-MH1, AC Adapter EH-65A, Audio Video Cable EG-CP14",
+    "lens": "3x Zoom-Nikkor; 6.2-18.6mm (35mm [135] format picture angle: 37.5-112.5mm); f/2.8-5.2; 6 elements in 5 groups; Digital zoom: up to 4x (35mm [135] format picture angle: approx. 450mm)",
+    "effectivepixels": "L11: 6.0 million L10: 5.0 million",
+    "movie": "With sound: TV movie (640) at 30fps/15fps, Small size (320) at 30fps/15fps, Smaller size (160) at 15fps",
+    "interface": "USB",
+    "dimensionswxhxd": "L11: 89.5 x 60.5 x 27 mm (3.5 x 2.4 x 1.1 in.) excluding projections/ L10: 89.5 x 60.5 x 26 mm (3.5 x 2.4 x 1.0 in.) excluding projections",
+    "suppliedaccessories": "Two 1.5V LR6 AA-size alkaline batteries, USB Cable UC-E6, Audio Video Cable EG-CP14(L11 only), Strap, Dock Insert PV-14(L11 only), PictureProject CD-ROM",
+    "isosensitivity": "Auto (auto gain ISO 64-800)",
+    "monitor": "L11: 2.4-in., 115,000-dot, TFT LCD with brightness adjustment L10: 2.0-in., 153,000-dot, TFT LCD with brightness adjustment"
+}

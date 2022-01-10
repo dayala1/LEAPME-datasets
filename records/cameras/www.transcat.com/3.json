@@ -1,0 +1,16 @@
+{
+    "warranty": "Two years (Warranty extended to two years when the camera is registered)",
+    "category": "camera",
+    "imagemodes": "Thermal/Visual/PIPThermal/Visual/PIP/Fusion",
+    "chargingsystem": "In camera AC adapter/2 bay charging system",
+    "features": "T420bxT440bx",
+    "imagestorage": "1000 radiometric JPEG images (SD card memory)",
+    "display": "Built-in touch screen 3.5\u201d color LCD",
+    "description": "ProductPrice",
+    "framerate": "60Hz",
+    "focus": "Manual/Automatic",
+    "lens": "25\u00b0 (optional 6\u00b0, 15\u00b0, 45\u00b0, 90\u00b0 lens available)",
+    "dimensionsweight": "4.2x7.9x4.9\" (106x201x125mm)/1.94lbs (0.88kg), including battery",
+    "temperaturerange": "-4 to 662\u00b0F (-20 to 350\u00b0C)-4 to 1202\u00b0F (-20 to 650\u00b0C)",
+    "thermalsensitivitynetd": "<0.045\u00b0C C at 30\u00b0 C"
+}

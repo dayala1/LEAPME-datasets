@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "weight": "2 lbs",
+    "opticalcoatings": "IR and anti-reflection multi-coatings",
+    "adconversion": "16 bit",
+    "imagingsensor": "Kodak KAI-10100 Color Sensor",
+    "sensorsize": "17.9mm x 13.5mm",
+    "shutter": "Internal mechanical",
+    "dynamicrange": "64 dB",
+    "mounting": "2\" barrel and t-thread",
+    "resolution": "10.7 MP",
+    "powerrequirements": "12v DC 2.5 amp",
+    "backfocusdistance": "55mm w/ 2\" barrel, 26mm without barrel"
+}

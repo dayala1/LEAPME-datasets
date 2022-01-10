@@ -1,0 +1,22 @@
+{
+    "warranty": "90 Day Limited Manufacturer Warranty",
+    "weight": "71 g",
+    "color": "Red",
+    "video": "VGA (640 x 480 @ 30 fps), QVGA (320 x 240 @ 30 fps), QVGA (320 x 240 @ 60 fps)",
+    "still": "VGA (640 x 480)",
+    "category": "camera",
+    "microphone": "Yes - monaural",
+    "dimensions": "3.5 x 2.4 x 0.5 (L x W x D, Approx)",
+    "storage": "128 MB internal memory; MicroSD/SDHC card expansion slot (up to 16 GB)",
+    "speaker": "Yes",
+    "power": "Integrated Li-Polymer rechargeable battery",
+    "lens": "3.1 mm (35 mm equivalent",
+    "focusmodes": "Fixed",
+    "focusrange": "50 cm - infinity",
+    "fileformats": "Video - MJPEG; Still - JPEG",
+    "capturemodes": null,
+    "imagesensor": "1/5-type VGA CMOS",
+    "zoom": "3x digital",
+    "displaysize": "1.8",
+    "whitebalance": "Auto"
+}

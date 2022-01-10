@@ -1,0 +1,23 @@
+{
+    "modelname": "FinePix S2800HD / S2900HD",
+    "exposurecontrol": "TTL 256-zones metering",
+    "weight": "Approx. 183g / 6.5oz.(excluding accessories, battery and memory card)",
+    "exposuremode": "Programmed AE, \u00a0Apeture Priority AE, Manual",
+    "category": "camera",
+    "facedetection": "Yes",
+    "selftimer": "Approx. 10sec. / 2sec. Delay",
+    "aperture": "Wide: F3.3 / F9.0, Telephoto: F5.6 / F16.0 with ND filter",
+    "sensitivity": "Auto / Equivalent to ISO 100 / 200 / 400 / 800 / 1600 / 3200 / 6400 / 12800 (Standard Output Sensitivity)",
+    "numberofeffectivepixels": "12.0 million pixels",
+    "imagestabilizer": "CCD-shift type",
+    "focus": "Auto focus (Multi, Center, Tracking ) / Continuous AF, AF assist illuminator available",
+    "powersupply": "NP-50 Li-ion battery",
+    "lens": "Name Fujinon 10x Optical zoom lens focal length f=5.0 - 50.0mm, equivalent to 27 - 270mm on a 35mm camera",
+    "storagemedia": "Internal memory (Approx. 23MB) SD memory card SDHC memory card",
+    "lcdmonitor": "3.0-inch, Approx. 230,000 dots, TFT color LCD monitor, Approx.100% coverage",
+    "dimensions": "99.3 (W) x 58.9 (H) x 28.4 (D) mm / 3.9 (W) x 2.3 (H) x 1.1 (D) in. (excluding accessories and attachments)",
+    "digitalinterface": "USB 2.0 High-speed",
+    "digitalzoom": "Approx. 4.0x",
+    "whatsinthebox": "Fujifilm Finepix F80EXR Digital Camera NP-50 Battery Pack Battery Charger Data Cable (USB) CD-ROM User's Guide",
+    "fileformat": "still image JPEG (Exif Ver 2.3) movie AVI (Motion JPEG) with sound sound WAVE format, \u00a0\u00a0\u00a0Monaural (Design rule for Camera File system compliant / DPOF-compatible)"
+}

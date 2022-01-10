@@ -1,0 +1,23 @@
+{
+    "exposurecontrol": "TTL 256-zone metering, Multi / Spot / Average",
+    "exposuremode": "Programmed AE, Shutter Priority AE, Aperture Priority AE, Manual exposure",
+    "powersupply": "4xAA type alkaline batteries / 4xAA type Ni-MH rechargeable batteries (sold separately) / 4xAA type lithium batteries (sold separately)",
+    "exposurecompensation": "-2.0EV - +2.0EV 1/3EV step",
+    "category": "camera",
+    "dimensions": "114.3 (W) x 79.7 (H) x 97.0(D) mm",
+    "flash": "Auto flash (i-flash) Effective range : (ISO AUTO) Normal Wide : approx. 40cm - 7.0m / 1.3ft. - 22.9ft. Telephoto : approx. 2.5m - 3.6 m / 8.2ft. - 11.8ft. Macro Wide : approx. 30cm - 3.0m / 0.9ft. - 9.8ft. Telephoto : approx. 2.0m - 3.0m / 6.5ft. - 9.8ft.",
+    "terminal": "Digital interface USB 2.0 High-Speed HDMI output HDMI mini connector",
+    "aperture": "F3.1 / F8 (Wide) F5.9 / F8 / F20 (Telephoto) with ND filter",
+    "movierecording": "1280 x 720 pixels / 640 x 480 pixels / 320 x 240 pixels (30fps) with monaural sound. * Optical zoom function can be used.",
+    "sensitivity": "AUTO (400)/AUTO(800), Equivalent to ISO 64/100/200/400/800/1600/3200*/6400* (Standard Output Sensitivity) * ISO3200 / 6400 is effective in image size S.",
+    "imagestabilizer": "CCD shift type",
+    "lens": "Name Fujinon 26x optical zoom lens Focal length f=4.3mm - 111.8mm, equivalent to 24- 624mm on a 35mm format Full-aperture F3.1 (Wide) - F5.9 (Telephoto) Constitution 11 groups 15 lenses",
+    "numberofeffectivepixels1": "16.0 million pixels",
+    "storagemedia": "Internal memory (none) SD / SDHC / SDXC memory card*2",
+    "lcdmonitor": "3.0-inch, approx. 230K-dot, TFT color LCD monitor, approx. 97% coverage",
+    "shutterspeed": "(Auto mode) 1/4 sec. to 1/2000 sec. , (All other modes) 8 sec. to 1/2000 sec. with mechanical shutter",
+    "flashmodes": "Red-eye removal OFF Auto, Forced Flash, Suppressed Flash, Slow Synchro. Red-eye removal ON Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro.",
+    "imagesensor": "1/2.3-inch CCD with primary color filter",
+    "digitalzoom": "approx. 7.2x (up to approx. 187.2x , with 26x optical zoom)",
+    "fileformat": "Still image JPEG (Exif Ver 2.3) /\u00a0(Design rule for Camera File system compliant / DPOF-compatible) 3D still image MPO compliant Movie AVI (Motion JPEG)"
+}

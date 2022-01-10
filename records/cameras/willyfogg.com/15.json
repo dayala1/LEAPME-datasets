@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "function": "220MB NAND Flash for user",
+    "office": "Word, Excel, PowerPoint, PDF, txt",
+    "drivers": "DDR RAM, Nand Flash, Serial ports, RTC, Ethernet, 4.3\u00c2\u0094/7\u00c2\u0094 LCD including Touch Screen, MMC/SD, USB Host, LEDs, AC97, Camera, USB Keyboard and Mouse, IIC, SPI, WAVEDEV, DMA, JPEG, MFC, TV-Out, OpenGL ES1.1 & 2.0, D3DM",
+    "system": "Driver1. 4.3\"/7\" LCD including Touch Screen, TV-Out, LEDs 2. Supports 16/18/24bpp 3. Supports LCD display rotate",
+    "jpeg": "JPEG/JPG encoding and decoding; driver and test program provided",
+    "application": "MFC Video Encode/decodeProvided Source Code and user manual; supports MPEG-4/H264/H263/VC-1 and API operation manual",
+    "camera": "Supports CMOS image sensor OV9650/9653/9655",
+    "filesystem": "File SystemYaffs or NFS File System",
+    "lcddisplay": "none 4.3 in. (+US$30.00) 7 in. (+US$50.00)",
+    "os": "ItemFeatureDescription"
+}

@@ -1,0 +1,22 @@
+{
+    "imagestabilizersystem": "Yes (lens shift-type), Approx. 4-stop (except with Touch Shutter). Intelligent IS",
+    "weight": "206 gm",
+    "isosensitivity": "AUTO, 100, 200, 400, 800, 1600, 3200",
+    "memorycard": "SD, SDHC, SDXC",
+    "effectivepixels": "Approx. 12.1 Million pixels",
+    "label12": "Hi-Speed USB",
+    "label13": "HDMI output",
+    "label16": "Battery Pack NB-9L",
+    "label17": "AC Adapter Kit ACK-DC70",
+    "label14": "Mini-B compatible",
+    "label15": "Analog video output (NTSC / PAL)",
+    "category": "camera",
+    "dimensions": "99.0 x 58.9 x 21.9 mm",
+    "selftimer": "Approx. 2 or 10 sec., Custom",
+    "meteringmodes": "Evaluative (linked to Face Detection AF frame), Centre-weighted average, Spot (centre or Touch AF frame)",
+    "stillimagetype": "JPEG compression, (Exif 2.3 [Exif Print] compliant) / Design rule for Camera File system, Digital Print Order Format [DPOF] Version 1.1 compliant",
+    "focallength": "5.0 \u2013 60.0 mm (35 mm equivalent",
+    "label1": "DIGIC 4 with iSAPS technology",
+    "shutterspeed": "1 \u2013 1/4000 sec. (factory default), 15 \u2013 1/4000 sec. (total range \u2013 varies by shooting mode)",
+    "movies": "MOV [H.264 + Linear PCM (stereo)] iFrame"
+}

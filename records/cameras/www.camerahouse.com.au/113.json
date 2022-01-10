@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "dimensions": "118.7mm (W) x 71.6mm (H) x 60.3mm (D)",
+    "power": "NP-95 Li-ion battery",
+    "memorysize": "SD/ SDHC/ SDXC(UHS-I) memory card",
+    "sensitivity": "AUTO1 / AUTO2 / AUTO3 (Control available up to ISO3200), Equivalent to ISO 100 / 200 / 250 / 320 / 400 / 500 / 640 / 800 / 1000 / 1250 / 1600 / 2000 / 2500 / 3200 / 4000 / 5000 / 6400 / 12800 (Standard Output Sensitivity)",
+    "flash": "Built-In Flash",
+    "storage": "SD/ SDHC/ SDXC(UHS-I) memory card",
+    "zoom": "4 x Optical Zoom",
+    "weight": "Approx. 423g",
+    "megapixel": "12 Megapixel",
+    "standoutfeature1": "Full HD Video Recording",
+    "screensize": "3.0\" Tilt LCD Screen",
+    "ccd": "CMOS II Sensor",
+    "shutterspeed": "(Auto mode) 1/4 sec. to 1/4000* sec. , (All other modes) 30 sec. to 1/4000* sec. * 1/4000sec. at small aperture, 1/1000sec. at full aperture"
+}

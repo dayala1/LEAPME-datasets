@@ -1,0 +1,23 @@
+{
+    "interface": "USB1.1",
+    "flashmode": "AUTO /Force/Off",
+    "powersource": "AAA*3(4.5V)",
+    "size": "100x55x35mm",
+    "category": "camera",
+    "selftimer": "10 seconds delay",
+    "osdlanguage": "English, Chinese,",
+    "accessories": "USB cable ,hand strap, Software CD, user manual, TV Cable",
+    "mainfeature": "3.1Mega pixel",
+    "shootingmode": "Single shot/three-time continual/Self-time shot",
+    "focus": "0.5m to infinity from camera",
+    "internalmemory": "No\u00a0build in Memory ;",
+    "external": "MMC or SD card, Max 8GB",
+    "wevemadeafewchangestobidding": "Were these helpful?",
+    "powercontrol": "60s/180s/300s/Never OFF",
+    "fileformats": "JPEG /AVI(With sound)",
+    "exposure": "EV+2.0~ -2.0",
+    "lens": "0.3 Optical Lens;Fixed,F=2.8,f=6.0mm",
+    "maxresolution": "3.1Mega pixel (interpolation)",
+    "videoresolution": "320x240; 640X480",
+    "whitebalance": "Automatic/Daylight/Cloudy/Tungsten/Fluorescent"
+}

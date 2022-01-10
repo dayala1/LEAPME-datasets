@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "removablemediacompatibility": "microSD microSDHC microSDXC",
+    "megapixelsmp": "20.5",
+    "facedetection": "Yes",
+    "weight": "5.44 oz",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "height": "2.44 in",
+    "selftimer": "Yes",
+    "width": "4.35 in",
+    "depth": "0.89 in",
+    "burstmode": "Yes",
+    "viewfinder": "LCD Only",
+    "lcdscreensize": "3.0\"",
+    "digitalcameratype": "Point & Shoot",
+    "hdmioutput": "Yes"
+}

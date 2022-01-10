@@ -1,0 +1,22 @@
+{
+    "videodisplayresolution": "1280 x 720 pixels (HD)",
+    "audioformats": "AAC",
+    "metering": "Center-Weighted, Face Detection AE, Multi, Spot",
+    "videoformat": "H.264, MP4",
+    "category": "camera",
+    "microphone": "Monaural Microphone",
+    "facedetection": "Yes",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 12 sec",
+    "syncterminal": "Yes",
+    "flashrange": "Wide : 0.2 - 3.0m, Telephoto : 1.0 - 1.8m",
+    "isorating": "Auto / 80 / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "imagestabilizer": "Digital & Optical",
+    "whitebalancing": "Auto, Cloudy, Custom, Daylight, Fluorescent-H, Fluorescent-L, Tungsten",
+    "imageformat": "JPEG",
+    "builtinflash": "NA",
+    "shootingmodes": "Backlight, Backlight Portrait, Beauty Shot, Bl, Close-Up, DIS Smart Auto : Portrait, Landscape, Magic Frame, Natural Green, Night, Night, Night Portrait, Object Highlight, Photo Filter, Program, Scene, Simple Shot, Smart Auto, Vignetting Filter, White",
+    "flashmodes": "Auto, Fill-in, Slow Sync Flash",
+    "imagedisplayresolution": "230000 dots",
+    "screensize": "3 Inches"
+}

@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "Composite",
+    "remotecontroller": "Yes",
+    "communicationinterface": "RS485, USB2.0 x 2 (Backup & Mouse)",
+    "temperature": "14\u00b0F ~ 122\u00b0F",
+    "ptzcontrol": "Yes",
+    "recordmode": "Manual / Timer / Motion Detection",
+    "powersupply": "12V 3A",
+    "networkinterface": "RJ45 (LAN, INTERNET)",
+    "videoinput": "Composite",
+    "compressionformat": "Standard H.264 Baseline",
+    "audioinput": "RCA x 2",
+    "humidity": "10%~90%",
+    "audiooutput": "RCA x 1",
+    "hdmioutput": "Yes"
+}

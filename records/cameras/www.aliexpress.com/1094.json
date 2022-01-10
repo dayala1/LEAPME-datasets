@@ -1,0 +1,22 @@
+{
+    "category": "camera",
+    "iscustomized": "Yes",
+    "ircut": "Support IR CUT",
+    "nightvision": "IR Night Vision",
+    "usage": "Home Use",
+    "type": "Professional",
+    "highdefinitionsupport": "720P (HD)",
+    "onvif": "Support ONVIF and RTSP",
+    "mediatype": "HDD / Flash Memory",
+    "sensortype": "CMOS",
+    "videocompression": "H.264 IP Camera",
+    "modelnumber": "SP-TM01EWP",
+    "p2p": "Real Plug and Play",
+    "launchdate": "2011",
+    "pixels": "1-2 million",
+    "wireless": "wifi 802.11b/g/n wireless",
+    "pt": "Pan: 350\u00b0 Tilt: 90\u00b0",
+    "brandname": "other",
+    "audio": "Two way audio",
+    "software": "Free 81ch professional software"
+}

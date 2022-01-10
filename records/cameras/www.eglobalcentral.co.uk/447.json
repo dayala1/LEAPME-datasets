@@ -1,0 +1,11 @@
+{
+    "weightg": "720",
+    "closestfocusingdistancem": "1.4m to infinity (at all zoom focal lengths)",
+    "minimumaperture": "f/32-38 (f/32-40 for cameras featuring 1/3-stop increments)",
+    "noofdiaphragmblades": "6 (circular type)",
+    "filterdiametermm": "58",
+    "maximummagnificationx": "0.06 (Wide); 0.19 (Tele)",
+    "lensconstructionelementsgroups": "18/12",
+    "category": "camera",
+    "afactuator": "Ring USM"
+}

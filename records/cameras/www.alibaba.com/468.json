@@ -1,0 +1,19 @@
+{
+    "digitalnoisereduction": "3D Digital\u00a0noise\u00a0reduction",
+    "category": "camera",
+    "network": "Storage-",
+    "weight": "0.8KG",
+    "powerconsumption": "5W\u00a0MAX",
+    "minillumination": "0.01Lux\u00a0@(F1.2,AGC\u00a0ON)\u00a0,0\u00a0Lux\u00a0with\u00a0IR",
+    "image": "Max\u00a0image\u00a0dimension1280\u00d7960",
+    "framerate": "30fps",
+    "powersupply": "DC12V\u00b110%",
+    "lens": "6mm@\u00a0F1.4, Horizontal\u00a0view\u00a0angle :45.3\u00b0",
+    "camera": "sensor1/3\"\u00a0CMOS\u00a0HD\u00a0sensor",
+    "dimensionmm": "L ( 310 ) *K ( 155 ) *H ( 110 ) ( mm )",
+    "interface": "Ethernet10M\u00a0/\u00a0100M\u00a0mbps\u00a0Ethernet\u00a0(RJ-45)",
+    "shutter": "1/25\u00a0seconds\u00a0-1/100 , 000 seconds",
+    "smartalarm": "Motion\u00a0detection, occlusion\u00a0alarm,motion\u00a0is\u00a0full\u00a0, Memory\u00a0error",
+    "pixel": "720P",
+    "generalfunction": "A\u00a0key\u00a0recovery,\u00a0flicker,\u00a0dual\u00a0stream,\u00a0heartbeat,\u00a0mirror,\u00a0password\u00a0protection,\u00a0video\u00a0hiding,\u00a0watermark"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p composite output (75 \u03a9/BNC)",
+    "irrange": "131ft(40m)",
+    "minillumination": "0.14 Lux @ (AGC ON),0 Lux with IR",
+    "powerconsumption": "Max.6.5W",
+    "daynight": "IR cut filter with auto switch",
+    "imagesensor": "1/4\"Sensor",
+    "snratio": "More than 62dB",
+    "powersupply": "12V DC",
+    "humidity": "90% or less (non-condensing)",
+    "lens": "2.8-12mm",
+    "horizontalresolution": "700 TVL",
+    "synchronization": "Internal synchronization",
+    "effectivepixels": "720(H)\u00c2\u00a1\u00c3\u0081480(V)",
+    "signalsystem": "NTSC / PAL",
+    "workingtemperature": "-40 \u00b0C - 60 \u00b0C (-40 \u00b0F - 140\u00b0F)",
+    "shutterspeed": "NTSC",
+    "dimension": "105 x 86.9 x 267.2mm (4.13\" x 3.42\" x 10.52\")"
+}

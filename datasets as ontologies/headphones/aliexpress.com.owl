@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="aliexpress.com:aliexpress.com#"
+     xml:base="aliexpress.com:aliexpress.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:aliexpress="aliexpress.com:">
+    <owl:Ontology rdf:about="aliexpress.com:aliexpress.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- aliexpress.com:Communication -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Communication">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Communication</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Connectors -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Connectors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connectors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Frequency-Response-Range -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Frequency-Response-Range">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency Response Range</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Function -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Function">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Function</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Is-wireless -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Is-wireless">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is wireless</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Line-Length -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Line-Length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Line Length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Model-Number -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Model-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Package -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Package">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Package</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Plug-Type -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Plug-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plug Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Resistance -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Resistance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resistance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Sensitivity -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Sensitivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensitivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Style -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Style">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Style</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:Use -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:Use">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Use</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:With-Microphone -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:With-Microphone">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">With Microphone</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- aliexpress.com:is_customized -->
+
+    <owl:DatatypeProperty rdf:about="aliexpress.com:is_customized">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">is_customized</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- aliexpress.com:0 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:0">
+        <aliexpress:Line-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2m</aliexpress:Line-Length>
+        <aliexpress:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">123dB</aliexpress:Sensitivity>
+        <aliexpress:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm</aliexpress:Connectors>
+        <aliexpress:Frequency-Response-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-25000Hz</aliexpress:Frequency-Response-Range>
+        <aliexpress:Resistance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9O</aliexpress:Resistance>
+        <aliexpress:Style rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear</aliexpress:Style>
+        <aliexpress:Plug-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L Bending</aliexpress:Plug-Type>
+        <aliexpress:Is-wireless rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Is-wireless>
+        <aliexpress:With-Microphone rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:With-Microphone>
+        <aliexpress:Package rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Package>
+        <aliexpress:Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Cancelling</aliexpress:Function>
+        <aliexpress:Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Portable Media Player</aliexpress:Use>
+        <aliexpress:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</aliexpress:Model-Number>
+        <aliexpress:Communication rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</aliexpress:Communication>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</aliexpress:is_customized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:1 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:1">
+        <aliexpress:Line-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2m</aliexpress:Line-Length>
+        <aliexpress:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">123dB</aliexpress:Sensitivity>
+        <aliexpress:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm</aliexpress:Connectors>
+        <aliexpress:Frequency-Response-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-25000Hz</aliexpress:Frequency-Response-Range>
+        <aliexpress:Resistance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9O</aliexpress:Resistance>
+        <aliexpress:Style rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear</aliexpress:Style>
+        <aliexpress:Plug-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L Bending</aliexpress:Plug-Type>
+        <aliexpress:With-Microphone rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:With-Microphone>
+        <aliexpress:Is-wireless rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Is-wireless>
+        <aliexpress:Package rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Package>
+        <aliexpress:Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Cancelling</aliexpress:Function>
+        <aliexpress:Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Portable Media Player</aliexpress:Use>
+        <aliexpress:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</aliexpress:Model-Number>
+        <aliexpress:Communication rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</aliexpress:Communication>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</aliexpress:is_customized>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- aliexpress.com:2 -->
+
+    <owl:NamedIndividual rdf:about="aliexpress.com:2">
+        <aliexpress:Line-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2m</aliexpress:Line-Length>
+        <aliexpress:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">123dB</aliexpress:Sensitivity>
+        <aliexpress:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm</aliexpress:Connectors>
+        <aliexpress:Frequency-Response-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8-25000Hz</aliexpress:Frequency-Response-Range>
+        <aliexpress:Resistance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9O</aliexpress:Resistance>
+        <aliexpress:Style rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear</aliexpress:Style>
+        <aliexpress:Plug-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">L Bending</aliexpress:Plug-Type>
+        <aliexpress:With-Microphone rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:With-Microphone>
+        <aliexpress:Package rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Package>
+        <aliexpress:Is-wireless rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</aliexpress:Is-wireless>
+        <aliexpress:Function rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Cancelling</aliexpress:Function>
+        <aliexpress:Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Portable Media Player</aliexpress:Use>
+        <aliexpress:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</aliexpress:Model-Number>
+        <aliexpress:Communication rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</aliexpress:Communication>
+        <aliexpress:is_customized rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</aliexpress:is_customized>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

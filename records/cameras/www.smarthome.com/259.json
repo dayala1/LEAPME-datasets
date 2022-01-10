@@ -1,0 +1,18 @@
+{
+    "digitalnoisereduction": "3D DNR, Off/High/Mid/Low",
+    "category": "camera",
+    "senseupdss": "Off, x2 ~ x512",
+    "digitalwidedynamicrange": "DWDR",
+    "operatingtemperature": "-20&degC ~ 50&degC",
+    "minimumillumination": "0.1",
+    "rs485": "Yes",
+    "effectivepixels": "811 (h) x 508 (v)",
+    "imagingsensor": "1/3\" Sony 638BK CCD + CP10 DSP",
+    "lens": "2.8 - 12mm Manual Varifocal Lens",
+    "horizontalresolution": "630 TVL",
+    "signalsystem": "NTSC",
+    "powersupply": "DC12V",
+    "snratio": "More than 50dB (AGC Off)",
+    "osdmenu": "English and Chinese",
+    "manufacturer": "Camstar"
+}

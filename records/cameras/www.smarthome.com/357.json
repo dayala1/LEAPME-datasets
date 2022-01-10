@@ -1,0 +1,23 @@
+{
+    "weight": "Approx. 0.2 lbs.",
+    "battery": "200mAH Li-polymer",
+    "effectivepixels": "2304 (H) x 1536 (V)",
+    "storagetemperature": "-4&deg~176&deg F (-20&deg~80&deg C)",
+    "videoformat": "MOV",
+    "category": "camera",
+    "microphone": "Yes",
+    "dimensions": "4-7/16\"x2-11/32\"x1-15/32\"",
+    "speaker": "Yes",
+    "memory": "Supports Micro SHDC, up to 32GB class 6 or above",
+    "sensor": "1/3\" CMOS Sensor",
+    "lens": "Wide angle fixed focus lens; F1.6, f-3.6mm",
+    "interface": "Mini USB, Mini C-type HDMI, AV",
+    "shutterspeed": "Electronic shutter; auto: 1/2~1/1000 sec",
+    "manufacturer": "Enforcer",
+    "operatingtemperature": "-4&deg~149&deg F (-20&deg~65&deg C)",
+    "upc": "676544015819",
+    "gsensor": "3-Axis G-Force sensor",
+    "videoresolution": "Full HD (1920x1080), 30fps; HD (1280x720), 30fps",
+    "display": "2.7\" LCD color TFT",
+    "viewingangle": "140\u00ba"
+}

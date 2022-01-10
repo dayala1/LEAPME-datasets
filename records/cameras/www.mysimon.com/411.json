@@ -1,0 +1,23 @@
+{
+    "flashtype": "Pop-up Flash",
+    "opticalviewfindertype": "Fixed eye-level pentaprism",
+    "cameraflashfeatures": "flash exposure bracketing",
+    "additionalfeatures": "Brightness Control",
+    "hdmioutput": "Yes",
+    "category": "camera",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "stillimageformat": "NEF (RAW)",
+    "redeyereduction": "Yes",
+    "type": "Digital SLR",
+    "brand": "Nikon",
+    "sensortype": "CMOS",
+    "specialeffects": "Miniature",
+    "digitalvideoformat": "H.264",
+    "microphoneoperationmode": "Mono",
+    "batteryformfactor": "Manufacturer specific",
+    "focusadjustment": "Automatic",
+    "flashmodes": "Auto Mode",
+    "viewfindertype": "Optical",
+    "supportedflashmemory": "SDXC Card"
+}

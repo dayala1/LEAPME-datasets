@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "HDMI",
+    "displaysizeinch": "3.2",
+    "imagesizespixels": "2400 x 1344 , 2400 x 1600 , 2992 x 1680 , 2992 x 2000 , 3600 x 2024 , 3600 x 2400 , 4494 x 3000 , 4496 x 2528 , 4800 x 2696 , 4800 x 3200 , 6000 x 3368 , 6000 x 4000",
+    "connectivity": "HDMI , USB",
+    "flashmodes": "9",
+    "tripodmount": "Yes",
+    "brand": "Nikon",
+    "mediatype": "SD , SDHC , SDXC",
+    "videosize": "HD 1280 x 720 , HD 1920 x 1080",
+    "displaytype": "LCD",
+    "producttype": "Digital SLR Cameras",
+    "isosensitivitymax": "25600",
+    "batterytype": "LithiumIon",
+    "shootingmodes": "30"
+}

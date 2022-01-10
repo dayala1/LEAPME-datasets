@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Colour Temperature, Daylight, Flash, Fluorescent (D: Day White, Incandescent, L: Warm White, Shade, W: Cool White)",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 50 fps",
+    "facedetection": "Yes",
+    "deletefunction": "Yes",
+    "focallength": "18 - 135 mm",
+    "isorating": "ISO 100-16000",
+    "redeyereduction": "Yes",
+    "metering": "1200 Zone Evaluative",
+    "selftimer": "2 sec, 10 sec",
+    "shootingmodes": "Auto, Auto Advanced (Auto+), Movie, Sceneelection, Sweep Panorama (2D, 3D)",
+    "lenstype": "Sony Lens, Minolta and Konica Minolta AF Lens",
+    "continuousshots": "Up to 12 fps (Tele-zoom Continuous Advance Priority AE Mode), 8 fps (Continuous Mode)",
+    "viewfinder": "Electronic View Finder",
+    "autofocus": "Tele-Zoom Continuous Advance Priority AE",
+    "imagedisplayresolution": "921600 dots",
+    "displaytype": "TFT XtraFine LCD TruBlack Technology",
+    "manualfocus": "Yes",
+    "screensize": "3 Inches"
+}

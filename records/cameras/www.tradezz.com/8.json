@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "imagemodes": "Thermal/Visual/Picture-in-Picture (Fixed)",
+    "chargingsystem": "In camera AC adapter/2 bay charging system",
+    "dimensions": "9.7 x 3.7 x 4.1\" (245 x 95 x 105mm)/<1.76lbs (800g), including battery",
+    "imagestorage": ">1000 radiometric JPEG images (SD card memory)",
+    "vibration": "2G, IEC 68-2-6",
+    "shock": "25G, IEC 68-2-29",
+    "framerate": "60Hz",
+    "focus": "Manual (Minimum focus distance 1.3ft/0.4m)",
+    "detectortype": "Focal plane array (FPA) uncooled microbolometer; 160 X 120 pixels",
+    "spectralrange": "7.5 to 13\u03bcm",
+    "display": "Built-in 3.5\" color LCD",
+    "batteryoperatingtime": ">5 hours, Display shows battery status",
+    "batterytype": "Li-lon",
+    "temperaturerange": "-4\u00b0F to 248\u00b0F (-20\u00b0C to 120\u00b0C)",
+    "thermalsensitivitynetd": "<0.07\u00b0C at 25\u00b0C"
+}

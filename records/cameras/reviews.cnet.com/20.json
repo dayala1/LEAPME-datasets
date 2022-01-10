@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "opticalsensortype": "BSI-CMOS",
+    "imagestabilizer": "optical",
+    "opticalzoom": "21 x",
+    "fileformatstillvideo": "JPEG/MPEG-4 AVC/H.264 AAC (.MP4)JPEG/H.264 AAC (.MP4)JPEG/MPEG-4 AVC H.264 AAC (.MOV)",
+    "opticalsensorsize": "1/2.3\"",
+    "storagemedia": "microSDXCSDXCSDXC",
+    "imagestabilizationtype": "Optical and digitalOptical and digitalOptical and digital",
+    "dimensionswhd": "4.5x2.6x1 inches4.21x2.4x1 inches4.3x2.5x1.3 inches",
+    "sensorresolution": "16.3 Megapixel"
+}

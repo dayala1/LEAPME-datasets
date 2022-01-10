@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "NA",
+    "imagestabilizer": "Sensor Shift Type",
+    "metering": "Average, Multi, Spot, TTL 256-Zones",
+    "screensize": "3 Inches",
+    "imagedisplayresolution": "230000 Dots",
+    "facedetection": "Yes"
+}

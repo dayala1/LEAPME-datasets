@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "sortievido": "NTSC ou PAL",
+    "autofocusaf": "AF par d\u00e9tection de contraste",
+    "vitessedobturation": "1 s \u00e0 1/2000 s et 4 s (lorsque le mode Sc\u00e8ne est r\u00e9gl\u00e9 sur Feux d'artifice)",
+    "interface": "USB Hi-Speed",
+    "ouverture": "S\u00e9lection du filtre ND contr\u00f4l\u00e9e \u00e9lectroniquement (-2,6 AV)",
+    "modesdeprisedevue": "S\u00e9lecteur automatique de sc\u00e8ne, Sc\u00e8ne (Portrait, Paysage, Sport, Portrait de nuit, F\u00eate/int\u00e9rieur, Plage, Neige, Coucher de soleil, Aurore/cr\u00e9puscule, Paysage de nuit, Gros plan, Aliments, Mus\u00e9e, Feux d'artifice, Reproduction N&B, Contre-jour, Panoramique assist\u00e9, Animaux domestiques), Effets sp\u00e9ciaux, Portrait optimis\u00e9, Automatique",
+    "accessoiresfournis": "Dragonne, accumulateur Li-ion EN-EL19, adaptateur de charge EH-70P, c\u00e2ble USB UC-E6, CD ViewNX 2",
+    "retardateur": "Temporisations de 10 ou 2 secondes",
+    "poids": "Environ 120 g avec accumulateur et carte m\u00e9moire SD",
+    "formatsdefichiers": "Photos : JPEG. Fichiers son (annotation vocale) : WAV. Vid\u00e9os : AVI (compatible Motion-JPEG)"
+}

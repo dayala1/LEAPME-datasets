@@ -1,0 +1,23 @@
+{
+    "videooutput": "1CH\u00a0HD-SDI\u00a0mount",
+    "protocol": "Pelco-D",
+    "weight": "0.9kg",
+    "powersupply": "DC:12V \u00b1 25%",
+    "video": "English\u00a0OSD\u00a0Menu",
+    "videoformat": "1080p60,1080p50,1080i60,\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01080i50,\u00a0720p60,720p50720p60,720p50,\u00a0\u00a0\u00a0720p30,720p25",
+    "category": "camera",
+    "consumption": "<2.5W",
+    "totalpixels": "3.0MP2.0MP1.3MP",
+    "daynight": "Support\u00a0Color\u00a0to\u00a0B&W,auto\u00a0ICR\u00a0IR-cut",
+    "audioinput": "Built-in\u00a0MIC/Extermal\u00a0input",
+    "snratio": "\u226560dB\u226568dB",
+    "sync": "Built-in",
+    "irdistance": "30M",
+    "imagesensor": "1/2.8\"\u00a0SONY\u00a0CMOS\u00a0sensor",
+    "agc": "Auto,\u00a0High/Middle/Low",
+    "wdr": "80dB100dB120dB",
+    "builtinlens": "3-10.5mm,\u00a0F1.4\u00a0zoom\u00a0lens",
+    "model": "VD-CBS330MRVD-CBS320MRVD-CBS310MR",
+    "resolution": "2048(H)*1536(V)1920(H)*1080(V)1280(H)*720(V)",
+    "dimension": "141*141*114mm"
+}

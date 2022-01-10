@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "refreshrate": "9Hz",
+    "visualcamera": "Yes",
+    "weight": "0.726kg",
+    "application": "Electrical, Natural Gas, Water",
+    "description": "Fluke Ti105 Thermal Imaging Camera, Temperature Measurement Range: -20 \u2192 +250 \u00b0C",
+    "fieldofview": "22.5 x 31\u00b0",
+    "horizontalfieldofview": "22.5\u00b0",
+    "displaysize": "3.5in",
+    "height": "13.5cm",
+    "width": "8.6cm",
+    "length": "28.4cm",
+    "interfacetype": "USB",
+    "storagemedia": "SD Card",
+    "focustype": "Manual",
+    "thermalsensitivity": "100mK",
+    "dimensions": "28.4 x 8.6 x 13.5cm"
+}

@@ -1,0 +1,23 @@
+{
+    "videooutput": "AHD ( 1.0VP )",
+    "operationtemperature": "-30\u2103 ~ +60\u2103",
+    "color": "Color to B/W (External drive)",
+    "effectivepixels": "1.0megapixel (1280*720P)",
+    "storagetemperature": "-40\u2103 ~ +80\u2103",
+    "osd": "Optional",
+    "category": "camera",
+    "system": "PAL/NTSC",
+    "storagehumidity": "Indoor 85% RH (No condensation)",
+    "power": "Max 500MA",
+    "waterproof": "IP67",
+    "snratio": "\u226546.4db ( Max 67.3db )",
+    "lens": "Optional",
+    "synchronization": "Internal",
+    "irdistance": "40m",
+    "irleds": "42pcs",
+    "scanningfrequency": "50HZ ( PAL ) /60HZ ( NTSC )",
+    "imagedevice": "1/4 CMOS",
+    "minillumination": "0.1LUX ( 0LUX IR on )",
+    "scanningsystem": "2 : 1 Interlace",
+    "model": "MAV-713O2"
+}

@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "snratio": "Greater Than or Equal to 48dB",
+    "supplyvoltage": "USB 5V",
+    "operatingtemperature": "-10 to 60 Degrees Celsius",
+    "powerconsumption": "130mA",
+    "imagesensor": "1/5 Inch Color CMOS",
+    "receivingsensitivity": "Less Than or Equal to 81dBm",
+    "framerate": "8 to 10fps (VGA), 25 to 30fps (QVGA)",
+    "attr36": "US$144.336.1%",
+    "lens": "3.6mm, 60 Degrees",
+    "frequency": "ISM 2400MHz to 2525MHz",
+    "nightvisiondistance": "10 Meters",
+    "powersource": "DC12V +-10 percent"
+}

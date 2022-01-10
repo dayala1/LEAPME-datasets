@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "approxdimensionswidthxheightxdepth": "133.1 x 99.8 x 78.8 mm",
+    "monitor": "Touch screen vari angle 7.7cm (3.0\") 3:2 Clear View II TFT, approx. 1040K dots",
+    "movie": "MOV (Video: H.264 Intra frame / inter frame, Sound: Linear PCM, recording level can be manually adjusted by user),\u00a0Max duration 29min 59sec, Max file size 4GB (If file size exceeds 4GB a new file will be created automatically) 1920 x 1080 (29.97, 25, 23.976 fps) 1280 x 720 (59.94, 50 fps) 640 x 480 (30, 25 fps)",
+    "isosensitivity": "AUTO(100-6400), 100-12800 in 1-stop increments ISO can be expanded to H: 25600 During Movie shooting: Auto (100-6400), 100-6400 (Whole stop increments) ISO can be expanded to H: 12800",
+    "effectivepixels": "18 million",
+    "storagemedia": "SD, SDHC or SDXC (UHS-I)card",
+    "batterybatteries": "1 x Rechargeable Li-ion Battery LP-E8",
+    "imagesensor": "22.3 x 14.9mm CMOS"
+}

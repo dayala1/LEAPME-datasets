@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "gpsreceiver": "U-blox 6 latest GPS module Ceramic antenna 0.98 inches x 0.98 inches x 0.16 inches (25 millimeters x 25 millimeters x 4 millimeters)",
+    "storagememory": "SDHC card (32GB Maxima)",
+    "dimensions": "3.75 inches x 2.50 inches x 2.40 inches",
+    "weight": "0.3 pounds",
+    "lcddisplay": "2.4 inch LCD panel 320 x 240 pixels resolution",
+    "powerconsumption": "4.75 Volts - 5.25 Volts / 1A",
+    "hdmi": "HDMI 1.3",
+    "powersupply": "12-24 Volt DC input / 5 Volts / 1A output",
+    "lens": "130\u00b0 wide viewing angle",
+    "operatingtemperature": "32\u00b0F - 158\u00b0F",
+    "manufacturerwarranty": "1-year warranty",
+    "usb": "USB 2.0",
+    "storagetemperature": "-4\u00b0F - 176\u00b0F",
+    "manufacturer": "PAPAGO",
+    "upc": "840494116302",
+    "gsensor": "Yaw Pitch Roll G-Sensor",
+    "videoformat": "1080p30 / .TS (AVC/H.264)"
+}

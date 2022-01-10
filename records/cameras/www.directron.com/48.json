@@ -1,0 +1,22 @@
+{
+    "videooutput": "1 Vp-p composite output (75 Ohm/BNC)",
+    "effectivepixels": "1280(H)x960(V)",
+    "autogaincontrol": "Auto",
+    "dimension": "256 x 94.0mm x 150.0mm (10.1\" x 3.7\" x 5.9\")",
+    "category": "camera",
+    "workingtemperature": "-10\u00b0C - 60\u00b0C (14\u00b0F - 140\u00b0F)",
+    "daynight": "ICR",
+    "blc": "Auto",
+    "weatherproofrating": "IP66",
+    "snratio": "52dB",
+    "powersupply": "12V DC",
+    "lens": "2.8-12mm",
+    "synchronization": "Internal synchronization",
+    "shutterspeed": "- NTSC",
+    "minillumination": "Color",
+    "imagesensor": "1/3\"Sensor",
+    "humidity": "90% or less (non-condensing)",
+    "signalsystem": "NTSC / PAL",
+    "irrange": "120ft(35m)",
+    "whitebalance": "ATW"
+}

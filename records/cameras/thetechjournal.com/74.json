@@ -1,0 +1,22 @@
+{
+    "smartshutter": "The camera automatically takes the photo when people smile, wink, or get into frame.",
+    "smartauto": "The camera automatically selects the best shooting settings for optimal quality based on subjects and environmental factors to provide point-and-shoot simplicity.",
+    "miniatureeffect": "Give images a miniature look with an effect that emphasizes perspective by blurring the top and bottom of the image.",
+    "monochrome": "Choose from three single-tone effects: Black-and-White, Sepia, or Blue.",
+    "portrait": "Brings the subject into focus while beautifully blurring the background.",
+    "category": "camera",
+    "underwater": "Capture underwater images with reduced backscatter effect. Optional Underwater Case required.",
+    "superslowmotionmovie": "Record your clips in high speed (approx. 240 fps), and then watch your videos in slow motion.",
+    "softfocus": "Creates a hazy ambiance that\u2019s perfect for portraits and wedding photos.",
+    "snow": "Shoot clear snow scenes without darkened subjects or an unnatural bluish tint.",
+    "program": "The camera automatically and intelligently selects the aperture/shutter speed combination based on the shooting conditions.",
+    "handheldnightscene": "Take clear and steady pictures at night without the use of a tripod.",
+    "fisheyeeffect": "Now you can get the fisheye effect \u2014 a classic photographic distortion \u2014 without a fisheye lens.",
+    "longshutter": "Use to blur moving subjects for artistic effect, ideal for urban night photography.",
+    "iframemovie": "The Apple\u00ae movie format, iFrame, makes it easier and quicker to import and upload videos while retaining high image quality.",
+    "lowlight": "For high quality image capture in an amazing range of dimly-lit situations.",
+    "highspeedburst": "Captures rapid action frame by frame, by shooting continuously at a high speed while the shutter\u00a0 is held down.",
+    "toycameraeffect": "Simulates photos taken with \u201ctoy\u201d or pinhole cameras, darkening the image at the edges to create a vignette effect.",
+    "supervivid": "Super Vivid intensifies existing hues, saturating the scene with bright colors.",
+    "postereffect": "Poster Effect combines several similar shades into one color, turning subtle gradations into eye-catching, scene-popping contrasts."
+}

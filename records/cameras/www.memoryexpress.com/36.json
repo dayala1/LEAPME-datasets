@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "electronicshutter": "NTSC: 1/60 - 1/100,000 second PAL: 1/50 - 1/100,000 second",
+    "weight": "368g (12.8 oz)",
+    "power": "Input: 12Vdc",
+    "minimumillumination": "0.1 Lux (No IR LEDS)",
+    "viewangle": "67\u00b0",
+    "imagingsensor": "Sony 'Effio' Color 1/3in  CCD",
+    "lens": "3.6mm Lens",
+    "effectivevideoresolution": "700 TVL NTSC: 976 x 494 pixels PAL: 976 x 582 pixels",
+    "materials": "Chassis: Aluminum",
+    "temperature": "Working: -20 ~ 50\u00b0 C (-4 ~ 122\u00b0 F)",
+    "dynamicrange": "Wide Dynamic Range",
+    "gaincontrol": "Automatic",
+    "model": "PRO-761 Super Wide Angle CCD Security Camera",
+    "whitebalance": "Automatic",
+    "backlight": "Automatic",
+    "dimensions": "110 x 110 x 70mm (4.33 x 4.33 x 2.75\")"
+}

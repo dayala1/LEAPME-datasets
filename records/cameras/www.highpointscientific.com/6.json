@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "softwareincluded": "Windows Camera Driver, ASCOM Driver, SharpCap, FireCapture, Stakkert 2",
+    "dimensions": "62 mm Diameter x 28 mm",
+    "weight": "3.5 ounces",
+    "cameracooling": "Natural Convection",
+    "bitrate": "12bit output (12 bit ADC)",
+    "cameradimensions": "2.44 x 1.1 inch",
+    "cameratype": "Single Frame Camera",
+    "exposurerange": "64 microseconds to 1000 seconds",
+    "sensortype": "CMOS",
+    "sensormodel": "MT9M034",
+    "workingtemperature": "-5\u00baC to 45\u00baC",
+    "interface": "USB 3.0",
+    "storagetemperature": "-20\u00baC to 60\u00baC",
+    "pixelsize": "3.75um",
+    "camerawarranty": "1 year",
+    "sensor": "1/3\u201d CMOS MT9M034",
+    "cameraseries": "ZWO ASI120",
+    "computerinterface": "USB 3.0"
+}

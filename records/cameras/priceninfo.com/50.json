@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "label9": "White Balance Auto, Preset manual, Daylight, Incandescent, Fluorescent, Cloudy, Flash",
+    "flashsyncmodes": "Auto, Auto with red-eye reduction, Off, Fill flash, Slow sync",
+    "lens": "4.2x Zoom; f=4.3-17.9mm / F1.8-4.9",
+    "weight": "189gm",
+    "batterylife": "Approx. 240 shots",
+    "sensitivity": "Auto (auto gain ISO 160-1600), Fixed range auto (ISO 160 to 400, 160 to 800), Manual selection",
+    "label4": "90MB Internal Memory",
+    "label5": "SD/SDHC and SDXC Memory Card Support",
+    "selftimer": "2 and 10 sec. duration",
+    "exposuremeteringsystem": "224-segment matrix metering, Center-weighted metering",
+    "effectivepixels": "12.2 million pixels",
+    "label12": "Rechargeable Li-ion Battery EN-EL12, AC Adapter EH-62F (optional)",
+    "vibrationreduction": "Lens shift VR",
+    "fileformat": "Compressed [JPEG (EXIF )], mono/wav file, MOV movie",
+    "dimensions": "103.0\u00d758.3\u00d732.0 mm"
+}

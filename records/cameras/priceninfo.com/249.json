@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "internalmemory": "34.9 MB",
+    "memorycardslot": "SD/SDHC/SDXC",
+    "weight": "147 gm",
+    "focallength": "4.7 \u2013 23.5mm (26 \u2013 130mm equivalent)",
+    "shutterspeed": "1/4 \u2013 1/2000 sec (up to 4 sec in Night scene)",
+    "isosensitivity": "Auto 80/100/200/400/800/1600",
+    "zoom": "5x Optical Zoom + 4x/96x Digital Zoom",
+    "selftimer": "2/12 sec",
+    "exposurecompensation": "+/- 2 EV / 1/3 Steps",
+    "label18": "LI-50B Lithium-Ion Battery",
+    "effectivepixels": "14 Megapixels",
+    "maximumaperture": "f/2.8 \u2013 f/6.5",
+    "flashmodes": "AUTO, Red-eye reduction, Long flash, Fill-in, Off",
+    "sensortype": "1/2.3? inch CCD Sensor",
+    "focusmode": "iESP, Face Detection AF, Spot, AF Tracking",
+    "lightmetering": "ESP Light Metering",
+    "screen": "3.0? inch 460K TFT Display",
+    "dimensions": "103.7 x 62.5 x 22.2 mm"
+}

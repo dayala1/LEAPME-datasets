@@ -1,0 +1,23 @@
+{
+    "pictbridge": "Yes",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 30 fps",
+    "audioformats": "Linear PCM",
+    "displaytype": "TFT LCD",
+    "lenstype": "Nikkor Lens",
+    "manualfocus": "Yes",
+    "continuousshots": "Up to 4 fps",
+    "category": "camera",
+    "dustreduction": "Image Sensor Cleaning",
+    "facedetection": "Yes",
+    "selftimer": "2, 5, 10 & 20 sec",
+    "autofocus": "Yes",
+    "videoformat": "MPEG-4",
+    "deletefunction": "Yes",
+    "focallength": "18 - 105 mm",
+    "whitebalancing": "Auto",
+    "metering": "3D Color Matrix II (Type G and D Lenses), Center-Weighted, Color Matrix II (Other CPU Lenses), Spot",
+    "imageformat": "JPEG (NEF (RAW), NEF (RAW + JPEG, DCF 2.0, DPOF, EXIF 2.3)",
+    "microphone": "Stereo",
+    "imagedisplayresolution": "921000 dots",
+    "screensize": "3 Inches"
+}

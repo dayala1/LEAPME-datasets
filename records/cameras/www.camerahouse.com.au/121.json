@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "dimensions": "122.8mm x 84.1mm x 98.2mm",
+    "power": "Rechargeable Li-ion Battery EN-EL5",
+    "memorysize": "SD, SDHC, SDXC Memory Cards",
+    "sensitivity": "ISO 100-1600 ISO 3200, 6400 (available when using P, S, A or M mode) ISO Hi 1 (equivalent to ISO 12,800) (available when using High ISO monochrome in special effects mode)",
+    "flash": "Built-In Flash",
+    "storage": "SD, SDHC, SDXC Memory Cards",
+    "zoom": "42 x Optical Zoom",
+    "weight": "Approx. 494g",
+    "megapixel": "16.1 Megapixel",
+    "standoutfeature1": "VR Image Stabilization",
+    "screensize": "3.0\" LCD Screen",
+    "ccd": "CMOS Sensor",
+    "shutterspeed": "1/4000-1 sec. 1/4000-15 sec. (when ISO is set to 100 in M mode) When the aperture value is set to f/6.6-f/8.3 (wide-angle end)"
+}

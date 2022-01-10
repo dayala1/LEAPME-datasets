@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "whitebalancing": "3000K (Default): Warm Light (Incandescent or Sunrise / Sunset Lighting), 5500K: Slightly Cool Light (Cool Fluorescent, Average Daylight), 6500K (Cool Light (Overcast Conditions), Cam RAW (Industry Standardized Optimized Color)",
+    "weight": "136 g",
+    "brand": "GoPro",
+    "upgradeablememory": "Upto 64 GB Capacity Supported",
+    "opticalsensorresolution": "12MP",
+    "memorycardtype": "microSD Class 10",
+    "lenstype": "Ultra-sharp 6 Element Aspherical Glass Lens",
+    "audiovideointerface": "AAC, H.264, MP4",
+    "lcddisplay": "Yes",
+    "batterytype": "Lithium Battery",
+    "continuousshots": "Continuous Photo (upto 30 Seconds): 3 Photos/s, 5 Photos/s, 10 Photos/s"
+}

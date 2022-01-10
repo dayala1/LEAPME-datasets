@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "moviemode": "MP4 (H.264) Stereo sound (AAC) High Quality, Normal 1080p30 720p60 720p30 640 x 480 320 x 240",
+    "dimensions": "117 x 63 x 36mm (excluding the projecting parts of the camera)",
+    "focusmodes": "Contrast-detect Auto Focus Manual focus Face Detection (max 10 faces) 1 Point AF (free selection) 15-Area-Focusing (normal) / 35-area-focusing (close up) Single or Continuous AF",
+    "flashxsyncspeed": "1/180 sec",
+    "selftimer": "2-30 secs (1 sec increments)",
+    "scenemodes": "Beauty shot Night Landscape Portrait Children Sports Close Up Text Sunset Dawn Backlight Fireworks Beach & Snow Sound picture 3D",
+    "orientationsensor": "YES",
+    "imagestabilization": "With selected lenses",
+    "afassistlamp": "Yes, dedicated lamp",
+    "sensor": "APS-C type CMOS (23.5 x 15.7mm) 21.6 million total pixels 20.3 million effective pixels RGB (Primary) color filter array",
+    "fileformats": "RAW (SRW) RAW + JPEG (Normal, Fine or Super Fine) JPEG (EXIF 2.21) \u2013 Normal, Fine or Super Fine",
+    "lenses": "Samsung NX mount lenses Adaptor for Pentax K-mount lenses"
+}

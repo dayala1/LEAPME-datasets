@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Custom, Daylight, Fluorescent, Fluorescent-H, Tungsten",
+    "imagedisplayresolution": "230000 dots",
+    "videodisplayresolution": "1280 x 720 pixels (HD) @ 30 fps",
+    "facedetection": "Yes",
+    "flashrange": "Wide : 0.3 - 3.9m, Telephoto : 0.48 - 2.01m, Wide : 0.3 - 4.0m, Telephoto : 0.5 - 2.0m",
+    "shootingmodes": "Auto, Beach, Creative Filters2, Discreet, Easy, Fireworks, Foliage, Kids & Pets, Landscape, Live View Control, Long Shutter, Low Light, Movie3, Program, Portrait, SCN1, Smart Shutter4, Snow",
+    "isorating": "Auto / ISO 80/100 / 200 / 400 / 800 / 1600 / Low Light: ISO 400-6400",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted Average, Evaluative, Spot",
+    "selftimer": "2 sec, 10 sec",
+    "syncterminal": "Yes",
+    "builtinflash": "Yes",
+    "continuousshots": "Up to 0.8 fps (Program Mode), 2.5 fps (In Low Light mode)",
+    "flashmodes": "Auto, Slow Sync, Smart Flash",
+    "screensize": "3 Inches"
+}

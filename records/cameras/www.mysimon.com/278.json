@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "focusadjustment": "Automatic",
+    "flashtype": "Pop-up Flash",
+    "stillimageformat": "RAW + JPEG",
+    "brand": "Fujifilm",
+    "redeyereduction": "Yes",
+    "flashmodes": "Auto Mode",
+    "cameraflashfeatures": "AF Illuminator",
+    "additionalfeatures": "Individual Shutter 3D Shooting",
+    "specialeffects": "Pop Color",
+    "digitalvideoformat": "H.264",
+    "supportedflashmemory": "SDXC Memory Card",
+    "type": "Point & Shoot",
+    "microphoneoperationmode": "Stereo",
+    "hdmioutput": "Yes"
+}

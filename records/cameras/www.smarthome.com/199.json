@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "1.0V p-p 75\u2126",
+    "sensingarea": "3.6mm x 2.7mm",
+    "powerrequirement": "12VDC",
+    "dimensions": "3.8\" dia x 2.36\" (97.5 dia x 60mm)",
+    "powerconsumption": "1.5W",
+    "minimumillumination": "1 lux / F1.2",
+    "snratio": ">48dB",
+    "upc": "897503001791",
+    "lens": "3.6mm Fixed",
+    "signalsystem": "NTSC",
+    "effectivepixels": "510x492",
+    "electronicshutter": "1/60 ~ 1/100,000 sec",
+    "operatingtemperature": "-4\u00b0 to 122\u00b0F (-20\u00b0 to 50\u00b0C)",
+    "resolution": "420TV Lines",
+    "imagesensor": "1/4\" Sony Color CCD",
+    "manufacturer": "Atrix"
+}

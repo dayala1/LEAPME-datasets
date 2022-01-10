@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "lcdsize": "3 inches",
+    "touchscreen": "No",
+    "shutterlag": "0.3 seconds",
+    "mediaformat": "Secure Digital, Secure Digital High Capacity, Secure Digital Extended Capacity",
+    "dimensions": "3.9 x 4.9 x 3 inches",
+    "weight": "15.2 oz",
+    "maximumiso": "25600",
+    "videoresolution": "720p, 1080p",
+    "megapixels": "24 MP",
+    "opticalzoom": "3 x",
+    "sensorsize": "APS-C (23.2 x 15.4mm) mm",
+    "sensortype": "CMOS",
+    "viewfindertype": "Optical",
+    "imagestabilization": "In-Lens",
+    "lensmount": "Nikon F",
+    "recycletime": "0.2 seconds",
+    "type": "D-SLR",
+    "gps": "No"
+}

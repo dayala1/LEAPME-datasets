@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "1V p-p, 75 ohms",
+    "dimensions": "31x36x29.7",
+    "weight": "70g",
+    "minimunillumination": "1 Lux",
+    "powerconsumption": "110mA",
+    "type": "COLOR 1/3 \u00bd CCD",
+    "snratio": ">52 dB",
+    "powersupply": "DC12V",
+    "lens": "Pihole 3.7mm/F2.8",
+    "label0": "CG16 - Ultra Mini Color Pinhole Camera 1/3\" SONY CCD",
+    "clockfrequency": "EIA",
+    "operatingtemperature": "- 10\u00b0C ~ + 45\u00b0C",
+    "storagetemperature": "- 30\u00b0C ~ + 60\u00b0C",
+    "resolution": "420 Lines",
+    "gamma": "0.45",
+    "verticalfrequency": "EIA"
+}

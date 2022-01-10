@@ -1,0 +1,23 @@
+{
+    "shuttertime": "1/5 ~ 1/16000 sec",
+    "focusingrange": "1m ~ INF",
+    "powersupply": "DC 5V/2A",
+    "zoom": "10x digital zoom",
+    "audiocommunication": "Two-way audio with built-in Microphone and speaker",
+    "resolutions": "160 x 120, 320 x 240, 640 x 480",
+    "category": "camera",
+    "videostreaming": "Support Dual Streams:",
+    "dimensions": "64 x 74.7 x 110 mm (including bracket)",
+    "operatingconditions": "0\u00b0 - 40\u00b0C",
+    "productcode": "WC-CCS40W",
+    "lens": "Focal Length: 2.0 mm",
+    "videocompression": "H.264 ( MPEG-4 Part 10)",
+    "angleofview": "40\u00b0 horizontal",
+    "supportedprotocols": "TCP/IP, HTTP, UDP, FTP, ICMP, ARP, DHCP, NTP, DNS, DDNS (iDDNS), DynDNS, PPPoE, UPnP, RTP, RTSP, RTCP, SMTP, IGMP, 3GPP, IPv4, 802.1x",
+    "minillumination": "Color Mode: 1.0 lux",
+    "imagesensor": "1/7\" CMOS sensor",
+    "audiocompression": "G.711 PCM 64Kbit/sec",
+    "imagesetting": "Adjustable image size and quality",
+    "ethernet": "10/100 Base-T, autosensing, RJ-45",
+    "security": "User ID / Password Protection"
+}

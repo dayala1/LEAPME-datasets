@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "picturesize": "5MP/12MP=2560x1920/4000x3000",
+    "certificate": "FCC, CE, RoHS",
+    "operationtemperature": "-30 - +70\u00e2\u0084\u0083/-22 - +158\u00c2\u00b0F",
+    "powerconsumption": "150mA(+650mA when IR LED lights up)",
+    "mounting": "Belt, Tripod Nail",
+    "imagesensor": "12 Megapixels",
+    "waterproof": "IP54",
+    "lcdscreen": "48x35.69mm(2.36\u00e2\u0080\u009d); 480(RGB)x234DOT; 16.7M color",
+    "powersupply": "4xAA battery; expandable to 8xAA",
+    "timer": "On/Off time lapse programmable",
+    "videosize": "720P HD video, 640x480 , 320x240 30fps; 1280x720p 20fps",
+    "lens": "F=3.1mm, FOV=100\u00c2\u00b0 , Auto IR-Cut",
+    "interface": "TV out(NTSC); USB; SD Card Slot; 6V DC External",
+    "memory": "SD Card upto 16Gb",
+    "pixelsize": "2560x1920"
+}

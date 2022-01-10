@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "power": "9V (6F22) x 1",
+    "batterylife": "200 hours (estimate)",
+    "label1": "0 - 200 LUX",
+    "label2": "2,000 LUX",
+    "label3": "20,000 LUX",
+    "label4": "200,000 LUX",
+    "label23": "Low power consumption",
+    "label22": "Over-range indication",
+    "label21": "Data Hold",
+    "label19": "3 1/2 Digit LCD",
+    "label15": "Unit Lux or Footcandle selectable",
+    "operatingtemperature": "32-104 degrees F (0-40 degrees C)",
+    "dimension": "147 x 71 x 41mm (meter body)",
+    "label20": "Auto Zero",
+    "accuracy": "0 ~ 200 LUX"
+}

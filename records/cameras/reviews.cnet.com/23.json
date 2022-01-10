@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "meteringrange": "1 to 18 EVn/a0 to 20 EV-2 - 20 EVn/a0 to 18 EV",
+    "audio": "Stereo; mic inputStereo; mic inputStereo; mic input; headphone jackStereo; mic inputStereo; mic input; headphone jackStereo; mic input; headphone jack Optional XLR",
+    "burstshooting": "7fps 16 raw/65 JPEG8fps unlimited 47 JPEG/n/a raw6fps (7fps in 1.3x crop mode) n/a6.5fps (with IS off) unlimited JPEG/60 raw (10fps with fixed focus and exposure, IS off)6fps 29 raw+JPEG7fps 40 raw/100 JPEG (12fps with fixed focus; 40fps with electronic shutter)",
+    "lcdsize": "3-inch articulated touch screen 1.04m dots3-inch fixed LCD 1.04 million dots3.2-inch fixed 1,228,800 dots3-inch tilting touch-screen 1.04m dots3-inch tilting touch-screen OLED 610,000 dots3-inch tilting touch-screen OLED 1.04m dots",
+    "flash": "YesIncluded add-onYesIncluded add-onYesYes",
+    "metering": "63-zone iFCL256 zones2,016-pixel 3D color matrix metering II324-area144-zone1,728-zone",
+    "wireless": "Wi-FiWi-FiOptional via WU-1a adapterWi-FiWi-FiWi-Fi, NFC",
+    "opticalsensorsize": "13.0 x 17.3mm",
+    "canoneos70d": "Fujifilm X-T1Nikon D7100Olympus OM-D E-M1Panasonic Lumix DMC-GH3Panasonic Lumix DMC-GH4",
+    "imagestabilization": "OpticalOpticalOpticalSensor shiftOpticalOptical",
+    "viewfinder": "98% coverage 0.95x/0.59xEVF 0.5-inch 2.4 million dots 100% coverage 1.2x/0.77xOptical 100% coverage 0.94x/0.63xOLED EVF n/a-inch 2.36m dots 100% coverage 1.3x - 1.48x/ 0.65x- 0.74xOLED EVF n/a-inch 1.7 million dots 100% coverage 1.42x/ 0.71xOLED EVF n/a-inch 2.36 million dots 100% coverage 1.34x/0.67x",
+    "sensitivityrange": "ISO 100 - ISO 12800/ 25600 (exp)ISO 100 (exp)/200 - ISO 6400/ 51200 (exp)ISO 100 - ISO 6400/ 25600 (exp)ISO 100 (exp)/200 - ISO 25600ISO 180 (exp)/ 200 - ISO 3200/ 12800 (exp)ISO 100 (exp)/ 200 - ISO 25600",
+    "opticalsensortype": "Live MOS",
+    "autofocus": "Dual Pixel CMOS 19-pt phase-detection AF all cross-type; center cross to f2.849-area     contrast AF;  phase-detection AF51-pt phase- detection AF 15 cross- type; center to f8 or faster (Multi-CAM 3500DX)27-point phase detection, 81-point contrast23-area contrast AF49-area contrast AF; DFD",
+    "focallengthmultiplier": "1.6x1.5x1.5x2.0x2.0x2.0x",
+    "shutterspeed": "1/8,000 to 30 secs.; bulb; 1/250 x-sync30-1/4,000 sec.; bulb to 60 min; 1/180 x-sync1/8,000 to 30 secs.; bulb; 1/250 sec x-sync60 - 1/8,000 sec.; bulb to 30 minutes; 1/320 sec x-sync (Super FP to 1/8,000)60-1/4,000 sec.; bulb60-1/8,000 sec.; bulb to 60 minutes; 1/250 x-sync",
+    "sensorresolution": "16.05 Megapixel"
+}

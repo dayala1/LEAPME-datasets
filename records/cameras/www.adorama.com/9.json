@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "meteringrange": "ISO 100, EV 1 -19, f/ 4 at 1 Second to f/16 at 1/2000th",
+    "flashsync": "1/125th Sec",
+    "remotecontrol": "standard mechanical cable release",
+    "dimensions": "5.4\" x 3.2\" x 1.4\"",
+    "weight": "15 oz. / 425g",
+    "format": "35mm Rangefinder camera",
+    "powersourcebattery": "Two 1.5V alkaline batteries, LR44 or SR44",
+    "focus": "Manual",
+    "isorange": "25-3200 by 1/3 steps",
+    "multiexposure": "no",
+    "selftimer": "Mechanical self-timer with 10 sec operating time",
+    "exposurecompensation": "+/- 2 f/stops on AE",
+    "focusmodes": "Manual",
+    "exposuremodes": "Manual and Aperture Priority",
+    "viewfinder": "Very Bright Combined Rangefinder / Viewfinder with 35, 50, 75, 90 Parallax Corrected Brightline Frames",
+    "lensmount": "M-mount (accepts Bayonet Mount lenses from Leica, Canon, Contax, Voigtlander & others as well as all 39mm screw mount lenses (with the appropriate adapter) from Canon, Leica & Voigtlander,",
+    "exposuremetering": "Center-weighted average metering TTL Metering with superb 3 LED readout in finder",
+    "pcterminal": "Yes"
+}

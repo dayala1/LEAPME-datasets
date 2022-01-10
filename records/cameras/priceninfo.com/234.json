@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videorecordingformat": "Progressive Recording",
+    "microphone": "2ch Stereo",
+    "analogoutput": "No",
+    "dimensions": "92.0 x 123.7 x 41.2 mm",
+    "weight": "250 gm",
+    "focallength": "6.8-34.0mm",
+    "imagesensor": "1/2.3? BSI MOS",
+    "imagestabilizer": "E.I.S [Electronic Image Stabilizer]",
+    "focus": "Auto / Manual",
+    "inputoutput": "AV Output, mini HDMI, USB2.0, AC Cable, USB Cable",
+    "digitalzoom": "120x(30p), 60x(60i/ 60p) (Motion Image) , 50x (Still Image)",
+    "lensconfiguration": "F3.5(WIDE), F3.7(TELE)",
+    "shutterspeedrange": "1/30-1/10000",
+    "memory": "SD/SDHC/SDXC Memory Card",
+    "lcdmonitor": "2.6? Wide LCD ( 230,400 dots)",
+    "whitebalance": "Auto / Sunny / Cloudy / Incandescent / Whiteset",
+    "battery": "700 mAh / Lithium-Ion Battery"
+}

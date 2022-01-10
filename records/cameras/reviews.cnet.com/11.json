@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "lcdsize": "3 inches fixed 230,000 dots3 inches fixed 230,000 dots2.7 inches articulated 230,000 dots",
+    "continuousshooting": "3fps n/a raw/n/a JPEG3fps n/a raw/n/a JPEG4 fps 9 raw/100 JPEG (medium/fine)",
+    "opticalsensorsize": "15.4 x 23.1mm",
+    "opticalsensortype": "CMOS",
+    "na": "n/an/a",
+    "imagestabilizer": "optical",
+    "digitalcameratype": "SLR",
+    "metering": "420-pixel 3D color matrix420-pixel 3D color matrix420-pixel 3D color matrix",
+    "opticalzoom": "3 x",
+    "lens": "27 - 82.5mm F/3.5",
+    "liveview": "YesYesYes",
+    "video": "No1080/24p; 720/30p/25p/24p H.264 QuickTime MOV720/24p",
+    "sensitivityrange": "ISO 100 - ISO 3200ISO 100 (expanded)/200 - ISO 3200/12,800 (expanded)ISO 100 (expanded)/200 - ISO 1600/3200 (expanded",
+    "releasedate": "Sep 1, 2010",
+    "autofocus": "11-pt AF center cross-type11-pt AF center cross-type11-pt AF center cross-type to f5.6",
+    "shutterspeed": "1/4000 to 30 secs; bulb; 1/200 sec x-sync1/4000 to 30 secs; bulb; 1/200 sec x-sync1/4000 to 30 secs; bulb; 1/200 sec x-sync",
+    "sensorresolution": "14.2 Megapixel"
+}

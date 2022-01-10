@@ -1,0 +1,721 @@
+{
+    "bluetooth": [
+        "Bluetooth",
+        "Internet Browser",
+        "Bluetooth\ufffd",
+        "Bluetooth Enabled"
+    ],
+    "browser": [
+        "Internet Browser"
+    ],
+    "display_technology": [
+        "Display Technology",
+        "Screen LCD Type",
+        "Display Type"
+    ],
+    "network_technology": [
+        "Band",
+        "Network Technology",
+        "Network Generation",
+        "Technology",
+        "Data transfer",
+        "Cellular Radio Type",
+        "Cellular Band",
+        "Network Frequency",
+        "Data Transmission",
+        "Cellular Network",
+        "LTE Band",
+        "GSM Frequency",
+        "Type",
+        "GSM Phone",
+        "Network Standard",
+        "4G",
+        "2G"
+    ],
+    "speakerphone": [
+        "Speakerphone",
+        "Loudspeaker"
+    ],
+    "gps": [
+        "GPS"
+    ],
+    "depth": [
+        "Depth",
+        "Product Depth",
+        "Depth (in.)",
+        "Thickness"
+    ],
+    "email": [
+        "Email Access"
+    ],
+    "phone_carrier": [
+        "Network",
+        "Contract",
+        "Carrier",
+        "Compatible Carrier & Service",
+        "Compatible Networks",
+        "Network Provider",
+        "Service Provider",
+        "Service Provide",
+        "Compatible with all GSM Carriers",
+        "Cell Phone Service Provider"
+    ],
+    "height": [
+        "Height",
+        "Product Height",
+        "Height (in.)"
+    ],
+    "memory": [
+        "Storage Capacity",
+        "Internal Memory",
+        "Built-in Storage",
+        "Capacity",
+        "Total Internal Memory",
+        "Built-in Memory",
+        "User Memory",
+        "Internal Memory Options",
+        "ROM",
+        "Internal",
+        "Memory",
+        "Internal Storage",
+        "Internal memory",
+        "built-in memory with microSD slot"
+    ],
+    "width": [
+        "Width",
+        "Product Width",
+        "Width (in.)"
+    ],
+    "rear_cam_resolution": [
+        "Camera Resolution",
+        "Rear Camera",
+        "Camera Primary",
+        "Camera",
+        "Primary Camera Resolution (MP)",
+        "Rear Camera Resolution",
+        "Sensor Resolution",
+        "Back",
+        "Primary",
+        "Back Camera",
+        "SecondaryYes, 1.2 MP, 720p@30fps",
+        "Camera (Rear)",
+        "camera",
+        "Number of Megapixels",
+        "rear-facing camera",
+        "Rear_facing"
+    ],
+    "display_size": [
+        "Screen Size",
+        "Main Display Size",
+        "iPhone 5C 4G LTE 16GB Smartphone Display",
+        "    Display ",
+        "Display Size",
+        "Size",
+        "touch screen",
+        "Multi-Touchscreen",
+        "multi-touch screen",
+        "screen"
+    ],
+    "digital_camera": [
+        "Digital Camera",
+        "Video Capability",
+        "Camera",
+        "Rear HDR"
+    ],
+    "color": [
+        "Color",
+        "Colour",
+        "Body Color",
+        "Color Options",
+        "Colors",
+        "Color options"
+    ],
+    "touch_screen": [
+        "Touch Screen",
+        "Touchscreen"
+    ],
+    "card_slot": [
+        "Supported Flash Memory Cards",
+        "Type & Size Of Additional Memory Card",
+        "Expandable Memory Slot",
+        "External Memory",
+        "MicroSD Memory Slot",
+        "Supported Memory Cards",
+        "SIM Slots",
+        "Card slot",
+        "Memory Card Type"
+    ],
+    "phone_type": [
+        "Family Line",
+        "Model",
+        "Series",
+        "Product Name",
+        "HTC Model",
+        "model",
+        "Apple Model",
+        "Model Name"
+    ],
+    "battery_type": [
+        "Battery Type",
+        "Battery",
+        "Battery Description",
+        "battery"
+    ],
+    "weight": [
+        "Weight",
+        "Product Weight",
+        "Item Weight (lbs.)"
+    ],
+    "brand": [
+        "Brand",
+        "Brand Name",
+        "Manufacturer",
+        "Compatible Brand"
+    ],
+    "product_type": [
+        "Type",
+        "Model",
+        "Family Line",
+        "Product Type"
+    ],
+    "wattage": [
+        "Battery Capacity",
+        "Battery Capacity (mAh)",
+        "Battery size ",
+        "Battery Capacity(mAh)"
+    ],
+    "network_generation": [
+        "Network Generation",
+        "Mobile Frequencies",
+        "Mobile Internet",
+        "Mobile Broadband Generation"
+    ],
+    "connectivity": [
+        "Connectivity",
+        "Other Connection",
+        "Wireless Interface",
+        "Bluetooth",
+        "Wi-Fi"
+    ],
+    "mpn": [
+        "MPN",
+        "Model",
+        "MPN ",
+        "Part Number",
+        "Manufacturer Part Number"
+    ],
+    "product_gtin": [
+        "UPC",
+        "SKU",
+        "EAN"
+    ],
+    "design": [
+        "Style",
+        "Form Factor",
+        "Operating System",
+        "Design"
+    ],
+    "tagline": [
+        "Features",
+        "Bundled Items",
+        "Specifications",
+        "Additional Function",
+        "32GB ROM, 3 GB RAM",
+        "RAW capture ",
+        "    Camera features ",
+        "Cell Phone Type",
+        "Language",
+        "No accessories"
+    ],
+    "condition": [
+        "Lock Status",
+        "Cosmetic condition",
+        "Condition",
+        "Unlock Status",
+        "Cell Phone Type",
+        "Network",
+        "Item Condition",
+        "Unlock Phones",
+        "Carrier",
+        "SIM Lock"
+    ],
+    "computer_operating_system": [
+        "Operating System",
+        "OS",
+        "Software Version",
+        "Operating System ",
+        "Operating System Required",
+        "Operating System Provided",
+        "SYSTEM",
+        "Operation System",
+        "Platform/OS",
+        "OS Version",
+        "Platform",
+        "operating system",
+        "Lollipop",
+        "Mobile Operating System",
+        "Jelly Bean"
+    ],
+    "bundled_items": [
+        "Bundled Items",
+        "No accessories",
+        "In the box",
+        "What\"s in the Box",
+        "What's included in the box",
+        "What's in the Box?",
+        "BOX",
+        "Box",
+        "Package Contents",
+        "Charger and cable",
+        "Charger"
+    ],
+    "launch_date": [
+        "Release Date",
+        "Announced"
+    ],
+    "display_resolution": [
+        "Display Resolution",
+        "Pixel Density",
+        "Main Display Resolution",
+        "Resolution",
+        "Resolution ",
+        "PPI ",
+        " Full HD resolution"
+    ],
+    "QWERTY_physical_keyboard": [
+        "QWERTY Physical Keyboard",
+        "Qwerty Keyboard"
+    ],
+    "talk_time": [
+        "Battery Talk Time",
+        "Talk Time",
+        "Talk time",
+        "Talk Time (hrs)",
+        "Talktime"
+    ],
+    "standby_time": [
+        "Battery Standby Time",
+        "Standby time",
+        "Standby Time (hrs)",
+        "Standby",
+        "Battery Life"
+    ],
+    "store_options": [
+        "Store Pickup"
+    ],
+    "shipping": [
+        "Shipping"
+    ],
+    "manufacturer_origin": [
+        "Country/Region of Manufacture",
+        "Country of Manufacture"
+    ],
+    " HTC": [
+        "Brand"
+    ],
+    "charger_and_cable": [
+        "Charger and cable",
+        "USB Cable Included",
+        "Mains Charger Included"
+    ],
+    "box": [
+        "Original box",
+        "BOX",
+        "Box"
+    ],
+    "no_bundled_items": [
+        "No accessories"
+    ],
+    "dimensions": [
+        "Dimensions (H x W x D)",
+        "Product in Inches (L x W x H)",
+        "Dimensions",
+        "Size",
+        "Mobile Size",
+        "Assembled Product Dimensions (L x W x H)"
+    ],
+    "processor_type": [
+        "Processor",
+        "Processor Core",
+        "CPU",
+        "Speed ",
+        "Quad-core",
+        "processor"
+    ],
+    "messaging": [
+        "Message",
+        "Supported Email Protocols",
+        "Cellular Messaging Services",
+        "Messaging"
+    ],
+    "gpu": [
+        "System Chip",
+        "Graphics Accelerator",
+        "GPU"
+    ],
+    "bluetooth_type": [
+        "Bluetooth Support",
+        "Bluetooth",
+        "Bluetooth\ufffd"
+    ],
+    "SIM_type": [
+        "SIM Card Type",
+        "SIM Type",
+        "SIM",
+        "Sim Card"
+    ],
+    "display_format": [
+        "Main Display Format"
+    ],
+    "video_quality": [
+        "HD Video Capture",
+        "Video Recording Capability",
+        "HDR ",
+        "Special Effects",
+        "Video Recorder Resolutions",
+        "Supported Digital Video Standards",
+        "Video Features",
+        "Video",
+        "Recording Definition",
+        "Video ",
+        "Video Streaming Quality"
+    ],
+    "sensors": [
+        "Sensors",
+        "Sensor Type",
+        "Sensor"
+    ],
+    "gps_type": [
+        "GPS Integrated",
+        "GPS",
+        "Location Technology"
+    ],
+    "camera_flash": [
+        "Flash",
+        "Flash ",
+        "Rear Camera Flash",
+        "Back Side Illumination",
+        "Camera Light Source"
+    ],
+    "SIM_card_quantity": [
+        "Dual SIM",
+        "SIM Card Type",
+        "SIM Slots",
+        "SIM Card Quantity",
+        "SIM Quantity"
+    ],
+    "display_color": [
+        "Main Display Color",
+        "Display Color"
+    ],
+    "wlan": [
+        "Wi-Fi Support",
+        "Wireless data",
+        "GSM Frequency",
+        "Wi-Fi",
+        "Mobile Internet",
+        "WLAN",
+        "Wi-Fi "
+    ],
+    "usb": [
+        "USB",
+        "Ports",
+        "Connector Type"
+    ],
+    "touchscreen_type": [
+        "Touch Screen",
+        "Touch Screen Type"
+    ],
+    "audio_connectors": [
+        "Audio Connectors",
+        "Connector Type"
+    ],
+    "wifi": [
+        "WiFi",
+        "Wi-Fi Capability",
+        "WIFI",
+        "Wi-Fi Capable"
+    ],
+    "supported_audio_formats": [
+        "Audio",
+        "Supported Digital Audio Standards",
+        "Audio "
+    ],
+    "software": [
+        "Software & App"
+    ],
+    "ram": [
+        "RAM",
+        "Internal CPU RAM",
+        "Memory ",
+        "RAM Memory"
+    ],
+    "front_cam_resolution": [
+        "Front-Facing Camera",
+        "Secondary Camera Resolution (MP)",
+        "Front Camera Resolution",
+        "Front",
+        "Secondary",
+        "Front Camera",
+        "Camera (Front)",
+        "front-facing camera",
+        "Front_facing"
+    ],
+    "auto_focus": [
+        "Auto Focus"
+    ],
+    "headphones_included": [
+        "Headphones",
+        "Headphones Included",
+        "Headset Compatible"
+    ],
+    "video_time": [
+        "Video playback"
+    ],
+    "input_n_output": [
+        "Input and output",
+        "Input Device",
+        "input_n_output"
+    ],
+    "package_weight": [
+        "Shipping Weight (in pounds)",
+        "Assembled Product Weight"
+    ],
+    "chipset": [
+        "Chip",
+        "CPU",
+        "Processor ",
+        "Processor",
+        "Chipset"
+    ],
+    "system_requirements": [
+        "System requirements"
+    ],
+    "audio_time": [
+        "Audio playback",
+        "Music Play (hrs)"
+    ],
+    "internet_time": [
+        "Internet use"
+    ],
+    "mp3_player": [
+        "Built-in MP3 player"
+    ],
+    "rear_camera": [
+        "Primary Camera"
+    ],
+    "charger_connection_type": [
+        "Charger Connection Type"
+    ],
+    "radio": [
+        "Built-in FM Radio",
+        "Radio"
+    ],
+    "nfc": [
+        "NFC"
+    ],
+    "front_camera": [
+        "Secondary Camera"
+    ],
+    "wireless_charging": [
+        "Wireless Charging Available",
+        "Smart Charging",
+        "Wireless Charging"
+    ],
+    "keypad_type": [
+        "Keypad",
+        "Form Factor"
+    ],
+    "water_resistance": [
+        "Water & Dust Resistance"
+    ],
+    "display_type": [
+        "Screen Type",
+        "Display Type",
+        "Display Color",
+        "Touch Screen Type",
+        "Type",
+        "Screen LCD Type",
+        "Navigation ",
+        "Display"
+    ],
+    "product_code": [
+        "Catalogue Number",
+        "UPC",
+        "Walmart No.",
+        "upc",
+        "EAN"
+    ],
+    "contrast": [
+        "Contrast "
+    ],
+    "removable_battery": [
+        "Removable Battery "
+    ],
+    "camera_type": [
+        "Camera ",
+        "Camera",
+        "Camera Type",
+        "Camera Quantity"
+    ],
+    "camera_autofocus": [
+        "Autofocus ",
+        "Focus Adjustment"
+    ],
+    "infrared_port": [
+        "Infrared",
+        "Infrared port"
+    ],
+    "unlocked": [
+        "Unlocked"
+    ],
+    "display_protection": [
+        "Screen Coating",
+        "Protection"
+    ],
+    "pixel_density": [
+        "Pixel Density"
+    ],
+    "rear_cam_aperture": [
+        "Rear Camera Aperture"
+    ],
+    "warranty": [
+        "Manufacturer Warranty",
+        "General Warranty",
+        "Manufacturer warranty",
+        "Warranty"
+    ],
+    "image_stabilization": [
+        "Image Stabilization"
+    ],
+    "front_cam_aperture": [
+        "Front Camera Aperture"
+    ],
+    "modelnum": [
+        "Model number",
+        "Model",
+        "Model No.",
+        "Family Line"
+    ],
+    "aspect_ratio": [
+        "Aspect Ratio",
+        "aspect_ratio"
+    ],
+    "hearing_aid_compatible": [
+        "Hearing Aid Compatible"
+    ],
+    "body_material": [
+        "Material"
+    ],
+    "alert_types": [
+        "Personal Information Management",
+        "Phone Functions",
+        "Alert types"
+    ],
+    "digital_zoom": [
+        "Digital Zoom"
+    ],
+    "cellular": [
+        "Band",
+        "Cellular Band",
+        "3G",
+        "2G",
+        "Band Mode",
+        "Cellular",
+        "Wireless Band",
+        "2G Network",
+        "4G Network",
+        "3G Network",
+        "GSM Phone",
+        "Cellular Network Technology"
+    ],
+    "services": [
+        "Mobile Services"
+    ],
+    "core_count": [
+        "Number of Cores"
+    ],
+    "additional_features": [
+        "Features",
+        "Feature",
+        "additional_features",
+        "Messaging"
+    ],
+    "contract": [
+        "Contract"
+    ],
+    "manufacturer": [
+        "Country/Region of Manufacture",
+        "CPU Manufacturer",
+        "Manufacturer"
+    ],
+    "google_play": [
+        "Google Play"
+    ],
+    "camera_features": [
+        "Features",
+        "Camera ",
+        "camera_features"
+    ],
+    "launch_status": [
+        "Status"
+    ],
+    "3.5mm_jack": [
+        "3.5mm jack"
+    ],
+    "multitouch": [
+        "Multitouch"
+    ],
+    "language": [
+        "Language",
+        "Support Languages"
+    ],
+    "band_mode": [
+        "Band Mode",
+        "Band",
+        "Cellular Band",
+        "GSM Brands",
+        "Cellular Band (LTE)"
+    ],
+    "supported_picture_formats": [
+        "Picture"
+    ],
+    "ports": [
+        "Ports",
+        "USB",
+        "Connector Type"
+    ],
+    "java": [
+        "Java"
+    ],
+    "browser_type": [
+        "Browser",
+        "Browser "
+    ],
+    "4g_capable": [
+        "4G Data Capable",
+        "4G LTE"
+    ],
+    "3g_capable": [
+        "3G Data Capable",
+        "Phone 3G and LTE Support"
+    ],
+    "global_ready": [
+        "Global Ready"
+    ],
+    "gprs": [
+        "GPRS"
+    ],
+    "edge": [
+        "EDGE"
+    ],
+    "network_speed": [
+        "Speed"
+    ],
+    "user_manual": [
+        "User Manual"
+    ],
+    "english_firmware": [
+        "English firmware"
+    ]
+}

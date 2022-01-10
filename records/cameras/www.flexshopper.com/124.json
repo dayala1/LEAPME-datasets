@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Pentax K-5 IIs - digital camera - body only",
+    "memorycardslot": "SD card",
+    "weight": "24 oz",
+    "imagestabilizer": "Optical (image sensor shift mechanism)",
+    "cameraflash": "Pop-up flash",
+    "sensorresolution": "16.28 Megapixel",
+    "supportedbattery": "1 x Pentax D-Li90 Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - SLR with Live View mode, movie recording",
+    "dimensionswxdxh": "5.2 in x 2.9 in x 3.8 in",
+    "lensincluded": "Body only",
+    "viewfinder": "Optical - eye-level mirror pentaprism",
+    "imageprocessor": "PRIME II",
+    "display": "LCD display - 3\"",
+    "maxvideoresolution": "1920 x 1080"
+}

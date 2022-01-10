@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "isosensitivity": "Auto,     80-6400",
+    "selftimer": "2 sec / 10     sec",
+    "exposurecompensation": "1/3 EV step, \u00b12 EV",
+    "recordingformat": "- Video Recording",
+    "meteringmode": "Multi /     Center Weighted / Spot",
+    "afassistlamp": "Yes",
+    "focusingarea": "- Normal",
+    "stillpicture": "- JPEG, MPO, RAW",
+    "whitebalance": "Auto /     Daylight / Cloudy / Shade / Incandescent / White Set",
+    "exposure": "Program AE,     Aperture Priority AE, Shutter Priority AE, Manual"
+}

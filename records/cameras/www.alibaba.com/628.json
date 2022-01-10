@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "protocol": "Pelco-P , Pelco-D and so on, baud rate 2400 , 4800 , 9600 , 19200",
+    "housing": "One integral aluminum alloy housing, two windows, waterproof, weatherproof IP66",
+    "videostandard": "PAL/NTSC",
+    "powersupply": "AC24V\u00b110% , 50Hz , 5A",
+    "weatherproof": "IP66",
+    "interface": "1*BNC, 1*RJ45, 1*AC24, 1*RS485(RS422 optional) Optional: IP box, 1*RJ45 for all video outputs and control",
+    "rotationangle": "Pan: 360 o continuously, tilt: +40\u00b0 ~ -75\u00b0",
+    "model": "DBTC8600",
+    "size": "570mm \u00d7340mm\u00d7580mm"
+}

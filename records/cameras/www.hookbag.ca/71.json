@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "diameter": "3.7\" (93 mm)",
+    "ethernet": "Yes",
+    "imagesensortype": "CMOS",
+    "focallength": "3.1 mm to 8.9 mm",
+    "productmodel": "SNC-CH160",
+    "productname": "SNC-CH160 Network Camera",
+    "opticalzoom": "2.9x",
+    "height": "7.3\" (186 mm)",
+    "manufacturerwebsiteaddress": "http",
+    "connectivitytechnology": "Cable",
+    "brandname": "Sony",
+    "producttype": "Network Camera",
+    "weightapproximate": "1.52 kg",
+    "illumination": "Minimum 0 Lux",
+    "colorsupported": "Monochrome",
+    "manufacturerpartnumber": "SNCCH160",
+    "protocols": "SNMP",
+    "manufacturer": "Sony Corporation"
+}

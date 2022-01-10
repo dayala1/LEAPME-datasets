@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "internalmemory": "34.9MB",
+    "dimensions": "104.3\u00d760.2\u00d728.3mm",
+    "weight": "170 gm",
+    "battery": "LI-50B",
+    "isosensitivity": "Auto 100,200,400,800,1600",
+    "imagestabilizer": "CCD Sift",
+    "opticalzoom": "10x",
+    "display": "3.0? inch TFT Color LCD with 460K dots",
+    "selftimer": "2/12 seconds",
+    "focallength": "24-240mm (35mm equivalent)",
+    "digitalzoom": "40x",
+    "effectivepixels": "16 Megapixels (effective)",
+    "maximumaperture": "f3.0 \u2013 f7.9",
+    "focusmode": "Face Detection AF, Spot AF, iESP Auto, AF Tracking",
+    "sensortype": "1/2.3? CCD Sensor",
+    "storagemedia": "SD, SDHC, SDXC Card",
+    "shutterspeed": "1/2000 second- 4 second",
+    "afmode": "Spot, Face Detect iESP, Tracking"
+}

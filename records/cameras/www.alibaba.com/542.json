@@ -1,0 +1,18 @@
+{
+    "motiondetection": "support",
+    "category": "camera",
+    "power": "10W\u00a0MAX",
+    "framerate": "Main\u00a0stream:1-25fps The\u00a0second\u00a0stream: 1-30fps",
+    "imagesensor": "1/3\"\u00a0\u00a01\u00a0Mega\u00a0pixel\u00a0CMOS",
+    "snratio": "Over\u00a050dB",
+    "audiocompression": "G.711",
+    "powersupply": "12V/1.5A",
+    "videocompression": "H.264",
+    "irdistance": "15m\u00a0indoor,10m\u00a0outdoor",
+    "workingtemperature": "-10-60",
+    "scanningsystem": "Digital\u00a0CMOS",
+    "illumination": "Color:1.0Lux\u00a0@F1.2, 0.1Lux\u00a0@F1.2",
+    "resolutions": "1280(H)\u00d7\u00a0720(V)",
+    "model": "NNF-8112CHDM-5H",
+    "protocols": "TCP/IP,HTTP,DHCP,DNS,DDNS,PPPoE,FTP,SMTP,UPnP"
+}

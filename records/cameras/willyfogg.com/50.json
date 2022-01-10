@@ -1,0 +1,19 @@
+{
+    "label8": "1x LAN_10M Ethernet interface (CS8900)",
+    "category": "camera",
+    "leds": "4x Status LEDs",
+    "ethernet": null,
+    "workingtemperature": "-20~70 Celsius",
+    "dimensions": "134 x 93.5 mm",
+    "ioport": "GPIO expansion connector",
+    "powersupply": "+12V",
+    "label7": "1x LAN_10M/100M Ethernet interface (DM9000)",
+    "buttons": "1x Reset Button, 4x User Buttons",
+    "lcd": "1x LCD interface, supporting STN or TFT LCD and resolution up to 1024 x 768",
+    "camera": "1x Camera interface",
+    "usbports": "USB Host and USB Device",
+    "memory": "1Mbyte Nor Flash (support 2Mbyte for option), 64Mbyte Nand Flash, 64Mbyte SDRAM",
+    "label12": "3 serial ports available through 14-pin (2.0mm space) interface",
+    "label13": "2 serial ports available through ST16C2550 chip extension",
+    "processor": "Samsung S3C2440A (capable of 400MHz operation)"
+}

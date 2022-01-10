@@ -1,0 +1,17 @@
+{
+    "warranty": "1 Year",
+    "irled": "23 Units up to 65 Feet",
+    "imagedevice": "1/2.8\" Sony CMOS",
+    "videooutputlevel": "HD-SDI / 1.0 Vp-p composite, 75\u03a9",
+    "operatingtemperature": "-10C - +50C",
+    "minimumillumination": "0 Lux (with IR LED ON)",
+    "megapixels": "1080P",
+    "whitebalance": "AWB",
+    "electronicshutter": "Auto",
+    "effectivepixels": "1280 (H) x 720 (V)",
+    "powersource": "12VDC 300ma",
+    "category": "camera",
+    "type": "HD-SDI",
+    "osd": "Yes",
+    "lens": "3.6mm"
+}

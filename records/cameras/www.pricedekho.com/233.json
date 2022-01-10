@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Color Temperature, Daylight, Flash, Incandescent, Shade, White Set-1, 2",
+    "facedetection": "NA",
+    "dustreduction": "Supersonic Wave Filter",
+    "metering": "NA",
+    "selftimer": "10 sec, 3 images / 2 sec, 10 sec",
+    "supportedaspectratio": "16:9, 3:2, 4:3, 1:1",
+    "screensize": "3 Inches",
+    "videodisplayresolution": "NA"
+}

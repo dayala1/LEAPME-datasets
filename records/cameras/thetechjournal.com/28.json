@@ -1,0 +1,22 @@
+{
+    "autowhitebalance": "Auto white balance with the image sensor",
+    "recordingmedia": "SD/SDHC/SDXC card, via external media (USB v.2.0 hard drive, or via Wireless LAN (Eye-Fi card*))",
+    "lensmount": "Canon EF mount",
+    "category": "camera",
+    "colorfiltersystem": "RGB primary color filters",
+    "magnification": "Approx. 0.85x / 23.8\u00b0 (with 50mm lens at infinity, -1 m-1 (dpt))",
+    "recordingformat": "Design rule for Camera File System 2.0 and 2.30",
+    "filesize": "Large",
+    "totalpixels": "Total pixels",
+    "type": "Eye-level SLR (with fixed pentamirror)",
+    "filenumbering": "Consecutive numbering, auto reset, manual reset.",
+    "imageformat": "22.3 x 14.9 mm (APS-C size)",
+    "coverage": "Vertical/Horizontal approx. 95% (TD)",
+    "aspectratio": "3",
+    "dustdeletionfeature": "Automatic Sensor Cleaning, Dust Delete Data appended to the captured image, Manual cleaning of sensor",
+    "lowpassfilter": "Fixed position in front of the CMOS sensor",
+    "eyepoint": "Approx. 19 mm (At -1m-1 from the eyepiece lens center)",
+    "compatiblelenses": "Canon EF lenses including EF-S lenses (35mm-equivalent focal length is approx.1.6x the lens focal length)",
+    "settings": "Auto, Daylight, Shade, Cloudy, Tungsten Light, White Fluorescent Light, Flash, Custom",
+    "recordingfunctions": "Images record directly to the SD card."
+}

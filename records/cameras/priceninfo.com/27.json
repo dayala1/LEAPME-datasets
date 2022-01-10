@@ -1,0 +1,22 @@
+{
+    "exposurecontrol": "TTL 256-zones Metering",
+    "weight": "205 gm",
+    "battery": "Li-ion NP-50A",
+    "isoequivalent": "Auto, 100, 200, 400, 800, 1600, 3200",
+    "exposurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "ioports": "Micro HDMI, NTSC/PAL, USB2.0 High-Speed",
+    "lenstype": "Fujinon 5x Optical Zoom Lens",
+    "category": "camera",
+    "dimensions": "102.7 x 71.3 x 27.4 mm",
+    "batterylife": "Approx. 300 Frames",
+    "selftimer": "Couple Timer, 10sec. / 2sec. delay, Group Timer",
+    "focusdistance": "60 cm to infinity / 2.0 ft to infinity(Wide), 1.0m to infinity / 3.3 ft to infinity (Telephoto)",
+    "numberofeffectivepixels": "14.4 Million Pixels",
+    "focallength": "f=5.0 \u2013 25.0mm, equivalent to 28 \u2013 140mm on a 35mm camera",
+    "storagemedia": "SD/SDHC/SDXC Memory Card",
+    "shutterspeed": "(Auto Mode)1/4sec. to 1/2000 second, (All other modes)4 sec. to 1/2000 seconds",
+    "fullaperture": "F3.9(Wide) \u2013 F4.9(Telephoto)",
+    "imagesensortype": "1/2.3- inch CMOS with primary color filter",
+    "displaytype": "2.7? inch TFT Color LCD Screen (230K dots)",
+    "usermemory": "47 MB"
+}

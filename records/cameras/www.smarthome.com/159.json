@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1.0V p-p 75\u2126",
+    "powerrequirement": "12VDC \u00b120%",
+    "powerconsumption": "600mA",
+    "minimumillumination": "0 lux (IR On)",
+    "snratio": ">48dB",
+    "upc": "897503001999",
+    "electronicshutter": "1/60 ~ 1/100,000 sec",
+    "gammacorrection": "0.45",
+    "horizontalresolution": "420 TV Lines",
+    "signalsystem": "NTSC",
+    "effectivepixels": "510x492",
+    "irwavelength": "850nm",
+    "irrange": "Up to 50' (15m)",
+    "irleds": "24",
+    "imagesensor": "1/4\" Sony CCD",
+    "lens": "Fixed 3.6mm",
+    "manufacturer": "Atrix"
+}

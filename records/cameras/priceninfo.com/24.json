@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "lcdsize": "3.0 inch TFT-LCD with Anti-reflection coating",
+    "dimensions": null,
+    "weight": "214 g includes batteries",
+    "width": "4.2 in. (104.8mm)",
+    "battery": "Rechargeable Li-ion Battery EN-EL12",
+    "height": "2.5 in. (62.0mm)",
+    "lens": "18x zoom",
+    "maxaperture": "3.5",
+    "depth": "1.4 in. (34.6mm)",
+    "iso": "160-3200",
+    "soundfilesvoicememo": "WAV",
+    "viewfinder": "LCD",
+    "label12": "HDMI Mini Connector (HDMI output)",
+    "moviefileformat": "MPEG-4 AVC H.264",
+    "resolution": "12.10 Megapixels"
+}

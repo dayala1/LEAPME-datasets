@@ -1,0 +1,19 @@
+{
+    "ledindicators": "- Status, HDD 1, HDD 2, HDD 3, HDD 4, HDD 5, LAN, USB",
+    "category": "camera",
+    "lanport": "2 x Gigabit RJ-45 Ethernet port",
+    "dimensions": "10.28(D) x 7.42(W) x 10.28(H) inch",
+    "formfactor": "Tower",
+    "cpu": "Intel Celeron Processor 1.6GHz",
+    "vga": "Reserved",
+    "buttons": "Power, one touch auto video backup, reset",
+    "lcdpanel": "- LCD display with backlight Enter button, Select button for configuration",
+    "hdd": "5 x 3.5\" or 2.5\" SATA I/II HDD",
+    "powersupply": "Input",
+    "usb": "- 5 x USB 2.0 - Front",
+    "fan": "12 cm cooling fan (12V DC)",
+    "humidity": "0~95% R.H.",
+    "flashmemory": "128MB DOM",
+    "operatingsystem": "Linux-embedded system",
+    "temperature": "0~40\u00b0C"
+}

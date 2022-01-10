@@ -1,0 +1,18 @@
+{
+    "warranty": "1 Year Warranty",
+    "category": "camera",
+    "computerinterface": "Built-in USB 2.0 compatible interface.",
+    "weight": "approx. 50g.",
+    "fullwellcapacity": "Greater than 50,000 e- (unbinned)",
+    "series": "Starlight Xpress Lodestar",
+    "colororbw": "Color",
+    "spectralresponse": "QE max at 620nM (~65%), 35% at 400nM and 770nM.",
+    "interface": "USB 2.0",
+    "sensormanufacturer": "Sony",
+    "sku": "SX-LODESTAR-C",
+    "darkcurrent": "Dark frame saturation time greater than 1 hour. Less than 0.1 electrons/second @ + 10C ambient.",
+    "manufacturer": "Starlight Xpress",
+    "ccdtype": "ICX429AK Sony Exview interline CCD with low dark current and vertical anti-blooming.",
+    "powerrequirements": "USB powered.",
+    "size": "32 x 72mm black anodised aluminium barrel with 25 x 0.75mm 'C mount' thread at the CCD window end & input/output plugs at rear."
+}

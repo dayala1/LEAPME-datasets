@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "BNC 1.0 Vp-p75 ohm",
+    "minillumination": "0 Lux with IR on",
+    "operationtemperature": "-10\u00b0C~50\u00b0C",
+    "imagesensor": "Color 1/3 Digital Image Sensor (DIS)",
+    "snratio": "More than 48dB (AGC off)",
+    "powersupply": "12V DC",
+    "lens": "3.6mm lens;",
+    "horizontalresolution": "700TV Lines",
+    "electronicshutter": "AUTO",
+    "irdistance": "25m",
+    "tvsystem": "PAL / NTSC",
+    "storagetemperature": "-20\u00b0C~60\u00b0C",
+    "model": "TT-HLCM70C-SZ",
+    "syncsystem": "Internal Synchronization",
+    "pixels": "PAL:986(H)X592(V) ; NTSC: 986(H)X504(V)",
+    "gamma": "0.45",
+    "irled": "1pc Array LEDs"
+}

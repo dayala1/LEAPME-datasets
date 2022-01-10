@@ -1,0 +1,22 @@
+{
+    "exposurecontrol": "TTL 256-zones metering Multi",
+    "weight": "157 gm",
+    "battery": "Li-ion NP45A",
+    "isoequivalent": "Auto, Equivalent to ISO 100, 200, 400, 800, 1600, 3200, 6400",
+    "exposurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "effectivepixels": "16.0 Million pixels",
+    "lenstype": "Fujinon",
+    "category": "camera",
+    "dimensions": "102.1 x 59.7 x 18.3 mm",
+    "batterylife": "220 Frames",
+    "selftimer": "10 sec., 2 sec. delay, Couple Timer, Auto-shutter(Dog, Cat), Auto release, Self Portrait Timer",
+    "focallength": "f=5.0 \u2013 25.0 mm, equivalent to 28 \u2013 140 mm on a 35mm camera",
+    "screensize": "3.5? inch TFT LCD Touch Display (460K dots)",
+    "storagemedia": "SD/SDHC/SDXC Card",
+    "shutterspeed": "(Auto mode) 1/4sec. to 1/2000sec., (All other modes) 4sec. to 1/2000sec",
+    "fullaperture": "F3.9(Wide) \u2013 F4.9(Telephoto)",
+    "imagesensortype": "1/2- inch EXR CMOS with primary color filter",
+    "opticalzoom": "5x",
+    "usermemory": "62 MB",
+    "focusrange": "60 cm to infinity / 2 ft to infinity(Wide), 1.0m to infinity / 3.3 ft to infinity(Telephoto)"
+}

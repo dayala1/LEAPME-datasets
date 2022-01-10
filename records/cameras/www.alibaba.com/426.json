@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "audioinput": "None",
+    "audiooutput": "None",
+    "wifi": "WIFI,802.11 b/g/n",
+    "minillumination": "0 Lux",
+    "operationsystem": "Embedded operating system",
+    "powerconsumption": "Power<10W",
+    "environmenthumidity": "below 85% RH",
+    "maxframerate": "30fps",
+    "otherperformance": "PC software,support for Microsoft Windows 98/2000/XP/Vista/Windows 7/Mac OS,And the Internet Explorer6.1 and above version or browser compatibility, Firefox, etc., provide IPCMonitor.exe client software",
+    "powersupply": "DC 12V",
+    "environmentparameters": "Environment temperature-10 \u00b0C -50 \u00b0C",
+    "lanport": "10Base-T/100Base-TX",
+    "compressionmode": "H.264/M-JPEG",
+    "ipcameraperformance": "Support motion detection, external alarm(sends information to alarm the server by Email, FTP);Manufacturers provide free DDNS, and has been written into equipment; Platform level angle 350 \u00b0,90 \u00b0vertical angle; 22pcs IR LEDs, 20 meters effectively; automatically control through the photoresistor;",
+    "productweight": "1.227g",
+    "model": "EM-A806",
+    "sensor": "1.3 mega pixels",
+    "hardwareperformance": "Product typeIP camera"
+}

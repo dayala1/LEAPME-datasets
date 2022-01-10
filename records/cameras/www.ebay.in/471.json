@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "imageresolution": "16MP, 5MP (Native), 3MP",
+    "language": "English, German, French, Italian, Spanish, Portuguese, Dutch,  Simplified and Traditional Chinese,Simplified Chinese, Korean, Turkish,  Japanese, Russian, Arabic",
+    "batterysize": "1250mAh",
+    "effects": "Natural, Black and White, Sepia",
+    "selftimer": "0, 5, 10 Second Delay",
+    "frequency": "50/60Hz",
+    "videosystem": "PAL/NTSC",
+    "fps": "30FPS",
+    "powersource": "Built-In Battery",
+    "label12": "Macro Mode",
+    "label10": "Night Mode",
+    "videoformat": "H.264, AVI",
+    "videoresolution": "1080p (No Zoom), 720p, WVGA, QVGA",
+    "whitebalance": "Auto, Sunny, Cloudy, Fluorescent, Tungsten",
+    "imageformat": "JPEG"
+}

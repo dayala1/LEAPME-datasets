@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "lensfocallength": "4mm, 6mm, 8mm, 12mm, 16mm, optional",
+    "audiocompressionstandard": "G, .711",
+    "operatingtemperature": "-10 \u00b0C ~ 70 \u00b0C",
+    "audioinputoutput": "1 channel",
+    "operatinghumidity": "Less than 90% (no condensation)",
+    "networkfunctions": "Remote browsingSupport 320X192, 640X360 real-time remote browsing and control",
+    "image": "Exposure modeAuto exposure, auto white balance, automatic gain",
+    "minimumillumination": "0.08Lux (or NO)",
+    "feature": "720P/960P/1080P/ 1mega/2 mega/3 mega/5mega optional waterproof\u00a0HD-IP Network camera",
+    "electronicshutter": "Automatic",
+    "videoresolution": "1280\u00d7720(25fps) 1280*960(25fps) 1920*1080(18fps)",
+    "framerate": "1-30 frames / sec.",
+    "lensmounttype": "CS Oversea big iris lens",
+    "interface": "Communication interfaceOne RJ45 10M/100M Ethernet port, one RS-485 interface(optional function)",
+    "model": "GS-1022QJ",
+    "supportagreement": "RTSP, TCP,UDP,IP,HTTP,FTP,SMTP,DHCP,DNS,ICMP",
+    "powerinput": "DC 12V 2A",
+    "imagesettings": "Saturation, brightness, contrast adjust by the client or IE browser"
+}

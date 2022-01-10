@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "internalmemory": "25 MB",
+    "weight": "1 lbs",
+    "flashmodes": "Auto",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "opticalzoom": "12x",
+    "lcdscreensize": "3.0\"",
+    "removablemediacompatibility": "SDXC Secure Digital (SD) Secure Digital High Capacity (SDHC)",
+    "width": "3.9 in",
+    "depth": "1.0 in",
+    "selftimer": "Yes",
+    "megapixelsmp": "16.0",
+    "height": "2.3 in",
+    "flashmemory": "Yes",
+    "digitalcameratype": "Point & Shoot",
+    "hdmioutput": "HDMI Micro"
+}

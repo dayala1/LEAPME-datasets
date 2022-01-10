@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "grade": "10",
+    "multicoated": "Yes, MRC (Multi-Resistant Coating)",
+    "filterfactor": "0",
+    "frontlenscapsize": "72 mm",
+    "effect": "Absorbs UV rays and reduces bluish cast from daylight",
+    "frontfilterthreadsize": "72 mm",
+    "construction": "Schott glass",
+    "type": "UV",
+    "size": "72 mm"
+}

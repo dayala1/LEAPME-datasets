@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "weightg": "455",
+    "noofdiaphragmblades": "6",
+    "distanceinformation": "Provided",
+    "closestfocusingdistancem": "0.45",
+    "filterdiametermm": "67mm",
+    "maximummagnificationx": "0.21(at 135mm)",
+    "imagestabilizer": "4-stops",
+    "lensconstructionelementsgroups": "16/12",
+    "minimumaperture": "22 - 38(36)\u00b9",
+    "afactuator": "Micro Motor",
+    "imagesize": "APS-C"
+}

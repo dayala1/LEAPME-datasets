@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "builtinmemorysize": "Non",
+    "iscustomized": "Yes",
+    "photoresolution": "1280*1024",
+    "weight": "100g",
+    "package": "No",
+    "videoresolution": "720*480",
+    "modelnumber": "Pen Camera",
+    "highdefinitionsupport": "480P",
+    "memorycardtype": "MicroSD / TF",
+    "style": "Hidden Camera",
+    "opticalzoom": "Fixed Focus",
+    "transmissionrate": "30 frames",
+    "brandname": "OEM",
+    "type": "Video Camera",
+    "pixel": "5 million"
+}

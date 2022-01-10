@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "specialeffects": "Silhouette",
+    "facedetection": "Yes",
+    "flashtype": "Pop-up Flash",
+    "stillimageformat": "NEF (RAW)",
+    "brand": "Nikon",
+    "sensortype": "CMOS",
+    "opticalviewfindertype": "Fixed eye-level pentaprism",
+    "additionalfeatures": "AF Lock",
+    "viewfindertype": "Optical",
+    "supportedflashmemory": "SDXC Memory Card",
+    "type": "Digital SLR",
+    "hdmioutput": "Yes"
+}

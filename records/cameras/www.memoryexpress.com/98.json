@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "lens": "Vari-Focal Lens: 4 ~ 9mm Lens",
+    "signaltonoiseratio": "more then 50dB",
+    "temperature": "Working: -5 ~ 60\u00b0 C (23 ~ 140\u00b0 F)",
+    "weight": "Camera: 500g (1.1 lb) Stand: 200g (0.44 lb) PTZ Controller: 85g (0.19 lb)",
+    "minimumillumination": "0.01 Lux w/o IR LEDS",
+    "viewangle": "30 ~ 60\u00b0",
+    "imagingsensor": "Sony 1/3in Color CCD Sensor",
+    "electronicshutter": "NTSC: 1/60 - 1/100,000 second PAL: 1/50 - 1/100,000 second",
+    "effectivevideoresolution": "700 TVL NTSC: 976 x 494 pixels PAL: 976 x 582 pixels",
+    "materials": "Chassis: ABS Plastic",
+    "power": "AC Power Adapter: Output: 12Vdc for Camera PTX Controller: 2x AAA Batteries",
+    "zoom": "3x Optical Zoom",
+    "gaincontrol": "Automatic",
+    "model": "PRO-750 Domed CCD Camera",
+    "whitebalance": "Automatic",
+    "backlight": "Automatic Backlight Compensation",
+    "dimensions": "Camera: 155 x 125 x 125mm (6.11 x 4.9 x 4.9\") Stand: 115 x 80 x 135mm (4.5 x 3.1 x 5.3\") PTZ Controller: 80 x 72 x 28mm (3.1 x 2.8 x 1.1\")"
+}

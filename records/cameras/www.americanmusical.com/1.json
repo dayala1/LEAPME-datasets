@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "batterylife": "~10 hours",
+    "weight": "1.5 oz.",
+    "sensitivity": "18 dBu (@ THD 2%)",
+    "powerrequirements": "Internal lithium ion rechargeable battery or AC adaptor",
+    "dimensionslxwxh": "2.36 x 1.67 x .51 inches",
+    "label12": "Tone Key",
+    "label13": "Transmitter Mute",
+    "label11": "Power On",
+    "label16": "Recharging",
+    "label14": "Transmitter Peak",
+    "label15": "Battery Low"
+}

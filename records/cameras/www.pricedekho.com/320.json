@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "microphone": "Monaural Microphone",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD)",
+    "focallength": "4.9 - 22.8 mm (35 mm Equivalent to 28 - 128 mm)",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600, High Sensitivity Mode (ISO 1600-6400)",
+    "whitebalancing": "Auto, Cloudy, Daylight, Incandescent, Shade, White Set",
+    "metering": "Face, Spot",
+    "colorfilter": "Primary Color",
+    "screensize": "2.7 Inches",
+    "pictureangle": "28 mm Wide Angle",
+    "autofocus": "Yes",
+    "imagedisplayresolution": "230000 dots",
+    "facedetection": "Yes; Photo & Movie"
+}

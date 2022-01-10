@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "dimensions": "107.9(W) x 61.5(H) x 33.0(D) mm / 4.2(W) x 2.4(H) x 1.2(D) in.",
+    "power": "Li-ion battery NP-50A",
+    "memorysize": "Approx. 25 MB",
+    "sensitivity": "Auto / Equivalent to ISO 100 / 200 / 250 / 320 / 400 / 500 / 640 / 800 / 1000 / 1250 / 1600 / 2000 / 2500 / 3200 / 4000* / 5000* / 6400* / 12800* (Standard Output Sensitivity)",
+    "flash": "Auto flash (super intelligent flash)",
+    "storage": "Internal memory (approx. 25 MB)  SD / SDHC / SDXC(UHS-I) memory card*2",
+    "zoom": "Intelligent digital zoom approx. 2x (up to 8 x when combined with optical zoom)",
+    "weight": "Approx. 225 g / 7.9 oz. (including battery and memory card)",
+    "megapixel": "12 Megapixel",
+    "lens": "Fujinon 4 x optical zoom lens",
+    "standoutfeature1": "Advanced Filter",
+    "screensize": "3\" LCD Sceen",
+    "ccd": "2/3-inch EXR CMOS with primary color filter",
+    "exposuresystem": "Programmed AE, Aperture Priority AE, Shutter Priority AE, Manual",
+    "shutterspeed": "(Auto mode) 1/4 sec. to 1/2000* sec., (All other modes) 30 sec. to 1/2000* sec."
+}

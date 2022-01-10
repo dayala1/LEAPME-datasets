@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "videooutput": "NTSC or PAL",
+    "dimensions": "7.3\" x 4\" x 7.4\"",
+    "weight": "6 lb",
+    "fieldofview": "36\u00c2\u00b0 x 27\u00c2\u00b0",
+    "sensortype": "Microbolometer",
+    "powerrequirements": "12VDC",
+    "operatingtemperature": "-25\u00c2\u00b0C to 55\u00c2\u00b0C"
+}

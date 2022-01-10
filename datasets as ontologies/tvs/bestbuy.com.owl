@@ -1,0 +1,1308 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="bestbuy.com:bestbuy.com#"
+     xml:base="bestbuy.com:bestbuy.com"
+     xmlns:TV="bestbuy.com:TV/"
+     xmlns:bestbuy="bestbuy.com:"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:bestbuy2="bestbuy.com:3"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="bestbuy.com:bestbuy.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- bestbuy.com:Anti-Glare-Screen-Coating -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Anti-Glare-Screen-Coating">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anti-Glare Screen Coating</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Cables-Included -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Cables-Included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable(s) Included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Closed-Captioning -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Closed-Captioning">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Closed Captioning</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Color-Category -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Color-Category">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color Category</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Curved-Screen -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Curved-Screen">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved Screen</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:DLNA-Certified -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:DLNA-Certified">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DLNA Certified</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Display-Type -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Display-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:ENERGY-STAR-Certified -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:ENERGY-STAR-Certified">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ENERGY STAR Certified</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:EPEAT-Qualified -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:EPEAT-Qualified">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EPEAT Qualified</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Estimated-Annual-Electricity-Use -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Estimated-Annual-Electricity-Use">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estimated Annual Electricity Use</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Estimated-Annual-Operating-Cost -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Estimated-Annual-Operating-Cost">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estimated Annual Operating Cost</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Headphone-Jack -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Headphone-Jack">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headphone Jack</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Horizontal-Viewing-Angle -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Horizontal-Viewing-Angle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horizontal Viewing Angle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Instant-Content-Supported -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Instant-Content-Supported">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instant Content Supported</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Labor -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Labor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Labor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Local-Dimming -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Local-Dimming">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Local Dimming</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Maximum-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Maximum-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maximum Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Media-Card-Slot -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Media-Card-Slot">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Media Card Slot</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Network-Compatibility -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Network-Compatibility">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Network Compatibility</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Number-Of-Analog-Audio-Outputs -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Number-Of-Analog-Audio-Outputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number Of Analog Audio Outputs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Number-Of-Component-Video-Inputs -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Number-Of-Component-Video-Inputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number Of Component Video Inputs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Number-Of-Composite-Video-Inputs -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Number-Of-Composite-Video-Inputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number Of Composite Video Inputs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Number-Of-Digital-Optical-Audio-Outputs -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Number-Of-Digital-Optical-Audio-Outputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number Of Digital Optical Audio Outputs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Number-Of-HDMI-Inputs -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Number-Of-HDMI-Inputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number Of HDMI Inputs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Number-Of-Speakers -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Number-Of-Speakers">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number Of Speakers</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Number-Of-USB-Ports -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Number-Of-USB-Ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number Of USB Port(s)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Number-of-Speakers -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Number-of-Speakers">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of Speakers</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:PC-Input -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:PC-Input">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC Input</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Parts -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Parts">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parts</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Product-Depth-With-Stand -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Product-Depth-With-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Depth With Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Product-Depth-Without-Stand -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Product-Depth-Without-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Depth Without Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Product-Height-With-Stand -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Product-Height-With-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Height With Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Product-Height-Without-Stand -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Product-Height-Without-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Height Without Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Product-Weight-With-Stand -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Product-Weight-With-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Weight With Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Product-Weight-Without-Stand -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Product-Weight-Without-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Weight Without Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:RF-Antenna-Input -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:RF-Antenna-Input">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF Antenna Input</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Refresh-Rate -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Refresh-Rate">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refresh Rate</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Remote-Control-Type -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Remote-Control-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remote Control Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Screen-Size -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Screen-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Screen-Size-Class -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Screen-Size-Class">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Size Class</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Screen-size-class -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Screen-size-class">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen size class</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Simulated-Surround -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Simulated-Surround">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simulated Surround</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Sleep-Timer -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Sleep-Timer">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sleep Timer</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Smart-Capable -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Smart-Capable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart Capable</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Speaker-Output -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Speaker-Output">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speaker Output</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Specific-Manufacturer-Technologies -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Specific-Manufacturer-Technologies">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Specific Manufacturer Technologies</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Surround-Sound-Supported -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Surround-Sound-Supported">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surround Sound Supported</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:TV-Tuner -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:TV-Tuner">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV Tuner</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:UPC -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:UPC">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UPC</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:V-Chip -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:V-Chip">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V-Chip</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:V-chip -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:V-chip">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V-chip</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:VESA-Wall-Mount-Standard -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:VESA-Wall-Mount-Standard">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VESA Wall Mount Standard</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Vertical-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Vertical-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertical Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Vertical-Viewing-Angle -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Vertical-Viewing-Angle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertical Viewing Angle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Video-Inputs -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Video-Inputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Input(s)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Wall-Mountable -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Wall-Mountable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wall Mountable</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:Width -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:Width">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Width</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:3D-Technology -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:3D-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- bestbuy.com:TV/DVD-Combo -->
+
+    <owl:DatatypeProperty rdf:about="bestbuy.com:TV/DVD-Combo">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TV/DVD Combo</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- bestbuy.com:0 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:0">
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.5 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.5 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.1 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.7 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:VESA-Wall-Mount-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">400mm x 400mm</bestbuy:VESA-Wall-Mount-Standard>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.3 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.5 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53.7 inches</bestbuy:Width>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 inches</bestbuy:Screen-Size>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">887276130088</bestbuy:UPC>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital Plus</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI</bestbuy:Video-Inputs>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano-crystal technology, Motion Rate 120, contrast enhancer, ConnectShare Movie, Smart View 2.0</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skype</bestbuy:Instant-Content-Supported>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standard</bestbuy:Remote-Control-Type>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+        <bestbuy:Local-Dimming rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Local-Dimming>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:1 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:1">
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year</bestbuy:Labor>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year</bestbuy:Parts>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">109 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120Hz</bestbuy:Refresh-Rate>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.8 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.5 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:VESA-Wall-Mount-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mm x 200mm</bestbuy:VESA-Wall-Mount-Standard>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.5 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38.4 inches</bestbuy:Width>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596719</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.2 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K HD Engine, TruMotion 120, webOS 2.0, IPS 4K</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:10 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:10">
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">248 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.1 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34.8 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160 (4K)</bestbuy:Maximum-Resolution>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.1 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55.3 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57 inches</bestbuy:Width>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596948</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.3 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic</bestbuy:Remote-Control-Type>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Headphone-Jack>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Applicable</bestbuy:Cables-Included>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED</bestbuy:Display-Type>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI, USB 3.0, USB 2.0</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Engine, Tru-4K Upscaler, Triple XD Engine, Tru-Color Generator, Just Scan (1:1 Pixel Matching), Real Cinema 24p</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:Anti-Glare-Screen-Coating rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Anti-Glare-Screen-Coating>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy2:D-Technology>
+        <bestbuy:V-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-Chip>
+        <bestbuy:Curved-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Curved-Screen>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Youtube</bestbuy:Instant-Content-Supported>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</bestbuy:Simulated-Surround>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:11 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:11">
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">248 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.1 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34.8 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160 (4K)</bestbuy:Maximum-Resolution>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.1 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55.3 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57 inches</bestbuy:Width>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596948</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.3 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic</bestbuy:Remote-Control-Type>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Headphone-Jack>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Applicable</bestbuy:Cables-Included>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED</bestbuy:Display-Type>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI, USB 3.0, USB 2.0</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Engine, Tru-4K Upscaler, Triple XD Engine, Tru-Color Generator, Just Scan (1:1 Pixel Matching), Real Cinema 24p</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:V-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-Chip>
+        <bestbuy:Curved-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Curved-Screen>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Anti-Glare-Screen-Coating rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Anti-Glare-Screen-Coating>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy2:D-Technology>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Youtube</bestbuy:Instant-Content-Supported>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</bestbuy:Simulated-Surround>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:12 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:12">
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242888067</bestbuy:UPC>
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Analog-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Analog-Audio-Outputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Horizontal-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 degrees</bestbuy:Horizontal-Viewing-Angle>
+        <bestbuy:Vertical-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 degrees</bestbuy:Vertical-Viewing-Angle>
+        <bestbuy:Number-of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-of-Speakers>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.375 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.375 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.875 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.2 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37.875 inches</bestbuy:Width>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4096 x 2160 (4K)</bestbuy:Maximum-Resolution>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-size-class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43 inches</bestbuy:Screen-size-class>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.5 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Component video, Composite video, HDMI, USB, Ethernet</bestbuy:Video-Inputs>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, Dolby Digital Plus, Dolby Pulse, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motionflow XR 960, 4K X-Reality PRO</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power</bestbuy:Cables-Included>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Local-Dimming rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Local-Dimming>
+        <bestbuy:Sleep-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Sleep-Timer>
+        <bestbuy:V-chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-chip>
+        <bestbuy:DLNA-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:DLNA-Certified>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:PC-Input>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+        <bestbuy:Closed-Captioning rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Closed-Captioning>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Headphone-Jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:13 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:13">
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242888067</bestbuy:UPC>
+        <bestbuy:Number-Of-Analog-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Analog-Audio-Outputs>
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Vertical-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 degrees</bestbuy:Vertical-Viewing-Angle>
+        <bestbuy:Horizontal-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 degrees</bestbuy:Horizontal-Viewing-Angle>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Number-of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.375 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.375 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.875 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.2 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37.875 inches</bestbuy:Width>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4096 x 2160 (4K)</bestbuy:Maximum-Resolution>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-size-class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43 inches</bestbuy:Screen-size-class>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.5 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Component video, Composite video, HDMI, USB, Ethernet</bestbuy:Video-Inputs>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, Dolby Digital Plus, Dolby Pulse, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motionflow XR 960, 4K X-Reality PRO</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power</bestbuy:Cables-Included>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+        <bestbuy:V-chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-chip>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:PC-Input>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Headphone-Jack>
+        <bestbuy:Local-Dimming rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Local-Dimming>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Closed-Captioning rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Closed-Captioning>
+        <bestbuy:DLNA-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:DLNA-Certified>
+        <bestbuy:Sleep-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Sleep-Timer>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:14 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:14">
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">027242888067</bestbuy:UPC>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Number-Of-Analog-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Analog-Audio-Outputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">122 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Vertical-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 degrees</bestbuy:Vertical-Viewing-Angle>
+        <bestbuy:Horizontal-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">178 degrees</bestbuy:Horizontal-Viewing-Angle>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Number-of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.375 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.375 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.875 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.2 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37.875 inches</bestbuy:Width>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4096 x 2160 (4K)</bestbuy:Maximum-Resolution>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-size-class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43 inches</bestbuy:Screen-size-class>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.5 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Component video, Composite video, HDMI, USB, Ethernet</bestbuy:Video-Inputs>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, Dolby Digital Plus, Dolby Pulse, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motionflow XR 960, 4K X-Reality PRO</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power</bestbuy:Cables-Included>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Headphone-Jack>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+        <bestbuy:Closed-Captioning rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Closed-Captioning>
+        <bestbuy:Local-Dimming rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Local-Dimming>
+        <bestbuy:Sleep-Timer rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Sleep-Timer>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:DLNA-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:DLNA-Certified>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:PC-Input>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:V-chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-chip>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:15 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:15">
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.5 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.5 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.1 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.7 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:VESA-Wall-Mount-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">400mm x 400mm</bestbuy:VESA-Wall-Mount-Standard>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.3 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.5 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53.7 inches</bestbuy:Width>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 inches</bestbuy:Screen-Size>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">887276130088</bestbuy:UPC>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital Plus</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI</bestbuy:Video-Inputs>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano-crystal technology, Motion Rate 120, contrast enhancer, ConnectShare Movie, Smart View 2.0</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skype</bestbuy:Instant-Content-Supported>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standard</bestbuy:Remote-Control-Type>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+        <bestbuy:Local-Dimming rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Local-Dimming>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:2 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:2">
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">214 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.3 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.9 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.7 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.3 inches</bestbuy:Width>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.4 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gray</bestbuy:Color-Category>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic</bestbuy:Remote-Control-Type>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netflix</bestbuy:Instant-Content-Supported>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Headphone-Jack>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <TV:DVD-Combo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</TV:DVD-Combo>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Applicable</bestbuy:Cables-Included>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED</bestbuy:Display-Type>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI, USB 3.0, USB 2.0, Ethernet</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Upscaler, Tru-Color Generator, Just Scan (1:1 Pixel Matching), Real Cinema 24p, Clear Voice II, ULTRA Surround</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:Anti-Glare-Screen-Coating rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Anti-Glare-Screen-Coating>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy2:D-Technology>
+        <bestbuy:Curved-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Curved-Screen>
+        <bestbuy:V-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-Chip>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:3 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:3">
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year</bestbuy:Labor>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year</bestbuy:Parts>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">109 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120Hz</bestbuy:Refresh-Rate>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.8 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.5 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:VESA-Wall-Mount-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mm x 200mm</bestbuy:VESA-Wall-Mount-Standard>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.5 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38.4 inches</bestbuy:Width>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596719</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.2 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K HD Engine, TruMotion 120, webOS 2.0, IPS 4K</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:4 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:4">
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year</bestbuy:Labor>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">109 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">120Hz</bestbuy:Refresh-Rate>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.8 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.5 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:VESA-Wall-Mount-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mm x 200mm</bestbuy:VESA-Wall-Mount-Standard>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.5 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38.4 inches</bestbuy:Width>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596719</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.2 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K HD Engine, TruMotion 120, webOS 2.0, IPS 4K</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:5 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:5">
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">214 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.3 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.9 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.7 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.3 inches</bestbuy:Width>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.4 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gray</bestbuy:Color-Category>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic</bestbuy:Remote-Control-Type>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netflix</bestbuy:Instant-Content-Supported>
+        <TV:DVD-Combo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</TV:DVD-Combo>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Headphone-Jack>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Applicable</bestbuy:Cables-Included>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED</bestbuy:Display-Type>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI, USB 3.0, USB 2.0, Ethernet</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Upscaler, Tru-Color Generator, Just Scan (1:1 Pixel Matching), Real Cinema 24p, Clear Voice II, ULTRA Surround</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:Anti-Glare-Screen-Coating rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Anti-Glare-Screen-Coating>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Curved-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Curved-Screen>
+        <bestbuy:V-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-Chip>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy2:D-Technology>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:6 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:6">
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">214 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.3 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.9 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.7 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.6 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.3 inches</bestbuy:Width>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54.6 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596955</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.4 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gray</bestbuy:Color-Category>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic</bestbuy:Remote-Control-Type>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netflix</bestbuy:Instant-Content-Supported>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <TV:DVD-Combo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</TV:DVD-Combo>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Headphone-Jack>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Applicable</bestbuy:Cables-Included>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED</bestbuy:Display-Type>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI, USB 3.0, USB 2.0, Ethernet</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Upscaler, Tru-Color Generator, Just Scan (1:1 Pixel Matching), Real Cinema 24p, Clear Voice II, ULTRA Surround</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+        <bestbuy:Curved-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Curved-Screen>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy2:D-Technology>
+        <bestbuy:V-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-Chip>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Anti-Glare-Screen-Coating rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Anti-Glare-Screen-Coating>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:7 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:7">
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.5 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.5 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.1 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.7 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</bestbuy:Maximum-Resolution>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:VESA-Wall-Mount-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">400mm x 400mm</bestbuy:VESA-Wall-Mount-Standard>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.3 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.5 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53.7 inches</bestbuy:Width>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">887276130088</bestbuy:UPC>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital Plus</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI</bestbuy:Video-Inputs>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</bestbuy:Display-Type>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano-crystal technology, Motion Rate 120, contrast enhancer, ConnectShare Movie, Smart View 2.0</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy2:D-Technology>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Skype</bestbuy:Instant-Content-Supported>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standard</bestbuy:Remote-Control-Type>
+        <bestbuy:Local-Dimming rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Local-Dimming>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Simulated-Surround>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:8 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:8">
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">248 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.1 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34.8 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160 (4K)</bestbuy:Maximum-Resolution>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.1 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55.3 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57 inches</bestbuy:Width>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596948</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.3 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic</bestbuy:Remote-Control-Type>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Headphone-Jack>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Applicable</bestbuy:Cables-Included>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED</bestbuy:Display-Type>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI, USB 3.0, USB 2.0</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Engine, Tru-4K Upscaler, Triple XD Engine, Tru-Color Generator, Just Scan (1:1 Pixel Matching), Real Cinema 24p</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy2:D-Technology>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Curved-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Curved-Screen>
+        <bestbuy:V-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-Chip>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy:Anti-Glare-Screen-Coating rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Anti-Glare-Screen-Coating>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Youtube</bestbuy:Instant-Content-Supported>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</bestbuy:Simulated-Surround>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- bestbuy.com:9 -->
+
+    <owl:NamedIndividual rdf:about="bestbuy.com:9">
+        <bestbuy:Number-Of-Digital-Optical-Audio-Outputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Digital-Optical-Audio-Outputs>
+        <bestbuy:Number-Of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Component-Video-Inputs>
+        <bestbuy:Number-Of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</bestbuy:Number-Of-Composite-Video-Inputs>
+        <bestbuy:Labor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Labor>
+        <bestbuy:Parts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 year limited</bestbuy:Parts>
+        <bestbuy:Number-Of-Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</bestbuy:Number-Of-Speakers>
+        <bestbuy:Product-Depth-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 inches</bestbuy:Product-Depth-Without-Stand>
+        <bestbuy:Speaker-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 watts</bestbuy:Speaker-Output>
+        <bestbuy:Vertical-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4K)</bestbuy:Vertical-Resolution>
+        <bestbuy:Estimated-Annual-Electricity-Use rdf:datatype="http://www.w3.org/2001/XMLSchema#string">248 kilowatt hours</bestbuy:Estimated-Annual-Electricity-Use>
+        <bestbuy:Estimated-Annual-Operating-Cost rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27 United States dollars</bestbuy:Estimated-Annual-Operating-Cost>
+        <bestbuy:Number-Of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-HDMI-Inputs>
+        <bestbuy:Number-Of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</bestbuy:Number-Of-USB-Ports>
+        <bestbuy:Product-Height-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.1 inches</bestbuy:Product-Height-Without-Stand>
+        <bestbuy:Product-Height-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34.8 inches</bestbuy:Product-Height-With-Stand>
+        <bestbuy:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160 (4K)</bestbuy:Maximum-Resolution>
+        <bestbuy:Product-Weight-Without-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44.1 pounds</bestbuy:Product-Weight-Without-Stand>
+        <bestbuy:Product-Weight-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55.3 pounds</bestbuy:Product-Weight-With-Stand>
+        <bestbuy:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57 inches</bestbuy:Width>
+        <bestbuy:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64.5 inches</bestbuy:Screen-Size>
+        <bestbuy:Screen-Size-Class rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65 inches</bestbuy:Screen-Size-Class>
+        <bestbuy:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">719192596948</bestbuy:UPC>
+        <bestbuy:Product-Depth-With-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.3 inches</bestbuy:Product-Depth-With-Stand>
+        <bestbuy:Color-Category rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</bestbuy:Color-Category>
+        <bestbuy:Network-Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in Wi-Fi</bestbuy:Network-Compatibility>
+        <bestbuy:TV-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital</bestbuy:TV-Tuner>
+        <bestbuy:Surround-Sound-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital, DTS</bestbuy:Surround-Sound-Supported>
+        <bestbuy:Remote-Control-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic</bestbuy:Remote-Control-Type>
+        <bestbuy:ENERGY-STAR-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:ENERGY-STAR-Certified>
+        <bestbuy:PC-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:PC-Input>
+        <bestbuy:Media-Card-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Media-Card-Slot>
+        <bestbuy:EPEAT-Qualified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:EPEAT-Qualified>
+        <bestbuy:Headphone-Jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</bestbuy:Headphone-Jack>
+        <bestbuy:Cables-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Not Applicable</bestbuy:Cables-Included>
+        <bestbuy:Display-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED</bestbuy:Display-Type>
+        <bestbuy:Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RF/antenna, Component video, Composite video, HDMI, USB 3.0, USB 2.0</bestbuy:Video-Inputs>
+        <bestbuy:Specific-Manufacturer-Technologies rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Engine, Tru-4K Upscaler, Triple XD Engine, Tru-Color Generator, Just Scan (1:1 Pixel Matching), Real Cinema 24p</bestbuy:Specific-Manufacturer-Technologies>
+        <bestbuy:V-Chip rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:V-Chip>
+        <bestbuy:Curved-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Curved-Screen>
+        <bestbuy:RF-Antenna-Input rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:RF-Antenna-Input>
+        <bestbuy2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy2:D-Technology>
+        <bestbuy:Anti-Glare-Screen-Coating rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Anti-Glare-Screen-Coating>
+        <bestbuy:Wall-Mountable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Wall-Mountable>
+        <bestbuy:Smart-Capable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</bestbuy:Smart-Capable>
+        <bestbuy:Instant-Content-Supported rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Youtube</bestbuy:Instant-Content-Supported>
+        <bestbuy:Simulated-Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</bestbuy:Simulated-Surround>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

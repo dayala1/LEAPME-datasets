@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "led": "User LEDs driver",
+    "usb": "3 High-Speed USB ports (2x Host, 1x OTG)",
+    "items": "Notes",
+    "flash": "SPI Flash driver",
+    "audio": "Digital (HDMI) audio",
+    "os": "LinuxVersion 3.0.15",
+    "display": "Three display ports (RGB, LVDS, and HDMI 1.4a)"
+}

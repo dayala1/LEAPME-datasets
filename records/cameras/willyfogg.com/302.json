@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "function": "Power Management (backlight drive, battery-driven, sleep/wake-up  function)",
+    "demo": "AndroidGoogle-developed platform based on Linux open-source mobile phone  operating system",
+    "drivers": "Serial, RTC, Net, Flash, LCD, Touch screen, Audio In/Out, SD, USB Host, USB OTG, Keypad, GPS, LED",
+    "system": "CharacteristicsKITL kernel debug, Reboot, Watchdog, RTC",
+    "item": "DescriptionInterfaceLinux SupportAndroid SupportWinCE Support",
+    "filesystem": "FormatRamdisk File System, UBI File System",
+    "lcddisplay": "none 4.3 in. (+US$110.00) 7 in. (+US$130.00)",
+    "os": "ItemFeatureDescription"
+}

@@ -1,0 +1,23 @@
+{
+    "continuousautofocus": "yest",
+    "includedlens": "18-55mmWR",
+    "flashsyncspeed": "Up to 180",
+    "effectivepixels": "16.3",
+    "shutterspeedrange": "1/6000 to 30 sec",
+    "viewfindercoverage": "1",
+    "category": "camera",
+    "opticalimagestabilization": "In camera stabilization",
+    "autofocuspoints": "11 points",
+    "totalpixels": "16.5",
+    "bulbshuttersetting": "1/3ev steps or 1/2ev steps",
+    "sensortype": "CMOS",
+    "focusrange": "EV-1 to 18 (ISO 100)",
+    "lensmount": "K mount",
+    "lcdsize": "3\"",
+    "flashmodes": "Auto,Flash off,Flash On,Auto +Red eye, on + Red eye",
+    "afassistlight": "yes",
+    "includedbattery": "Rechargeable Li-Ion battery D-LI109 (included), AA battery holder D-BH109 for 4* AA batteries",
+    "viewfindertype": "Pentaprism",
+    "lcdpixels": "921000",
+    "lcdtype": "LCD"
+}

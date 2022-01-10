@@ -1,0 +1,745 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="walmart.com:walmart.com#"
+     xml:base="walmart.com:walmart.com"
+     xmlns:THD="walmart.com:THD,-"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:walmart="walmart.com:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:walmart2="walmart.com:-">
+    <owl:Ontology rdf:about="walmart.com:walmart.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- walmart.com:Accessories-Included -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Accessories-Included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accessories Included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Assembled-Product-Weight -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Assembled-Product-Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Assembled Product Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Attenuation -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Attenuation">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Attenuation</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Audio-Frequency -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Audio-Frequency">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Frequency</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Audio-InterfaceType -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Audio-InterfaceType">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio InterfaceType</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Battery-Specification -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Battery-Specification">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Specification</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Bluetooth-Version -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Bluetooth-Version">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth Version</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Cable-Length -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Cable-Length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable Length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Cable-length -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Cable-length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Charging-time -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Charging-time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charging time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Codecs -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Codecs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Codecs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Condition -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Condition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Condition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Contact-pressure -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Contact-pressure">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contact pressure</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Contacts -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Contacts">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contacts</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Country-Of-Origin&#45;&#45;-Assembly -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Country-Of-Origin---Assembly">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Country Of Origin - Assembly</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Country-Of-Origin&#45;&#45;-Components -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Country-Of-Origin---Components">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Country Of Origin - Components</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Detachable-cable -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Detachable-cable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable cable</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Ear-coupling -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Ear-coupling">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear coupling</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Frequency-response-headphones -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Frequency-response-headphones">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency response (headphones)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Frequency-response-microphone -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Frequency-response-microphone">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency response (microphone)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Gender -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Gender">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gender</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Headphone-type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Headphone-type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headphone type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Impedance -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Impedance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Impedance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Interface-Finish -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Interface-Finish">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interface Finish</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Item-Weight -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Item-Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Item Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Jack-plug -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Jack-plug">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jack plug</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Load-rating -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Load-rating">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Load rating</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Manufacturer-Part-Number -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Manufacturer-Part-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturer Part Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Max.-Input-Power -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Max.-Input-Power">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Max. Input Power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Net-Weight -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Net-Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Net Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:NoiseGard-noise-compensation -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:NoiseGard-noise-compensation">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NoiseGard™ noise compensation</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Nominal-impedance -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Nominal-impedance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nominal impedance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Operating-time -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Operating-time">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating time</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Part-Number -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Part-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Part Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Pick-up-pattern -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Pick-up-pattern">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pick-up pattern</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Product-in-Inches-L-x-W-x-H -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Product-in-Inches-L-x-W-x-H">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product in Inches (L x W x H)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Rated-Impedance -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Rated-Impedance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rated Impedance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Sensitivity-as-per-121-TR-9-5 -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Sensitivity-as-per-121-TR-9-5">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensitivity as per 121 TR 9-5</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Sensitivity-headphones -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Sensitivity-headphones">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensitivity headphones</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Shipping-Weight-in-pounds -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Shipping-Weight-in-pounds">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shipping Weight (in pounds)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Sound-pressure-level-SPL -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Sound-pressure-level-SPL">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound pressure level (SPL)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Supported-Profiles -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Supported-Profiles">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supported Profiles</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Transducer-principle -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Transducer-principle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transducer principle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Units-Per-Consumer-Unit -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Units-Per-Consumer-Unit">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Units Per Consumer Unit</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Warranty-Text -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Warranty-Text">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Warranty Text</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Wearing-style -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Wearing-style">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wearing style</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:tagline -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:tagline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tagline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:-Condition -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:-Condition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Condition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:-Contact-pressure -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:-Contact-pressure">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Contact pressure</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:-Sound-pressure-level-SPL -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:-Sound-pressure-level-SPL">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Sound pressure level (SPL)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:THD,-total-harmonic-distortion -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:THD,-total-harmonic-distortion">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THD, total harmonic distortion</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- walmart.com:0 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:0">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.0</walmart:Shipping-Weight-in-pounds>
+        <walmart:Sensitivity-headphones rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB SPL/V</walmart:Sensitivity-headphones>
+        <walmart:Max.-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</walmart:Max.-Input-Power>
+        <walmart:Net-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">235 g </walmart:Net-Weight>
+        <walmart:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3 m</walmart:Cable-Length>
+        <walmart:Contacts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3-pin</walmart:Contacts>
+        <walmart:Rated-Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62 Ohms</walmart:Rated-Impedance>
+        <walmart:Interface-Finish rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gold  </walmart:Interface-Finish>
+        <walmart:Gender rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Male  </walmart:Gender>
+        <walmart:Audio-InterfaceType rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screw-on Jack Combo (1/4&quot; and 1/8&quot;) </walmart:Audio-InterfaceType>
+        <walmart:Audio-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bandwidth  10 to 39800 Hz</walmart:Audio-Frequency>
+        <walmart:Headphone-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open  </walmart:Headphone-type>
+        <walmart:Detachable-cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</walmart:Detachable-cable>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:1 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:1">
+        <walmart:Sensitivity-as-per-121-TR-9-5 rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> -44dB V/Pa (1kHz)</walmart:Sensitivity-as-per-121-TR-9-5>
+        <walmart:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.4 m (Detachable)</walmart:Cable-length>
+        <walmart2:Sound-pressure-level-SPL rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 111 dB (Passive: 1 kHz/1 Vrms)</walmart2:Sound-pressure-level-SPL>
+        <walmart:Frequency-response-headphones rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16 Hz - 22000 Hz</walmart:Frequency-response-headphones>
+        <walmart:Operating-time rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 22hrs (HFP + ANC)</walmart:Operating-time>
+        <walmart:Jack-plug rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3.5mm angled</walmart:Jack-plug>
+        <walmart:Item-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 5.2 lbs.</walmart:Item-Weight>
+        <walmart:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 506252</walmart:Part-Number>
+        <THD:total-harmonic-distortion rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;0.5%</THD:total-harmonic-distortion>
+        <walmart:Supported-Profiles rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> A2DP + AVRCP + HSP + HFP</walmart:Supported-Profiles>
+        <walmart:Charging-time rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Approx. 3 hrs</walmart:Charging-time>
+        <walmart:Contact-pressure rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Approx. 3.6 N</walmart:Contact-pressure>
+        <walmart:Bluetooth-Version rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Bluetooth 4.0 + EDR</walmart:Bluetooth-Version>
+        <walmart:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Brand</walmart:Condition>
+        <walmart:Pick-up-pattern rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Dual omni-directional microphone (2 mic beamforming array)</walmart:Pick-up-pattern>
+        <walmart:Transducer-principle rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Dynamic, closed</walmart:Transducer-principle>
+        <walmart:Frequency-response-microphone rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Narrowband: 300 - 3,400Hz (Article No. 506252)</walmart:Frequency-response-microphone>
+        <walmart:NoiseGard-noise-compensation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> NoiseGard™ Hybrid technology with 4 pick-up microphones</walmart:NoiseGard-noise-compensation>
+        <walmart:Battery-Specification rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Rechargeable Lithium-ion Polymer (600mAh)</walmart:Battery-Specification>
+        <walmart:Ear-coupling rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Supraaural</walmart:Ear-coupling>
+        <walmart:Attenuation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 20dB</walmart:Attenuation>
+        <walmart:Frequency-response-microphone rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Wideband: 100 - 8,000Hz (Article No. 506252)</walmart:Frequency-response-microphone>
+        <walmart:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> active: 480 O (Article No. 506252)</walmart:Impedance>
+        <walmart:Codecs rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> apt-X®</walmart:Codecs>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> black</walmart:Color>
+        <walmart:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> passive: 28 O (Article No. 506252)</walmart:Impedance>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:10 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:10">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:11 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:11">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:12 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:12">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:13 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:13">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:14 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:14">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.0</walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:15 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:15">
+        <walmart:Frequency-response-headphones rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 10 - 39500 Hz</walmart:Frequency-response-headphones>
+        <walmart:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3 m / symétrique /détachable</walmart:Cable-length>
+        <walmart:Nominal-impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 300 O</walmart:Nominal-impedance>
+        <THD:total-harmonic-distortion rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt; 0,05 %</THD:total-harmonic-distortion>
+        <walmart:Wearing-style rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Headband </walmart:Wearing-style>
+        <walmart:Jack-plug rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Jack 6,35 mm stéréo plaqué or</walmart:Jack-plug>
+        <walmart:Contact-pressure rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> ca. 2,5 N</walmart:Contact-pressure>
+        <walmart:Transducer-principle rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> dynamic, open </walmart:Transducer-principle>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> titan</walmart:Color>
+        <walmart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> w/o cable: 260 g</walmart:Weight>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:16 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:16">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.0</walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:17 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:17">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:18 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:18">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.85 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:19 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:19">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:2 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:2">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:20 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:20">
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.0 x 1.0 x 1.0 </walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.6 </walmart:Shipping-Weight-in-pounds>
+        <walmart:Assembled-Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.6 </walmart:Assembled-Product-Weight>
+        <walmart:Country-Of-Origin---Components rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> USA and/or Imported </walmart:Country-Of-Origin---Components>
+        <walmart:Country-Of-Origin---Assembly rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> USA and/or Imported </walmart:Country-Of-Origin---Assembly>
+        <walmart:Units-Per-Consumer-Unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</walmart:Units-Per-Consumer-Unit>
+        <walmart:Manufacturer-Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MOMM2AEIBRN</walmart:Manufacturer-Part-Number>
+        <walmart:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New</walmart:Condition>
+        <walmart:Warranty-Text rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</walmart:Warranty-Text>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:21 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:21">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:3 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:3">
+        <walmart:Sensitivity-as-per-121-TR-9-5 rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> -44dB V/Pa (1kHz)</walmart:Sensitivity-as-per-121-TR-9-5>
+        <walmart:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.4 m (Detachable)</walmart:Cable-length>
+        <walmart:Frequency-response-headphones rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16 Hz - 22000 Hz</walmart:Frequency-response-headphones>
+        <walmart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2 lbs.</walmart:Weight>
+        <walmart:Operating-time rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 22hrs (HFP + ANC)</walmart:Operating-time>
+        <walmart:Jack-plug rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3.5 mm, angled</walmart:Jack-plug>
+        <walmart:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 506250</walmart:Part-Number>
+        <THD:total-harmonic-distortion rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;0.5%</THD:total-harmonic-distortion>
+        <walmart:Supported-Profiles rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> A2DP + AVRCP + HSP + HFP</walmart:Supported-Profiles>
+        <walmart:Charging-time rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Approx. 3 hrs</walmart:Charging-time>
+        <walmart:Contact-pressure rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Approx. 3.6 N</walmart:Contact-pressure>
+        <walmart:Bluetooth-Version rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Bluetooth 4.0 + EDR</walmart:Bluetooth-Version>
+        <walmart:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Brand </walmart:Condition>
+        <walmart:Ear-coupling rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Circumaural</walmart:Ear-coupling>
+        <walmart:Pick-up-pattern rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Dual omni-directional microphone (2 mic beamforming array)</walmart:Pick-up-pattern>
+        <walmart:Transducer-principle rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Dynamic, Closed</walmart:Transducer-principle>
+        <walmart:Frequency-response-microphone rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Narrowband: 300 - 3,400Hz (Article No. 506381)</walmart:Frequency-response-microphone>
+        <walmart:NoiseGard-noise-compensation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> NoiseGard™ Hybrid technology with 4 pick-up microphones</walmart:NoiseGard-noise-compensation>
+        <walmart:Battery-Specification rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Rechargeable Lithium-ion Polymer (600mAh)</walmart:Battery-Specification>
+        <walmart:Attenuation rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 25dB</walmart:Attenuation>
+        <walmart:Frequency-response-microphone rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Wideband: 100 - 8,000Hz (Article No. 506381)</walmart:Frequency-response-microphone>
+        <walmart:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> active: 480 O (Article No. 506381)</walmart:Impedance>
+        <walmart:Codecs rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> apt-X®</walmart:Codecs>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> black</walmart:Color>
+        <walmart:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> passive: 28 O (Article No. 506381)</walmart:Impedance>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Manufacturer Warranty</walmart:tagline>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.0 </walmart:Shipping-Weight-in-pounds>
+        <walmart:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Microphone</walmart:tagline>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:4 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:4">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3.0</walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:5 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:5">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:6 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:6">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 	2.0 </walmart:Shipping-Weight-in-pounds>
+        <walmart:Sensitivity-as-per-121-TR-9-5 rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> - 44 dB V/Pa</walmart:Sensitivity-as-per-121-TR-9-5>
+        <walmart:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.4m (Detachable)</walmart:Cable-length>
+        <walmart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.8 lbs.</walmart:Weight>
+        <walmart:Frequency-response-microphone rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 100 - 10000Hz</walmart:Frequency-response-microphone>
+        <walmart:Sound-pressure-level-SPL rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 113dB (1 kHz/1 Vrms)</walmart:Sound-pressure-level-SPL>
+        <walmart:Frequency-response-headphones rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16Hz - 22000Hz</walmart:Frequency-response-headphones>
+        <walmart:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 18 O</walmart:Impedance>
+        <walmart:Load-rating rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 200 mW</walmart:Load-rating>
+        <walmart:Jack-plug rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3.5mm straight</walmart:Jack-plug>
+        <walmart:Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 506385</walmart:Part-Number>
+        <THD:total-harmonic-distortion rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> &lt;0.5%</THD:total-harmonic-distortion>
+        <walmart2:Contact-pressure rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Approx. 3.2 N</walmart2:Contact-pressure>
+        <walmart:Ear-coupling rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Circumaural</walmart:Ear-coupling>
+        <walmart:Transducer-principle rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Dynamic, closed</walmart:Transducer-principle>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Ivory</walmart:Color>
+        <walmart:Pick-up-pattern rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Omni-directional</walmart:Pick-up-pattern>
+        <walmart2:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Open Box</walmart2:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:7 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:7">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0 </walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:8 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:8">
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 	1.0 x 1.0 x 1.0</walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Assembled-Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 </walmart:Assembled-Product-Weight>
+        <walmart:Units-Per-Consumer-Unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 </walmart:Units-Per-Consumer-Unit>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.39</walmart:Shipping-Weight-in-pounds>
+        <walmart:Manufacturer-Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">506394 </walmart:Manufacturer-Part-Number>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown</walmart:Color>
+        <walmart:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New</walmart:Condition>
+        <walmart:Accessories-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">carrying case </walmart:Accessories-Included>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:9 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:9">
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.0</walmart:Shipping-Weight-in-pounds>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

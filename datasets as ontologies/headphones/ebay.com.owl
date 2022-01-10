@@ -1,0 +1,2199 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="ebay.com:ebay.com#"
+     xml:base="ebay.com:ebay.com"
+     xmlns:ebay2="ebay.com:3.5"
+     xmlns:THD="ebay.com:THD,-"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:Weight-w="ebay.com:Weight-w/"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:Country="ebay.com:Country/"
+     xmlns:ebay="ebay.com:"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:Weight="ebay.com:Weight/">
+    <owl:Ontology rdf:about="ebay.com:ebay.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- ebay.com:Adapter-lead -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Adapter-lead">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adapter lead</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Brand -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Bundled-Items -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Bundled-Items">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bundled Items</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Cable -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Cable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Cable-Length -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Cable-Length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable Length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Cable-Type -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Cable-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Cable-length -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Cable-length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Characteristic-sound-pressure-level-at-1-kHz- -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Characteristic-sound-pressure-level-at-1-kHz-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Characteristic sound pressure level (at 1 kHz) </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Compatibility -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Compatibility">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compatibility</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Compatible-Brand -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Compatible-Brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compatible Brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Condition -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Condition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Condition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Connectivity -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Connectivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connectivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Connector -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Connector">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connector</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Connectors -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Connectors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connector(s)</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connectors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Contact-Pressure -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Contact-Pressure">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contact Pressure</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Contact-pressure -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Contact-pressure">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contact pressure</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Cord-Length -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Cord-Length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cord Length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:EAN -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:EAN">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EAN</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Ear-Coupling -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Ear-Coupling">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear Coupling</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Ear-coupling -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Ear-coupling">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear coupling</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Earpiece -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Earpiece">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earpiece</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Earpiece-Design -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Earpiece-Design">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earpiece Design</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Features -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Fit-Design -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Fit-Design">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fit Design</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Frequency-Bandwidth -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Frequency-Bandwidth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency Bandwidth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Frequency-Characteristic -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Frequency-Characteristic">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency Characteristic</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Frequency-Range -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Frequency-Range">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency Range</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Frequency-Response -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Frequency-Response">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency Response</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Frequency-range -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Frequency-range">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency range</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Frequency-response -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Frequency-response">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Frequency response</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Height -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Height">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Height</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Impedance -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Impedance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Impedance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Jack-plug -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Jack-plug">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jack plug</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Length -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Length">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Length</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:MPN -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:MPN">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MPN</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Manufacturers-part-Number -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Manufacturers-part-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturer&apos;s part Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Max.-nominal-continuous-input-power -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Max.-nominal-continuous-input-power">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Max. nominal continuous input power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Maximum-Frequency -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Maximum-Frequency">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maximum Frequency</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Maximum-Input-Power -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Maximum-Input-Power">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maximum Input Power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Maximum_Input_Power -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Maximum_Input_Power">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maximum_Input_Power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Minimum-Frequency -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Minimum-Frequency">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Minimum Frequency</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Model -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Noise-canceling -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Noise-canceling">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise canceling</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Nominal-Impedance -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Nominal-Impedance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nominal Impedance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Nominal-impedance -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Nominal-impedance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nominal impedance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Pick-up-Pattern -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Pick-up-Pattern">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pick-up Pattern</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Plug-Size -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Plug-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plug Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Sensitivity -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Sensitivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensitivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Sensitivity-1-kHz -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Sensitivity-1-kHz">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensitivity (1 kHz)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Sensitivity-1kHz -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Sensitivity-1kHz">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensitivity (1kHz)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Sensitivity1-kHz -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Sensitivity1-kHz">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensitivity(1 kHz)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Sound-pressure-level-SPL -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Sound-pressure-level-SPL">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound pressure level (SPL)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Speaker-Type -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Speaker-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speaker Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Speaker-type -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Speaker-type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speaker type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Suited-For -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Suited-For">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suited For</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Surround -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Surround">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surround</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Total-harmonic-distortion -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Total-harmonic-distortion">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Total harmonic distortion</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Transducer-Principle -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Transducer-Principle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transducer Principle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Transducer-principle -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Transducer-principle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transducer principle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Type -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:UPC -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:UPC">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UPC</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Warranty -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Warranty">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Warranty</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Weight-without-cable -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Weight-without-cable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight (without cable)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:cables_included -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:cables_included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cables_included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:color -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:condition -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:condition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">condition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:connectors -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:connectors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">connectors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:error -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:error">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">error</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:frequency_response -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:frequency_response">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">frequency_response</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:headphones_cup_type -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:headphones_cup_type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">headphones_cup_type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:headphones_technology -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:headphones_technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">headphones_technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:impedance -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:impedance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">impedance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:included_accessories -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:included_accessories">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">included_accessories</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:max_input_power -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:max_input_power">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">max_input_power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:mpn -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:mpn">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mpn</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:sensitivity -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:sensitivity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sensitivity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:type -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:upc -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:upc">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">upc</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:weight -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:3.5mm_jack -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:3.5mm_jack">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm_jack</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Country/Region-of-Manufacture -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Country/Region-of-Manufacture">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Country/Region of Manufacture</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:THD,-total-harmonic-distortion -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:THD,-total-harmonic-distortion">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">THD, total harmonic distortion</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Weight-w/o-cable -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Weight-w/o-cable">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight w/o cable</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- ebay.com:Weight/Mass -->
+
+    <owl:DatatypeProperty rdf:about="ebay.com:Weight/Mass">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight/Mass</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- ebay.com:0 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:0">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:1 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:1">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:10 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:10">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">042406171908</ebay:UPC>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB</ebay:Sensitivity>
+        <ebay:Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.50</ebay:Length>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44 ohms</ebay:Impedance>
+        <ebay:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.50</ebay:Height>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, Detachable Cable, Closed Back, Adjustable Headband, Rotating Ear Cups</ebay:Features>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:MPN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studio/Live Monitoring Headphones</ebay:Compatibility>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:11 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:11">
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 ohms</ebay:Impedance>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones</ebay:Compatibility>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, With Volume Control, Detachable Cable</ebay:Features>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215-K</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:12 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:12">
+        <ebay:Sensitivity-1-kHz rdf:datatype="http://www.w3.org/2001/XMLSchema#string">109 dB SPL/mW</ebay:Sensitivity-1-kHz>
+        <ebay:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 cm</ebay:Cable-length>
+        <ebay:Frequency-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Hz - 19 kHz</ebay:Frequency-range>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22 O</ebay:Impedance>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm Jack</ebay:Connectors>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clear, metallic silver</ebay:Color>
+        <ebay:Earpiece rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Double</ebay:Earpiece>
+        <ebay:Speaker-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual High-Definition MicroDrivers</ebay:Speaker-type>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear only</ebay:Fit-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE425</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatible-Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Universal</ebay:Compatible-Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:13 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:13">
+        <ebay:Sensitivity-1-kHz rdf:datatype="http://www.w3.org/2001/XMLSchema#string">109 dB SPL/mW</ebay:Sensitivity-1-kHz>
+        <ebay:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 cm</ebay:Cable-length>
+        <ebay:Frequency-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Hz - 19 kHz</ebay:Frequency-range>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22 O</ebay:Impedance>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm Jack</ebay:Connectors>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clear, metallic silver</ebay:Color>
+        <ebay:Earpiece rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Double</ebay:Earpiece>
+        <ebay:Speaker-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual High-Definition MicroDrivers</ebay:Speaker-type>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear only</ebay:Fit-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE425</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatible-Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Universal</ebay:Compatible-Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:14 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:14">
+        <ebay:Sensitivity-1-kHz rdf:datatype="http://www.w3.org/2001/XMLSchema#string">109 dB SPL/mW</ebay:Sensitivity-1-kHz>
+        <ebay:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 cm</ebay:Cable-length>
+        <ebay:Frequency-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Hz - 19 kHz</ebay:Frequency-range>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22 O</ebay:Impedance>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm Jack</ebay:Connectors>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clear, metallic silver</ebay:Color>
+        <ebay:Earpiece rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Double</ebay:Earpiece>
+        <ebay:Speaker-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual High-Definition MicroDrivers</ebay:Speaker-type>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear only</ebay:Fit-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE425</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatible-Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Universal</ebay:Compatible-Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:15 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:15">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:16 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:16">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">042406171908</ebay:UPC>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB</ebay:Sensitivity>
+        <ebay:Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.50</ebay:Length>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44 ohms</ebay:Impedance>
+        <ebay:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.50</ebay:Height>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, Detachable Cable, Closed Back, Adjustable Headband, Rotating Ear Cups</ebay:Features>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studio/Live Monitoring Headphones</ebay:Compatibility>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:17 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:17">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">042406171908</ebay:UPC>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB</ebay:Sensitivity>
+        <ebay:Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.50</ebay:Length>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44 ohms</ebay:Impedance>
+        <ebay:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.50</ebay:Height>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, Detachable Cable, Closed Back, Adjustable Headband, Rotating Ear Cups</ebay:Features>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:MPN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studio/Live Monitoring Headphones</ebay:Compatibility>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:18 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:18">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:19 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:19">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:2 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:2">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:20 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:20">
+        <ebay:Frequency-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 10 Hz-39.5 kHz (-10dB)</ebay:Frequency-Range>
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10&apos; (3 m), Detachable, Left and Right Side Connection</ebay:Cable-Length>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103dB (1 Vrms)</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 Ohms</ebay:Impedance>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.2 oz (260g)</ebay:Weight>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable 1/8&quot; Stereo Mini to 1/4&quot; Adapter 1/8&quot; Stereo Mini Plug</ebay:Connectors>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:EAN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-Back, Circumaural Dynamic Headphones</ebay:type>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:21 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:21">
+        <ebay:Frequency-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 10 Hz-39.5 kHz (-10dB)</ebay:Frequency-Range>
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10&apos; (3 m), Detachable, Left and Right Side Connection</ebay:Cable-Length>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103dB (1 Vrms)</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 Ohms</ebay:Impedance>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.2 oz (260g)</ebay:Weight>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable 1/8&quot; Stereo Mini to 1/4&quot; Adapter 1/8&quot; Stereo Mini Plug</ebay:Connectors>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:EAN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-Back, Circumaural Dynamic Headphones</ebay:type>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:22 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:22">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:23 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:23">
+        <ebay:Frequency-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 10 Hz-39.5 kHz (-10dB)</ebay:Frequency-Range>
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10&apos; (3 m), Detachable, Left and Right Side Connection</ebay:Cable-Length>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103dB (1 Vrms)</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 Ohms</ebay:Impedance>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.2 oz (260g)</ebay:Weight>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable 1/8&quot; Stereo Mini to 1/4&quot; Adapter 1/8&quot; Stereo Mini Plug</ebay:Connectors>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:EAN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-Back, Circumaural Dynamic Headphones</ebay:type>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:24 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:24">
+        <ebay:Frequency-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 10 Hz-39.5 kHz (-10dB)</ebay:Frequency-Range>
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10&apos; (3 m), Detachable, Left and Right Side Connection</ebay:Cable-Length>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103dB (1 Vrms)</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 Ohms</ebay:Impedance>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.2 oz (260g)</ebay:Weight>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable 1/8&quot; Stereo Mini to 1/4&quot; Adapter 1/8&quot; Stereo Mini Plug</ebay:Connectors>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:EAN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-Back, Circumaural Dynamic Headphones</ebay:type>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:25 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:25">
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">00615104099692</ebay:EAN>
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Frequency-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 Hz - 39.5 kHz (-10 dB)</ebay:Frequency-Range>
+        <ebay:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10&apos; (3 m), Detachable, Left and Right Side Connection</ebay:Cable-Length>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103dB(1 Vrms)</ebay:Sensitivity>
+        <ebay:Maximum_Input_Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum_Input_Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 Ohms</ebay:Impedance>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.2 oz (260 g)</ebay:Weight>
+        <ebay:connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable 1/8&quot; Stereo Mini to 1/4&quot; Adapter 1/8&quot; Stereo Mini Plug</ebay:connectors>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-Back, Circumaural Dynamic Headphones</ebay:Type>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:26 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:26">
+        <ebay:Frequency-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 10 Hz-39.5 kHz (-10dB)</ebay:Frequency-Range>
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10&apos; (3 m), Detachable, Left and Right Side Connection</ebay:Cable-Length>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103dB (1 Vrms)</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 Ohms</ebay:Impedance>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.2 oz (260g)</ebay:Weight>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable 1/8&quot; Stereo Mini to 1/4&quot; Adapter 1/8&quot; Stereo Mini Plug</ebay:Connectors>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:EAN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-Back, Circumaural Dynamic Headphones</ebay:type>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:27 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:27">
+        <ebay:Manufacturers-part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> SE215-K</ebay:Manufacturers-part-Number>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand New</ebay:Condition>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear only</ebay:Fit-Design>
+        <ebay:condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item (including handmade items). See the seller&apos;s listing for full details.</ebay:condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, With Volume Control, Detachable Cable</ebay:Features>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Surround rdf:datatype="http://www.w3.org/2001/XMLSchema#string">non-compliant</ebay:Surround>
+        <ebay:Noise-canceling rdf:datatype="http://www.w3.org/2001/XMLSchema#string">non-compliant</ebay:Noise-canceling>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:28 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:28">
+        <ebay:Sensitivity-1kHz rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107 dB SPL/mW</ebay:Sensitivity-1kHz>
+        <ebay:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 cm</ebay:Cable-length>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 O</ebay:Impedance>
+        <ebay:Frequency-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22 Hz - 17.5 kHz</ebay:Frequency-range>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm Jack</ebay:Connectors>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clear, translucent black</ebay:Color>
+        <ebay:Earpiece rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Double</ebay:Earpiece>
+        <ebay:Speaker-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dynamic MicroDriver</ebay:Speaker-type>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear only</ebay:Fit-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</ebay:Model>
+        <ebay:mpn rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</ebay:mpn>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatible-Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Universal</ebay:Compatible-Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:29 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:29">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">042406196956</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215-CL</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:3 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:3">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:upc rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:upc>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:30 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:30">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215-K</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:31 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:31">
+        <ebay:Sensitivity1-kHz rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 109 dB SPL/mW</ebay:Sensitivity1-kHz>
+        <ebay:Cable-length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">162 cm</ebay:Cable-length>
+        <ebay:Frequency-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 Hz - 19 kHz</ebay:Frequency-range>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22 O</ebay:Impedance>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm Jack</ebay:Connectors>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clear, metallic silver</ebay:Color>
+        <ebay:Earpiece rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Double</ebay:Earpiece>
+        <ebay:Speaker-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual High-Definition MicroDrivers</ebay:Speaker-Type>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear only</ebay:Fit-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE425</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE425</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatible-Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Universal</ebay:Compatible-Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:32 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:32">
+        <ebay:color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Available in clear and metallic silver</ebay:color>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable cables with formable wire</ebay:cables_included>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:headphones_technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual High-Definition MicroDrivers</ebay:headphones_technology>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE425-CL</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:33 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:33">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:34 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:34">
+        <ebay:Connector rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1/4 in. (6.3 mm) stereo jack plug</ebay:Connector>
+        <ebay:Adapter-lead rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1/4 in., 3.5 mm stereo jack</ebay:Adapter-lead>
+        <ebay:Characteristic-sound-pressure-level-at-1-kHz- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 102 dB (1 Vrms)</ebay:Characteristic-sound-pressure-level-at-1-kHz->
+        <ebay:Weight-without-cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 260 g</ebay:Weight-without-cable>
+        <ebay:Nominal-impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 300 ?</ebay:Nominal-impedance>
+        <ebay:Max.-nominal-continuous-input-power rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 500 mW as per EN 60-268-7</ebay:Max.-nominal-continuous-input-power>
+        <ebay:Total-harmonic-distortion rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> =0.05 %</ebay:Total-harmonic-distortion>
+        <ebay:Ear-Coupling rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Circumaural</ebay:Ear-Coupling>
+        <ebay:Cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Kevlar strengthened oxygen-free copper (OFC), 3 m</ebay:Cable>
+        <ebay:Contact-Pressure rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> approx. 3.4 N (± 0.3 N)</ebay:Contact-Pressure>
+        <ebay:Frequency-Response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 – 39,500 Hz (– 10 dB), 16 – 30,000 Hz (– 3 dB)</ebay:Frequency-Response>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+        <ebay:Frequency-Characteristic rdf:datatype="http://www.w3.org/2001/XMLSchema#string">diffuse field equalized</ebay:Frequency-Characteristic>
+        <ebay:Transducer-Principle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dynamic, open</ebay:Transducer-Principle>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:35 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:35">
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Frequency-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 Hz - 39.5 kHz (-10 dB)</ebay:Frequency-Range>
+        <ebay:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10&apos; (3 m), Detachable, Left and Right Side Connection</ebay:Cable-Length>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103dB(1 Vrms)</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 Ohms</ebay:Impedance>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.2 oz (260 g)</ebay:weight>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable 1/8&quot; Stereo Mini to 1/4&quot; Adapter 1/8&quot; Stereo Mini Plug</ebay:connectors>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-Back, Circumaural Dynamic Headphones</ebay:Type>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:37 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:37">
+        <THD:total-harmonic-distortion rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.05%</THD:total-harmonic-distortion>
+        <Weight-w:o-cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.57lb (260 g)</Weight-w:o-cable>
+        <ebay:Jack-plug rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1/4&quot; / 1/8&quot; (3.5/6.3 mm) stereo</ebay:Jack-plug>
+        <ebay:Frequency-response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 - 39500 Hz</ebay:Frequency-response>
+        <ebay:Sound-pressure-level-SPL rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sound-pressure-level-SPL>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Ear-coupling rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Circumaural</ebay:Ear-coupling>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Transducer-principle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dynamic, open</ebay:Transducer-principle>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear-Pad (On the Ear)</ebay:Earpiece-Design>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+        <ebay:Contact-pressure rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ca. 2,5 N</ebay:Contact-pressure>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:39 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:39">
+        <Weight:Mass rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 0.56 oz (16g)</Weight:Mass>
+        <ebay:Plug-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1/8&quot; (3.5xmm)</ebay:Plug-Size>
+        <ebay:Nominal-Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 18 Ohms</ebay:Nominal-Impedance>
+        <ebay:Cord-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 4 ft (1.3 m.)</ebay:Cord-Length>
+        <ebay:Cable-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Flat</ebay:Cable-Type>
+        <ebay:Pick-up-Pattern rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Omni-Directional</ebay:Pick-up-Pattern>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100227</ebay:MPN>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">118dB</ebay:Sensitivity>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104270350</ebay:UPC>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black/Red</ebay:Color>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear Only</ebay:Fit-Design>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M2 IEi</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:4 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:4">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:40 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:40">
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:41 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:41">
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">About 400 g</ebay:weight>
+        <ebay:condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand New</ebay:condition>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unbranded</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:42 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:42">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:MPN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Technica</ebay:Brand>
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrying Case, Replacement Cable</ebay:Bundled-Items>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coiled Cable</ebay:Features>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:43 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:43">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50x</ebay:MPN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50x</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio-Technica</ebay:Brand>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:EAN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:error rdf:datatype="http://www.w3.org/2001/XMLSchema#string">error</ebay:error>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:44 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:44">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:45 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:45">
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Technica</ebay:Brand>
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrying Case, Replacement Cable</ebay:Bundled-Items>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coiled Cable</ebay:Features>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:46 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:46">
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Technica</ebay:Brand>
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrying Case, Replacement Cable</ebay:Bundled-Items>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coiled Cable</ebay:Features>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:47 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:47">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:48 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:48">
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm (1/8in.)</ebay:Connectors>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4324</ebay:MPN>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adjustable Headband, Closed Back, Detachable Cable, Noise Isolation, Replacable Earpads, Stereo</ebay:Features>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BLACK / BROWN</ebay:Color>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear-Pad (On the Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MOMENTUM M2 (OEI)</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SENNHEISER</ebay:Brand>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:49 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:49">
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carry Bag/Case, Extension Cable</ebay:Bundled-Items>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable Cable, Noise Isolation, Playback Controls, Volume Control</ebay:Features>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear-Pad (On the Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivory</ebay:Color>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M2AEGIVORY</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M2AEGIVORY</ebay:MPN>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:5 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:5">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:50 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:50">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">042406196956</ebay:UPC>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107 dB</ebay:Sensitivity>
+        <ebay:Minimum-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15Hz</ebay:Minimum-Frequency>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 ohm</ebay:Impedance>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 ohms</ebay:Impedance>
+        <ebay:Maximum-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20kHz</ebay:Maximum-Frequency>
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrying Case</ebay:Bundled-Items>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clear</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones</ebay:Compatibility>
+        <ebay:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear Monitors/IEMs</ebay:Type>
+        <ebay:Suited-For rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Live Monitoring</ebay:Suited-For>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, Detachable Cable</ebay:Features>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215-CL</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:51 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:51">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">042406168601</ebay:UPC>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44 ohms</ebay:Impedance>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carry Bag/Case</ebay:Bundled-Items>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear-Cup (Over the Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, Detachable Cable, Closed Back, Adjustable Headband, Rotating Ear Cups</ebay:Features>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:52 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:52">
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Frequency-Bandwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 Hz to 39.8 kHz</ebay:Frequency-Bandwidth>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB/V</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62 O</ebay:Impedance>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.3 oz (235 g)</ebay:Weight>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9002761035681</ebay:EAN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:Cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable, 9&apos; (3 m), single sided</ebay:Cable>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:Connector rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gold-plated stereo jack 1/8&quot; (3.5 mm) to 1/4&quot; (6.3 mm)</ebay:Connector>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-back dynamic</ebay:Type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:53 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:53">
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Frequency-Bandwidth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10 Hz to 39.8 kHz</ebay:Frequency-Bandwidth>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB/V</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62 O</ebay:Impedance>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.3 oz (235 g)</ebay:Weight>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9002761035681</ebay:EAN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:Cable rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable, 9&apos; (3 m), single sided</ebay:Cable>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:Connector rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gold-plated stereo jack 1/8&quot; (3.5 mm) to 1/4&quot; (6.3 mm)</ebay:Connector>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-back dynamic</ebay:Type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:54 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:54">
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9002761035681</ebay:EAN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:55 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:55">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:56 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:56">
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9002761035681</ebay:EAN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:57 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:57">
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9002761035681</ebay:EAN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:58 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:58">
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62 ohms</ebay:Impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adjustable Headband</ebay:Features>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear-Cup (Over the Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K 712 Pro</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K712 PRO</ebay:MPN>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:59 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:59">
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9002761035681</ebay:EAN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Used: An item that has been used previously. The item may have some signs of cosmetic wear, but is fully operational and functions as intended. This item may be a floor model or store return that has been used. See the seller’s listing for full details and description of any imperfections. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:6 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:6">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:60 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:60">
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9002761035681</ebay:EAN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:61 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:61">
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio-Technica</ebay:Brand>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dark Green</ebay:Color>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear-Pad (On the Ear)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:62 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:62">
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Technica</ebay:Brand>
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrying Case, Replacement Cable</ebay:Bundled-Items>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coiled Cable</ebay:Features>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:63 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:63">
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:64 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:64">
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New other (see details): A new, unused item with absolutely no signs of wear. The item may be missing the original packaging, or in the original packaging but not sealed. The item may be a factory second or a new, unused item with defects. See the seller’s listing for full details and description of any imperfections. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:65 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:65">
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear-Cup (Over the Ear)</ebay:Earpiece-Design>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Used: An item that has been used previously. The item may have some signs of cosmetic wear, but is fully operational and functions as intended. This item may be a floor model or store return that has been used. See the seller’s listing for full details and description of any imperfections. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:66 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:66">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:67 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:67">
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6.3mm (1/4in.)</ebay:Connectors>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable Cable, Open Back</ebay:Features>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear-Cup (Over the Ear)</ebay:Earpiece-Design>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headband</ebay:Fit-Design>
+        <Country:Region-of-Manufacture rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ireland</Country:Region-of-Manufacture>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:69 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:69">
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:7 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:7">
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio-Technica</ebay:Brand>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M50x</ebay:MPN>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:71 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:71">
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm (1/8in.)</ebay:Connectors>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blue</ebay:Color>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable Cable, Replaceble Ear Tips</ebay:Features>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215SPE</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215SPE</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Connectivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wired</ebay:Connectivity>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:72 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:72">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215-CL</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:74 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:74">
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">107 dB</ebay:Sensitivity>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 ohms</ebay:Impedance>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clear</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones</ebay:Compatibility>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, Detachable Cable</ebay:Features>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215</ebay:Model>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE215-CL</ebay:MPN>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:76 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:76">
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.5mm (1/8in.)</ebay:Connectors>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canal Earbud (In Ear Canal)</ebay:Earpiece-Design>
+        <ebay:Fit-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In-Ear Only</ebay:Fit-Design>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SE425</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Used: An item that has been used previously. The item may have some signs of cosmetic wear, but is fully operational and functions as intended. This item may be a floor model or store return that has been used. See the seller’s listing for full details and description of any imperfections. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:77 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:77">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:8 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:8">
+        <ebay:Frequency-Range rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 10 Hz-39.5 kHz (-10dB)</ebay:Frequency-Range>
+        <ebay:Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Year Seller Warranty</ebay:Warranty>
+        <ebay:Cable-Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10&apos; (3 m), Detachable, Left and Right Side Connection</ebay:Cable-Length>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103 dB</ebay:Sensitivity>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">103dB (1 Vrms)</ebay:Sensitivity>
+        <ebay:Maximum-Input-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200 mW</ebay:Maximum-Input-Power>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 Ohms</ebay:Impedance>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 ohms</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615104099692</ebay:UPC>
+        <ebay:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.2 oz (260g)</ebay:Weight>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9969</ebay:MPN>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consumer Headphones, Studio/Live Monitoring Headphones</ebay:Compatibility>
+        <ebay:Connectors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Detachable 1/8&quot; Stereo Mini to 1/4&quot; Adapter 1/8&quot; Stereo Mini Plug</ebay:Connectors>
+        <ebay:EAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:EAN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 650</ebay:Model>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open Back, Noise Cancellation, Detachable Cable</ebay:Features>
+        <ebay:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-Back, Circumaural Dynamic Headphones</ebay:type>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sennheiser</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:80 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:80">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N/A</ebay:MPN>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</ebay:Color>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:82 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:82">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Earbud (In Ear)</ebay:Earpiece-Design>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:83 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:83">
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:84 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:84">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:85 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:85">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:87 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:87">
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio-Technica</ebay:Brand>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M50x</ebay:MPN>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:88 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:88">
+        <ebay:sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(1kHz) 93dB SPL / mW</ebay:sensitivity>
+        <ebay:frequency_response rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10Hz~39.8kHz</ebay:frequency_response>
+        <ebay:max_input_power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">200mW</ebay:max_input_power>
+        <ebay:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">298g (except cable)</ebay:weight>
+        <ebay:impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62O</ebay:impedance>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AKG</ebay:Brand>
+        <ebay:cables_included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cable detachable and out pieces</ebay:cables_included>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does Not Apply</ebay:MPN>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ear pads around the ear, removable, made of velor</ebay:headphones_cup_type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Earpiece-Design rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open-air type</ebay:Earpiece-Design>
+        <ebay:included_accessories rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Straight (OFC), about 5m / Carl code (OFC), about 5m (EK500 S),Standard plug adapter (screw fixing, gold plating),Carrying pouch</ebay:included_accessories>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">does not apply</ebay:UPC>
+        <ebay:headphones_cup_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">open-air type</ebay:headphones_cup_type>
+        <ebay2:mm_jack rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yes</ebay2:mm_jack>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:89 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:89">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:MPN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATH-M50xDG</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Technica</ebay:Brand>
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrying Case, Replacement Cable</ebay:Bundled-Items>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coiled Cable</ebay:Features>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:9 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:9">
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">042406171908</ebay:UPC>
+        <ebay:Sensitivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dB</ebay:Sensitivity>
+        <ebay:Length rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.50</ebay:Length>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44 ohms</ebay:Impedance>
+        <ebay:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9.50</ebay:Height>
+        <ebay:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</ebay:Color>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noise Isolation, Detachable Cable, Closed Back, Adjustable Headband, Rotating Ear Cups</ebay:Features>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:MPN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SRH440</ebay:Model>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shure</ebay:Brand>
+        <ebay:Compatibility rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studio/Live Monitoring Headphones</ebay:Compatibility>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:90 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:90">
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio-Technica</ebay:Brand>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Does not apply</ebay:UPC>
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M50x</ebay:MPN>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- ebay.com:91 -->
+
+    <owl:NamedIndividual rdf:about="ebay.com:91">
+        <ebay:MPN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2) ATH-M50X+HP4</ebay:MPN>
+        <ebay:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(2) ATH-M50X+HP4</ebay:Model>
+        <ebay:Minimum-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15Hz</ebay:Minimum-Frequency>
+        <ebay:Maximum-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28kHz</ebay:Maximum-Frequency>
+        <ebay:Impedance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38ohm</ebay:Impedance>
+        <ebay:UPC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">613815629788</ebay:UPC>
+        <ebay:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio-Technica</ebay:Brand>
+        <ebay:Bundled-Items rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carrying Case,TRS 1/4&quot; Adapter</ebay:Bundled-Items>
+        <ebay:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Closed Back, Coiled Cable, Detachable Cable, Extra-Long Cable, Foldable, Noise Isolation</ebay:Features>
+        <ebay:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full-Size Headphones</ebay:Type>
+        <ebay:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller&apos;s listing for full details. See all condition definitions- opens in a new window or tab ... Read moreabout the condition</ebay:Condition>
+        <ebay:Suited-For rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Studio/Live Monitoring</ebay:Suited-For>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

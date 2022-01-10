@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "minfocusdistance": "0.1m",
+    "power": "Rechargeable Li-ion Battery, USB/AC adapter",
+    "focallength": "28 - 224mm (35mm equiv.)",
+    "isosensitivity": "Auto, 100, 200, 400, 800, 1600",
+    "flash": "Built-in (auto, fill, red-eye reduction, off)",
+    "storage": "64MB built-in memory; MicroSD, MicroSDHC",
+    "zoom": "8x optical zoom; 5x advanced digital zoom",
+    "weight": "Aprrox. 147g",
+    "sensortype": "1/2.33 CCD",
+    "scenemodes": "Program AE (P), portrait, sport, landscape, close-up, sunset, backlight, candlelight, children, bright, fireworks, self portrait, night portrait, night landscape, manner/museum, text, long-time exposure, blur reduction, high ISO, panorama",
+    "effectivepixels": "14 Megapixels (4320 x 3240)",
+    "video": "H.2634. AAC, MP4 (HD: 1280 x 720)",
+    "imagestabilization": "Yes",
+    "interface": "AV output, USB 2.0 high speed",
+    "dimensionswxhxd": "Approx. 96.5 x 56 x 20.3mm",
+    "shutterspeed": "Smart Capture mode: 1/8\u00e2\u0080\u00931/1400 sec. Long time exposure mode: 0.5\u00e2\u0080\u00938 sec.",
+    "display": "3\" TFT LCD"
+}

@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "picturesize": "62 x 46 mm",
+    "autopoweroff": "5 mins",
+    "filmfeedingout": "Automatic",
+    "exposurecontrol": "Auto exposure measurement. Manual switching system (flashing LED indicator signals recommended setting)",
+    "flash": "Constant firing flash (automatic light adjustment) Recycle time: 0.2 sec. to 6 sec. (when using new batteries), Effective flash range: 0.6m - 2.7 m",
+    "powersupply": "Two LR6/AA-size 1.5V alkaline batteries Capacity: 10 film packs (based on our company research)",
+    "shootingrangefocusingrange": "0.6m ~ infinity",
+    "lens": "Fujinon Lens: f=60mm, 1:12.7, 2 components, 2 elements",
+    "others": "Exposure counter (number of unexposed film sheets), film pack confirmation window",
+    "viewfinder": "Real image finder 0.37x with target spot",
+    "shutterspeed": "1/60 sec. shutter speeds",
+    "film": "Fujifilm Instant Color Film \"instax mini\""
+}

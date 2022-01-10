@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "softwareincluded": "CCDOPS Version 5, CCDSoftV5, TheSky Version 5, Level II",
+    "computerinterface": "USB 2.0",
+    "cameracooling": "Built-In Fan",
+    "cameradimensions": "5 x 4 x 2.5 inches (including fan)",
+    "cameratype": "Single Frame Camera",
+    "sensortype": "CCD",
+    "sensormodel": "KAF-0402ME",
+    "sensormanufacturer": "TrueSense (formerly Kodak)",
+    "camerawarranty": "2 years",
+    "cameraseries": "SBIG ST Series"
+}

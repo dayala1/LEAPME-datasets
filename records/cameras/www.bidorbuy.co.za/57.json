@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "rating": "100.00% positive ratings",
+    "remotecontrol": "self timer 10s, 2s",
+    "imagesize": "4288\u00d73216, 3072\u00d72304, 2048x1536 / [3:2] 4288\u00d72864, 3072\u00d72048, 2048x1360 / [16:9] 4288\u00d72416, 3072\u00d71728, 1920x1080",
+    "storage": "SD, SDHC",
+    "lenszoom": "24mm - 672mm (28x) (dig: 6.7x)",
+    "shutter": "auto | manual / 8s - 1/2000s",
+    "connectivity": "usb 2 HS; A/V (NTSC/PAL); HDMI",
+    "flashmode": "pop-up - 4 modes w./wo. red eye reduction and slow synchro / 0.4m - 7m (iso auto)",
+    "meteringmode": "256 zones, multi, spot",
+    "location": "Pretoria / Tshwane",
+    "extrafeatures": "sensor shift image stabilization face detection histogram display PictBridge",
+    "aperture": "auto | manual / F3.1 / F8 (W) \u00a0| F5.9 / F8 / F20 (T)",
+    "viewfinder": "EVF",
+    "exposure": "+/- 2EV in 1/3EV steps",
+    "whitebalance": "auto, 6 presets, custom",
+    "imageformat": "jpeg (exif 2.3)"
+}

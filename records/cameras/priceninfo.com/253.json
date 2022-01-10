@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "microphone": "5.1 ch Surround/Zoom Microphone/Focus Microphone/2 ch Stereo",
+    "lcdmonitor": "3.5? Wide LCD Monitor (230,400 Dots)",
+    "dimensions": "73 x 59 x 82 mm",
+    "weight": "Approx. 189 gm",
+    "powerconsumption": "Max. 8.9W (Recording) / Max. 10.3W (Charging)",
+    "imagesensor": "1/4.1? MOS Sensor x 3",
+    "imagestabilizer": "Hybrid O.I.S.+ with O.I.S. Lock",
+    "focus": "Auto/Manual",
+    "opticalzoom": "12x",
+    "lens": "Leica Dicomar",
+    "focallength": "2.84-34.1 mm",
+    "digitalzoom": "30x / 700x (Maximum Value)",
+    "recordingformat": "[AVCHD] MPEG-4 AVC / H.264, MPEG-4 MVC / H.264 (3D), [iFrame] MPEG-4 AVC / H.264",
+    "shutterspeedrange": "1/30-1/8000",
+    "memory": "SD/SDHC/SDXC Memory Card",
+    "inputoutput": "AV Multi, mini HDMI, USB 2.0 Hi-Speed, Microphone, Headphone",
+    "whitebalance": "Auto/Indoor1/Indoor2/Sunny/Cloudy/White Set",
+    "fvalue": "F1.5 (WIDE)/F2.8 (TELE)"
+}

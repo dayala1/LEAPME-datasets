@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "imageprocessing": "1. stable operational temperature without TEC, starting time less than 4 seconds 2. SDE digital image processing 3. 10 pseudo color and B/W, B/W inverse 4. AGC 5. 2X digital amplification",
+    "focallength": "21-105mm",
+    "resolution": "336\u00d7256 pixel, 25Hz, (640X480 optional, detection distance up to 10km)",
+    "spectralrange": "7.5 ~ 14\u03bcm",
+    "interface": "1. RS-485 ( PELCO D protocol, baud rate 2400bps ) ,RS-232 ( optional ) 2. Remote OSD setting 3. PAL/NTSC 4. AC24V/DC12V 5. Waterproof connector",
+    "model": "TCLD105",
+    "sensor": "5th generation uncooled FPA VOx sensor"
+}

@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "videofacility": "Yes",
+    "isosensitivitysetting": "ISO100-3200(iAuto), ISO100-12800(Superior Auto), ISO100-1600(Program Auto)",
+    "exposurecompensation": "\u00c2\u00b1 2.0EV, 1/3EV step",
+    "framerates": "30fps",
+    "videoresolution": "1440 x 1080 Pixels",
+    "whitebalance": "Auto, Daylight, Shade, Cloudy, Incandescent, Fluorescent white balance 0-1-2"
+}

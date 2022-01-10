@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p/75 Ohms. RJ45 connector.",
+    "gamacharacteristic": "0.45",
+    "powerconsumption": "1.32W/110mA",
+    "minimumillumination": "0.3 LUX @ F2.0",
+    "snratio": "More than 48dB",
+    "powersupply": "12V DC +/- 10%",
+    "effectivepictureelements": "EIA",
+    "horizontalresolution": "400 horizontal TV lines",
+    "synchronoussystem": "Internal, Negative sync",
+    "autogaincontrol": "Yes",
+    "imagepickupdevice": "1/3 interline transfer CCD Sensor",
+    "scanningsystem": "Interlace 2",
+    "autoelectronicshutter": "EIA",
+    "viewingangle": "90 Degrees"
+}

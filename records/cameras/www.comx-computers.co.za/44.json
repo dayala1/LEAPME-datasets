@@ -1,0 +1,20 @@
+{
+    "weightg": "120g",
+    "productcode": "AC-611CS/3",
+    "sensingarea": "4.8mm*3.6mm",
+    "videooutput": "1.0Vp-p.75\u03a9(BNC)",
+    "powerconsumption": "Less than 2.8W",
+    "imagesensor": "1/3\u201dSHARP Super HAD CCD",
+    "snratio": "more than 48dB (AGC OFF)",
+    "powersupply": "DC12V/500mA",
+    "horizontalresolution": "420TV Line",
+    "signalsystem": "CCIR/EIA",
+    "miniillumination": "1.0Lux/F1.2",
+    "dimensionmm": "120(D)*56(H)",
+    "effectivepixels": "CCIR:500(H)*582(V)",
+    "lensmount": "2.8mm/3.6mm",
+    "category": "camera",
+    "shutterspeed": "1/50(1/60)\u20141/100, 000 second",
+    "whitebalance": "NA",
+    "videoout": "VIDEO OUT (BNC)"
+}

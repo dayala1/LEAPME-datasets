@@ -1,0 +1,22 @@
+{
+    "supportedos": "Microsoft window 2000, XP,vista Window 7",
+    "weight": "40g",
+    "megapixel": "< 5.0MP",
+    "memorycardtype": "SD Card",
+    "imagestabilization": "No",
+    "powersource": "Lithium 320mAh",
+    "batterytype": "Rechargeable Battery Pack",
+    "category": "camera",
+    "iscustomized": "Yes",
+    "dimensions": "66x43x27 mm",
+    "powerlife": "More than 1 hours",
+    "type": "Compact",
+    "modelnumber": "Scolour302427",
+    "screensize": "< 2\"",
+    "displaytype": "Non-touch",
+    "opticalzoom": "2x - 7x",
+    "releasedate": "2012Year",
+    "brandname": "OEM",
+    "videocapture": "Yes",
+    "specialfeature": "Waterproof / Shockproof"
+}

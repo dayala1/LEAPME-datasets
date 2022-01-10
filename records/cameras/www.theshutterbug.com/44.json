@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "autoexposurelock": "Yes with AE Lock button AE is also locked when focus is locked in multi-segment metering mode. (\"AEL w/ shutter\"(Auto/On/Off) is supported)",
+    "whitebalancemode": "Auto WB, Daylight, Shade, Cloudy, Incandescent, Fluorescent (Warm White, Cool White, Day White, Daylight), Flash, Color Temperature (2500 to 9900K), Color Temp. Filter (G7 to M7, A7 to B7), Custom (1/2/3), Custom Set AWB micro adjustment; G7 to M7 (15-steps), A7 to B7 (15-steps) Bracketing; 3 frames, H/L selectable",
+    "exposurebracketing": "Bracket",
+    "colortemperature": "2500 to 9900K & Color Filter (G7 to M7",
+    "exposuresettings": "iAUTO, Superior Auto, Programmed AE (P), Aperture priority (A), Shutter priority (S), Manual (M), Memory Recall (MR1/2/3)), Sweep Panorama, Scene Selection, Movie (P/A/S/M), Continuous Advanced Priority (AE)",
+    "noisereduction": "Long Exposure NR",
+    "meteringsensitivity": "-2EV to 17EV (at ISO 100 equivalent w/ f/1.4 lens)",
+    "creativestyle": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait , Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia (Contrast (-3 to +3steps), Saturation(-3 to +3steps), Sharpness(-3 to +3steps))",
+    "exposurecompensation": "+/-5.0 EV (1/3EV,1/2EV steps selectable)",
+    "scenemodes": "Portrait, Landscape, Macro, Sports action, Sunset, Night portrait, Night Scene, Handheld Twilight",
+    "iso": "Stills",
+    "meteringmodes": "Multi-segment, Center-weighted, Spot",
+    "drangeoptimizer": "Off, Dynamic Range Optimizer (Auto/Level (1-5)), Auto High Dynamic Range (Auto Exposure Difference, Exposure Difference Level (1-6 EV, 1.0 EV step))",
+    "pictureeffects": "13 modes",
+    "metering": "Advanced 1200-zone evaluative metering"
+}

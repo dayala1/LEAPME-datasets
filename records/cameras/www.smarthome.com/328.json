@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "memorycapacity": "Up to 16GB",
+    "recordingtime": "Roughly 40 minutes per GB at 720x480 resolution",
+    "dimensions": "L 12in x W 6.5in x H 8.5in",
+    "weight": "2.5 lbs",
+    "batteryoperatingtime": "Up to 20 hours in continuous usage Up to 1 year in standby mode",
+    "recordingmodes": "Continuous, motion and overwrite",
+    "minimumillumination": "0.2 LUX",
+    "pcinterface": "USB 2.0",
+    "framerate": "1, 5, 15, 20, 25, 30 FPS",
+    "upc": "738549555124",
+    "videoinput": "NTSC/PAL Auto Detection",
+    "resolution": "720x480",
+    "pictureformat": "JPG",
+    "memory": "SD card",
+    "manufacturer": "KJB Security",
+    "batterytype": "3.7V 15,000mA lithium battery",
+    "imagesensor": "1/4in CMOS",
+    "videoformat": "MPEG-4 ASF"
+}

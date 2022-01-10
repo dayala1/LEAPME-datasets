@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD)",
+    "audioformats": "AAC-LC",
+    "flashrange": "(ISO Auto) : Wide : 0.3 - 17.1m, Telephoto : 0.55 - 6.3m",
+    "focallength": "10.4 - 37.1 mm (35 mm Equivalent to 30 - 108 mm)",
+    "builtinflash": "Yes",
+    "manualfocus": "Yes",
+    "displaytype": "TFT XtraFine LCD TruBlack Technology",
+    "lenstype": "Carl Zeiss Vario-Sonnar",
+    "screensize": "3 Inches",
+    "imageformat": "JPEG (RAW : Sony ARW 2.3)",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "1228800 dots",
+    "flashmodes": "Auto, Rear Sync, Slow Sync Flash",
+    "videoformat": "MPEG-4"
+}

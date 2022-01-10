@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "videooutput": "HDMI",
+    "displaysizeinch": "3.2",
+    "imagesizespixels": "4928 x 3280",
+    "displaytype": "LCD",
+    "stillimageformat": "JPEG, RAW, TIFF",
+    "brand": "Nikon",
+    "mediatype": "SD, SDHC, SDXC",
+    "producttype": "Digital SLR Cameras",
+    "isosensitivitymax": "204800",
+    "tripodmount": "Yes",
+    "color": "Black",
+    "colourmodes": "6"
+}

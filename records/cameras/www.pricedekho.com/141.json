@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "colorfilter": "Primary Color",
+    "whitebalancing": "Auto, Cloudy, Daylight, Incandescent, Shade, White Set",
+    "videodisplayresolution": "848 x 480 pixels @ 30 fps",
+    "flashrange": "0.4 - 3.3m",
+    "focallength": "5 - 20 mm (35 mm Equivalent to 28 - 112 mm)",
+    "isorating": "Auto / 100/ 200/ 400/ 800/ 1600, High Sensitivity Mode : Auto (1600-6400)",
+    "imagestabilizer": "Mega O.I.S, Lens-shift Type",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "syncterminal": "Yes",
+    "lenstype": "Leica DC Vario-Elmar",
+    "screensize": "2.7 Inches",
+    "builtinflash": "Yes",
+    "autofocus": "Yes",
+    "imagedisplayresolution": "230000 dots",
+    "flashmodes": "Auto, Forced, Slow Sync Flash",
+    "facedetection": "Yes"
+}

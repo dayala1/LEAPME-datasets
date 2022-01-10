@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="tesco.com:tesco.com#"
+     xml:base="tesco.com:tesco.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:tesco="tesco.com:">
+    <owl:Ontology rdf:about="tesco.com:tesco.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- tesco.com:Battery-Capacity-mAh -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Battery-Capacity-mAh">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Capacity (mAh)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Battery-Type -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Battery-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Bluetooth -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Bluetooth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth�</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Built-in-FM-Radio -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Built-in-FM-Radio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in FM Radio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Built-in-MP3-player -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Built-in-MP3-player">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in MP3 player</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:CPU -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:CPU">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CPU</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Camera -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Capacity -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Capacity">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Capacity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Catalogue-Number -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Catalogue-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Catalogue Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Charger-Connection-Type -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Charger-Connection-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Charger Connection Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Colour -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Colour">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Colour</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Expandable-Memory-Slot -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Expandable-Memory-Slot">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Expandable Memory Slot</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:GSM-Frequency -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:GSM-Frequency">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GSM Frequency</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Headphones-Included -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Headphones-Included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Headphones Included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Internal-CPU-RAM -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Internal-CPU-RAM">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal CPU RAM</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Internal-Memory -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Internal-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Keypad -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Keypad">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Keypad</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Mains-Charger-Included -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Mains-Charger-Included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mains Charger Included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Mobile-Internet -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Mobile-Internet">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mobile Internet</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Music-Play-hrs -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Music-Play-hrs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Music Play (hrs)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:NFC -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:NFC">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NFC</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Network -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Network">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Network</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Operating-System -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Operating-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Primary-Camera -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Primary-Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Primary Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Primary-Camera-Resolution-MP -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Primary-Camera-Resolution-MP">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Primary Camera Resolution (MP)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Product-Depth -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Product-Depth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Depth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Product-Height -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Product-Height">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Height</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Product-Weight -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Product-Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Product-Width -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Product-Width">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Width</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:SIM-Slots -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:SIM-Slots">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM Slots</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:SIM-Type -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:SIM-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Screen-Size -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Screen-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Screen-Type -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Screen-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Secondary-Camera -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Secondary-Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Secondary Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Secondary-Camera-Resolution-MP -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Secondary-Camera-Resolution-MP">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Secondary Camera Resolution (MP)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Sensors -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Sensors">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensors</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Software-Version -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Software-Version">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software Version</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Standby-Time-hrs -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Standby-Time-hrs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standby Time (hrs)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Talk-Time-hrs -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Talk-Time-hrs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Talk Time (hrs)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Touch-Screen -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Touch-Screen">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touch Screen</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Type -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Type&#45;&#45;Size-Of-Additional-Memory-Card -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Type--Size-Of-Additional-Memory-Card">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Type &amp; Size Of Additional Memory Card</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:USB-Cable-Included -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:USB-Cable-Included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB Cable Included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Video-Capability -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Video-Capability">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Capability</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Video-Recording-Capability -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Video-Recording-Capability">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Recording Capability</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Water&#45;&#45;Dust-Resistance -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Water--Dust-Resistance">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Water &amp; Dust Resistance</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Whats-in-the-Box -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Whats-in-the-Box">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">What&quot;s in the Box</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Wi-Fi-Capability -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Wi-Fi-Capability">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi Capability</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:Wireless-Charging-Available -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:Wireless-Charging-Available">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wireless Charging Available</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- tesco.com:tagline -->
+
+    <owl:DatatypeProperty rdf:about="tesco.com:tagline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tagline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- tesco.com:0 -->
+
+    <owl:NamedIndividual rdf:about="tesco.com:0">
+        <tesco:Capacity rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 32GB flash drive</tesco:Capacity>
+        <tesco:Catalogue-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 574-9405</tesco:Catalogue-Number>
+        <tesco:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.11�Kilogram</tesco:Product-Weight>
+        <tesco:Product-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.76�Centimetre</tesco:Product-Depth>
+        <tesco:Secondary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2MP</tesco:Secondary-Camera-Resolution-MP>
+        <tesco:Talk-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</tesco:Talk-Time-hrs>
+        <tesco:Video-Recording-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p (Full HD)</tesco:Video-Recording-Capability>
+        <tesco:Product-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.38�Centimetre</tesco:Product-Height>
+        <tesco:Battery-Capacity-mAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1570</tesco:Battery-Capacity-mAh>
+        <tesco:Internal-CPU-RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1GB</tesco:Internal-CPU-RAM>
+        <tesco:Standby-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250</tesco:Standby-Time-hrs>
+        <tesco:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32GB</tesco:Internal-Memory>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4 (diagonal) widescreen Retina display</tesco:tagline>
+        <tesco:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4&quot;</tesco:Screen-Size>
+        <tesco:Music-Play-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40</tesco:Music-Play-hrs>
+        <tesco:Mobile-Internet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G</tesco:Mobile-Internet>
+        <tesco:Product-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.86�Centimetre</tesco:Product-Width>
+        <tesco:Primary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8 MP</tesco:Primary-Camera-Resolution-MP>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8 MP iSight camera and 1.2 MP FaceTime Camera</tesco:tagline>
+        <tesco:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple A7 with 64-bit architecture and M7 motion coprocessor</tesco:CPU>
+        <tesco:Charger-Connection-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple lightning</tesco:Charger-Connection-Type>
+        <tesco:Colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grey</tesco:Colour>
+        <tesco:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gyro</tesco:Sensors>
+        <tesco:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-touch widescreen Retina HD LED-backlit</tesco:Screen-Type>
+        <tesco:Built-in-FM-Radio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Built-in-FM-Radio>
+        <tesco:Water--Dust-Resistance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Water--Dust-Resistance>
+        <tesco:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:NFC>
+        <tesco:Wireless-Charging-Available rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Wireless-Charging-Available>
+        <tesco:SIM-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</tesco:SIM-Type>
+        <tesco:Type--Size-Of-Additional-Memory-Card rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</tesco:Type--Size-Of-Additional-Memory-Card>
+        <tesco:Expandable-Memory-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tesco:Expandable-Memory-Slot>
+        <tesco:GSM-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QuadBand</tesco:GSM-Frequency>
+        <tesco:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rechargeable lithium ion</tesco:Battery-Type>
+        <tesco:SIM-Slots rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM</tesco:SIM-Slots>
+        <tesco:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart phone</tesco:Type>
+        <tesco:Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tesco Mobile</tesco:Network>
+        <tesco:Keypad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchscreen</tesco:Keypad>
+        <tesco:Built-in-MP3-player rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Built-in-MP3-player>
+        <tesco:Headphones-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Headphones-Included>
+        <tesco:Mains-Charger-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Mains-Charger-Included>
+        <tesco:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Bluetooth>
+        <tesco:Primary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Primary-Camera>
+        <tesco:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Camera>
+        <tesco:Wi-Fi-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Wi-Fi-Capability>
+        <tesco:Secondary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Secondary-Camera>
+        <tesco:USB-Cable-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:USB-Cable-Included>
+        <tesco:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Touch-Screen>
+        <tesco:Video-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Video-Capability>
+        <tesco:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS</tesco:Operating-System>
+        <tesco:Software-Version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS7</tesco:Software-Version>
+        <tesco:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 5s with iOS 7, Apple EarPods with Remote and Mic, Lightning to USB Cable, USB Power Adapter, Documentation</tesco:Whats-in-the-Box>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- tesco.com:1 -->
+
+    <owl:NamedIndividual rdf:about="tesco.com:1">
+        <tesco:Catalogue-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 415-2140</tesco:Catalogue-Number>
+        <tesco:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.11�Kilogram</tesco:Product-Weight>
+        <tesco:Product-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.76�Centimetre</tesco:Product-Depth>
+        <tesco:Secondary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.2MP</tesco:Secondary-Camera-Resolution-MP>
+        <tesco:Talk-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</tesco:Talk-Time-hrs>
+        <tesco:Video-Recording-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p (Full HD)</tesco:Video-Recording-Capability>
+        <tesco:Product-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.38�Centimetre</tesco:Product-Height>
+        <tesco:Battery-Capacity-mAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1570</tesco:Battery-Capacity-mAh>
+        <tesco:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16GB</tesco:Internal-Memory>
+        <tesco:Internal-CPU-RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1GB</tesco:Internal-CPU-RAM>
+        <tesco:Standby-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250</tesco:Standby-Time-hrs>
+        <tesco:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4&quot;</tesco:Screen-Size>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4-inch (diagonal) widescreen Retina display</tesco:tagline>
+        <tesco:Music-Play-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40</tesco:Music-Play-hrs>
+        <tesco:Mobile-Internet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G</tesco:Mobile-Internet>
+        <tesco:Product-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.86�Centimetre</tesco:Product-Width>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64-bit A7 chip &amp;amp; M7 motion co-processor</tesco:tagline>
+        <tesco:Primary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8 MP</tesco:Primary-Camera-Resolution-MP>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8MP iSight camera &amp; 1.2MP FaceTime camera</tesco:tagline>
+        <tesco:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple A7 with 64-bit architecture and M7 motion coprocessor</tesco:CPU>
+        <tesco:Charger-Connection-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple lightning</tesco:Charger-Connection-Type>
+        <tesco:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gyro</tesco:Sensors>
+        <tesco:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-touch widescreen Retina HD LED-backlit</tesco:Screen-Type>
+        <tesco:Wireless-Charging-Available rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Wireless-Charging-Available>
+        <tesco:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:NFC>
+        <tesco:Water--Dust-Resistance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Water--Dust-Resistance>
+        <tesco:Built-in-FM-Radio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Built-in-FM-Radio>
+        <tesco:SIM-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</tesco:SIM-Type>
+        <tesco:Type--Size-Of-Additional-Memory-Card rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</tesco:Type--Size-Of-Additional-Memory-Card>
+        <tesco:Expandable-Memory-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tesco:Expandable-Memory-Slot>
+        <tesco:GSM-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QuadBand</tesco:GSM-Frequency>
+        <tesco:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rechargeable lithium ion</tesco:Battery-Type>
+        <tesco:Colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</tesco:Colour>
+        <tesco:SIM-Slots rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM</tesco:SIM-Slots>
+        <tesco:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart phone</tesco:Type>
+        <tesco:Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tesco Mobile</tesco:Network>
+        <tesco:Keypad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchscreen</tesco:Keypad>
+        <tesco:USB-Cable-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:USB-Cable-Included>
+        <tesco:Wi-Fi-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Wi-Fi-Capability>
+        <tesco:Video-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Video-Capability>
+        <tesco:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Camera>
+        <tesco:Mains-Charger-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Mains-Charger-Included>
+        <tesco:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Touch-Screen>
+        <tesco:Secondary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Secondary-Camera>
+        <tesco:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Bluetooth>
+        <tesco:Headphones-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Headphones-Included>
+        <tesco:Built-in-MP3-player rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Built-in-MP3-player>
+        <tesco:Primary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Primary-Camera>
+        <tesco:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS</tesco:Operating-System>
+        <tesco:Software-Version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS7</tesco:Software-Version>
+        <tesco:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 5s with iOS 7, Apple EarPods with Remote and Mic, Lightning to USB Cable, USB Power Adapter, Documentation</tesco:Whats-in-the-Box>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- tesco.com:2 -->
+
+    <owl:NamedIndividual rdf:about="tesco.com:2">
+        <tesco:Catalogue-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 690-1937</tesco:Catalogue-Number>
+        <tesco:Secondary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.3</tesco:Secondary-Camera-Resolution-MP>
+        <tesco:Video-Recording-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p (Full HD)</tesco:Video-Recording-Capability>
+        <tesco:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">129.0�Gram</tesco:Product-Weight>
+        <tesco:Product-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">138.0�Millimetre</tesco:Product-Height>
+        <tesco:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16GB</tesco:Internal-Memory>
+        <tesco:Internal-CPU-RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1GB</tesco:Internal-CPU-RAM>
+        <tesco:Talk-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</tesco:Talk-Time-hrs>
+        <tesco:Battery-Capacity-mAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2915</tesco:Battery-Capacity-mAh>
+        <tesco:Standby-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">384</tesco:Standby-Time-hrs>
+        <tesco:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.7&quot;</tesco:Screen-Size>
+        <tesco:Mobile-Internet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G ready</tesco:Mobile-Internet>
+        <tesco:Product-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.86�Millimetre</tesco:Product-Width>
+        <tesco:Music-Play-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</tesco:Music-Play-hrs>
+        <tesco:Product-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.0�Millimetre</tesco:Product-Depth>
+        <tesco:Primary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</tesco:Primary-Camera-Resolution-MP>
+        <tesco:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple A8. Dual-core 1.4 GHz Cyclone (ARM v8-based)</tesco:CPU>
+        <tesco:Charger-Connection-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple lightning</tesco:Charger-Connection-Type>
+        <tesco:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barometer</tesco:Sensors>
+        <tesco:Colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grey</tesco:Colour>
+        <tesco:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</tesco:Screen-Type>
+        <tesco:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium polymer</tesco:Battery-Type>
+        <tesco:Built-in-FM-Radio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Built-in-FM-Radio>
+        <tesco:Wireless-Charging-Available rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Wireless-Charging-Available>
+        <tesco:Water--Dust-Resistance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Water--Dust-Resistance>
+        <tesco:SIM-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</tesco:SIM-Type>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New Retina HD multi-touch display</tesco:tagline>
+        <tesco:Type--Size-Of-Additional-Memory-Card rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</tesco:Type--Size-Of-Additional-Memory-Card>
+        <tesco:Expandable-Memory-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tesco:Expandable-Memory-Slot>
+        <tesco:GSM-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QuadBand</tesco:GSM-Frequency>
+        <tesco:SIM-Slots rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM</tesco:SIM-Slots>
+        <tesco:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart phone</tesco:Type>
+        <tesco:Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tesco Mobile</tesco:Network>
+        <tesco:Keypad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchscreen</tesco:Keypad>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultimate security with Touch ID technology that uses your fingerprint</tesco:tagline>
+        <tesco:Video-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Video-Capability>
+        <tesco:Wi-Fi-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Wi-Fi-Capability>
+        <tesco:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:NFC>
+        <tesco:Secondary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Secondary-Camera>
+        <tesco:Headphones-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Headphones-Included>
+        <tesco:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Touch-Screen>
+        <tesco:USB-Cable-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:USB-Cable-Included>
+        <tesco:Primary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Primary-Camera>
+        <tesco:Mains-Charger-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Mains-Charger-Included>
+        <tesco:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Bluetooth>
+        <tesco:Built-in-MP3-player rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Built-in-MP3-player>
+        <tesco:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Camera>
+        <tesco:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS</tesco:Operating-System>
+        <tesco:Software-Version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS 8</tesco:Software-Version>
+        <tesco:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 6 Plus with iOS 8, Apple EarPods with Remote and Mic, Lightning to USB Cable, USB Power Adapter, Documentation</tesco:Whats-in-the-Box>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iSight camera supports video recording in HD, slo-mo, time-lapse &amp; more</tesco:tagline>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- tesco.com:3 -->
+
+    <owl:NamedIndividual rdf:about="tesco.com:3">
+        <tesco:Catalogue-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 565-9517</tesco:Catalogue-Number>
+        <tesco:Secondary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.3</tesco:Secondary-Camera-Resolution-MP>
+        <tesco:Video-Recording-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p (Full HD)</tesco:Video-Recording-Capability>
+        <tesco:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">129.0�Gram</tesco:Product-Weight>
+        <tesco:Product-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">138.0�Millimetre</tesco:Product-Height>
+        <tesco:Talk-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</tesco:Talk-Time-hrs>
+        <tesco:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16GB</tesco:Internal-Memory>
+        <tesco:Battery-Capacity-mAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1810</tesco:Battery-Capacity-mAh>
+        <tesco:Internal-CPU-RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1GB</tesco:Internal-CPU-RAM>
+        <tesco:Standby-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">250</tesco:Standby-Time-hrs>
+        <tesco:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.7&quot;</tesco:Screen-Size>
+        <tesco:Mobile-Internet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G ready</tesco:Mobile-Internet>
+        <tesco:Music-Play-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</tesco:Music-Play-hrs>
+        <tesco:Product-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67.0�Millimetre</tesco:Product-Width>
+        <tesco:Product-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.0�Millimetre</tesco:Product-Depth>
+        <tesco:Primary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</tesco:Primary-Camera-Resolution-MP>
+        <tesco:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple A8. Dual-core 1.4 GHz Cyclone (ARM v8-based)</tesco:CPU>
+        <tesco:Charger-Connection-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple lightning</tesco:Charger-Connection-Type>
+        <tesco:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Barometer</tesco:Sensors>
+        <tesco:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</tesco:Screen-Type>
+        <tesco:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium polymer</tesco:Battery-Type>
+        <tesco:Built-in-FM-Radio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Built-in-FM-Radio>
+        <tesco:Water--Dust-Resistance rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Water--Dust-Resistance>
+        <tesco:Wireless-Charging-Available rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Wireless-Charging-Available>
+        <tesco:SIM-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</tesco:SIM-Type>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">New Retina HD multi-touch display</tesco:tagline>
+        <tesco:Type--Size-Of-Additional-Memory-Card rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</tesco:Type--Size-Of-Additional-Memory-Card>
+        <tesco:Expandable-Memory-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tesco:Expandable-Memory-Slot>
+        <tesco:GSM-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QuadBand</tesco:GSM-Frequency>
+        <tesco:Colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silver</tesco:Colour>
+        <tesco:SIM-Slots rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM</tesco:SIM-Slots>
+        <tesco:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart phone</tesco:Type>
+        <tesco:Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tesco Mobile</tesco:Network>
+        <tesco:Keypad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchscreen</tesco:Keypad>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ultimate security with Touch ID technology that uses your fingerprint</tesco:tagline>
+        <tesco:Headphones-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Headphones-Included>
+        <tesco:Built-in-MP3-player rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Built-in-MP3-player>
+        <tesco:Mains-Charger-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Mains-Charger-Included>
+        <tesco:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Bluetooth>
+        <tesco:Primary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Primary-Camera>
+        <tesco:Wi-Fi-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Wi-Fi-Capability>
+        <tesco:USB-Cable-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:USB-Cable-Included>
+        <tesco:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Camera>
+        <tesco:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Touch-Screen>
+        <tesco:Video-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Video-Capability>
+        <tesco:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:NFC>
+        <tesco:Secondary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Secondary-Camera>
+        <tesco:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS</tesco:Operating-System>
+        <tesco:Software-Version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iOS 8</tesco:Software-Version>
+        <tesco:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iPhone 6 with iOS 8, Apple EarPods with Remote and Mic, Lightning to USB Cable, USB Power Adapter, Documentation</tesco:Whats-in-the-Box>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iSight camera supports video recording in HD, slo-mo, time-lapse &amp; more</tesco:tagline>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- tesco.com:4 -->
+
+    <owl:NamedIndividual rdf:about="tesco.com:4">
+        <tesco:Catalogue-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 690-3679</tesco:Catalogue-Number>
+        <tesco:Product-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">142.0�Millimetre</tesco:Product-Height>
+        <tesco:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">145.0�Gram</tesco:Product-Weight>
+        <tesco:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16GB</tesco:Internal-Memory>
+        <tesco:Talk-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</tesco:Talk-Time-hrs>
+        <tesco:Battery-Capacity-mAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2800</tesco:Battery-Capacity-mAh>
+        <tesco:Internal-CPU-RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2GB</tesco:Internal-CPU-RAM>
+        <tesco:Standby-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">390</tesco:Standby-Time-hrs>
+        <tesco:Mobile-Internet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G</tesco:Mobile-Internet>
+        <tesco:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1&quot;</tesco:Screen-Size>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.1-inch Full HD Super AMOLED (1920x1080) display</tesco:tagline>
+        <tesco:Music-Play-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67</tesco:Music-Play-hrs>
+        <tesco:Product-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72.0�Millimetre</tesco:Product-Width>
+        <tesco:Product-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.1�Millimetre</tesco:Product-Depth>
+        <tesco:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</tesco:Operating-System>
+        <tesco:Software-Version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5 Lollipop</tesco:Software-Version>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android 5.1 (Lollipop) operating system</tesco:tagline>
+        <tesco:Colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</tesco:Colour>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in 16-megapixel camera &amp; heart rate sensor</tesco:tagline>
+        <tesco:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carmen2 (Octa 1.6GHz</tesco:CPU>
+        <tesco:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lithium ion</tesco:Battery-Type>
+        <tesco:SIM-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro SIM</tesco:SIM-Type>
+        <tesco:GSM-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QuadBand</tesco:GSM-Frequency>
+        <tesco:Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM Free</tesco:Network>
+        <tesco:SIM-Slots rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM</tesco:SIM-Slots>
+        <tesco:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart phone</tesco:Type>
+        <tesco:Keypad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchscreen</tesco:Keypad>
+        <tesco:Expandable-Memory-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 128GB microSD</tesco:Expandable-Memory-Slot>
+        <tesco:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Bluetooth>
+        <tesco:USB-Cable-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:USB-Cable-Included>
+        <tesco:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:NFC>
+        <tesco:Secondary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Secondary-Camera>
+        <tesco:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Touch-Screen>
+        <tesco:Video-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Video-Capability>
+        <tesco:Primary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Primary-Camera>
+        <tesco:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Camera>
+        <tesco:Built-in-MP3-player rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Built-in-MP3-player>
+        <tesco:Built-in-FM-Radio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Built-in-FM-Radio>
+        <tesco:Wi-Fi-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Wi-Fi-Capability>
+        <tesco:Mains-Charger-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Mains-Charger-Included>
+        <tesco:Headphones-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Headphones-Included>
+        <tesco:Charger-Connection-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB</tesco:Charger-Connection-Type>
+        <tesco:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sAMOLED HD</tesco:Screen-Type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- tesco.com:5 -->
+
+    <owl:NamedIndividual rdf:about="tesco.com:5">
+        <tesco:Catalogue-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 305-3035</tesco:Catalogue-Number>
+        <tesco:Standby-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">-</tesco:Standby-Time-hrs>
+        <tesco:Product-Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.16�Kilogram</tesco:Product-Weight>
+        <tesco:Product-Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0.69�Centimetre</tesco:Product-Depth>
+        <tesco:Product-Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.4�Centimetre</tesco:Product-Height>
+        <tesco:Primary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16 MP</tesco:Primary-Camera-Resolution-MP>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.5x faster charging than iPhone 6 Plus</tesco:tagline>
+        <tesco:Talk-Time-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</tesco:Talk-Time-hrs>
+        <tesco:Video-Recording-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p (4k Ultra HD)</tesco:Video-Recording-Capability>
+        <tesco:Battery-Capacity-mAh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3000</tesco:Battery-Capacity-mAh>
+        <tesco:Mobile-Internet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4G</tesco:Mobile-Internet>
+        <tesco:Internal-CPU-RAM rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4GB</tesco:Internal-CPU-RAM>
+        <tesco:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7</tesco:Screen-Size>
+        <tesco:Secondary-Camera-Resolution-MP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5MP</tesco:Secondary-Camera-Resolution-MP>
+        <tesco:Music-Play-hrs rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60</tesco:Music-Play-hrs>
+        <tesco:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64GB</tesco:Internal-Memory>
+        <tesco:Product-Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7.58�Centimetre</tesco:Product-Width>
+        <tesco:Sensors rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Accelerometer</tesco:Sensors>
+        <tesco:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android</tesco:Operating-System>
+        <tesco:Colour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Black</tesco:Colour>
+        <tesco:CPU rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Exynos 7 Octa</tesco:CPU>
+        <tesco:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Handset with Integrated Battery, Travel Adapter, Data Cable, Ejector Pin, Headset, Quick Start Guide, Warranty Card</tesco:Whats-in-the-Box>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Impressive 16MP main and 5MP front cameras</tesco:tagline>
+        <tesco:Built-in-FM-Radio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</tesco:Built-in-FM-Radio>
+        <tesco:SIM-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nano SIM</tesco:SIM-Type>
+        <tesco:Expandable-Memory-Slot rdf:datatype="http://www.w3.org/2001/XMLSchema#string">None</tesco:Expandable-Memory-Slot>
+        <tesco:Screen-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad HD (2560x1440) 518ppi</tesco:Screen-Type>
+        <tesco:GSM-Frequency rdf:datatype="http://www.w3.org/2001/XMLSchema#string">QuadBand</tesco:GSM-Frequency>
+        <tesco:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rechargeable lithium ion</tesco:Battery-Type>
+        <tesco:Network rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SIM Free</tesco:Network>
+        <tesco:SIM-Slots rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Single SIM</tesco:SIM-Slots>
+        <tesco:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart phone</tesco:Type>
+        <tesco:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Stunning 5.7 Quad HD Super AMOLED display</tesco:tagline>
+        <tesco:Keypad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Touchscreen</tesco:Keypad>
+        <tesco:Wireless-Charging-Available rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Wireless-Charging-Available>
+        <tesco:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Camera>
+        <tesco:Wi-Fi-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Wi-Fi-Capability>
+        <tesco:USB-Cable-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:USB-Cable-Included>
+        <tesco:Secondary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Secondary-Camera>
+        <tesco:NFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:NFC>
+        <tesco:Video-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Video-Capability>
+        <tesco:Touch-Screen rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Touch-Screen>
+        <tesco:Primary-Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Primary-Camera>
+        <tesco:Built-in-MP3-player rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Built-in-MP3-player>
+        <tesco:Headphones-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Headphones-Included>
+        <tesco:Mains-Charger-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Mains-Charger-Included>
+        <tesco:Bluetooth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</tesco:Bluetooth>
+        <tesco:Software-Version rdf:datatype="http://www.w3.org/2001/XMLSchema#string">computer_operating_system</tesco:Software-Version>
+        <tesco:Charger-Connection-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">microUSB</tesco:Charger-Connection-Type>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

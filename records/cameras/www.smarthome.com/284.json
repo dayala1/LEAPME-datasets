@@ -1,0 +1,10 @@
+{
+    "resolutionframerate": "640x480 @ 30fps",
+    "category": "camera",
+    "power": "12V",
+    "powerconsumption": "12V 270mA with camera 12V 120mA without camera",
+    "transmissiondistance": "Up to 700ft line of sight",
+    "upc": "738549878605",
+    "frequency": "2408.625 ~ 2470.5 MHz",
+    "manufacturer": "KJB Security Products"
+}

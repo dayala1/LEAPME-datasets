@@ -1,0 +1,23 @@
+{
+    "filetype": ".mp4",
+    "bluetooth": "No",
+    "imagestabilization": "Yes (digital)",
+    "batterytype": "Removable Li-ion",
+    "hdmioutput": "micro HDMI",
+    "category": "camera",
+    "accelerometer": "No",
+    "stillphotoresolution": "16 MP (4664*3496); 12 MP (4664*2632); 8 MP (3264*2448)",
+    "memory": "microSD card (up to 64 GB); card not included",
+    "photoburst": "3/s@16, 5/s@12 or 10/s@8",
+    "batterycapacity": "2000 mAh",
+    "interface": "USB 2.0",
+    "altimeter": "No",
+    "temperaturerange": "-15\u00b0 to 60\u00b0 C (5\u00b0 to 140\u00b0 F)",
+    "batterylife": "1080p (30 fps), up to 3 hrs",
+    "imagesensor": "16 MP, 1/2.3\" CMOS",
+    "waterresistant": "IPX7 (1 m/30 min)",
+    "internalmicrophone": "Yes",
+    "displaysize": "1.4\" (205 x 148)",
+    "externalmicrophone": "Optional USB to 3.5 mm stereo mic adapter",
+    "lensdistortioncorrection": "Yes"
+}

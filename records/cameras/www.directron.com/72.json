@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "Composite 1.0Vp-p, 75\u03a9, BNC",
+    "snratio": "Higher than 50 dB (AGC Off)",
+    "lens": "37x Optical Zoom",
+    "minfocusdistance": "1,500mm",
+    "minillumination": "0.4 Lux / F1.6 (Color), 0.02 Lux / F1.6(B/W) / (@50IRE)",
+    "iris": "Auto / Manual",
+    "focallength": "F3.5 ~ 94.5mm (F1.6 to 2.9)",
+    "resolution": "550 TV Lines (Color) / 680 TV Lines (B/W)",
+    "imagesensor": "1/4\" Sony Super HAD CCD",
+    "electronicshutter": "Auto / Manual / A.FLK (1/120,000 - X256)",
+    "sync": "Internal Sync.",
+    "focusmode": "Auto / Manual / One-push AF Focus",
+    "digitalzoom": "Off, On (Limit 12x) (Total 444x Zoom)",
+    "effectivepixels": "768 x 494",
+    "gaincontrol": "Low / Med / High / Manual / Off",
+    "flip": "On / Off",
+    "daynight": "Auto / Color / BW / Ext, IR-Cut Filter Removable",
+    "whitebalance": "ATW / AWC / Manual / Indoor / Outdoor (1,8000K ~ 10,500K)"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "wirelessconnection": "IEEE 802.11b/g",
+    "productdescription": "Nikon D5300 - digital camera - body only",
+    "memorycardslot": "SD card",
+    "weight": "16.9 oz",
+    "color": "Black",
+    "cameraflash": "Pop-up flash",
+    "sensorresolution": "24.2 Megapixel",
+    "supportedbattery": "1 x Nikon EN-EL14a Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - SLR with Live View mode, movie recording",
+    "dimensionswxdxh": "4.9 in x 3 in x 3.9 in",
+    "lensincluded": "Body only",
+    "viewfinder": "Optical - eye-level pentamirror",
+    "imageprocessor": "EXPEED 4",
+    "display": "LCD display - 3.2\"",
+    "maxvideoresolution": "1920 x 1080"
+}

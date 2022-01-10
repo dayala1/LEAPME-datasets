@@ -1,0 +1,23 @@
+{
+    "protocol": "RTSP/FTP/DDNS/NTP/TCP/SMTP",
+    "powercurrent": "DC 12V/1A",
+    "category": "camera",
+    "network": "1 RJ45 Ethernet interface, 10/100M adaptation",
+    "consumption": "3.0W",
+    "delay": "Within The LAN 0.3S",
+    "dimensionmm": "148(W) x 65(H) x 63(D)mm",
+    "daynight": "IR cut filter with auto switch, IR sensor.",
+    "onvif": "Support Onvif 2.0",
+    "minimumillumination": "0.5Lux-sec0.5Lux-sec0.1Lux-sec0.1Lux-sec0.1Lux-sec0.5Lux-sec0.5Lux-sec",
+    "snratio": ">50db",
+    "lens": "Board Lens 3.6mm/F2.0",
+    "videocompression": "H.264 /JPEG",
+    "temperature": "-20~55\u00b0C",
+    "weightg": "500",
+    "imagesensor": "1/4\" 1 Megapixel CMOS Image sensor.1/4\" 1 Megapixel CMOS Image sensor.1/3\" 1.3 Megapixel CMOS Image sensor.1/3\" 1.3 Megapixel CMOS Image sensor.1/3\" 1.3 Megapixel CMOS Image sensor.1/2.8\" 2.4 Megapixel CMOS Image sensor.1/2.8\" 2.4 Megapixel CMOS Image sensor.",
+    "framerate": "1 Megapixel@25FPS1 Megapixel@25FPS1.3 Megapixel@25FPS1.3 Megapixel@25FPS1.3 Megapixel@25FPS2 Megapixel@25FPS2 Megapixel@25FPS",
+    "solution": "OV9712S + Hi3518COV9712S + DM365IMX238 + Hi3518CAR0130 + DM365IMX238 + DM365IMX222 +Hi3516CIMX222 + DM368",
+    "humidity": "0%-90%RH,Without Condensation",
+    "focusmode": "Manual Focus",
+    "resolution": "1280\u00d77201280\u00d77201280\u00d79601280\u00d79601280\u00d79601920\u00d710801920\u00d71080"
+}

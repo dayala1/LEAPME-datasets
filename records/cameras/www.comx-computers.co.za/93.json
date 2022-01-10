@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "videooutput": "VIDEO OUT (BNC)",
+    "powerrequirement": "DC12V/500mA",
+    "productcode": "CB01A",
+    "powerconsumption": "2.8w",
+    "minimumillumination": "F1.2 0.5lux",
+    "horizontalresolution": "430TV line",
+    "signalsystem": "PAL/NTSC",
+    "effectivepixels": "PAL-512(H) x 492 (V)",
+    "imagesensor": "1/3\" CCD image sensor"
+}

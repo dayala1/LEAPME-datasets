@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "depthinches": "3.07",
+    "heightinches": "2.87",
+    "builtinflash": "Yes",
+    "selftimer": "Yes",
+    "focusmodes": "1-point, 11-points, spot, face detection",
+    "effectivepixels": "16.5 Megapixels",
+    "shutterspeed": "30 s to 1/2000 s",
+    "lcdscreensizeinches": "3",
+    "powersource": "Li-ion Battery",
+    "storagemedia": "SD, SDHC, SDXC",
+    "widthinches": "5.23\"",
+    "type": "Point and Shoot",
+    "whitebalance": "Auto, halogen, daylight, flash, cloudy, shade, electronic      flash, 2 manual settings, manual color temperature setting with fine tuning",
+    "lcdtype": "TFT",
+    "recordsvideo": "Yes"
+}

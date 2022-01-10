@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "shutter": "8 - 1/250\u00a0sec",
+    "weight": "7.55 oz\u00a0/\u00a0214 g",
+    "connectivity": "Micro-USB",
+    "lightfieldresolution": "11 Megarays",
+    "exposuremodes": "Modes: Manual, Shutter Priority",
+    "zoom": "Optical: 8x",
+    "filterthread": "None",
+    "lens": "(35 mm equivalent: 35-300 mm) Aperture: f/2.0",
+    "memorycardtype": "None",
+    "isosensitivity": "80-3200",
+    "builtinmemory": "8GB",
+    "imagestabilization": "None",
+    "dimensionswxhxd": "1.6 x 1.6 x 4.4\"\u00a0/\u00a041 x 41 x 112 mm",
+    "aspectratio": "3:2",
+    "sensor": "(6.5 x 4.5 mm) Light Field",
+    "fileformats": "Still Images: LFP",
+    "softwarerequirements": "Windows: 7 Mac: OS X 10.6.6 or later"
+}

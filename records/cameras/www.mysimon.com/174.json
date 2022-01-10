@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "flashtype": "Built-In",
+    "stillimageformat": "EXIF 2.3",
+    "brand": "Canon",
+    "sensortype": "CCD",
+    "displaytype": "LCD",
+    "cameraflashfeatures": "Slow Sync",
+    "supportedflashmemory": "SDXC Card",
+    "type": "Point & Shoot",
+    "whitebalance": "Tungsten (Preset)",
+    "hdmioutput": "No"
+}

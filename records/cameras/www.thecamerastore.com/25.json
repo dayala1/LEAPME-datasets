@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "weight": "423g",
+    "minimumfocusdistance": "0.5m",
+    "resolution": "12.0 Megapixels",
+    "isosensitivity": "ISO 100 - 12800",
+    "framerate": "60p",
+    "opticalzoom": "4x Optical Zoom",
+    "continuousshootingspeed": "12 FPS Continuous Shooting",
+    "recordingmedia": "SD/SDHC/SDXC",
+    "shutterspeed": "30 sec. - 1/4000 sec.",
+    "screensize": "3.0\" LCD Monitor",
+    "powersource": "NP-95 Li-ion battery",
+    "dimensionswxhxd": "118.7mm x 71.6mm x 60.3mm",
+    "minimumaperture": "f11",
+    "sensor": "2/3\" CMOS",
+    "videoresolution": "1080p HD Recording",
+    "maximumaperture": "f2.0-2.8"
+}

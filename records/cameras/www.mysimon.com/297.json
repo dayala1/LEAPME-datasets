@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "flashtype": "None",
+    "stillimageformat": "RAW + JPEG",
+    "brand": "Canon",
+    "sensortype": "CMOS",
+    "opticalviewfindertype": "Fixed eye-level pentaprism",
+    "specialeffects": "Sepia",
+    "viewfindertype": "Optical",
+    "supportedflashmemory": "CompactFlash",
+    "type": "Digital SLR"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Canon PowerShot D30 - digital camera",
+    "minfocusdistance": "1 cm",
+    "weight": "218 g",
+    "focusadjustment": "Automatic, manual",
+    "colour": "Blue",
+    "lenssystem": "5 x zoom lens - 5 - 25 mm - f/3.9-4.8",
+    "cameraflash": "Built-in flash",
+    "imagestabiliser": "Optical (Intelligent IS)",
+    "digitalzoom": "4 x",
+    "sensorresolution": "12.1 Megapixel",
+    "supportedbattery": "1 x Canon NB-6L Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - compact",
+    "dimensionswxdxh": "10.94 cm x 2.75 cm x 6.8 cm",
+    "imageprocessor": "DIGIC 4",
+    "display": "LCD display - 3\"",
+    "memorycardslot": "SD card"
+}

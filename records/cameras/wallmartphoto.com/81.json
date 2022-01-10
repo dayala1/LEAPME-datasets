@@ -1,0 +1,21 @@
+{
+    "selftimerdelay": "10 sec, 2 sec, 30 sec, 20 sec, 0 - 15 sec, 25 sec",
+    "category": "camera",
+    "macrofocusrange": "0 in - 19.7 in",
+    "features": "AF illuminator, flash +/- compensation",
+    "operatingsystemsupport": "MS Windows XP SP3, MS Windows Vista SP2, MS Windows 7 SP1, Apple Mac OS X 10.6 - 10.7",
+    "flashmodes": "Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction",
+    "effectiveflashrange": "1.6 ft - 18 ft ( wide lens ) \u00c2\u00a6 4.6 ft - 10 ft ( tele lens )",
+    "focallengthequivalentto35mmcamera": "24 - 1200mm",
+    "productinincheslxwxh": "7.5\u00a0x\u00a05.8\u00a0x\u00a05.0",
+    "shippingweightinpounds": "2.2",
+    "opticalzoom": "50X",
+    "walmartno": "551839545",
+    "modelno": "6352B001",
+    "type": "2.8\" LCD display",
+    "additionalfeatures": "Audio recording, direct print, USB 2.0 compatibility, built-in speaker, RGB primary color filter, digital noise reduction, date/time stamp, DPOF support, display brightness control, digital image rotation, camera orientation detection, PictBridge support, histogram display, focus bracketing, AE lock, AF lock, FE lock, cropping an image, resizing an image, i-Contrast (Intelligent Contrast Correction) system, in-camera red-eye fix, highlight point display, in-camera movie editing, 1080p Full HD movie recording, built-in help guide, Exif Print support, HS System, Zoom Framing Assist, high-speed recording, Smart AUTO, Intelligent Image Stabilisation (IS)",
+    "viewfindercolorsupport": "Color",
+    "viewfinderdiagonalsize": "0.2\"",
+    "connectortype": "1 x Hi-Speed USB \u00c2\u00a6 1 x composite video/audio output \u00c2\u00a6 1 x HDMI output",
+    "software": "Drivers & Utilities, Canon PhotoStitch, Canon Digital Photo Professional, Canon ImageBrowser EX"
+}

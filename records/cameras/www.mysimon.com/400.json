@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "brand": "Sony",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "additionalfeatures": "HDMI",
+    "supportedflashmemory": "SDXC Card",
+    "type": "Digital SLR"
+}

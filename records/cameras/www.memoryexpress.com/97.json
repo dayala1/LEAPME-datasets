@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "dimensions": "N/A",
+    "videoparameters": "Brightness, Contrast",
+    "flipmirrorimages": "Vertical / Horizontal",
+    "lightfrequency": "50Hz, 60Hz or Outdoor",
+    "minillumination": "0.5Lux",
+    "imagesensor": "Color CMOS Sensor",
+    "wirelessstandards": "IEEE 802.11 b/g",
+    "lens": "f: 8mm",
+    "lenstype": "Glass Lens",
+    "displayresolution": "640x480 Pixels (300k Pixels)",
+    "outdoorrated": "Approved for all weather usage",
+    "infraredlight": "60 IR LEDs; Night visibility up to 30 meters (98 feet)",
+    "ethernet": "1x - 10/100 MBPS RJ-45",
+    "wirelesssecurity": "WEP & WPA WPA2 Encryption",
+    "imageframerate": "15fps(VGA), 30fps (QVGA)",
+    "viewingangle": "25\u00b0",
+    "imagecompression": "MJPEG"
+}

@@ -1,0 +1,22 @@
+{
+    "powerconsumption": "Max 4W",
+    "horizontalresolution": "1200TVL",
+    "autogaincontrol": "YES",
+    "digitalnoisereduction": "2D-NR",
+    "lens": "3.6mm lens",
+    "gammacorrection": ">0.45",
+    "totalpixels": "1305(H)X1049(V)",
+    "daynight": "YES",
+    "category": "camera",
+    "backlightcompensation": "YES",
+    "modelno": "VVT-MVP307HD",
+    "irdistance": "15-20 Meters",
+    "irled": "15PCS IR LED",
+    "operatingtemperature": "-10\u00b0C\u00a0 ~+ 50 \u00b0C",
+    "minillumination": "color:0.01LUX",
+    "imagesensor": "SONY CMOS138+FH8520",
+    "attr3ddnr": "AUTO",
+    "inputvoltage": "DC12V",
+    "syncsystem": "Interlace",
+    "whitebalance": "YES"
+}

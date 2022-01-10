@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "power": "Li-ion Battery Pack (3.6V, Minimum: 680 mAh)",
+    "sensorsizetotalpixelsfilter": "1/2.33-inch CCD sensor / 16.6 Total Megapixels / Primary Color Filter",
+    "focallength": "f = 4.5 \u2013 18.0 mm (25 - 100 mm in 35 mm equiv.) (29 - 108 mm in 35 mm equiv. in video recording)",
+    "builtinflash": "Auto, Auto / Red-eye Reduction, Forced On, Slow Sync. / Red-eye Reduction, Forced Off 0.3 - 4.4 m (Wide / i.ISO), 1.0 - 3.0 m (Tele / i.ISO)",
+    "opticalzoom": "4x",
+    "lens": "LUMIX DC VARIO 11 elements in 10 groups (5 Aspherical Lenses / 9 Aspherical Surfaces / 1 ED Lens)",
+    "recordingmedia": "Built-in Memory, SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "lcd": "2.7\" (6.7 cm) TFT Screen LCD Display (230K dots), AR Coating Field of View: Approx. 100%",
+    "builtinmemory": "Approx. 70 MB",
+    "cameraeffectivepixels": "16.1 Megapixels",
+    "motionpicturerecording": "HD Video: 1,280 x 720 pixels [NTSC Model] MP4, 30fps (HD: 10Mbps) (Sensor output is 30p) [PAL Model] MP4, 25fps (HD: 10Mbps) (Sensor output is 25p) STD Video:? 640 x 480 pixels (VGA) [NTSC Model] MP4, 30fps (4Mbps) [PAL Model] MP4, 25fps (4Mbps)",
+    "aperture": "F3.9 - 5.7 / 2-step\u00a0(F3.9 / 9.0 (W), F5.7 / 13 (T))",
+    "digitalzoom": "4x (When Digital Zoom is used simultaneously with Intelligent Zoom, you can only increase the zoom ratio up to 2x.)",
+    "dimensionswxhxdapprox": "(Approx.)\u00a0101.0 x 58.3 x 19.2 mm",
+    "shutterspeed": "Approx. 8 - 1/1,300 sec",
+    "whitebalance": "Auto / Daylight / Cloudy / Shade / Incandescent / White Set",
+    "isosensitivitystandardoutputsensitivity": "i.ISO / 100 / 200 / 400 / 800 / 1600 High Sensitivity Mode (ISO1600 - 6400)",
+    "focusingarea": "Normal: Wide 50 cm - infinity / Tele 100 cm - infinity Macro / Intelligent Auto / Motion Picture: Wide 5 cm - infinity / Tele 100 cm - infinity"
+}

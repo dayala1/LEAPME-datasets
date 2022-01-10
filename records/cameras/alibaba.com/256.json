@@ -1,0 +1,21 @@
+{
+    "motiondetection": "On(4 Programmable Zone, can set any parts )/Off",
+    "videooutput": "1.0Vp-p/75\u03a9",
+    "dimensions": "196X83X73mm",
+    "power": "DC12V",
+    "operationtemperature": "-10-45\u00b0C",
+    "powerconsumption": "230 MA",
+    "privacyzone": "On(4 Programmable Zone, can set any parts )/Off",
+    "minimumillumination": "0 Lux",
+    "snratio": "52db(AGC OFF)",
+    "autowhitebalance": "ATW/Press/User 1/User 2/ Inhibition of color rolling /Manual /Press to lock",
+    "language": "English/Japanese/ German / French / Russian/ / Portuguese / Spanish /Chinese",
+    "horizontalresolution": "Color:1000TVL",
+    "synchronoussystem": "inter-sync",
+    "osdmenu": "YES",
+    "daynightmode": "Color/BW/Auto",
+    "electronicshutterspeed": "ATW, Manual:1/50(60)--1/10000sec",
+    "category": "camera",
+    "model": "ES500-MR-3020O4",
+    "blc": "HLC /SBLC /Off"
+}

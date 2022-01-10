@@ -1,0 +1,22 @@
+{
+    "effectivepixels": "1.3M1.3M",
+    "video": "H.264 main profile, support dual stream, AVI format; support 0.1M~6Mpbs bit rate adjustable; support 1~30fps adjust",
+    "electricshutter": "1/50~1/10000s1/4~1/10000s",
+    "category": "camera",
+    "network": "1 * RJ45, 10/100M; Support RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP",
+    "system": "Embedded RTOS design, dual core 32-bit DSP(TI DAVINCI DM368F)",
+    "sensor": "1/2\" CMOS1/3\" CCD",
+    "onvif": "2.0",
+    "privacyzone": "OFFON",
+    "minimumillumination": "0.1Lux/0.02 Lux0.02Lux/0.002Lux(IR Cut On)",
+    "snratio": "> 50dB",
+    "lens": "f=4.1\u00a1\u00ab73.8mm",
+    "horizontalangleofview": "2.8~483.2~55.2",
+    "attr3g": "Support(optional)",
+    "wifi": "Support(optional)",
+    "zoom": "18x Optical Zoom18X Optical Zoom, 12X Electronic Zoom",
+    "otherfunction": "Support WEB remote config,OSD,motion detect",
+    "wdr": "NOYes",
+    "model": "HK-HDIS18CH -720PHK-HDIS18HI-720P",
+    "resolution": "Main stream:1280*960,1280*720(720P);Sub stream:704*576(D1)"
+}

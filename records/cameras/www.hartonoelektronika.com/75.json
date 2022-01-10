@@ -1,0 +1,22 @@
+{
+    "usbterminal": "Yes",
+    "audioformat": "Dolby\u00ae Digital 2ch Stereo, Dolby\u00ae Digital Stereo Creator *9 , MPEG-4 AAC-LC 2ch *10",
+    "category": "camera",
+    "hdvideocodec": "AVCHD format ver.2.0 compatible:MPEG4-AVC/H.264",
+    "lensfilterdiameter": "Carl Zeiss\u00ae Vario-Tessar\u00ae Lens",
+    "stdvideocodec": "MPEG2-PS:MPEG-2 (Video) MP4: MPEG-4 AVC/H.264",
+    "dimensionswxhxd": "Approx. 58 x 57 x 117mm",
+    "zoommic": "Built-in Zoom Microphone",
+    "maximumstillimageresolutionphotomode": "8.9 megapixels 16:9(3984x2240)",
+    "backlightcompensation": "Yes(Auto)",
+    "imagestabilisation": "Electrical SteadyShot\u2122 image stabilization w/ Active mode (Wide to Tele)",
+    "imageprocessor": "BIONZ\u00ae image processor",
+    "facedetection": "Yes",
+    "opticaldigitalzoom": "Optical Zoom: 27x, Extended Zoom: 32x, Digital Zoom: 320x",
+    "lcdscreensizetype": "2.7\" Clear Photo LCD\u2122 display (230K dots/Wide 16:9)",
+    "imagesensor": "\"Exmor R\" CMOS Sensor",
+    "braviasync": "Yes",
+    "hdmiterminal": "Yes (HDMI micro) \u00a0*19",
+    "xvcolour": "Yes",
+    "smileshutter": "Dual Capture/Always On/Off"
+}

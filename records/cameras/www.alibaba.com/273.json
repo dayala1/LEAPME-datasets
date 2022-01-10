@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "videooutput": "Main Stram:1920\u00d71080;subcode stream:704\u00d7576;",
+    "alarmoutput": "support",
+    "function": "H.264 Mega-pixel IP Waterproof Bullet Camera; 42&F5\u00a0Infrared Led from Taiwan, 50M IR Distance, MP CS 6/8/12/16mm lens. Support more user access, multi-stage user password rights management Support facilities remote security up grate function; Support mobile detection/image shielding/image snapshot Support Browsers (IE, Chrome Firefox, Safari); Support Web, CMS, ONVIF . POE,Could; Support,protocols:HTTP,TCP,ARP,RTSP,RTP,UDP,RTCP,SMTP,DHCP,DNS,DDNS,PPPOE,IPv4.",
+    "image": "2M pixels",
+    "wifi": "support",
+    "networkinterface": "1 RJ45 interface,10/100M self-adaption; Support RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP etc network protocals;",
+    "sd": "Support max 32G",
+    "others": "DC12V,3W power",
+    "model": "DF-IP9361PSE",
+    "alarminput": "Support",
+    "attr3g": "support",
+    "onvif": "Support"
+}

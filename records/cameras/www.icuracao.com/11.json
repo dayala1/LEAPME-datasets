@@ -1,0 +1,21 @@
+{
+    "cameramodes": "Shooting mode",
+    "category": "camera",
+    "videoformats": "MP4, H.264, MPEG-4, maximum video resolution",
+    "exposurecontrol": "Sensitivity",
+    "weight": "5.19 oz. (CIPA standard), 4.59 oz. (body only)",
+    "flashmodes": "Auto flash, flash ON, flash OFF, slow sync, flash exposure compensation, built-in flash",
+    "focallength": "4.5mm to 54mm (lens 1), focal length (35mm equivalent)",
+    "label1": "12x optical zoom, 4x digital zoom",
+    "label2": "3\" TFT color LCD with wide viewing angle (461000 pixel)",
+    "shortestshutterspeed": "1/2000 sec, longest shutter speed",
+    "memorycardsupported": "Secure digital high capacity (SDHC UHS-I), secure digital high capacity (SDHC) card, secure digital extended capacity (SDXC)",
+    "numberofbatteriessupported": "1, battery size supported",
+    "interfacesports": "USB, PictBridge, analog video out, video out",
+    "label0": "16 megapixels, 1/2.3\" (0.24\" x 0.18\") CMOS",
+    "label13": "Includes PowerShot ELPH 340 HS compact camera, battery pack NB-11LH, battery charger CB-2LF, wrist strap WS-800",
+    "aspectratio": "16",
+    "dimensions": "2.27\"(H) x 3.93\"(W) x 0.88\"(D)",
+    "wirelesslanstandard": "IEEE 802.11b/g/n, built-in devices",
+    "effectivecameraresolution": "16MP, total camera resolution"
+}

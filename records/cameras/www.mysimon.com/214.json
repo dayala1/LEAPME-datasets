@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "brand": "Canon",
+    "megapixels": "12.1 MP",
+    "opticalzoom": "5x",
+    "displaytype": "LCD",
+    "digitalzoom": "4x",
+    "screensize": "3\"",
+    "supportedflashmemory": "SDXC Memory Card",
+    "model": "S110",
+    "maxvideoresolution": "1920 x 1080",
+    "type": "Point & Shoot",
+    "hdmioutput": "Yes"
+}

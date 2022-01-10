@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Canon EOS Rebel T5i - digital camera EF-S 18-55mm IS STM lens",
+    "minfocusdistance": "9.8 in",
+    "weight": "18.5 oz",
+    "sensorresolution": "18.0 Megapixel",
+    "imagestabilizer": "Optical",
+    "lenssystem": "3 x zoom lens - 18 - 55 mm - f/3.5-5.6 IS STM Canon EF-S",
+    "microsoftcertification": "Compatible with Windows 7",
+    "display": "LCD display - 3\"",
+    "memorycardslot": "SD card",
+    "supportedbattery": "1 x Canon LP-E8 Li-ion rechargeable battery - 1120 mAh ( included )",
+    "producttype": "Digital camera - SLR with Live View mode, movie recording",
+    "viewfinder": "Optical - fixed eye-level pentamirror",
+    "lensincluded": "EF-S 18-55mm IS STM lens",
+    "dimensionswxdxh": "5.2 in x 3.1 in x 3.9 in",
+    "imageprocessor": "DIGIC 5",
+    "focusadjustment": "Automatic, manual",
+    "maxvideoresolution": "1920 x 1080"
+}

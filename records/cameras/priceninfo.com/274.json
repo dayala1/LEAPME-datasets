@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videorecordingformat": "MPEG2, H.264/AVC [Motion Image]",
+    "microphone": "Stereo mic. / Zoom mic.",
+    "analogoutput": "No",
+    "dimensions": "54.9x64x107.3mm",
+    "weight": "213gm",
+    "focallength": "1.48-104mm",
+    "imagesensor": "1/8? CCD",
+    "imagestabilizer": "Advanced O.I.S. (Optical Image Stabilizer)",
+    "focus": "Auto / Manual",
+    "inputoutput": "USB Cable, AV Cable, AC Cable",
+    "digitalzoom": "100x / 3500x (The maximum value of zoom magnification)",
+    "lensconfiguration": "F1.9(WIDE)/5.7(TELE) Panasonic Lens",
+    "shutterspeedrange": "ON",
+    "memory": "SD Memory Card",
+    "lcdmonitor": "2.7? Wide LCD ( 123,200 dots)",
+    "whitebalance": "Auto / Indoor1 / Indoor2 / Sunny / Cloudy / White set",
+    "battery": "895 mAh / Lithium-Ion"
+}

@@ -1,0 +1,22 @@
+{
+    "videooutput": "NTSC or PAL composite video",
+    "fieldofview": "14\u00c2\u00b0 (H) x 10\u00c2\u00b0 (V) with 50 mm lens",
+    "storagetemperaturerange": "-50\u00c2\u00b0C to +85\u00c2\u00b0C",
+    "cameraweight": "2.7 kg",
+    "category": "camera",
+    "operatingtemperaturerange": "-32\u00c2\u00b0C to +55\u00c2\u00b0C",
+    "requirements": "14-32 V DC or 24 V AC +/- 10%",
+    "consumption": "6 W Nominal, 24 W startup peak, at 24V DC, at 23\u00c2\u00b0",
+    "vibration": "Mil-Std-810E",
+    "detectortype": "Focal Plane Array (FPA), uncooled microbolometer 320 x 240 pixels",
+    "productcode": "UPCSKUFLIR SR-50 Thermal Camera Options",
+    "imageprocessing": "Automatic Gain Control (AGC), Digital Detail Enhancement (DDE)",
+    "focus": "fixed",
+    "encapsulation": "IP66",
+    "thermalsensitivity": "85 mK at 25\u00c2\u00b0C",
+    "shock": "Mil-Std-810E",
+    "connectortypes": "BNC (1) provides video output",
+    "humidity": "Rain",
+    "spectralrange": "7.5 to 13\u03bcm",
+    "spatialresolutionifov": "0.8 mrad"
+}

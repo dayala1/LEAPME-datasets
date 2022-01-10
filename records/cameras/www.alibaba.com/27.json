@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "lens": "f:\u00a03.6mm,",
+    "audioout": "1\u00a0Audio\u00a0output\u00a0socket , 1\u00a0built-in\u00a0speaker",
+    "protocol": "HTTP,FTP,TCP/IP,UDP,SMTP,DHCP,PPPoE,P2P,UPnP",
+    "nightmode": "10\u00a0IR\u00a0lights,\u00a0IR\u00a0distance:8-12\u00a0meters",
+    "resolution": "1280X720 ( 720P ) /640\u00a0x\u00a0480(VGA)/352X288(CIF)",
+    "wifi": "Wifi(IEEE802.11b/g/n)",
+    "audiocompression": "G.711",
+    "powersupply": "DC\u00a05V/2.0A\u00a0(EU,\u00a0U.S.\u00a0adapter\u00a0or\u00a0other\u00a0types\u00a0optional),\u00a0power consumption\u00a0<5\u00a0W",
+    "resetbutton": "1\u00a0Reset\u00a0Button",
+    "audioin": "Built-in\u00a0MIC",
+    "videocompression": "H.264",
+    "p2p": "Each\u00a0Product\u00a0has\u00a0one\u00a0CloudSEE\u00a0ID.\u00a0Just\u00a0input\u00a0this\u00a0ID\u00a0for remote\u00a0viewing\u00a0on\u00a0PC,\u00a0Laptop,\u00a0iOS\u00a0and\u00a0Android\u00a0Phone",
+    "fps": "25fps(720P),\u00a030fps(VGA)",
+    "pantilt": "Pan\u00a0300\u00b0\u00a0Tilt\u00a0120\u00b0",
+    "sensor": "CMOS\u00a0sensor",
+    "whitebalance": "Auto"
+}

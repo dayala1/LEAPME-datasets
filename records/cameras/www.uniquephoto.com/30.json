@@ -1,0 +1,15 @@
+{
+    "dots": "Approx.1037k dots (3:2)",
+    "category": "camera",
+    "shuttertype": "Electronic focal-plane shutter",
+    "megapixels": "16.1 MP",
+    "shutterspeeds": "1/4000 - 60 sec., with selectable EV adjustment steps (1/3, 1/2, 1) Bulb/Time: selectable exposure time (1/2/4/8/15/20/25/30 min.), with 8-min. default setting",
+    "selftimer": "Operation time: 12 sec., 2 sec., custom (Wait time: 1-30sec., Shot interval: 0.5/1/2/3sec., Number of shots: 1-10, Every time AF: ON/OFF)",
+    "displaytype": "Electrostatic capacitance type touch panel",
+    "computer": "USB2.0 Hi-Speed",
+    "screensize": "3.0\"",
+    "videocliplength": "MOV: Full HD: Approx. 29min (Normal) / Approx. 22min (Fine) HD: Approx. 29min (Normal) / Approx. 29min (Fine)",
+    "aspectratio": "Aspect ratio : 1.33 (4:3)",
+    "videoresolution": "MOV: Full HD: 1920(H)x1080(V), 30p (29.97fps) Recording   24Mbps (Fine) / 16Mbps (Normal): Aspect 16:9 HD: 1280(H)x720(V), 30p (29.97fps) Recording   12Mbps (Fine) / 8Mbps(Normal): Aspect 16:9\u201d AVI Motion JPEG: HD: 1280(H) x 720(V), 30fps*, Aspect 16:9 SD: 640(H) x 480(V), 30fps*, Aspect 4:3 *Excluding some Art Filters",
+    "audiorecording": "Stereo/Mono"
+}

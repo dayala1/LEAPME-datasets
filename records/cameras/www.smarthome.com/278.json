@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "BNC 1.0V p-p 75&#8486",
+    "powerrequirement": "12VDC",
+    "dimensions": "4.38\" dia x 3.19\" (111 x 81mm)",
+    "powerconsumption": "<150mA",
+    "sensitivity": "0.05 lux",
+    "snratio": ">48dB",
+    "lens": "4-9mm Varifocal",
+    "horizontalresolution": "550 TV Lines",
+    "effectivepixels": "768x494",
+    "electronicshutter": "1/60 ~ 1/100,000 sec",
+    "manufacturer": "Aleph America",
+    "operatingtemperature": "14\u00b0to 122\u00b0F (-10\u00b0to 50\u00b0C)",
+    "imagesensor": "1/3\" Sony Super HAD CCD",
+    "videosystem": "NTSC"
+}

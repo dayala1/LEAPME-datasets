@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "system": "NTSC/PAL",
+    "channels": "1.0-Channel Mono",
+    "recordingmedia": "microSD/HC/XC Up To 64 GB",
+    "audioformat": "AAC with AGC",
+    "aspectratio": "16",
+    "stillimageresolution": "JPEG",
+    "hd": "1280 x 720p / 30 fps / 25 fps",
+    "videoformat": null
+}

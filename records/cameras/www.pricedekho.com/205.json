@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "externalflash": "E-TTL II",
+    "imagedisplayresolution": "920000 dots",
+    "videodisplayresolution": "1920 x 1080 (Full HD): 30p / 25p / 24p, 1280 x 720 (HD): 60p / 50p, 640 x 480 (SD): 60p/50p Crop, 640 x 480 (SD): 60p/50p pixels",
+    "facedetection": "NA",
+    "flashrange": "13m",
+    "shootingmodes": "Movie Shooting, Still Photo Shooting",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200 (6400-12800 with boost)",
+    "metering": "Center, Partial, Spot",
+    "selftimer": "2 sec, 10 sec",
+    "displaytype": "Liquid Crystal TFT",
+    "builtinflash": "Yes",
+    "viewfinder": "Optical Pentamirror (95% Coverage, 0.87x Magnification)",
+    "continuousshots": "Up to 3.4 fps",
+    "flashmodes": "Pop-Up Flash",
+    "screensize": "3 Inches"
+}

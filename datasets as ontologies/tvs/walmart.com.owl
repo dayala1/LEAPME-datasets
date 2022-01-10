@@ -1,0 +1,1704 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="walmart.com:walmart.com#"
+     xml:base="walmart.com:walmart.com"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:walmart="walmart.com:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:walmart3="walmart.com:4"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:Green-Compliance-Certificate="walmart.com:Green-Compliance-Certificate/"
+     xmlns:walmart2="walmart.com:3"
+     xmlns:D-Type-SG="walmart.com:3D-Type-SG/">
+    <owl:Ontology rdf:about="walmart.com:walmart.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- walmart.com:Additional-Features -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Additional-Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Additional Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Analog-Tv-Tuner -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Analog-Tv-Tuner">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Analog Tv Tuner</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Aspect-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Aspect-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aspect Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Audio-Track-Codec -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Audio-Track-Codec">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Audio Track Codec</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Backlight-Technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Backlight-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Backlight Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Battery-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Battery-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Brand -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Brand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Brightness -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Brightness">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brightness</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Closed-Caption-Capability -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Closed-Caption-Capability">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Closed Caption Capability</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Color -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Combined-With -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Combined-With">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Combined With</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Compliant-Standards -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Compliant-Standards">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compliant Standards</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Component-Video -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Component-Video">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Component Video</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Composite-Video -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Composite-Video">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Composite Video</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Condition -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Condition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Condition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Connector-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Connector-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Connector Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Content-Share -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Content-Share">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Content Share</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Contrast-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Contrast-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contrast Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:DLNA-Certified -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:DLNA-Certified">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DLNA Certified</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Depth -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Depth">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Depth-with-Stand -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Depth-with-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Depth with Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Digital-Audio-Output -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Digital-Audio-Output">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Audio Output</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Digital-Tuner -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Digital-Tuner">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Tuner</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Digital-Tv-Tuner -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Digital-Tv-Tuner">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Tv Tuner</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Dimensions&#45;&#45;Weight-Details -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Dimensions--Weight-Details">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dimensions &amp; Weight Details</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Display-Format -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Display-Format">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Format</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Display-Technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Display-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Display Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Dynamic-Contrast-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Dynamic-Contrast-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dynamic Contrast Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Electronic-Program-Guide -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Electronic-Program-Guide">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electronic Program Guide</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Energy-Consumption-per-Year -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Energy-Consumption-per-Year">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Energy Consumption per Year</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Enhanced-Refresh-Rate -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Enhanced-Refresh-Rate">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enhanced Refresh Rate</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Ethernet -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Ethernet">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ethernet</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Ethernet-Technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Ethernet-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ethernet Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Features -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Green-Compliant -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Green-Compliant">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Green Compliant</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:HDMI -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:HDMI">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Hdcp-Compatible -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Hdcp-Compatible">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hdcp Compatible</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Height -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Height">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Height</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Height-with-Stand -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Height-with-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Height with Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Horizontal-Viewing-Angle -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Horizontal-Viewing-Angle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horizontal Viewing Angle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Image-Aspect-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Image-Aspect-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image Aspect Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Image-Contrast-Ratio -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Image-Contrast-Ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Image Contrast Ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Input-Video-Formats -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Input-Video-Formats">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Input Video Formats</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Interactive-Features -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Interactive-Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interactive Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Internet-Access -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Internet-Access">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internet Access</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Is-Energy-Star-Certified -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Is-Energy-Star-Certified">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is Energy Star-Certified</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Is-Remote-Control-Included -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Is-Remote-Control-Included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Is Remote Control Included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Just-Scan-1 -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Just-Scan-1">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Just Scan (1</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:LG-Content-Store -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:LG-Content-Store">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG Content Store</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Limited-Warranty -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Limited-Warranty">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Limited Warranty</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Magic-Remote-Control -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Magic-Remote-Control">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote Control</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Manufacturer-Part-Number -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Manufacturer-Part-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufacturer Part Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Maximum-Resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Maximum-Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maximum Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Media-Player -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Media-Player">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Media Player</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Model -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Model-No. -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Model-No.">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model No.</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Model-Number -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Model-Number">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Model Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Motion-Interpolation-Technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Motion-Interpolation-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Motion Interpolation Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Multi-Pack-Indicator -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Multi-Pack-Indicator">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi Pack Indicator</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Natural-Voice-Recognition -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Natural-Voice-Recognition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natural Voice Recognition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Network-RJ-45 -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Network-RJ-45">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Network (RJ-45)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Number-of-Component-Video-Inputs -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Number-of-Component-Video-Inputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of Component Video Inputs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Number-of-Composite-Video-Inputs -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Number-of-Composite-Video-Inputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of Composite Video Inputs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Number-of-HDMI-Inputs -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Number-of-HDMI-Inputs">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of HDMI Inputs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Number-of-HDMI-Ports -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Number-of-HDMI-Ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of HDMI Ports</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Number-of-USB-Ports -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Number-of-USB-Ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Number of USB Ports</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Operating-Power-Consumption -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Operating-Power-Consumption">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Power Consumption</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Operating-System -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Operating-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:PC-Streaming -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:PC-Streaming">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PC Streaming</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Package-Contents -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Package-Contents">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Package Contents</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Parental-Channel-Lock -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Parental-Channel-Lock">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parental Channel Lock</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Pc-Interface -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Pc-Interface">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pc Interface</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Power-Device -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Power-Device">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power Device</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Primary-Color -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Primary-Color">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Primary Color</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Processor -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Processor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Processor-Core -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Processor-Core">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processor Core</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Product-Name -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Product-Name">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Product-Series -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Product-Series">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Series</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Product-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Product-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Product-in-Inches-L-x-W-x-H -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Product-in-Inches-L-x-W-x-H">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Product in Inches (L x W x H)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:RMS-Output-Power -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:RMS-Output-Power">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RMS Output Power</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Real-Cinema-24p -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Real-Cinema-24p">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Cinema 24p</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Remote-Control-Included -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Remote-Control-Included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remote Control Included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Remote-Included -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Remote-Included">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remote Included</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Resolution -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Scan-Format -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Scan-Format">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scan Format</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Screen-Share -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Screen-Share">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Share</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Screen-Size -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Screen-Size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Screen Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Shipping-Weight-in-pounds -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Shipping-Weight-in-pounds">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shipping Weight (in pounds)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Smart-TV -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Smart-TV">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart TV</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Sound-System -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Sound-System">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sound System</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Speakers -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Speakers">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speaker(s)</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speakers</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Standard-Refresh-Rate -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Standard-Refresh-Rate">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standard Refresh Rate</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Standby-Power-Consumption -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Standby-Power-Consumption">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Standby Power Consumption</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Streaming-Service -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Streaming-Service">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Streaming Service</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Television-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Television-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Television Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Total-Number-of-HDMI-Ports -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Total-Number-of-HDMI-Ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Total Number of HDMI Ports</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Triple-XD-Engine -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Triple-XD-Engine">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triple XD Engine</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Tru-4K-Engine -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Tru-4K-Engine">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Engine</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Tru-4K-Upscaler -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Tru-4K-Upscaler">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-4K Upscaler</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Tru-Color-Generator -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Tru-Color-Generator">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tru-Color Generator</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Tv-Definition -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Tv-Definition">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tv Definition</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Tv-Technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Tv-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tv Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:ULTRA-HD-3840x2160 -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:ULTRA-HD-3840x2160">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ULTRA HD (3840x2160)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:USB -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:USB">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:USB-Standard -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:USB-Standard">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB Standard</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Universal-Control-Capability -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Universal-Control-Capability">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Universal Control Capability</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:V-chip-Control -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:V-chip-Control">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V-chip Control</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:VESA-Mount-Standard -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:VESA-Mount-Standard">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VESA Mount Standard</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Vertical-Viewing-Angle -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Vertical-Viewing-Angle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vertical Viewing Angle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Video-Signal-Standard -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Video-Signal-Standard">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Signal Standard</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Viewing-Angle -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Viewing-Angle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viewing Angle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Viewing-Angle-vertical -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Viewing-Angle-vertical">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viewing Angle (vertical)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Volts -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Volts">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volts</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Walmart-No. -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Walmart-No.">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Walmart No.</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Web-Browser -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Web-Browser">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Web Browser</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Weight -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Weight-Approximate -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Weight-Approximate">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight (Approximate)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Weight-with-Stand-Approximate -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Weight-with-Stand-Approximate">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weight with Stand (Approximate)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Widescreen-Modes -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Widescreen-Modes">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Widescreen Modes</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Width -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Width">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Width</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Width-with-Stand -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Width-with-Stand">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Width with Stand</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Wireless-LAN -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Wireless-LAN">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wireless LAN</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:computer_operating_system -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:computer_operating_system">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">computer_operating_system</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:display_type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:display_type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">display_type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:hdmi_ports -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:hdmi_ports">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hdmi_ports</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:image_aspect_ratio -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:image_aspect_ratio">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">image_aspect_ratio</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:product_type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:product_type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">product_type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:remote_control_model -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:remote_control_model">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">remote_control_model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:sound_effects -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:sound_effects">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sound_effects</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:tv_tuner -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:tv_tuner">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tv_tuner</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:viewable_size -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:viewable_size">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">viewable_size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:viewing_angle -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:viewing_angle">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">viewing_angle</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:wall_mount_dimensions -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:wall_mount_dimensions">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wall_mount_dimensions</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:webOS -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:webOS">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:3D-Glasses -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:3D-Glasses">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Glasses</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:3D-Glasses-Required -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:3D-Glasses-Required">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Glasses Required</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:3D-Technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:3D-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:3D-Type -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:3D-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:3d_technology -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:3d_technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3d_technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:3D-Type-SG/FPR -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:3D-Type-SG/FPR">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D Type (SG/FPR)</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:4K-UHD-File-Playback -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:4K-UHD-File-Playback">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4K UHD File Playback</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- walmart.com:Green-Compliance-Certificate/Authority -->
+
+    <owl:DatatypeProperty rdf:about="walmart.com:Green-Compliance-Certificate/Authority">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Green Compliance Certificate/Authority</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- walmart.com:0 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:0">
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 	37.99 x 8.27 x 24.53 </walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1080p (HDTV)</walmart:Resolution>
+        <walmart:Contrast-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 200,000:1 dynamic contrast ratio </walmart:Contrast-Ratio>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 25.8 </walmart:Shipping-Weight-in-pounds>
+        <walmart:Walmart-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 555161914 </walmart:Walmart-No.>
+        <walmart:Primary-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Black</walmart:Primary-Color>
+        <walmart:Model-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> D43-C1</walmart:Model-No.>
+        <walmart:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Does Not Contain a Battery</walmart:Battery-Type>
+        <walmart:Tv-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> HDTV </walmart:Tv-Definition>
+        <walmart:Tv-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LED</walmart:Tv-Technology>
+        <walmart:Multi-Pack-Indicator rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> No</walmart:Multi-Pack-Indicator>
+        <walmart:Remote-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Remote-Included>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:1 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:1">
+        <walmart:Product-Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> EG9600</walmart:Product-Series>
+        <walmart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</walmart:Aspect-Ratio>
+        <walmart:Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2&quot;</walmart:Depth>
+        <walmart:RMS-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 W</walmart:RMS-Output-Power>
+        <walmart:Energy-Consumption-per-Year rdf:datatype="http://www.w3.org/2001/XMLSchema#string">214 kWh</walmart:Energy-Consumption-per-Year>
+        <walmart:Scan-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</walmart:Scan-Format>
+        <walmart:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.3&quot;</walmart:Height>
+        <walmart:Height-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.90&quot;</walmart:Height-with-Stand>
+        <walmart:Number-of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</walmart:Number-of-USB-Ports>
+        <walmart:Number-of-HDMI-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</walmart:Number-of-HDMI-Ports>
+        <walmart:Standby-Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 mW</walmart:Standby-Power-Consumption>
+        <walmart:Weight-Approximate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.70 lb</walmart:Weight-Approximate>
+        <walmart:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</walmart:Maximum-Resolution>
+        <walmart2:D-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D</walmart2:D-Type>
+        <walmart:Weight-with-Stand-Approximate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.60 lb</walmart:Weight-with-Stand-Approximate>
+        <walmart:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.3&quot;</walmart:Width>
+        <walmart:Width-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.30&quot;</walmart:Width-with-Stand>
+        <walmart:Video-Signal-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4K UHDTV</walmart:Video-Signal-Standard>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55-inch</walmart:Screen-Size>
+        <walmart:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</walmart:Model-Number>
+        <walmart:Depth-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.40&quot;</walmart:Depth-with-Stand>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DTS</walmart:Sound-System>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital</walmart:Sound-System>
+        <walmart:Ethernet-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ethernet</walmart:Ethernet-Technology>
+        <walmart:Product-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG 55EG9600 55-inch OLED Smart 3D 4K Ultra HDTV</walmart:Product-Name>
+        <walmart:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED Smart 3D 4K Ultra HDTV</walmart:Product-Type>
+        <walmart2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polarized</walmart2:D-Technology>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surround</walmart:Sound-System>
+        <walmart:USB-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB 3.0</walmart:USB-Standard>
+        <walmart:Interactive-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voice Control</walmart:Interactive-Features>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Web Browser</walmart:Features>
+        <walmart:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WebOS 2.0</walmart:Operating-System>
+        <walmart:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Speakers>
+        <walmart:Component-Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Component-Video>
+        <walmart:PC-Streaming rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:PC-Streaming>
+        <walmart:Ethernet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Ethernet>
+        <walmart:Smart-TV rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Smart-TV>
+        <walmart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:USB>
+        <walmart:Wireless-LAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Wireless-LAN>
+        <walmart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:HDMI>
+        <walmart:Composite-Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Composite-Video>
+        <walmart:Internet-Access rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Internet-Access>
+        <walmart2:D-Glasses-Required rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart2:D-Glasses-Required>
+        <walmart:Network-RJ-45 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Network-RJ-45>
+        <walmart:Remote-Control-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Remote-Control-Included>
+        <walmart:Digital-Audio-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Digital-Audio-Output>
+        <walmart:Media-Player rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Media-Player>
+        <walmart:Streaming-Service rdf:datatype="http://www.w3.org/2001/XMLSchema#string">YouTube</walmart:Streaming-Service>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:10 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:10">
+        <walmart:Just-Scan-1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Pixel Matching):Yes</walmart:Just-Scan-1>
+        <walmart2:D-Glasses rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 Glasses Included</walmart2:D-Glasses>
+        <walmart:Magic-Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015 (Included)</walmart:Magic-Remote-Control>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65&quot;</walmart:Screen-Size>
+        <D-Type-SG:FPR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPR (Passive)</D-Type-SG:FPR>
+        <walmart:viewing_angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Great Viewing from Almost Any Angle</walmart:viewing_angle>
+        <walmart2:d_technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Immersive 3D</walmart2:d_technology>
+        <walmart:display_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED 4K for True Blacks and Exceptional Picture Quality</walmart:display_type>
+        <walmart:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad Core</walmart:Processor>
+        <walmart:LG-Content-Store rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:LG-Content-Store>
+        <walmart:Screen-Share rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Screen-Share>
+        <walmart:Real-Cinema-24p rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Real-Cinema-24p>
+        <walmart:Tru-Color-Generator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Tru-Color-Generator>
+        <walmart:ULTRA-HD-3840x2160 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:ULTRA-HD-3840x2160>
+        <walmart:Web-Browser rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Web-Browser>
+        <walmart:Universal-Control-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Universal-Control-Capability>
+        <walmart:Natural-Voice-Recognition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Natural-Voice-Recognition>
+        <walmart:Triple-XD-Engine rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Triple-XD-Engine>
+        <walmart:Tru-4K-Upscaler rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Tru-4K-Upscaler>
+        <walmart:Tru-4K-Engine rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Tru-4K-Engine>
+        <walmart3:K-UHD-File-Playback rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes (HEVC, VP9)</walmart3:K-UHD-File-Playback>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">harmon/kardon® Cinematic Sound</walmart:sound_effects>
+        <walmart:webOS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0</walmart:webOS>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:11 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:11">
+        <walmart:Just-Scan-1 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 Pixel Matching):Yes</walmart:Just-Scan-1>
+        <walmart2:D-Glasses rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 Glasses Included</walmart2:D-Glasses>
+        <walmart:Magic-Remote-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015</walmart:Magic-Remote-Control>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65&quot;</walmart:Screen-Size>
+        <D-Type-SG:FPR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FPR (Passive)</D-Type-SG:FPR>
+        <walmart:viewing_angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Great Viewing from Almost Any Angle</walmart:viewing_angle>
+        <walmart2:d_technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Immersive 3D</walmart2:d_technology>
+        <walmart:display_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED 4K for True Blacks and Exceptional Picture Quality</walmart:display_type>
+        <walmart:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad Core</walmart:Processor>
+        <walmart:Screen-Share rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Screen-Share>
+        <walmart:Tru-4K-Upscaler rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Tru-4K-Upscaler>
+        <walmart:Real-Cinema-24p rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Real-Cinema-24p>
+        <walmart:Triple-XD-Engine rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Triple-XD-Engine>
+        <walmart:Content-Share rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Content-Share>
+        <walmart:ULTRA-HD-3840x2160 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:ULTRA-HD-3840x2160>
+        <walmart:Tru-4K-Engine rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Tru-4K-Engine>
+        <walmart:Natural-Voice-Recognition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Natural-Voice-Recognition>
+        <walmart:Universal-Control-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Universal-Control-Capability>
+        <walmart:LG-Content-Store rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:LG-Content-Store>
+        <walmart:Tru-Color-Generator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Tru-Color-Generator>
+        <walmart:Web-Browser rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Web-Browser>
+        <walmart3:K-UHD-File-Playback rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes (HEVC, VP9)</walmart3:K-UHD-File-Playback>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">harmon/kardon® Cinematic Sound</walmart:sound_effects>
+        <walmart:webOS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0</walmart:webOS>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:12 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:12">
+        <walmart:Limited-Warranty rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1 Year</walmart:Limited-Warranty>
+        <walmart:Operating-Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 120 W</walmart:Operating-Power-Consumption>
+        <walmart:Weight-Approximate rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16.80 lb</walmart:Weight-Approximate>
+        <walmart:Weight-with-Stand-Approximate rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 18.70 lb</walmart:Weight-with-Stand-Approximate>
+        <walmart:Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2.5&quot;</walmart:Depth>
+        <walmart:RMS-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 20 W</walmart:RMS-Output-Power>
+        <walmart:VESA-Mount-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 200 x 200</walmart:VESA-Mount-Standard>
+        <walmart:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 21.1&quot;</walmart:Height>
+        <walmart:Scan-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2160p</walmart:Scan-Format>
+        <walmart:Height-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 23.30&quot;</walmart:Height-with-Stand>
+        <walmart:Total-Number-of-HDMI-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3</walmart:Total-Number-of-HDMI-Ports>
+        <walmart:Standby-Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 300 mW</walmart:Standby-Power-Consumption>
+        <walmart:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 36.1&quot;</walmart:Width>
+        <walmart:Width-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 36.10&quot;</walmart:Width-with-Stand>
+        <walmart:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3840 x 2160</walmart:Maximum-Resolution>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 40&quot;</walmart:Screen-Size>
+        <walmart:Video-Signal-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 4K UHDTV</walmart:Video-Signal-Standard>
+        <walmart:Depth-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 7.70&quot;</walmart:Depth-with-Stand>
+        <walmart:Energy-Consumption-per-Year rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 93 kWh</walmart:Energy-Consumption-per-Year>
+        <walmart:Digital-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> ATSC</walmart:Digital-Tuner>
+        <walmart:Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Black</walmart:Color>
+        <walmart:Motion-Interpolation-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Clear Motion Rate 120</walmart:Motion-Interpolation-Technology>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Dolby Digital Plus, DTS Studio Sound, DTS Premium Sound 5.1</walmart:Sound-System>
+        <Green-Compliance-Certificate:Authority rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> ENERGY STAR</Green-Compliance-Certificate:Authority>
+        <walmart:Streaming-Service rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> HuluPlus, Netflix, YouTube</walmart:Streaming-Service>
+        <walmart:Backlight-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LED</walmart:Backlight-Technology>
+        <walmart:Processor-Core rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Quad-core (4 Core)</walmart:Processor-Core>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> UHD Dimming, Progressive Scan, Media Player, Web Browser, Closed Caption, Mirror</walmart:Features>
+        <walmart:Wireless-LAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Wireless-LAN>
+        <walmart:Internet-Access rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Internet-Access>
+        <walmart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:USB>
+        <walmart:Smart-TV rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Smart-TV>
+        <walmart:PC-Streaming rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:PC-Streaming>
+        <walmart:Ethernet rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Ethernet>
+        <walmart:DLNA-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:DLNA-Certified>
+        <walmart:Green-Compliant rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Green-Compliant>
+        <walmart:Electronic-Program-Guide rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Electronic-Program-Guide>
+        <walmart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:HDMI>
+        <walmart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</walmart:Aspect-Ratio>
+        <walmart:Package-Contents rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4K UHD JU6400 Series Smart TV - 40&quot; Class (40&quot; Diag.),Standard Remote Controller,Power Cable,User Manual,E-Manual</walmart:Package-Contents>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:15 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:15">
+        <walmart:viewable_size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42.5&quot; screen measured diagonally from corner to corner</walmart:viewable_size>
+        <walmart:display_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43&quot; LCD panel With a 1920 x 1080 Full HD resolution</walmart:display_type>
+        <walmart:tv_tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in digital tuner Watch digital broadcasts, including HDTV programs where available</walmart:tv_tuner>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DTS StudioSound Get booming surround sound</walmart:sound_effects>
+        <walmart:hdmi_ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDMI Inputs: 2 Enjoy a superior HD experience with HDMI, the one cable audio/video solution</walmart:hdmi_ports>
+        <walmart:image_aspect_ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">True 16:9 aspect ratio View your movies as the director intended</walmart:image_aspect_ratio>
+        <walmart:wall_mount_dimensions rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wall-mountable VESA standard 200mm x 200mm</walmart:wall_mount_dimensions>
+        <walmart:viewing_angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wide 178-degree vertical and 178-degree horizontal angles See a clear picture from anywhere in the room</walmart:viewing_angle>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:16 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:16">
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 	37.99 x 8.27 x 24.53 </walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1080p (HDTV)</walmart:Resolution>
+        <walmart:Contrast-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 200,000:1 dynamic contrast ratio </walmart:Contrast-Ratio>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 25.8 </walmart:Shipping-Weight-in-pounds>
+        <walmart:Walmart-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 555161914 </walmart:Walmart-No.>
+        <walmart:Primary-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Black</walmart:Primary-Color>
+        <walmart:Model-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> D43-C1</walmart:Model-No.>
+        <walmart:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Does Not Contain a Battery</walmart:Battery-Type>
+        <walmart:Tv-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> HDTV </walmart:Tv-Definition>
+        <walmart:Tv-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LED</walmart:Tv-Technology>
+        <walmart:Multi-Pack-Indicator rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> No</walmart:Multi-Pack-Indicator>
+        <walmart:Remote-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Remote-Included>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:2 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:2">
+        <walmart:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved 4K OLED TV</walmart:product_type>
+        <walmart:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</walmart:remote_control_model>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">harmon/kardon Sound</walmart:sound_effects>
+        <walmart:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</walmart:computer_operating_system>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:20 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:20">
+        <walmart:Number-of-Composite-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1</walmart:Number-of-Composite-Video-Inputs>
+        <walmart:Number-of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1</walmart:Number-of-USB-Ports>
+        <walmart:Number-of-Component-Video-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1</walmart:Number-of-Component-Video-Inputs>
+        <walmart:Scan-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1080p</walmart:Scan-Format>
+        <walmart:Enhanced-Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 120 Hz</walmart:Enhanced-Refresh-Rate>
+        <walmart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16:9</walmart:Aspect-Ratio>
+        <walmart:Vertical-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 178 degrees</walmart:Vertical-Viewing-Angle>
+        <walmart:Horizontal-Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 178 degrees</walmart:Horizontal-Viewing-Angle>
+        <walmart:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1920 x 1080</walmart:Maximum-Resolution>
+        <walmart:Number-of-HDMI-Inputs rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2</walmart:Number-of-HDMI-Inputs>
+        <walmart:Total-Number-of-HDMI-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2</walmart:Total-Number-of-HDMI-Ports>
+        <walmart:RMS-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 20 W</walmart:RMS-Output-Power>
+        <walmart:Dynamic-Contrast-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 200,000:1</walmart:Dynamic-Contrast-Ratio>
+        <walmart:Operating-Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 46 W</walmart:Operating-Power-Consumption>
+        <walmart:Standard-Refresh-Rate rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 60 Hz</walmart:Standard-Refresh-Rate>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Ambient Lighting</walmart:Features>
+        <walmart:Motion-Interpolation-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Clear Action 240</walmart:Motion-Interpolation-Technology>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> DTS Studio Sound</walmart:Sound-System>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> DTS TruVolume</walmart:Sound-System>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Dolby Digital</walmart:Sound-System>
+        <walmart:Wireless-LAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> No</walmart:Wireless-LAN>
+        <walmart:USB-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> USB 2.0</walmart:USB-Standard>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Virtual Surround</walmart:Sound-System>
+        <walmart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:HDMI>
+        <walmart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:USB>
+        <walmart:Remote-Control-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Remote-Control-Included>
+        <walmart:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Speakers>
+        <walmart:Digital-Audio-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Digital-Audio-Output>
+        <walmart:Component-Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Component-Video>
+        <walmart:Composite-Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Composite-Video>
+        <walmart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p</walmart:Resolution>
+        <walmart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</walmart:Aspect-Ratio>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43</walmart:Screen-Size>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43-inch</walmart:Screen-Size>
+        <walmart:Volts rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AC 120 V</walmart:Volts>
+        <walmart:Manufacturer-Part-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D43-C1</walmart:Manufacturer-Part-Number>
+        <walmart:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D43-C1</walmart:Model-Number>
+        <walmart:Model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D43-C1</walmart:Model>
+        <walmart:Audio-Track-Codec rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital output</walmart:Audio-Track-Codec>
+        <walmart:Backlight-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Array LED</walmart:Backlight-Technology>
+        <walmart:Display-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED</walmart:Display-Technology>
+        <walmart:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED HDTV</walmart:Product-Type>
+        <walmart:Television-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED TVs</walmart:Television-Type>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Progressive Scan</walmart:Features>
+        <walmart:Connector-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RCA phono x 5 ,  4 pin USB Type A ,  RCA phono x 2 ,  19 pin HDMI Type A ,  TOSLINK</walmart:Connector-Type>
+        <walmart:Condition rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Refurbished</walmart:Condition>
+        <walmart:Is-Remote-Control-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Remote control</walmart:Is-Remote-Control-Included>
+        <walmart:Brand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIZIO</walmart:Brand>
+        <walmart:Product-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vizio D43-C1 43-inch LED HDTV</walmart:Product-Name>
+        <walmart:Is-Energy-Star-Certified rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</walmart:Is-Energy-Star-Certified>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zero Bright Defective Pixel Guarantee ,  On-screen menu</walmart:Features>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:21 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:21">
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 	37.99 x 8.27 x 24.53 </walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1080p (HDTV)</walmart:Resolution>
+        <walmart:Contrast-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 200,000:1 dynamic contrast ratio </walmart:Contrast-Ratio>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 25.8 </walmart:Shipping-Weight-in-pounds>
+        <walmart:Walmart-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 555161914 </walmart:Walmart-No.>
+        <walmart:Primary-Color rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Black</walmart:Primary-Color>
+        <walmart:Model-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> D43-C1</walmart:Model-No.>
+        <walmart:Battery-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Does Not Contain a Battery</walmart:Battery-Type>
+        <walmart:Tv-Definition rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> HDTV </walmart:Tv-Definition>
+        <walmart:Tv-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LED</walmart:Tv-Technology>
+        <walmart:Multi-Pack-Indicator rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> No</walmart:Multi-Pack-Indicator>
+        <walmart:Remote-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Remote-Included>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:22 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:22">
+        <walmart:Product-in-Inches-L-x-W-x-H rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 	14.57 x 5.91 x 12.8</walmart:Product-in-Inches-L-x-W-x-H>
+        <walmart:Connector-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 x headphones ( mini-phone stereo 3.5 mm ) 1 x composite video input ( RCA phono ) 1 x digital audio output (optical) ( TOSLINK ) 1 x audio input ( RCA phono x 2 ) 1 x audio line-in ( mini-phone stereo 3.5 mm ) 1 x USB ( 4 pin USB Type A )</walmart:Connector-Type>
+        <walmart:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.4 in</walmart:Height>
+        <walmart:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.5 in</walmart:Width>
+        <walmart:Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1366 x 768</walmart:Resolution>
+        <walmart:Image-Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</walmart:Image-Aspect-Ratio>
+        <walmart:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 x main channel speaker - built-in 1 x HDMI input ( 19 pin HDMI Type A ) 1 x VGA input ( 15 pin HD D-Sub (HD-15))</walmart:Speakers>
+        <walmart:Weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.9 lbs</walmart:Weight>
+        <walmart:Brightness rdf:datatype="http://www.w3.org/2001/XMLSchema#string">230 cd/m2</walmart:Brightness>
+        <walmart:Image-Contrast-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3000:1</walmart:Image-Contrast-Ratio>
+        <walmart:Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4.6 in</walmart:Depth>
+        <walmart:Viewing-Angle-vertical rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45 degrees</walmart:Viewing-Angle-vertical>
+        <walmart:Shipping-Weight-in-pounds rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.51</walmart:Shipping-Weight-in-pounds>
+        <walmart:Walmart-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">552396283</walmart:Walmart-No.>
+        <walmart:Display-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720p</walmart:Display-Format>
+        <walmart:Input-Video-Formats rdf:datatype="http://www.w3.org/2001/XMLSchema#string">720p, 1080i, 1080p</walmart:Input-Video-Formats>
+        <walmart:Viewing-Angle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">90 degrees</walmart:Viewing-Angle>
+        <walmart:Digital-Tv-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ATSC</walmart:Digital-Tv-Tuner>
+        <walmart:Combined-With rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built-in DVD player</walmart:Combined-With>
+        <walmart:Widescreen-Modes rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Conventional 4:3, Zoom, 16:9, Cinema</walmart:Widescreen-Modes>
+        <walmart:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DVD player ,  Remote control</walmart:Type>
+        <walmart:Electronic-Program-Guide rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital EPG</walmart:Electronic-Program-Guide>
+        <walmart:Compliant-Standards rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FCC</walmart:Compliant-Standards>
+        <walmart:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LED-backlit LCD TV</walmart:Product-Type>
+        <walmart:Analog-Tv-Tuner rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NTSC</walmart:Analog-Tv-Tuner>
+        <walmart:Dimensions--Weight-Details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Panel with stand - 12.5 in x 4.6 in x 10.4 in x 2.9 lbs Panel without stand - 12.5 in x 1.9 in x 9.6 in x 2.6 lbs</walmart:Dimensions--Weight-Details>
+        <walmart:Power-Device rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Power adapter</walmart:Power-Device>
+        <walmart:Model-No. rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TDE1384B</walmart:Model-No.>
+        <walmart:Pc-Interface rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VGA (HD-15)</walmart:Pc-Interface>
+        <walmart:Additional-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volume control ,  Built-in card reader</walmart:Additional-Features>
+        <walmart:V-chip-Control rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:V-chip-Control>
+        <walmart:Parental-Channel-Lock rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Parental-Channel-Lock>
+        <walmart:Hdcp-Compatible rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Hdcp-Compatible>
+        <walmart:Closed-Caption-Capability rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Closed-Caption-Capability>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:3 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:3">
+        <walmart:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved 4K OLED TV</walmart:product_type>
+        <walmart:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</walmart:remote_control_model>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">harmon/kardon Sound</walmart:sound_effects>
+        <walmart:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</walmart:computer_operating_system>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:4 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:4">
+        <walmart:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved 4K OLED TV</walmart:product_type>
+        <walmart:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</walmart:remote_control_model>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">harmon/kardon Sound</walmart:sound_effects>
+        <walmart:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</walmart:computer_operating_system>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:5 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:5">
+        <walmart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16:9</walmart:Aspect-Ratio>
+        <walmart:Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2&quot;</walmart:Depth>
+        <walmart:RMS-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 20 W</walmart:RMS-Output-Power>
+        <walmart:Energy-Consumption-per-Year rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 214 kWh</walmart:Energy-Consumption-per-Year>
+        <walmart:Scan-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2160p</walmart:Scan-Format>
+        <walmart:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 28.3&quot;</walmart:Height>
+        <walmart:Height-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 29.90&quot;</walmart:Height-with-Stand>
+        <walmart:Number-of-HDMI-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3</walmart:Number-of-HDMI-Ports>
+        <walmart:Number-of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3</walmart:Number-of-USB-Ports>
+        <walmart:Standby-Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 300 mW</walmart:Standby-Power-Consumption>
+        <walmart:Weight-Approximate rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 33.70 lb</walmart:Weight-Approximate>
+        <walmart:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3840 x 2160</walmart:Maximum-Resolution>
+        <walmart2:D-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3D</walmart2:D-Type>
+        <walmart:Weight-with-Stand-Approximate rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 41.60 lb</walmart:Weight-with-Stand-Approximate>
+        <walmart:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 48.3&quot;</walmart:Width>
+        <walmart:Width-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 48.30&quot;</walmart:Width-with-Stand>
+        <walmart:Video-Signal-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 4K UHDTV</walmart:Video-Signal-Standard>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 55-inch</walmart:Screen-Size>
+        <walmart:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 55EG9600</walmart:Model-Number>
+        <walmart:Depth-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 8.40&quot;</walmart:Depth-with-Stand>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> DTS</walmart:Sound-System>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Dolby Digital</walmart:Sound-System>
+        <walmart:Product-Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> EG9600</walmart:Product-Series>
+        <walmart:Ethernet-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Ethernet</walmart:Ethernet-Technology>
+        <walmart:Product-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LG 55EG9600 55-inch OLED Smart 3D 4K Ultra HDTV</walmart:Product-Name>
+        <walmart:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> OLED Smart 3D 4K Ultra HDTV</walmart:Product-Type>
+        <walmart2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Polarized</walmart2:D-Technology>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Surround</walmart:Sound-System>
+        <walmart:USB-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> USB 3.0</walmart:USB-Standard>
+        <walmart:Interactive-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Voice Control</walmart:Interactive-Features>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Web Browser</walmart:Features>
+        <walmart:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> WebOS 2.0</walmart:Operating-System>
+        <walmart:Media-Player rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Media-Player>
+        <walmart:Remote-Control-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Remote-Control-Included>
+        <walmart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:USB>
+        <walmart:Digital-Audio-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Digital-Audio-Output>
+        <walmart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:HDMI>
+        <walmart:PC-Streaming rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:PC-Streaming>
+        <walmart:Network-RJ-45 rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Network-RJ-45>
+        <walmart:Composite-Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Composite-Video>
+        <walmart2:D-Glasses-Required rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart2:D-Glasses-Required>
+        <walmart:Internet-Access rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Internet-Access>
+        <walmart:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Speakers>
+        <walmart:Wireless-LAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Wireless-LAN>
+        <walmart:Ethernet rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Ethernet>
+        <walmart:Component-Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Component-Video>
+        <walmart:Smart-TV rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</walmart:Smart-TV>
+        <walmart:Streaming-Service rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> YouTube</walmart:Streaming-Service>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:6 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:6">
+        <walmart:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved 4K OLED TV</walmart:product_type>
+        <walmart:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</walmart:remote_control_model>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">harmon/kardon Sound</walmart:sound_effects>
+        <walmart:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</walmart:computer_operating_system>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:7 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:7">
+        <walmart:Product-Series rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> EG9600</walmart:Product-Series>
+        <walmart:Aspect-Ratio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16:9</walmart:Aspect-Ratio>
+        <walmart:Depth rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2&quot;</walmart:Depth>
+        <walmart:RMS-Output-Power rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 W</walmart:RMS-Output-Power>
+        <walmart:Energy-Consumption-per-Year rdf:datatype="http://www.w3.org/2001/XMLSchema#string">214 kWh</walmart:Energy-Consumption-per-Year>
+        <walmart:Scan-Format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2160p</walmart:Scan-Format>
+        <walmart:Height rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.3&quot;</walmart:Height>
+        <walmart:Height-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.90&quot;</walmart:Height-with-Stand>
+        <walmart:Number-of-HDMI-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</walmart:Number-of-HDMI-Ports>
+        <walmart:Number-of-USB-Ports rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</walmart:Number-of-USB-Ports>
+        <walmart:Standby-Power-Consumption rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300 mW</walmart:Standby-Power-Consumption>
+        <walmart:Weight-Approximate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33.70 lb</walmart:Weight-Approximate>
+        <walmart:Maximum-Resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3840 x 2160</walmart:Maximum-Resolution>
+        <walmart2:D-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3D</walmart2:D-Type>
+        <walmart:Weight-with-Stand-Approximate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41.60 lb</walmart:Weight-with-Stand-Approximate>
+        <walmart:Width rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.3&quot;</walmart:Width>
+        <walmart:Width-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48.30&quot;</walmart:Width-with-Stand>
+        <walmart:Video-Signal-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4K UHDTV</walmart:Video-Signal-Standard>
+        <walmart:Screen-Size rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55-inch</walmart:Screen-Size>
+        <walmart:Model-Number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55EG9600</walmart:Model-Number>
+        <walmart:Depth-with-Stand rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8.40&quot;</walmart:Depth-with-Stand>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DTS</walmart:Sound-System>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dolby Digital</walmart:Sound-System>
+        <walmart:Ethernet-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ethernet</walmart:Ethernet-Technology>
+        <walmart:Product-Name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LG 55EG9600 55-inch OLED Smart 3D 4K Ultra HDTV</walmart:Product-Name>
+        <walmart:Product-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OLED Smart 3D 4K Ultra HDTV</walmart:Product-Type>
+        <walmart2:D-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polarized</walmart2:D-Technology>
+        <walmart:Sound-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surround</walmart:Sound-System>
+        <walmart:USB-Standard rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB 3.0</walmart:USB-Standard>
+        <walmart:Interactive-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voice Control</walmart:Interactive-Features>
+        <walmart:Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Web Browser</walmart:Features>
+        <walmart:Operating-System rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WebOS 2.0</walmart:Operating-System>
+        <walmart:USB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:USB>
+        <walmart:PC-Streaming rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:PC-Streaming>
+        <walmart:Digital-Audio-Output rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Digital-Audio-Output>
+        <walmart:Remote-Control-Included rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Remote-Control-Included>
+        <walmart:Media-Player rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Media-Player>
+        <walmart:Speakers rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Speakers>
+        <walmart:Smart-TV rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Smart-TV>
+        <walmart:Ethernet rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Ethernet>
+        <walmart:Component-Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Component-Video>
+        <walmart:Network-RJ-45 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Network-RJ-45>
+        <walmart2:D-Glasses-Required rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart2:D-Glasses-Required>
+        <walmart:Wireless-LAN rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Wireless-LAN>
+        <walmart:Internet-Access rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Internet-Access>
+        <walmart:Composite-Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:Composite-Video>
+        <walmart:HDMI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yes</walmart:HDMI>
+        <walmart:Streaming-Service rdf:datatype="http://www.w3.org/2001/XMLSchema#string">YouTube</walmart:Streaming-Service>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:8 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:8">
+        <walmart:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved 4K OLED TV</walmart:product_type>
+        <walmart:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</walmart:remote_control_model>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">harmon/kardon Sound</walmart:sound_effects>
+        <walmart:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</walmart:computer_operating_system>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- walmart.com:9 -->
+
+    <owl:NamedIndividual rdf:about="walmart.com:9">
+        <walmart:product_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curved 4K OLED TV</walmart:product_type>
+        <walmart:remote_control_model rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Magic Remote</walmart:remote_control_model>
+        <walmart:sound_effects rdf:datatype="http://www.w3.org/2001/XMLSchema#string">harmon/kardon Sound</walmart:sound_effects>
+        <walmart:computer_operating_system rdf:datatype="http://www.w3.org/2001/XMLSchema#string">webOS 2.0 Smart TV</walmart:computer_operating_system>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

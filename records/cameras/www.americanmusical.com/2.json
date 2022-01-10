@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "boxcontents": "ProMic LASER shotgun microphone Custom-designed shock-mount Mic cable with 3.5mm jack Protective carry bag Foam windshield",
+    "power": "AAA 1.5V battery powered (battery not included)",
+    "label1": "ProMic LASER shotgun microphone",
+    "sensitivity": "-30dB \u00b12dB",
+    "label3": "Mic cable with 3.5mm jack",
+    "label4": "Protective carry bag",
+    "label5": "Foam windshield",
+    "controls": "10dB Pad, Bass Cut and On/Off switch",
+    "current": "1mA",
+    "voltage": "1.5V DC",
+    "type": "Back-electret condenser shotgun microphone",
+    "label2": "Custom-designed shock-mount"
+}

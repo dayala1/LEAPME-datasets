@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "selftimer": "Approx. 10sec. / 2sec. delay",
+    "movierecording": "1280 x 720 (24 frames/sec.) / 640 x 480 pixels (30 frames/sec.) /",
+    "lens": "Fujinon 3x optical zoom lens, F3.7(Wide) \u2013 F4.2(Telephoto)",
+    "exposurecontrol": "TTL 256-zones metering, Multi, Spot, Average",
+    "weight": "250 gms",
+    "aperturerange": "Wide",
+    "battery": "NP-50 Li-ion battery",
+    "imagesensor": "1/2.3-inch CCD x2",
+    "exposuremode": "Programmed AE, Aperture Priority AE, Manual",
+    "focus": "Single AF",
+    "terminal": "USB 2.0 High-Speed, HDMI 1.4-3D compliant, HDMI mini-terminal",
+    "focallength": "f=6.3 \u2013 18.9mm, equivalent to 35 \u2013 105 mm on a 35mm camera",
+    "effectivepixels": "10.0 million pixels",
+    "storagemedia": "SD / SDHC",
+    "lcdscreensize": "3.5-inch, Approx. 1,150,000 dots color LCD monitor with Lenticular type, Approx. 100% coverage",
+    "label11": "320 x 240 pixels (30 frames/sec.) with stereo sound",
+    "sensitivity": "ISO 1600",
+    "dimensions": "124.0 (W) x 65.9(H) x 27.8 (D) mm"
+}

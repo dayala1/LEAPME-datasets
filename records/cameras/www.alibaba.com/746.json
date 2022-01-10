@@ -1,0 +1,23 @@
+{
+    "powersupply": "DC12V/2A",
+    "osdcontrol": "Supports channel name,date,andvideo stream information",
+    "effectivepixels": "1280 (H) * 960 (V)",
+    "imagesettings": "Saturation,brightness,contrast adjustable through client or web browser",
+    "networkport": "1 RJ45 10/100M self-adaptive Ethernet port",
+    "network": "Internal Web Serve,Support IE Access service",
+    "system": "Embedded RTOS design,pure hardware compression",
+    "operatingconditions": "10\u00b0C~60\u00b0C;Humidity 90% or less (non-condensing)",
+    "daynight": "IR cut filter with auto switch",
+    "networkstorage": "Local network storage,Integrating multiple network storage protocols",
+    "category": "camera",
+    "minimumillumination": "Color 0.1Lux/F1.2;B/W 0.001Lux/F1.2",
+    "videostandard": "H.264",
+    "lens": "6mm(4-16mm optional)",
+    "irdistance": "25 Meters",
+    "bitrate": "32Kbps ~ 6Mbps can be set",
+    "imagesensor": "1/3\" 1.3 Megapixel line by line CMOS \u00a0sensor",
+    "framerate": "1 to 30 FPS adjustable",
+    "intelligentalarm": "Motion detection,video occlusion,video loss and set alarm time",
+    "model": "CLG-102M13",
+    "resolution": "Main stream:1280*960;Sub stream:704*576"
+}

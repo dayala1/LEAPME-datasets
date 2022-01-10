@@ -1,0 +1,22 @@
+{
+    "weight": "180g (0.4 pounds)",
+    "useraccounts": "20",
+    "networkinterface": "10/100Mb Ethernet RJ45",
+    "operatingsystem": "Windows 2000, XP, Vista, 7",
+    "category": "camera",
+    "videostreaming": "Simultaneously H.264 & MJPEG",
+    "sdram": "1028MB",
+    "dimensions": "110mm x 50mm (4.3\" x 2\"",
+    "housing": "IP66 rated for rain & dust protection",
+    "operatingconditions": "Humidity 10% to 90%, no condensation",
+    "power": "802.3af compliant PoE, 3W",
+    "videocompression": "H.264 MJPEG",
+    "webbrowser": "Firefox, Safari, IE 6.x or above",
+    "networkprotocol": "TCP/IP, UDP, RTP, RTSP, HTTP, ICMP, FTP, SMTP, DHCP, & IGMP",
+    "interface": "RJ45 dongle",
+    "manufacturer": "Level One",
+    "certifications": "CE, FCC, RoHS compliant",
+    "operatingtemperature": "-20\u00b0C to 50\u00b0C (-4\u00b0F to 122\u00b0F)",
+    "upc": "846359001301",
+    "digitalzoom": "16x"
+}

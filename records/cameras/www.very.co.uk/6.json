@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "wirelessconnection": "Wireless LAN",
+    "productdescription": "GoPro HERO3+ - Black Edition - action camera - storage: flash card",
+    "memorycardslot": "microSD card",
+    "focusadjustment": "Focus free",
+    "lenssystem": "Wide-angle lens - f/2.8",
+    "weight": "74 g",
+    "mediatype": "Flash card",
+    "sensorresolution": "12.0 Mpix",
+    "supportedbattery": "1 x Li-ion rechargeable battery - 1180 mAh ( included )",
+    "producttype": "Action camera - 4K - widescreen",
+    "effectivesensorresolution": "Photo: 12.0 Mpix"
+}

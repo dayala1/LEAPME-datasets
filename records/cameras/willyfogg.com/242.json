@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "lcddisplay": "none 4.3 in. (+US$60.00) 7 in. (+US$99.00)",
+    "led": "GPIO LED and PWM LED driver",
+    "usb": "2x USB Host, USB-OTG",
+    "rs485": "RS485 test",
+    "system": "getting-startedBoot up chip and configure peripherals",
+    "lcd": "Configure LCD controller",
+    "filesystem": "Android file systemAndroid 2.3.5",
+    "gpio": "GPIO driver",
+    "audio": "WM8731 audio driver",
+    "datatransfer": "adc_adc10Demonstrate ADC"
+}

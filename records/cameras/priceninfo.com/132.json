@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videorecordingformat": "MPEG-2",
+    "microphone": "Stereo Condenser Microphone",
+    "analogoutput": "No",
+    "dimensions": "55x59x121mm",
+    "weight": "225 gm",
+    "shootingmodes": "Auto, Program, Portrait, Sports, Night, Snow, Beach, Sunset, Spotlight, Fireworks",
+    "imagesensor": "1/6-inch CCD Sensor",
+    "imagestabilizer": "Electronic stabilizer",
+    "inputoutput": "AV Cable",
+    "digitalzoom": "2000x (Movie mode only)",
+    "lensconfiguration": "10 Elements in 8 groups, 1 High-Refraction glass & 1 Double-Sided Aspherical Lens used, f2.0 \u2013 5.2",
+    "shutterspeedrange": "1/6 \u2013 1/2000(Tv Mode), 1/25 \u2013 1/500 (Auto mode) and 1/8 \u2013 1/500 (Night mode)",
+    "memory": "SD / SDHC/ SDXC memory card, Built-in memory",
+    "lcdmonitor": "2.7-inch LCD",
+    "battery": "Rechargeable lithium battery BP808"
+}

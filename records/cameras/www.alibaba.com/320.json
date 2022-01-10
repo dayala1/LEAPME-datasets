@@ -1,0 +1,15 @@
+{
+    "motiondetection": "Support",
+    "category": "camera",
+    "minillumination": "0\u00a0Lux\u00a0(with\u00a0IR\u00a0on)",
+    "imagesensor": "1/3\"\u00a0CMOS",
+    "exposuremode": "Auto",
+    "material": "Aluminum\u00a0Alloy",
+    "powersupply": "DC12V",
+    "lens": "CS",
+    "whitebalance": "Auto",
+    "lensmount": "3.6,\u00a06,\u00a08mm\u00a0Optional",
+    "resolution": "Max\u00a01280*960",
+    "videoframerate": "Max\u00a025fps",
+    "privacymasking": "Supports\u00a04\u00a0zone\u00a0masking"
+}

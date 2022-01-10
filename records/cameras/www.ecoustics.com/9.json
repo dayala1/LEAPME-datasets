@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "lcdpixels": "Approx. 230,000 dots",
+    "features": "HD Video Recording",
+    "autofocussystem": "TTL Autofocus",
+    "builtinflash": "Yes",
+    "sensitivity": "Auto, ISO 100/200/400/800/1600 (in P mode)",
+    "megapixels": "16",
+    "opticalzoom": "8x",
+    "digitalzoom": "4x",
+    "exposurecontrolmethod": "AE Lock",
+    "maximumaperture": "f/3.0 (W) \u2013 f/5.9 (T)",
+    "shutterspeedrange": "15 \u2013 1/2000 sec",
+    "type": "Point and Shoot, Ultra-compact",
+    "storagemedia": "SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "lcdmonitor": "3.0-inch TFT Color (wide viewing angle type)",
+    "shutterspeed": "1 \u2013 1/2000 sec."
+}

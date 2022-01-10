@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "shutter": "30-1/8000 sec (1/2 or 1/3 stop increments), Bulb (Total shutter speed range. Available range varies by shooting mode)",
+    "shooting": "Max. Approx. 5.3fps. (speed maintained for minimum of approx 58 images (JPEG), 16 images (RAW)",
+    "lcdmonitor": "Vari angle 7.7cm (3.0\") 3:2 Clear View TFT, approx. 1040K dots",
+    "dimensions": "144.5 x 105.8 x 78.6mm",
+    "weight": "Approx. 755g",
+    "imagesensor": "22.3mm x 14.9mm CMOS; Approx. 18.0 megapixels",
+    "flash": "Auto, Manual flash, Integrated Speedlite Transmitter",
+    "memorycard": "SD card, SDHC card or SDXC card",
+    "lens": "EF-S 18-135mm f/3.5-5.6 IS",
+    "interface": "Hi-Speed USB, Video output (PAL/ NTSC) (integrated with USB terminal), HDMI mini output (HDMI-CEC compatible), External microphone (3.5mm Stereo mini jack)",
+    "other": "Color Black",
+    "focusing": "9 cross-type AF points (f/2.8 at centre)",
+    "viewfinder": "Pentaprism, Approx. 96% Coverage",
+    "imageprocessor": "DIGIC 4",
+    "whitebalance": "AWB, Daylight, Shade, Cloudy, Tungsten, White; Fluorescent light, Flash, Custom, Colour Temperature Setting.",
+    "exposurecontrol": "TTL full aperture metering with 63 zone SPC; Auto (100-3200), 100-6400 (in 1/3-stop or whole stop increments) ISO can be expanded to H: 12800"
+}

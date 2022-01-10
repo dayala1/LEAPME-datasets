@@ -1,0 +1,22 @@
+{
+    "weight": "140 gm",
+    "isosensitivity": "AUTO, 100, 200, 400, 800, 1600, 3200",
+    "label12": "HDMI-Out, USB",
+    "label16": "Approx. 300 min. playback",
+    "label14": "Rechargeable Li-ion Battery NB-4L (battery and charger supplied)",
+    "category": "camera",
+    "continuousshooting": "Approx. 3.4 shots/se",
+    "dimensions": "93.1 x 55.8 x 19.9 mm",
+    "batterylife": "230 shots",
+    "afmodes": "Single, Continuous (Auto mode only), Servo AF/E, Tracking AF",
+    "label9": "Face Detection FE, Smart Flash Exposure",
+    "focallength": "5.0 \u2013 20.0 mm (35 mm equivalent",
+    "label1": "Optical 4x Zoom and 4X Digital Zoom Combined Approx. 16x",
+    "closestfocusingdistance": "3 cm (W) from front of lens in macro",
+    "maximumfnumber": "f/2.8 \u2013 f/5.9",
+    "memorycard": "SD, SDHC, SDXC, MMC, MMCplus, HCMMCplus",
+    "shutterspeed": "1 \u2013 1/1500 sec. (factory default)",
+    "focusingtype": "TTL, AF System/ Points \u2013 AiAF (Face Detection / 9-point), 1-point AF (fixed to centre)",
+    "builtinflashrange": "30 cm \u2013 4.0 m (W) / 50cm \u2013 2.0 m (T)",
+    "whitebalancesettings": "Auto (including Face Detection WB), Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, Custom"
+}

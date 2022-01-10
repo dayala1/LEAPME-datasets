@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "filterattachmentsize": "72 mm (P=0.75 mm)",
+    "weight": "Approx. 465 g (16.4 oz)",
+    "focallength": "24-85 mm",
+    "lensconstruction": "16 elements in 11 groups (including 1 ED lens element and 3 aspherical lens elements)",
+    "noofdiaphragmblades": "7 (rounded diaphragm opening)",
+    "minimumfocusdistance": "0.38 m (1.25 ft) from focal plane at all zoom positions",
+    "angleofview": "Nikon film SLR and FX-format D-SLR cameras: 84\u00b0\u201328\u00b0 30\u2032 Nikon DX-format D-SLR cameras: 61\u00b0\u201318\u00b0 50\u2032 IX240 system cameras: 71\u00b0\u201322\u00b0 50\u2032",
+    "focusing": "Nikon Internal Focusing (IF) System with autofocus controlled by Silent Wave Motor and separate focus ring for manual focus",
+    "dimensions": "Approx. 78 mm maximum diameter x 82 mm (distance from camera lens mount flange)",
+    "minimumaperture": "f/22-29",
+    "maximumreproductionratio": "Approx. 0.22x",
+    "maximumaperture": "f/3.5-4.5"
+}

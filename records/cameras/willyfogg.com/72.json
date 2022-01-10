@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "dimensions": "60 \u00c3\u0097 8 \u00c3\u0097 4.26 mm (L\u00c3\u0097W\u00c3\u0097H)",
+    "operatingtemp": "0 to 70 \u00c2\u00b0C",
+    "powerconsumption": "Idle: 50mA \u00c2\u00b15mA Operating: 100mA \u00c2\u00b110mA @ 640\u00c3\u0097480 / 15 fps",
+    "maxframerate": "15 fps SXGA YUV format",
+    "powersupply": "Through USB",
+    "supportedresolutions": "640\u00c3\u0097480 352\u00c3\u0097288 320\u00c3\u0097240 176\u00c3\u0097144 160\u00c3\u0097120 1280\u00c3\u0097960 1280\u00c3\u00971024",
+    "sensorresolution": "1304 \u00c3\u0097 1036, SVGA",
+    "interface": "USB2.0 High-Speed Host",
+    "pixelsize": "2 \u00c3\u0097 2 \u00c2\u00b5m"
+}

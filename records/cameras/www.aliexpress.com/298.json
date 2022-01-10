@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "iscustomized": "Yes",
+    "photoresolution": "12M / 8M / 5M",
+    "language": "English,German,French,Spanish,Italian,Portuguese,Japanese,Russian",
+    "battery": "Built-in 3.7V / 1000mAh lithium battery",
+    "videoresolution": "1920*1080P@30fps, 1080*720p@60fps, 848*480, 640*480",
+    "mediatype": "MiniDV",
+    "opticalzoom": "< 10x",
+    "memorycard": "support TF card, up to 32GB",
+    "lens": "170 degree wide view lens",
+    "lcd": "1.5 inch LTPS (4:3)",
+    "modelnumber": "SJ3000",
+    "screensize": "< 2\"",
+    "photoformat": "JPG",
+    "type": "Portable",
+    "highdefinitionsupport": "1080P (Full-HD)",
+    "videoformat": "MOV"
+}

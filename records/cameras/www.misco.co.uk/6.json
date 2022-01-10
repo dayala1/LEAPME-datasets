@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "productdescription": "Sony DSC-RX100 20.2MP Black Digital Camera",
+    "supportedmemorycards": "Memory Stick\u2122 Duo / Memory Stick PRO Duo\u2122 / Memory Stick PRO Duo\u2122 (high speed) / Memory Stick PRO HG Duo\u2122 / Memory Stick Micro* / Memory Stick Micro (mark 2)*",
+    "exposurecontrol": "\u00b1 3.0EV, 1/3EV step",
+    "weight": "213g",
+    "autofocussystem": "AF Illuminator",
+    "focallength": "f=28-100mm",
+    "isosensitivity": "Auto (ISO125-6400, selectable with upper / lower limit),125/200/400/800/1600/3200/6400 (Extendableto ISO80/100),Multi-Frame NR:Auto(ISO125-25600)",
+    "opticalzoom": "3.6x",
+    "lcdscreensize": "7.5cm(3type)",
+    "flashmodes": "Auto / Flash On / Long Flash / Slow Synchro / Flash Off",
+    "producttype": "Digital camera",
+    "effectivemegapixels": "Approx 20.2",
+    "dimensionswxdxh": "101.6 x 58.1 x 35.9",
+    "whitebalance": "Auto, Daylight, Shade, Cloudy, Incandescent, Fluorescent warm white, Fluorescent cool white, Fluorescent day white, Fluorescent daylight, Flash, C.Temp./Filter, Custom"
+}

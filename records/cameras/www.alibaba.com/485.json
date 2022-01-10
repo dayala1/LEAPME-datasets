@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "videooutput": "Main\u00a0stream\u00a0date\u00a0rate:\u00a0\u00a01280\u00d7960,1280\u00d7720;",
+    "imagedevice": "5.0\u00a0mega\u00a0Pixcel\u00a01/3\"CMOS,\u00a0Color:\u00a00.1Lux at F1.2;\u00a0Black\u00a0and\u00a0white:\u00a00.01\u00a0Lux at F1.2",
+    "network": "Ethernet:10/100Mbps\u00a0RJ-45",
+    "power": "DV\u00a0Power\u00a0\u00a05V",
+    "communicationsprotocol": "TCP/IP,\u00a0UDP,\u00a0ICMP,\u00a0DHCP,NTP,\u00a0DNS,\u00a0DDNS,\u00a0SMTP,\u00a0FTP,\u00a0HTTP,\u00a0RTMP\u00a0,\u00a0RTDP,\u00a0Samba,\u00a0PPPoE,\u00a0UPnP,\u00a0RTP,\u00a0RTSP,\u00a0RTCP",
+    "alarm": "Motion\u00a0Detection\u00a0auto\u00a0push\u00a0\u00a0and\u00a0SOS\u00a0one\u00a0key\u00a0trigger",
+    "fieldofview": "140\u00a0\u00a0degree\u00a0wide\u00a0angle\u00a0view\u00a0(\u00a0diagonal\u00a0)",
+    "storage": "Support\u00a032GB\u00a0micro\u00a0sd\u00a0card\u00a0storage,\u00a0support\u00a0NAS,\u00a0NVR\u00a0storage\u00a0(option)",
+    "solution": "Texas\u00a0Instruments\u00a0Davinci\u00a0DM365,\u00a0hardware\u00a0compression,\u00a0Internal\u00a0Linux\u00a0system",
+    "video": "H.264\u00a0encoding\u00a0AV;\u00a0\u00a0720p\u00a0HD\u00a01280\u00d7720\u00a0at\u00a030\u00a0frames/sec,\u00a0support\u00a0the\u00a0double\u00a0data\u00a0rate,\u00a00.1M~6Mpbs",
+    "audio": "G.726/711\u00a0\u00a0Audio\u00a0Video\u00a0Coding\u00a0Standard",
+    "ircut": "IR-Cut\u00a0supported,\u00a0Color\u00a0filter\u00a0automatically\u00a0switches,\u00a0support\u00a0Day\u00a0and\u00a0night\u00a0automatically\u00a0convert"
+}

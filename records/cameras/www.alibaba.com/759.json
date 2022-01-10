@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "battery": "Battery\u00a0capacity1\u00a0500mAh,\u00a0(works\u00a0for 3 hours)",
+    "wifi": "System\u00a0requirementSupport\u00a0Iphone(IOS),\u00a0Android,\u00a0Windows\u00a0all",
+    "framerate": "5\u00a0to 30fps (Adjustable\u00a0in\u00a0computer\u00a0client\u00a0end)",
+    "supportedprotocols": "HTTP,DNS,DHCP,PPPOE,SMTP,FIP,SSL,TFTP,NTP,ARP, PARP,IVFS,RTSP,RTP,RTCP\u00a0etc",
+    "lens": "Viewing\u00a0angle90\u00b0\u00a0ultra-wide\u00a0angle",
+    "chargingtime": "8hours\u00a0(with\u00a0circuit\u00a0protection\u00a0for o vercharge ,\u00a0it\u00a0can\u00a0work\u00a0during\u00a0charging )",
+    "memory": "Type\u00a0of\u00a0memory\u00a0cardTF\u00a0flash\u00a0card(supports 512MB to\u00a032GB)",
+    "interface": "InputDC\u00a05V\u00a01A",
+    "wirelessstandard": "IEEE\u00a0802.11b/g/n",
+    "videoformat": "AVI (\u00a0with\u00a0H.264\u00a0compressed\u00a0format)"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "1.0V peak to peak @ 75 Ohms",
+    "temperature": "Working: -10 ~ 50\u00b0 C (14 ~ 122\u00b0 F) Storage: -20 ~ 70\u00b0 C (-4 ~ 158\u00b0 F)",
+    "weight": "775g (1.7 lb)",
+    "minimumillumination": "0 Lux w/ IR LEDs",
+    "snratio": "More than 48db (AGC Off)",
+    "imagingsensor": "KGUARD Fulcolor image sensor",
+    "lens": "4 ~ 9mm Vari-Focal Lens",
+    "effectivevideoresolution": "728 x 560 pixels, 600 TVL",
+    "viewangle": "27 ~ 60\u00b0",
+    "electronicshutter": "NTSC: 1/60 ~ 1/100,000 second PAL: 1/50 ~ 1/100,000 second",
+    "irledillumination": "Works up to 40m (131 feet)",
+    "dimension": "315 x 102 x 102mm (12.4 x 4.0 x 4.0\")",
+    "backlight": "Auto Backlight Compensation"
+}

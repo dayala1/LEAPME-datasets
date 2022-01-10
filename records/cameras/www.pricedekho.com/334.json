@@ -1,0 +1,22 @@
+{
+    "videodisplayresolution": "NA",
+    "metering": "Face",
+    "displaytype": "LCD",
+    "lenstype": "Lumix DC Vario",
+    "manualfocus": "Normal",
+    "continuousshots": "Up to 6 fps (Recorded in 3m for 4:3, 2.5m for 3:2, 2m for 16:9)",
+    "category": "camera",
+    "dustreduction": "NA",
+    "facedetection": "Yes; Photo",
+    "redeyereduction": "Yes",
+    "selftimer": "2 sec, 10 sec",
+    "autofocus": "Macro, Normal,",
+    "focallength": "5 - 20 mm (35 mm Equivalent to 28 - 112 mm)",
+    "isorating": "80 / 100 / 200 / 400 / 800 / 1600",
+    "whitebalancing": "Auto, Cloudy, Daylight, Halogen, Shade, White Set",
+    "colorfilter": "Primary Color",
+    "screensize": "2.7 Inches",
+    "microphone": "Yes",
+    "shootingmodes": "Auto, Shutter Priority , Creative Filters, Discreet & Movie, Easy, Live View Control, Manual, Movie Digest, Program, SCN, Shutter Priority",
+    "imagedisplayresolution": "230000 Dots"
+}

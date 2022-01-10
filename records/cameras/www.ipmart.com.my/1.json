@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "weight": "505g include battery",
+    "cameratype": "Digital SLR",
+    "builtinflash": "Yes (Pop-up)",
+    "processor": "Expeed 3",
+    "sensortype": "CMOS",
+    "effectivepixels": "Approx. 24.2 megapixels",
+    "viewfindertype": "Optical (pentamirror)",
+    "storagetypes": "SD/SDHC/SDXC UHS-I compliant",
+    "maxresolution": "6016 x 4000",
+    "displayscreen": "3'' TFT-LCD (921,000)",
+    "shutterspeed": "1/4000 - 30 second",
+    "dimension": "4.92 x 3.78 x 3.03'' / 125 x 96 x 77 mm"
+}

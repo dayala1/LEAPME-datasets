@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "widefocusshutterresponse": "0.175 secs",
+    "continuousshooting": "2.3 fps",
+    "shutterresponse": "0.09 secs",
+    "shottoshotwithflash": "1.9 secs",
+    "shottoshotwithoutflash": "0.9 secs",
+    "fullzoomfocusshutterresponse": "0.25 secs",
+    "switchontimetotakingaphoto": "1.5 secs",
+    "highspeedburst": "5.2 fps"
+}

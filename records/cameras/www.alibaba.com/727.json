@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "datarate": "801.11b:\u00a011MBps\u00a0(max),\u00a0802.11g:\u00a054Mbps\u00a0(max)",
+    "flipmirrorimages": "Vertical/Horizontal",
+    "lightfrequency": "50Hz,\u00a060Hz,\u00a0or\u00a0Outdoor",
+    "minillumination": "0.1\u00a0LUX",
+    "imagesensor": "1/4\"\u00a01.0\u00a0Megapxiel\u00a0HD\u00a0CMOS\u00a0Camera\u00a0Lens",
+    "supportedprotocol": "HTTP,\u00a0FTP,\u00a0TCP/IP,\u00a0UDP,\u00a0SMTP,\u00a0PPPoE,\u00a0DDNS,\u00a0UPnP",
+    "framerate": "30fps\u00a0(HD),\u00a030fps\u00a0(QVGA)",
+    "powersupply": "DC\u00a05V\u00a0(Standard\u00a0AC\u00a0outlet\u00a0Power)",
+    "pcrequirements": "Windows\u00a02000/XP/Vista/7\u00a0(For\u00a0initial\u00a0setup)",
+    "ethernet": "One\u00a010/100Mbps\u00a0RJ-45",
+    "videoparameters": "Brightness,\u00a0Contrast",
+    "resolution": "1280x720",
+    "wirelesssecurity": "64/128-bit\u00a0WEP\u00a0Encryption",
+    "viewingangle": "67\u00a0Degrees"
+}

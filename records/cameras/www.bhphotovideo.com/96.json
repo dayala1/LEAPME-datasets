@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "processor": "Apple\u00a0A7\u00a0with 64-bit architecture & M7 motion coprocessor",
+    "nfc": "No",
+    "temperature": "Operating 32 to 95\u00b0F (0 to 35\u00b0C) Humidity: 5 - 95% Storage -4 to 113\u00b0F (-20 to 45\u00b0C) Humidity: 5 - 95%",
+    "weight": "1 lb\u00a0/\u00a0.45 kg",
+    "battery": "Built-In\u00a0Lithium-Polymer Providing up to 10 Hours per Charge (32.4\u00a0Wh)",
+    "wifi": "802.11a/b/g/n",
+    "storage": "Flash\u00a0128\u00a0GB",
+    "bluetooth": "Bluetooth \u00a04.0",
+    "ports": "1x Lightning",
+    "camera": "Front: 1.2\u00a0MP Back: 5.0\u00a0MP",
+    "chipset": "Apple\u00a0A7",
+    "dimensionswxhxd": "6.6 x 9.4 x 0.3\"\u00a0/\u00a016.8 x 23.9 x 0.8 cm",
+    "audio": "Integrated\u00a0Stereo Speakers 2x Integrated\u00a0Microphone 1x 1/8\" (3.5 mm)\u00a0Headphone/Microphone",
+    "type": "Capacitive",
+    "operatingsystem": "iOS\u00a07",
+    "backlight": "LED",
+    "size": "9.7\""
+}

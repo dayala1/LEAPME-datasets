@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "autofocustype": "TTL contrast detection",
+    "focusadjustment": "Automatic",
+    "flashtype": "Built-in flash",
+    "shootingmodes": "Frame Movie Mode",
+    "operatingsystemsupported": "Apple Mac OS X 10.3 or later      \u2022           MS Windows 2000      \u2022           MS Windows XP",
+    "brand": "Kodak",
+    "exposuremodes": "Automatic      \u2022           Program",
+    "sensortype": "CCD",
+    "displaytype": "LCD",
+    "specialeffects": "Sepia      \u2022           Neutral      \u2022           High color      \u2022           Low color      \u2022           Black & White",
+    "additionalfeatures": "Digital Image Rotation      \u2022           Orientation Detection      \u2022           DPOF Support      \u2022           USB 2.0 Compatibility      \u2022           Audio Recording      \u2022           Cropping An Image      \u2022           Histogram Display      \u2022           Direct Print      \u2022           Date/Time Stamp      \u2022           Digital Image Stabilization      \u2022           Sharpness Control      \u2022           Edit Function      \u2022           PictBridge Support      \u2022           Auto Power Save      \u2022           Blur Warning      \u2022           Red eye Fix      \u2022           Built-In Speaker",
+    "digitalvideoformat": "QuickTime (MPEG-4)",
+    "supportedflashmemory": "MultiMediaCard      \u2022           SD Memory Card",
+    "exposuremetering": "Center-Weighted      \u2022           Multi-Segment      \u2022           Spot",
+    "type": "Point & Shoot"
+}

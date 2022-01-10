@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "whitebalancing": "Custom, Fine, Fluorescent (D: Daylight Color, Incandescent, N: Daylight White, Shade, W: Cool White)",
+    "facedetection": "NA",
+    "aperturerange": "f/3.1 - f/8.0 (W)",
+    "imagestabilizer": "CCD Shift",
+    "redeyereduction": "Yes",
+    "metering": "NA",
+    "selftimer": "2 sec, 10 sec Delay",
+    "exposurecompensation": "-/+2.0 EV in increments of 1/3 EV",
+    "additionalfeatures": "Shoulder strap, USB cable Lens cap and Lens cap cord CD-ROM Owner's manual"
+}

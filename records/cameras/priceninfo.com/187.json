@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "microphone": "2 ch Stereo",
+    "lcdmonitor": "2.7? Wide LCD Monitor (230,400 Dots)",
+    "dimensions": "51.5 x 59.5 x 112.5 mm",
+    "weight": "Approx. 181 gm",
+    "powerconsumption": "Max. 3.4W (Recording)/Max. 7.7W (Charging)",
+    "imagesensor": "1/5.8? High Sensitivity MOS Sensor",
+    "imagestabilizer": "Power O.I.S. with Active Mode",
+    "focus": "Auto/Manual",
+    "opticalzoom": "34x",
+    "focallength": "2.38-81.0 mm",
+    "digitalzoom": "90 x/2000x (Maximum Value)",
+    "recordingformat": "[AVCHD] MPEG-4 AVC / H.264, [iFrame] MPEG-4 AVC / H.264",
+    "lenstype": "Panasonic Lens",
+    "shutterspeedrange": "1/30-1/8000",
+    "memory": "SD/SDHC/SDXC Memory Card",
+    "inputoutput": "AV Multi, mini HDMI, USB 2.0 Hi-Speed, Microphone, Headphone",
+    "whitebalance": "Auto/Indoor1/Indoor2/Sunny/Cloudy/White Set",
+    "fvalue": "F1.8(WIDE)/F4.2(TELE)"
+}

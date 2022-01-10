@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1.0V p-p 75\u2126",
+    "backlightcompensation": "Auto",
+    "powerrequirement": "12VDC",
+    "operatingtemperature": "-4\u00b0 to 113\u00b0F (-20\u00b0 to 45\u00b0C)",
+    "gammacorrection": "0.45",
+    "imagesensor": "1/3\" Sony CCD",
+    "exposuremode": "EE",
+    "snratio": ">48dB (AGC Off)",
+    "upc": "897503001937",
+    "electronicshutter": "1/60 ~ 1/100,000 sec",
+    "horizontalresolution": "550 TV Lines",
+    "effectivepixels": "768x494",
+    "signalsystem": "NTSC",
+    "gaincontrol": "Auto",
+    "syncsystem": "Internal",
+    "minimumillumination": "0.001 lux",
+    "lens": "Fixed 3.6mm",
+    "manufacturer": "Atrix"
+}

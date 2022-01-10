@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "ethernettechnology": "Gigabit Ethernet",
+    "modelname": "NVR-0204",
+    "features": "Digital Video Recorder",
+    "weight": "10 lb",
+    "width": "9.6\"",
+    "height": "3.1\"",
+    "item": "579316",
+    "depth": "8.6\"",
+    "videoformats": "Motion JPEG; MPEG-4; H.264",
+    "producttype": "Video Surveillance Station",
+    "ethernet": "Yes",
+    "brandname": "LevelOne",
+    "productname": "NVR-0204 Video Surveillance Station",
+    "networkrj45": "Yes",
+    "inputvoltage": "19 V DC",
+    "manufacturer": "CP Technologies",
+    "usb": "Yes"
+}

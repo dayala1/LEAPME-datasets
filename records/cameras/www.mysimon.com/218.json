@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "touchscreen": "Yes",
+    "displayrotation": "Built-in",
+    "operatingsystemsupported": "Apple Mac OS X 10.6.x or later",
+    "brand": "Lytro",
+    "exposuremodes": "Manual",
+    "additionalfeatures": "Touch-Screen Control",
+    "viewfindertype": "None",
+    "type": "Light Field Camera"
+}

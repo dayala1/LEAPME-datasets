@@ -1,0 +1,15 @@
+{
+    "dpofprintsettingsetproduction": "No / Yes",
+    "category": "camera",
+    "microphone": "Monaural",
+    "calendardisplay": "Yes",
+    "builtinflash": "- Auto - Auto/Red-eye Reduction - Forced On - Slow Sync./Red-eye Reduction - Forced Off",
+    "resizecroppingaspectconversionleveling": "Yes / Yes / No / No",
+    "recordingmedia": "- Built-in Memory - SD Memory Card - SDHC Memory Card - SDXC Memory Card",
+    "retouch": "Creative Control / Retouch Mode",
+    "speaker": "Monaural",
+    "continuousshootingmode": "- Full-Resolution Image, 1.2 frames/sec - High-speed Burst",
+    "aperture": "F3.1 / 7.8 (W) - F6.3 / 16.3 (T)",
+    "osdlanguage": "English, Spanish",
+    "shutterspeed": "8 - 1/2000 sec, Starry Sky Mode"
+}

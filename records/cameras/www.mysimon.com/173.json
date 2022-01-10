@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "batteryformfactor": "Manufacturer specific",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "flashtype": "Pop-up Flash",
+    "stillimageformat": "NEF (RAW)",
+    "brand": "Nikon",
+    "redeyereduction": "Yes",
+    "sensortype": "CMOS",
+    "opticalviewfindertype": "Fixed eye-level pentaprism",
+    "specialeffects": "Silhouette",
+    "viewfindertype": "Optical",
+    "digitalvideoformat": "MOV",
+    "supportedflashmemory": "SDXC Memory Card",
+    "type": "Digital SLR"
+}

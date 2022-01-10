@@ -1,0 +1,22 @@
+{
+    "wirelessconnection": "IEEE 802.11b/g/n",
+    "minfocusdistance": "5 cm",
+    "weight": "210 g",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1920 x 1080",
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "memorycardslot": "SD card",
+    "dimensionswxdxh": "10.64 cm x 3.26 cm x 6.28 cm",
+    "productdescription": "Canon PowerShot SX280 HS - digital camera",
+    "imagestabiliser": "Optical",
+    "imageprocessor": "DIGIC 6",
+    "focusadjustment": "Automatic, manual",
+    "colour": "Red",
+    "lenssystem": "20 x zoom lens - 4.5 - 90 mm - f/3.5-6.8",
+    "cameraflash": "Pop-up flash",
+    "digitalzoom": "4 x",
+    "sensorresolution": "12.1 Megapixel",
+    "supportedbattery": "1 x Canon NB-6L Li-ion rechargeable battery - 1000 mAh ( included )",
+    "display": "LCD display - 3\""
+}

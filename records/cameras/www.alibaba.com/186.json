@@ -1,0 +1,23 @@
+{
+    "operationtemperature": "-10\u00b0C\u00a0~\u00a0+50\u00b0C\u00a0RH95%\u00a0Max",
+    "gammacorrection": "0.45",
+    "electronicshuttertime": "Auto:PAL\u00a01/50-1/100,\u00a0000Sec;NTSC\u00a01/60-1/100,\u00a0000Sec",
+    "irpoweron": "CDS\u00a0Auto\u00a0Control",
+    "horizontalresolution": "700TVL Low\u00a0Illumination, Effio,\u00a0ATR,\u00a0OSD,\u00a0DNR600TVL Low\u00a0Illumination, DWDR,\u00a0OSD,\u00a0DNR540TVL Low\u00a0Illumination480TVL Low\u00a0Illumination420TVL Low\u00a0Illumination420TVL Low\u00a0Illumination",
+    "powersource": "DC12V",
+    "storagetemperature": "-20\u00b0C\u00a0~\u00a0+60\u00b0C\u00a0RH95%\u00a0Max",
+    "usableillumination": "0.001Lux/F2.00.0005Lux/F2.00.01Lux/F2.0",
+    "category": "camera",
+    "infraredwavelength": "850nm",
+    "tvsystem": "PAL/NTSC",
+    "snratio": "\u226565dB\u00a0(AGC\u00a0OFF)\u226554dB\u00a0(AGC\u00a0OFF)\u226548dB\u00a0(AGC\u00a0OFF)",
+    "lens": "CS\u00a06mm/F2.0\u00a0\u00a0(4mm/8mm/12mm\u00a0optional)",
+    "pixels": "PAL:1020(H)\u00d7596(V), NTSC:1020(H)\u00d7508(V)PAL:795(H)\u00d7596(V), NTSC:811(H)\u00d7508(V)PAL:752(H)\u00d7582(V), NTSC:768(H)\u00d7494(V)PAL:752(H)\u00d7582(V), NTSC:768(H)\u00d7494(V)PAL:500(H)\u00d7582(V) NTSC:510(H)\u00d7492(V)",
+    "videoout": "Composite\u00a0Signal\u00a0(1.0Vp-p,\u00a075\u03a9)",
+    "irled": "(D)5X24PCS",
+    "imagesensor": "1/3\"\u00a0SONY ICX673AK\u00a0CCD1/3\"\u00a0SONY ICX639BK\u00a0CCD1/3\"\u00a0SONY ICX639BK\u00a0CCD1/3\"\u00a0SONY ICX633BK\u00a0CCD1/3\"\u00a0SONY ICX633BK\u00a0CCD1/4\"\u00a0SHARP RJ2421FA\u00a0CCD",
+    "scanningsystem": "PAL:625\u00a0Lines,\u00a050\u00a0Field/Sec;NTSC:525\u00a0Lines,\u00a060\u00a0Field/Sec",
+    "model": "YD-N026S-70YD-N026S-60YD-N026S-54YD-N026S-48YD-N026S-42YD-N026H-42",
+    "syncsystem": "Internal",
+    "whitebalance": "Auto"
+}

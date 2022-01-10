@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p/75\u03a9 CVBS",
+    "lens": "As above description",
+    "itemspercarton": "1 Pieces/Carton",
+    "gammacorrection": "0.45",
+    "resolution": "Color,700TVL",
+    "snratio": ">50dB (AGC off)",
+    "powersupply": "12VDC(\u00b110%) 3W",
+    "shipping": "Please contact the supplier for more details",
+    "electronicshutter": "PAL:1/50~1/100,000s / NTSC:1/60~1/100,000s",
+    "packagemeasurements": "15X15X15 cm",
+    "daynightmode": "Color",
+    "gaincontrol": "Auto",
+    "illumination": "0.00025Lux/F1.2 (color)",
+    "quantity": "- +",
+    "sensor": "1/3 \u201c SONY Super HAD II CCD",
+    "pixel": "PAL:976(H)x 582(V)/NTSC:976(H)x 494(V)",
+    "grossweight": "1.5 kg"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "interfaceports": "micro USB, micro HDMI, Mic, Headphone",
+    "touchscreen": "No",
+    "shutterlag": "0 seconds",
+    "mediaformat": "Secure Digital, Secure Digital High Capacity, Memory Stick Pro Duo, Secure Digital Extended Capacity",
+    "dimensions": "3.5 x 5.1 x 4.1 inches",
+    "weight": "1.8 lb",
+    "maximumiso": "12800",
+    "videoresolution": "1080i, 1080p, 480p",
+    "lcdsize": "3 inches",
+    "megapixels": "20 MP",
+    "opticalzoom": "8.3 x",
+    "sensorsize": "1\" (13.2 x 8.8mm) mm",
+    "sensortype": "CMOS",
+    "viewfindertype": "EVF",
+    "imagestabilization": "Optical",
+    "recycletime": "0.1 seconds",
+    "type": "Superzoom",
+    "gps": "No"
+}

@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "lcdpixels": "230,000 dots",
+    "lcdcoverage": "100%",
+    "exposuremodes": "Manual",
+    "opticalviewfinder": "TFT-LCD",
+    "focusmode": "Continuous-servo",
+    "shutterspeed": "30 ~ 1/4000 sec.",
+    "storagemedia": "SD/SDHC Memory Card",
+    "lcdmonitor": "3 inches",
+    "sensor": "10.2 million",
+    "compressedformat": "Compliant DCF 2.0",
+    "size": "23.6 x 15.8mm"
+}

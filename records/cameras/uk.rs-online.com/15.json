@@ -1,0 +1,22 @@
+{
+    "weight": "1.04kg",
+    "fieldofview": "24 x 17\u00b0",
+    "height": "27.7cm",
+    "description": "Fluke Ti300 Thermal Imaging Camera",
+    "category": "camera",
+    "dimensions": "16.7 x 12.2 x 27.7cm",
+    "width": "12.2cm",
+    "application": "Thermography",
+    "displayresolution": "640 x 480pixel",
+    "focustype": "Manual",
+    "minimumfocus": "15 cm",
+    "visualcamera": "Yes",
+    "interchangeablelens": "Yes",
+    "date": "Nov 1, 2014",
+    "storagemedia": "SD Card",
+    "thermalsensitivity": "50mK",
+    "refreshrate": "9Hz",
+    "horizontalfieldofview": "17\u00b0",
+    "length": "16.7cm",
+    "interfacetype": "USB"
+}

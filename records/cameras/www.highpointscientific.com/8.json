@@ -1,0 +1,23 @@
+{
+    "sensormodel": "ICX285AL",
+    "sensormanufacturer": "Sony",
+    "category": "camera",
+    "camerawarranty": "1 year",
+    "cameraseries": "Atik 314",
+    "numberofeffectivepixels": "1392 (H)  1040 (V) approx. 1.45M pixels",
+    "label9": "High sensitivity, low smear. Low dark current, excellent anti-blooming characteristics",
+    "softwareincluded": "CD-ROM with drivers, software, and user manual (PDF",
+    "label0": "Camera body with 1.25\" adapter",
+    "label1": "1.8 meter battery power connector (with car lighter plug)",
+    "label2": "3 meter USB cable",
+    "label3": "CD-ROM with drivers, software and user manual (PDF)",
+    "label4": "Quick start guide (printed)Sony ICX285AL Interline CCD Chip Features",
+    "label5": "Progressive scan allows individual readout of the image signals from all pixels",
+    "label6": "High horizontal and vertical resolution (both approximately 1024 TV-lines) still images without a mechanical shutter",
+    "label7": "Supports high frame rate readout mode (effective 256 lines output, 60 frame/s)",
+    "sensortype": "CCD",
+    "computerinterface": "USB 2.0",
+    "cameratype": "Single Frame Camera",
+    "cameracooling": "Built-In Fan, TEC Cooling via Convection",
+    "totalnumberofpixels": "1434 (H)  1050 (V) approx. 1.50M pixels"
+}

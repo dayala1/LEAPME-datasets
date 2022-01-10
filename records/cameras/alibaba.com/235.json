@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "imageresolution": "5M\u00a0(2592\u00d71944),\u00a03M\u00a0(2048\u00d71536),\u00a01M(1280\u00d71024)",
+    "storagemedium": "TF\u00a0card\u00a0(Supporting\u00a0up\u00a0to\u00a032GB),\u00a0(without\u00a0build-in\u00a0flash\u00a0memory)",
+    "weight": "about\u00a046.5\u00a0grams",
+    "imagesensor": "1.3\u00a0million\u00a0pixel\u00a0(CMOS)",
+    "whitebalance": "Automatic",
+    "powersupply": "Built-in\u00a03.7V\u00a0rechargeable\u00a0lithium",
+    "shutter": "Electronic\u00a0shutter",
+    "video": "AVI",
+    "cameralens": "F3.1\u00a0f=9.3mm",
+    "usbinterface": "High-speed\u00a0USB\u00a02.0\u00a0interface",
+    "videoresolution": "VGA:\u00a0640x480\u00a0(60\u00a0frames/second),\u00a0720P:1280x720\u00a0(30\u00a0frames/second)",
+    "fileformats": "ImageJPEG",
+    "exposure": "Automatic"
+}

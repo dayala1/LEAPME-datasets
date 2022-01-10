@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "removablemediacompatibility": "Memory Stick PRO Duo Memory Stick PRO-HG Duo SDXC Secure Digital (SD) Secure Digital High Capacity (SDHC)",
+    "megapixelsmp": "20.1",
+    "facedetection": "Yes",
+    "weight": "2 lbs 4.79 oz",
+    "panoramamode": "Yes",
+    "builtinflash": "Yes",
+    "lcdscreen": "Yes",
+    "depth": "7.5 in",
+    "opticalzoom": "35x",
+    "height": "5.25 in",
+    "stabilizationtype": "Optical",
+    "width": "4.5 in",
+    "digitalzoom": "2x",
+    "imagestabilization": "Yes",
+    "viewfinder": "LCD Only",
+    "lcdscreensize": "3.0\"",
+    "flashmodes": "Auto Flash On Flash Off Slow Sync",
+    "digitalcameratype": "Point & Shoot"
+}

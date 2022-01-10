@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "battery": "1000 mAh Li-ion Battery",
+    "infraredremotecontrol": "support",
+    "mediatype": "MiniDV",
+    "viewangle": "120 degree wide angle",
+    "digitalzoom": "4x",
+    "modelnumber": "WDV5000",
+    "screensize": "< 2\"",
+    "videoresolution": "FHD (1920*1080P 30FPS) ; HD (1280*720P 60FPS) ; HD (1280*720P 30FPS)",
+    "brandname": "Sport camera",
+    "type": "Portable",
+    "pixels": "5.0 Mega,H.264 Video format",
+    "highdefinitionsupport": "1080P (Full-HD)"
+}

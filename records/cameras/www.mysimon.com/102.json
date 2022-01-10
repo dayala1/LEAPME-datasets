@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "brand": "Panasonic",
+    "megapixels": "20.1 MP",
+    "lensforsd": "DC 25-400mm",
+    "opticalzoom": "16x",
+    "displaytype": "LCD",
+    "digitalzoom": "4x",
+    "screensize": "3\"",
+    "supportedflashmemory": "SDXC Memory Card",
+    "model": "DMC-FZ1000",
+    "type": "Bridge Camera",
+    "maxvideoresolution": "3840 x 2160"
+}

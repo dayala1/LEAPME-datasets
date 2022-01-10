@@ -1,0 +1,22 @@
+{
+    "wifi": "WIFI,802.11 b/g/n",
+    "powerconsumption": "Power<8W",
+    "maxframerate": "30fps",
+    "powersupply": "DC 12V",
+    "environmentparameters": "Environment temperature-10\u00b0C-50\u00b0C",
+    "compressionmode": "H.264/M-JPEG",
+    "category": "camera",
+    "environmenthumidity": "below 85% RH",
+    "electronicshutter": "1/50s(1/60s)-1/100,000 s",
+    "ipcameraperformance": "Max. resolution is 1080P; Outdoor\u00a0installation; Use IR-cut filter, can change IR and color filter, 4mm Lens; Build in 30pcs IR LED, up to 25 meters night vision; Not support to power off IR LED manually.",
+    "sensor": "1/4\" HD CMOS Sensor",
+    "audioinput": "None",
+    "lanport": "10Base-T/100Base-TX",
+    "productweight": "0.5kg",
+    "hardwareperformance": "Product typeIP camera",
+    "audiooutput": "None",
+    "minillumination": "0 Lux",
+    "operationsystem": "Embedded operating system",
+    "otherperformance": "PC software,support for Microsoft Windows 98/2000/XP/Vista/Windows 7/Mac OS,And the Internet Explorer6.0 and above ,Firefox,Chrome,Safari etc., provide IPCMonitor.exe client software",
+    "snr": ">48db"
+}

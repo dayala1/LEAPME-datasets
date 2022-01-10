@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "label9": "Blue Backlight For Keyboard",
+    "autopoweroff": "5 Minutes (While No Keypad Controlling)",
+    "operationtemperature": "-30 to 70 Degrees Celsius",
+    "pictureresolution": "2592x1944 5M,3264x2448 8M,3456x2592 10M,3000x4000",
+    "playbackzoom": "1 to 4 Times (In/Out)",
+    "languages": "English, Simplified Chinese, German, French, Finnish, Swedish",
+    "attr2g": "850MHz, 900MHz, 1800MHz, 1900MHz",
+    "fps": "30 FPS",
+    "powersource": "Power Adapter (Not Included) or 8xAA Battery (Not Included)",
+    "videoresolution": "1280x720p (HD), 720x 480 (D1), 640x 480 (VGA), 320x240 (QVGA)"
+}

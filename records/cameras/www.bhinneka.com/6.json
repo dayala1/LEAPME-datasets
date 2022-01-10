@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "externalflash": "Hot Shoe",
+    "lcdmonitor": "3\" Rear Touchscreen Swivel  LCD",
+    "videorecording": "Yes, NTSC/PAL",
+    "liveview": "Yes",
+    "isosensitivity": "Auto, 100-12800 (Extended Mode: 100-25600)",
+    "whitebalance": "Auto, Cloudy, Color Temperature Filter, Custom, Daylight, Flash, Fluorescent (White), Shade, Sunset, Tungsten, Twilight",
+    "autofokus": "Auto and Manual",
+    "exposurecompensation": "-5 EV to +5 EV (in 1/2 or 1/3 EV steps)",
+    "internalflash": "Built-in Flash",
+    "playback": "Yes",
+    "viewfinder": "Viewfinder Type Pentaprism Viewfinder Coverage 98% Viewfinder Magnification Approx. 0.95x",
+    "shutter": "30 - 1/8000 sec",
+    "lensmount": "Canon EF Canon EF-S",
+    "imageprocessor": "DIGIC 5+",
+    "sensor": "CMOS, 22.5 x 15 mm",
+    "model": "APS-C Digital SLR",
+    "dustreductionsystem": "Yes"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "1Vp-p/75ohms, BNC or F Connector",
+    "supplyvoltage": "DC 12V",
+    "operatingtemperature": "14\u00b0F to 122\u00b0F (-10\u00b0C to +50\u00b0C)",
+    "powerconsumption": "300mA",
+    "imagesensor": "1/3\" Sony Color CCD",
+    "snratio": "> 48dB",
+    "whitebalance": "Auto Tracking White Balance 2500\u00c2\u00a1\u00c3\u00a3K ~ 9500\u00c2\u00a1\u00c3\u00a3K",
+    "electronicshutter": "1/60 - 1/100000",
+    "horizontalresolution": "420 TV Lines",
+    "effectivepixels": "510(H) x 492(V)",
+    "synchronoussystem": "Internal, Negative Sync.",
+    "signalsystem": "NTSC",
+    "scanningsystem": "NTSC",
+    "minimumillumination": "0.2 LUX/ F2.0",
+    "lens": "3.6mm"
+}

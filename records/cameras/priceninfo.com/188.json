@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "batterylife": "Approx 200 Images",
+    "exposurecontrol": "Program AE",
+    "weight": "140 gm",
+    "exposurecompensation": "-2.0EV to +2.0EV (in 1/3EV steps)",
+    "focallength": "f=4.6 to 23.0 mm (Approx. 26 to 130mm equivalent to 35mm film)",
+    "isosensitivity": "Auto, 100, 200, 400, 800, 1600, 3200",
+    "opticalzoom": "5x",
+    "selftimer": "2 seconds, 10 seconds, Triple Self-timer",
+    "recordingmedia": "SD, SDHC, SDXC Memory Card",
+    "label18": "Lithium-ion Rechargeable NP-120 Battery",
+    "maximumaperture": "F3.2(W) to F8.0(W)",
+    "flashmode": "Red eye reduction, Auto, Flash On, Flash Off",
+    "digitalzoom": "4x",
+    "numberofeffectivepixels": "16.1 Megapixels",
+    "shutterspeed": "(Auto)1/2 to 1/2000 second, (Night Scene)4sec to 1/2000 second",
+    "imagesensor": "1/2.3- inch square pixel CCD Sensor",
+    "focusrange": "10 cm to infinity (Wide)",
+    "dimensions": "94.9 x 56.3 x 19.3 mm"
+}

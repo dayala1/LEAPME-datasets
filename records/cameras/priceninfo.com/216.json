@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "lensfocallength": "28-420mm",
+    "aperturerange": "f3.5(W) \u2013 5.4(T)",
+    "weight": "433gm",
+    "label1": "1GB (0.83GB for shooting)",
+    "sensitivity": "ISO100/200/400/800/1600/AUTO/HIGH",
+    "label3": "2.7-inch TFT colour LCD monitor",
+    "label4": "TruePic III Image processor",
+    "powersupply": "4xAA Battery",
+    "selftimer": "Available (2seconds, 12seconds)",
+    "flashfunctions": "Auto, Red-eye reduction, Fill-in, off",
+    "recordingfileformat": "JPEG",
+    "dimensionwxhxd": "109.9 x 72.2 x 75.1 mm",
+    "whitebalance": "Auto, Preset (6 types)",
+    "label13": "Sequential shooting",
+    "shutterspeed": "Auto",
+    "label2": "SD/SDHC Card Slot",
+    "afmode": "iESP, Spot, Face Detect, tracking",
+    "focusingsystem": "CCD contrast detection"
+}

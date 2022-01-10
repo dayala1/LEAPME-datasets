@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p composite output, 75O",
+    "shuttercontrol": "Auto Electronic Shutter (AES)",
+    "dimensions": "41/4\"x31/2\" (108x89mm)",
+    "weight": "18-oz (500g)",
+    "whitebalance": "Auto",
+    "chip": "Color",
+    "snratio": ">48 dB",
+    "sync": "Internal",
+    "operatingvoltage": "12VDC1\u00b00%",
+    "lens": "4~9mm",
+    "gaincontrol": "Auto",
+    "minimumillumination": "0-lux (LEDs ON)"
+}

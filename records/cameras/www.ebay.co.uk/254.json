@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "weight": "450 gr",
+    "cameratype": "Digital SLR",
+    "brand": "Canon",
+    "lensforsd": "EF-S IS II 18-55mm and EF-S IS 55-250mm",
+    "displaysize": "2.7\"",
+    "height": "9.97 cm",
+    "displaytype": "LCD",
+    "depth": "7.79 cm",
+    "sensorresolution": "12.2 MP",
+    "screensize": "2.7\"",
+    "supportedflashmemory": "SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "model": "1100D / Rebel T3",
+    "width": "12.99 cm",
+    "maxvideoresolution": "1280 x 720"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videoout": "PAL, NTSC",
+    "maximageresolution": "5184 x 3456",
+    "focallengthconversionfactor": "1.6x",
+    "flashmodes": "E-TTL",
+    "continuousshootingspeedfps": "5",
+    "label20": "1 year warranty",
+    "focusingmodes": "One-shot AF, AI Servo AF, Manual",
+    "label12": "Exposure Compensation",
+    "lcdmonitor": "3.0\"",
+    "label16": "Depth of Field Preview",
+    "operatingsystem": "Windows XP inc. SP3, Vista inc. SP2 (excl. Starter Edition), 7 inc. SP1(excl. Starter Edition)",
+    "label14": "Built in Flash",
+    "label15": "Auto Exposure Bracketing"
+}

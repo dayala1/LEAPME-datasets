@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "shuttertype": "Electronic & Mechanical",
+    "dimensions": "4.9 x 3.9 x 3.0\" / 125.0 x 98.0 x 76.0 mm",
+    "weight": "1.06 lb / 480  g body only",
+    "cameratype": "Digital SLR with Interchangeable lenses",
+    "angleofviewdiagonal": "170.0\u00b0",
+    "megapixels": "24.2 MP",
+    "exposuremodes": "Aperture Priority, Auto, Manual, Programmed Auto, Scene Modes, Shutter Priority",
+    "shutterspeeds": "30 - 1/4000 sec, Bulb Mode",
+    "sensorsize": "23.5 x 15.6 mm",
+    "selftimer": "2 sec, 5 sec, 10 sec, 20 sec Number of Shots: 1-9",
+    "exposurecompensation": "-5 EV to +5 EV (in .3 or .5 EV steps)",
+    "effectivepixels": "24.2 Megapixel",
+    "totalpixels": "24.78 Megapixel",
+    "maxresolution": "24MP: 6000 x 4000 @ 3:2",
+    "isospeed": "Auto, 100-12800 (Extended Mode: 100-25600)",
+    "focustype": "Auto & Manual",
+    "aspectratio": "3:2",
+    "mounttype": "Nikon F"
+}

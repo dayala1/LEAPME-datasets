@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "dimensionsmm": "118 x 102mm",
+    "sensingarea": "3.6mm \u00d7 2.4mm",
+    "powerrequirement": "DC12V/500mA",
+    "productcode": "AC-515HCE 3.6",
+    "videooutput": "1.0Vp-p, 75\u03a9(BNC)",
+    "powerconsumption": "Less than 2.8W",
+    "minimumillumination": "F1.2, 0.5Lux",
+    "snratio": "More than 48dB (AGC OFF)",
+    "whitebalance": "Auto Tracking White Balance",
+    "backlightcompensation": "Internal",
+    "horizontalresolution": "470 TV Line",
+    "effectivepixels": "PAL: 500(H) \u00d7 582(V) / NTSC: 510(H) \u00d7 492(V)",
+    "signalsystem": "PAL/NTSC",
+    "model": "AC-515HCE",
+    "shutterspeed": "1/50(1/60)__1/100, 000(s)",
+    "imagesensor": "1/3 Sony Super HAD CCD",
+    "lens": "3.6mm",
+    "videoout": "VIDEO OUT (BNC)"
+}

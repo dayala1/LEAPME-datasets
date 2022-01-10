@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "cameratype": "Bridge Camera",
+    "brandfujifilm": "Megapixels: 16.2 MP",
+    "brand": "Fujifilm",
+    "opticalzoom": "42x",
+    "displaytype": "LCD",
+    "digitalzoom": "2x",
+    "sensorresolution": "16.2 MP",
+    "displaysize": "3\" (76.2 mm)",
+    "supportedflashmemory": "SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "model": "S8300",
+    "maxvideoresolution": "1920 x 1080",
+    "screensize": "3\" (76.2 mm)"
+}

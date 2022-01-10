@@ -1,0 +1,23 @@
+{
+    "exposurecontrol": "TTL 256-zone metering, Multi / Spot / Average",
+    "exposuremode": "Programmed AE, Aperture Priority AE, Shutter Priority AE, Manual exposure",
+    "powersupply": "Li-ion battery NP-W126 (included)",
+    "exposurecompensation": "-2.0EV - +2.0EV 1/3EV step",
+    "category": "camera",
+    "dimensions": "134.9(W) x 101.3(H) x 145.9(D) mm",
+    "flash": "Auto flash (super i-flash) Effective range : (ISO AUTO) Normal Wide : Approx. 30cm - 8.0m / 1ft. - 26.2ft. Telephoto : Approx. 2.5m - 4.0m / 8.2ft. - 13.1ft.",
+    "terminal": "Digital interface USB 2.0 High-Speed HDMI output HDMI Mini connector Audio input \u00d82.5mm external microphone",
+    "aperture": "F2.8-F11 (Wide) F5.6-F11(Telephoto) 1/3EV step",
+    "movierecording": "1920 x 1080 pixels / 1280 x 720 pixels (60 fps) / 640 x 480 pixels (30 fps) with stereo sound * Optical zoom function (manual) can be used.",
+    "sensitivity": "Auto, Equivalent to ISO 100 / 200 / 400 / 800 / 1600 / 3200 / 6400* / 12800* (Standard Output Sensitivity) * ISO6400 : image size M or lower, ISO12800 : image size S",
+    "imagestabilizer": "Lens shift type",
+    "lens": "Name Fujinon 42x optical zoom lens Focal length f=4.4 - 185mm, equivalent to 24 - 1000mm on a 35mm format Full-aperture F2.8 (Wide) - F5.6 (Telephoto) Constitution 12 groups 17 lenses",
+    "numberofeffectivepixels1": "16.0 million pixels",
+    "storagemedia": "Internal memory (none) SD / SDHC / SDXC memory card*2",
+    "lcdmonitor": "3.0-inch, approx. 920K-dot, TFT color LCD monitor, Vari-Angle, approx. 100% coverage",
+    "shutterspeed": "(Auto mode) 1/4sec. to 1/4000sec., (All other modes) 30sec. to 1/4000sec. (combined mechanical and electronic shutter)",
+    "flashmodes": "Red-eye removal OFF Auto, Forced Flash, Suppressed Flash, Slow Synchro. Red-eye removal ON Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro.",
+    "imagesensor": "1/2-inch EXR CMOS II with primary color filter",
+    "digitalzoom": "Intelligent digital zoom approx. 2.0x (up to approx. 84x, with 42x optical zoom)",
+    "fileformat": "Still image JPEG (Exif Ver 2.3)*3, RAW (RAF format), RAW+JPEG (Design rule for Camera File system compliant / DPOF-compatible) Movie H.264 (MOV) Linear PCM / stereo sound"
+}

@@ -1,0 +1,22 @@
+{
+    "videooutput": "1.0Vp-p/75ohm",
+    "dnr": "3 DNR2DNRno",
+    "horizontalresolution": "700\u00a0TV\u00a0Lines600\u00a0TV\u00a0Lines480\u00a0TV\u00a0Lines420\u00a0TV\u00a0Lines",
+    "effectivepixels": "PAL:976(H)*582(V) NTSC:976(H)*494(V)PAL:795(H)*596(V) NTSC:811(H)*508(V)PAL:752(H)*582(V) NTSC:768(H)*494(V)PAL:500(H)*582(V) NTSC:510(H)*492(V)",
+    "voltage": "DC12V",
+    "electricshutter": "1/50(1/60)\u00a0-\u00a01/100000/s",
+    "osd": "supportno",
+    "category": "camera",
+    "workingtemperature": "-10\u00b0C\u00a0to\u00a0+50\u00b0C\u00a0RH95%",
+    "blc": "auto",
+    "privacyzone": "1-4\u00a0zones\u00a0for\u00a0setting\u00a0privacy\u00a0areasno",
+    "snratio": "ab ove\u00a055dBa bove\u00a050dBa bove\u00a048dB",
+    "modelnumber": "KDM-6416PKDM-6 416 GKDM- 6416 NKDM-6 416 AKDM-6 416 B",
+    "minillumination": "0lux/f1.20.01lux/f1.2",
+    "imagesensor": "1/3\"\u00a0Sony EX-view\u00a0Double Scan\u00a0HAD CCD\u00a0II\u00a0(Effio-P)1/3\u00a0SONY EX-view\u00a0HAD CCD\u00a0II (Effio-E)1/3\u00a0SONY Super\u00a0HAD\u00a0CCD\u00a0II1/3\u00a0SONY Super\u00a0HAD\u00a0CCD\u00a0II1/3\u00a0SONY Super\u00a0HAD\u00a0CCD",
+    "agc": "auto",
+    "wdr": "SWDRDigital\u00a0wide\u00a0dynamic\u00a0range\u00a0adjustableno",
+    "signalsystem": "PAL\u00a0/\u00a0NTSC",
+    "syncsystem": "internal",
+    "whitebalance": "On/off"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p composite video, 75ohm BNC",
+    "backlightcompensation": "On/Off (64AREA)",
+    "whitebalance": "Auto",
+    "minillumination": "0Lux (IR ON)",
+    "irled": "48 Units Infrared LED (5mm/850mm)",
+    "gammacorrection": "0.45",
+    "snratio": "48dB (AGC OFF)",
+    "powersupply": "DC12V\u00c2 + 10%",
+    "currentconsumption": "200 mA (IR Off), 600mA (IR On)",
+    "electronicshutter": "Auto, 1/60 ~ 1/1,000,000 Sec",
+    "horizontalresolution": "600 TVL",
+    "item": "Specifications",
+    "scanningsystem": "NTSC: 752(H) x 582(V)\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0\u00c2\u00a0(2:1 Interface)",
+    "lensmount": "Varifocal Lens (4~9mm)",
+    "dimensionsweight": "100mm x 168mm \u00c2\u00a0\u00c2\u00a0/\u00c2\u00a0\u00c2\u00a01050g",
+    "syncsystem": "Internal",
+    "ccdtype": "1/3\" Sony SuperHAD Color CCD",
+    "operationenvironment": "Temperature: -20C ~ +50C"
+}

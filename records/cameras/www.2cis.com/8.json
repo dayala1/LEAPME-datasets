@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "VBS 1.0Vp-p",
+    "functions": "BLC, Line Lock: ON/OFF ELC: ON/OFF(ALC) White Balance: ATW/AWC",
+    "certifications": "RoHs, FCC,UL, CSA",
+    "operatingtemperature": "+14 to +122\u00b0 F (-10 to +50\u00b0 C)",
+    "weight": "0.47lb (216g)",
+    "powerconsumption": "3W",
+    "minimumillumination": "0.12 Lux @ 15IRE (F1.2) 0.4 Lux @ 50IRE (F1.2)",
+    "electronicshutterspeed": "1/60 - 1/120,000 sec",
+    "signaltonoiseratio": "50dB",
+    "humidity": "Less than 90%",
+    "lens": "Mount: C/CS compatible Lens: Drive Type ALC(DC Only)/ELC",
+    "horizontalresolution": "540TVL",
+    "dimensionswxhxd": "2.68 x 2.17 x 3.03\" (68 x 55 x 77.15 mm)",
+    "inputvoltage": "12VDC/AC24V (60Hz)",
+    "type": "High-resolution Color Camera",
+    "pixels": "768 x 494",
+    "imagingdevice": "1/3\" Super HAD IT CCD"
+}

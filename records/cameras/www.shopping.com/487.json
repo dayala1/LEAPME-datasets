@@ -1,0 +1,23 @@
+{
+    "flashtype": "Pop-up Flash",
+    "displaytype": "LCD",
+    "opticalviewfindertype": "Eye-level mirror pentaprism",
+    "additionalfeatures": "Brightness Control      \u2022           Backlight Compensation      \u2022           Digital Noise Reduction      \u2022           AF Lock      \u2022           RGB Primary Color Filter      \u2022           Interchangeable Lenses      \u2022           Orientation Detection      \u2022           DPOF Support      \u2022           USB 2.0 Compatibility      \u2022           Histogram Display      \u2022           Depth-Of-Field Preview Button      \u2022           Direct Print      \u2022           AE/FE Lock      \u2022           PictBridge Support      \u2022           Auto Power Save",
+    "category": "camera",
+    "displayrotation": "Built-in",
+    "stillimageformat": "Raw Image      \u2022           RAW + JPEG      \u2022           JPEG      \u2022           RAW",
+    "redeyereduction": "Yes",
+    "autofocustype": "TTL phase detection",
+    "type": "Digital SLR",
+    "brand": "Canon",
+    "sensortype": "CMOS",
+    "specialeffects": "Monotone",
+    "batteryformfactor": "Manufacturer specific",
+    "focusadjustment": "Autofocus & Manual Focus      \u2022           Automatic      \u2022           Manual",
+    "exposuremodes": "E-TTL II Program Flash      \u2022           Depth-Of-Field      \u2022           Automatic      \u2022           Bulb      \u2022           Manual      \u2022           Shutter-Priority      \u2022           Program      \u2022           Aperture-Priority",
+    "viewfindertype": "Optical (Through-the-lens)      \u2022           Optical",
+    "supportedflashmemory": "CompactFlash Card Type II      \u2022           CompactFlash Card Type I      \u2022           CompactFlash II      \u2022           CompactFlash I      \u2022           Microdrive",
+    "exposuremetering": "partial (9%)      \u2022           Center-Weighted      \u2022           Evaluative",
+    "operatingsystemsupported": "Microsoft Windows XP      \u2022           Microsoft Windows ME      \u2022           Microsoft Windows 98SE      \u2022           Microsoft Windows 98      \u2022           Microsoft Windows 2000      \u2022           Apple Mac OS 9      \u2022           MS Windows 98 SE      \u2022           Apple Mac OS 9.0 - 9.2      \u2022           MS Windows 98      \u2022           MS Windows ME      \u2022           MS Windows 2000      \u2022           Apple Mac OS X      \u2022           Apple Mac OS X 10.3      \u2022           Apple Mac OS X 10.2      \u2022           Apple Mac OS X 10.1      \u2022           MS Windows XP",
+    "whitebalance": "Tungsten (Preset)      \u2022           Shade (Preset)      \u2022           Fluorescent (Preset)      \u2022           Daylight / Sunny (Preset)      \u2022           Cloudy (Preset)      \u2022           Auto      \u2022           Manual"
+}

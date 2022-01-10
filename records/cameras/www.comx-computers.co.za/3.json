@@ -1,0 +1,23 @@
+{
+    "weight": "0.6 kg",
+    "productcode": "GCH-K0326D",
+    "powerconsumption": "6 W",
+    "storagetemperature": "-20\u00b0C ~ +60\u00b0C",
+    "osd": "Yes",
+    "category": "camera",
+    "dimensionswhd": "\u00d8130 x 102 mm",
+    "blc": "WDR / BLC / HLC / OFF",
+    "motiondetection": "On/ Off/ Sensitivity/ Area setting",
+    "imagesize": "1920x1080",
+    "videooutputs": "1 Ch HD-SDI BNC or 1 Ch Composite BNC",
+    "focallength": "2.8 ~ 10 mm",
+    "snratio": "50 dB",
+    "irled": "28 pcs.",
+    "supplyvoltage": "12 VDC/24 VAC",
+    "operatingtemperature": "0\u00b0C ~ +50\u00b0C",
+    "imagesensor": "1/2.8\" CMOS Sony Exmor, 2.4 Megapixel",
+    "framerate": "30, 25 fps at 1080p",
+    "humidity": "less than 85%",
+    "scanningsystem": "Progressive",
+    "whitebalance": "ATW, AWB, Manual, Preset"
+}

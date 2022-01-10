@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "shutter": "Type : Electronically-controlled, focal-plane shutter Shutter speeds : 1/4000sec. to 30sec. (Total shutter speed range. Available range varies by shooting mode.), Bulb, X-sync at 1/200sec.",
+    "liveview": "Yes",
+    "isosensitivity": "Basic zone modes : ISO 100 - ISO 3200 set automatically Creative Zone modes : ISO 100 - ISO 6400 set manually (whole-stop increments), ISO 100 - ISO 6400 set automatically, maximum ISO speed settable for ISO Auto, or expandable to &quotH&quot (equivalent to ISO 12800)",
+    "autofokus": "TTL secondary image-registration, phase detection",
+    "whitebalance": "Auto, Preset (Daylight, Shade, Cloudy, Tungsten light, White fluorescent light, Flash), Custom White Balance correction and White balance bracketing possible * Flash color temperature information transmission enabled",
+    "externalflash": "EX-series Speedlite",
+    "exposurecompensation": "Manual : \u00b15 stops in 1/3- or 1/2-stop increments AEB : \u00b12 stops in 1/3- or 1/2-stop increments (can be combined with manual exposure compensation)",
+    "internalflash": "Built-in flash Retractable, auto pop-up flash",
+    "playback": "Yes",
+    "viewfinder": "Type : Eye-level pentamirror Coverage : Vertical / Horizontal approx. 95% (with Eye point approx. 21mm) Focusing screen : Fixed, Precision Matte Mirror : Quick-return type Magnification : Approx. 0.8x (-1m-1 with 50mm lens at infinity) Depth-of-field preview : Enabled with Custom Function setting",
+    "lensmount": "Canon EF mount",
+    "lcdmonitor": "3\" TFT colour liquid-crystal monitor",
+    "sensor": "CMOS sensor, 22.3 x 14.9mm",
+    "model": "APS-C Digital SLR",
+    "dustreductionsystem": "Yes"
+}

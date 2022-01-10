@@ -1,0 +1,22 @@
+{
+    "sensormodel": "KAI-11002",
+    "cameratype": "Single Frame Camera",
+    "darkcurrent": null,
+    "label10": "Binning capability for higher frame rate - Electronic shutter",
+    "label11": "Industrial Imaging and Medical Imaging Applications",
+    "pixelsize": "9.0 \u00b5m (H) x 9.0 \u00b5m (V)",
+    "category": "camera",
+    "camerawarranty": "1 year",
+    "cameraseries": "Atik 11000",
+    "numberofeffectivepixels": "4032 (H) x 2688 (V) = 10.8 M",
+    "label8": "High resolution - High sensitivity - High dynamic range",
+    "label9": "Low noise architecture - High frame rate",
+    "softwareincluded": "CD-ROM with drivers, software, and user manual (PDF",
+    "sensortype": "CCD",
+    "aspectratio": "3",
+    "computerinterface": "USB 2.0",
+    "package": "40-pin, CerDIP, 0.070 pin spacing - Cover Glass",
+    "cameracooling": "Built-In Fan, TEC Cooling via Convection, Water Cooling Available Optionally",
+    "sensormanufacturer": "TrueSense (formerly Kodak)",
+    "totalnumberofpixels": "4072 (H) x 2720 (V) = 11.1 M"
+}

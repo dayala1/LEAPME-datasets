@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "dimensions": "N/A",
+    "weight": "N/A",
+    "imagefeatures": "Congurable image size, quality, frame rate, and bit rate Time stamp and text overlays Congurable motion detection windows Congurable privacy mask zones Congurable shutter speed, brightness, saturation, contrast, and sharpness",
+    "externaldeviceinterface": "10/100 BASE-TX Fast Ethernet port Supports 802.3af PoE MicroSD/SDHC card slot DI/DO port",
+    "videocompression": "Simultaneous H.264/MPEG-4/MJPEG format compression H.264/MPEG-4 multicast streaming JPEG for still images",
+    "angleofview": "(H) 73.5\u00b0 (V) 42.5\u00b0 (D) 83.3\u00b0",
+    "videoresolution": "16:9 - 1280 x 800, 1280 x 720, 800 x 450, 640 x 360, 480 x 270, 320 x 176, 176 x 144 up to 30 fps recording 4:3 - 1024 x 768, 800 x 600, 640 x 480, 480 x 360, 320 x 240, 176 x 144 up to 30 fps recording",
+    "audiosupport": "G.726 G.711"
+}

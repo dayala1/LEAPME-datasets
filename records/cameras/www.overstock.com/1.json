@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "audioout": "Stereo (dedicated connector (female) with unified type of digital, audio and video)  USB, SD memory card slot; direct connection to Canon SELPHY, PIXMA photo printers and PictBridge compatible printers",
+    "dimensions": "4 inches high x 5 inches wide x 3 inches deep",
+    "power": "Battery pack NB-6LH, compact power adapter CA-DC10 (included with AC Adapter Kit ACK-DC40)",
+    "color": "Black",
+    "shutterspeed": "1-1/2000 seconds or 15-1/2000 seconds (in TV and M modes)",
+    "zoom": "4x digital zoom",
+    "weight": "4 pounds",
+    "pictureformat": "Design rule for camera file system, DPOF (Version 1.1) compliant",
+    "memory": "SD memory card, SDHC memory card, SDXC memory card",
+    "model": "9544B001",
+    "videoformat": "MOV",
+    "resolution": "16.0 Megapixels",
+    "display": "3.0-inch TFT Color LCD with wide viewing angle",
+    "videoout": "NTSC/PAL (dedicated connector (female) with unified type of digital, audio and video), Mini-HDMI connector"
+}

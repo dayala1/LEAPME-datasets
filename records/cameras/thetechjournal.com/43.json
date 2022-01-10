@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "HDMI 1.4",
+    "dimensionwxhxd": "128.7 x 70.8 x 19.1 mm",
+    "processor": "1.4GHz Quad-Core processor",
+    "weight": "300g",
+    "battery": "1,650 mAh",
+    "imagesensor": "16.3 effective megapixel 1/2.3\u2033 BSI CMOS",
+    "display": "121.2 mm (4.8\u2033), 308 ppi, HD Super Clear Touch Display",
+    "lens": "21x Optical Zoom Lens, 23 mm Wide Angle, F2.8 (W) ~ 5.9(T)",
+    "connectivity": "WiFi a/b/g/n, WiFi HT40GPS/GLONASSBluetooth 4.0",
+    "video": "MP4 (Video: MPEG4, AVC/H.264, Audio: AAC)Full HD 1920\u00d71080 30fps Slow motion Movie 768\u00d7512 120fps",
+    "image": "JPEG format 16M, 14M, 12M Wide, 10M, 5M, 3M, 2M Wide, 1M",
+    "memory": "8GB (including read-only sections such as Android operating system) \uff0b memory slot : micro SDSC, micro SDHC, micro SDXC",
+    "iso": "Auto, 100, 200, 400, 800, 1600, 3200",
+    "os": "Android 4.1 (Jelly Bean)",
+    "is": "OIS",
+    "gps": "GPS, GLONASS"
+}

@@ -1,0 +1,22 @@
+{
+    "control": "Program AE, Aperture Priority AE, Shutter Priority AE, Manual Exposure",
+    "battery": "3.7 Volt, Lithium Ion, 2,000mAh",
+    "isoequivalent": "Auto, 100, 200, 400, 800, 1600, 3200",
+    "totalpixel": "Approx. 17.0 M",
+    "pictureeffects": "No effect, Vignette, Grey-scale, Sepia, Vintage, Faded colours, Turquoise, Tint, Cartoon, Moody, Rugged, Oil pastel, Fisheye",
+    "compatiblevideofiles": "AVI, MP4/3GP, WMV, FLV, MKV, WEBM",
+    "category": "camera",
+    "compensation": "\u00b12EV (1/3EV steps)",
+    "batteryofpicturestaken": "Up to 400",
+    "rechargingtime": "Approx. 4 sec.",
+    "focallength": "f = 4.1 ~ 86.1mm (35mm film equivalent : 23 ~ 483mm)",
+    "meteringsystem": "Multi, Spot, Center-weighted, Face Detection AE",
+    "modes": "Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash Off, Red-eye fix",
+    "imagesensortype": "1/2.3\" BSI CMOS",
+    "effectivepixel": "Approx. 16.3 M",
+    "opticalzoom": "21x Zoom Lens",
+    "recording": "* Movie Size : 1920x1080(30fps), 1280x720(60fps), 1280x720(30fps), 640x480(60fps), 640x480(30fps), 320x240(30fps) * Multi Motion : 768x512(120fps)",
+    "range": "Wide : 0.5m ~ 3.8m (ISO Auto), Tele : 0.5m ~ 1.8m (ISO Auto)",
+    "fno": "2.8 (W) ~ 5.9 (T)",
+    "resolution": "Full HD (1080p) Video Recording & Playback"
+}

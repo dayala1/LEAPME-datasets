@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "microphone": "ECM-XM1 Shotgun type monoaural mic",
+    "videorecordingformat": "HD: HD MPEG-4 AVCHD format compatible SD: MPEG-2 PS (same as DVD)",
+    "memorycardslot": "SD/SDHC/SDXC Memory card Memory Stick Pro",
+    "weight": "6 lbs (2.76kg)",
+    "powerconsumption": "5.6W",
+    "framerates": "60i 24p 30p 60p Slow & Quick mode: 15fps, 8fps, 4fps, 2fps, 1fps",
+    "dimensionswxhxd": "Body only: 5 x 4 x 7 5/8\" (126.5 x 101.5 x 193.5 mm)",
+    "inputsoutputs": "Audio In: (2) XLR, Line/Mic/Mic and +48V phantom power Audio Out: (2) RCA L&R Component Out: HDMI 1.4, RCA type via AV jack Earphone: 3.5mm Stereo Lens Connector: E-Mount hot shoe MIC In: (2) XLR Monitor Speaker: Yes Timecode Out: HDMI 1.4 (embedded SPTE TC Out) Test Out: HDMI 1.4 USB: Mini-AB/Hi-speed",
+    "lcdmonitor": "3.5\" Wide LCD (approx. 921,600 dots) (1920 x 480), 16:9 aspect",
+    "powerrequirements": "AC adapter / battery 8.4V / 7.2V"
+}

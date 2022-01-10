@@ -1,0 +1,23 @@
+{
+    "videooutput": "1 BNC, 1.0 Vp-p, 75 Ohm Composite",
+    "powerconsumption": "Weather-proof rating",
+    "autogaincontrol": "Auto",
+    "dimension": "94mm x 80mm",
+    "infraredredlamps": "24 pcs",
+    "category": "camera",
+    "workingtemperature": "-10\u00b0 C - 50\u00b0 C (14\u00b0 F - 122\u00b0 F)",
+    "daynight": "ICR",
+    "smartir": "YES",
+    "blc": "Auto",
+    "snratio": "> 50dB (AGC off)",
+    "powersupply": "12V DC",
+    "lens": "3.6mm Fixed",
+    "synchronization": "Internal synchronization",
+    "shutterspeed": "- NTSC",
+    "minillumination": "Color",
+    "imagesensor": "1/4\" Sensor",
+    "humidity": "90% or less (non-condensing)",
+    "signalsystem": "NTSC / PAL",
+    "irrange": "70ft(21m)",
+    "whitebalance": "ATW"
+}

@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "power": "24VAC 1A 60Hz/50Hz (Included)",
+    "consumption": "35W",
+    "presetspeed": "360 Degree / Second",
+    "presetpoints": "128 Points",
+    "communication": "RS485 (+/-)",
+    "minimumillumination": "Color: 0.4Lux/F1.6 / B/W: 0.02Lux/F1.6",
+    "panrange": "360 Degree Continue",
+    "humidity": "0% ~ 90% (Non Condensing)",
+    "autoscan": "with Smart Programable Variable Speed",
+    "camera": "PTZ608 / SAMSUNG SDM-271",
+    "address": "0~255",
+    "model": "SED-CAM-PTZ608",
+    "resolution": "550TVL Color, 680TVL B/W",
+    "tiltrange": "0 ~ 90 Degree Flip",
+    "operatingtemperature": "-22C ~ 60C Degree"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "videooutput": "1 x VGA",
+    "recordingframerate": "25fps Real-time",
+    "features": "Power Over Ethernet Quick Remote Access 720P HD Real-Time",
+    "brand": "Zmodo",
+    "powersupply": "2W~4W",
+    "storagecapacity": "2TB HDD",
+    "recordingmode": "Manual / Time Scheduled / Alarm Triggered / Motion Detect",
+    "networkprotocol": "TCP/IP, UDP, DNS/ DDNS, SMTP, UPNP, DHCP, HTTP, P2P",
+    "networkconnection": "1 RJ45 10M/ 100M self-adaption & 4 independent 10/ 100 Mbps ethernet interfaces",
+    "resolutionrecording": "720P",
+    "model": "ZP-KE1H04-S-1TB",
+    "type": "Kit Solution",
+    "recordingcompression": "H.264 Level"
+}

@@ -1,0 +1,23 @@
+{
+    "color": "White,Golden,Yellow, Black, Pink, Blue, Silver",
+    "powerdissipation": "400mA 4.2V",
+    "category": "camera",
+    "powersourceinterface": "5V1A",
+    "wideangle": "170 degree HD wide-angle lens",
+    "usage": "Amateur Professional",
+    "type": "Portable",
+    "highdefinitionsupport": "1080P (Full-HD)",
+    "mediatype": "HDD / Flash Memory",
+    "sensortype": "CMOS",
+    "modelnumber": "SJCAM SJ4000 WiFi",
+    "screensize": "1.5 inch",
+    "launchdate": "2012",
+    "pixels": "5-6 million",
+    "storagetype": "Flash-Based DV",
+    "imagesensor": "12.0 Mega Pixels CMOS Sensor",
+    "wifi": "support",
+    "brandname": "other",
+    "operatingsystemos": "Windows XP/VistaorAbove/Win7/Mac os",
+    "model": "SJCAM SJ4000 WiFi",
+    "videoresolution": "HD (1280 x 720P 30FPS); VGA (640 x 480P 30FPS)"
+}

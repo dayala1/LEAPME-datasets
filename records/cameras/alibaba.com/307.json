@@ -1,0 +1,22 @@
+{
+    "videooutput": "1\u00a0Vpp,75\u00a0Ohms",
+    "operationtemperature": "-10-45\u00b0C",
+    "powerconsumption": "1500\u00a0mA",
+    "powersupply": "DC\u00a012V",
+    "effectivepixels": "752(H)\u00d7582(V)",
+    "category": "camera",
+    "dimensions": "250X103X150mm",
+    "privacy": "1~4\u00a0zones\u00a0(optional)",
+    "osdmenu": "Optional",
+    "blc": "On/Off\u00a0Selectable",
+    "snratio": ">48db",
+    "signalsystem": "PAL/NTSC",
+    "irdistance": "50M",
+    "irleds": "36\u00a28pcs",
+    "syncsystem": "Internal\u00a0Sync",
+    "imagesensor": "1/3\u201d\u00a0SONY\u00a0Exview\u00a0CCD",
+    "agc": "On/Off\u00a0Selectable",
+    "miniillumination": "0\u00a0Lux(IR\u00a0ON)",
+    "model": "ES500- MR-7707Y1",
+    "resolution": "700\u00a0TVL"
+}

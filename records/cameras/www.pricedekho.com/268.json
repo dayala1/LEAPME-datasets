@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Daylight, Flash, Fluorescent-1, Fluorescent-2, Fluorescent-3, Incandescent, One Push, One Push Set",
+    "imagedisplayresolution": "1229760 dots",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD) @ 60 fps",
+    "flashrange": "(ISO Auto) : Wide : 0.08 - 3.7m, Telephoto : 0.6 - 2.6m, (ISO 3200) : Wide : 5.2m, Telephoto : 3.7m",
+    "focallength": "4.7 - 23.5 mm (35 mm Equivalent to 26 - 130 mm)",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "imagestabilizer": "Optical",
+    "redeyereduction": "Yes",
+    "metering": "Centre-Weighted, Multi Pattern, Spot",
+    "selftimer": "2 sec, 10 sec, Potrait 1, Potrait 2",
+    "flashmodes": "Auto, Slow Sync Flash",
+    "lenstype": "Carl Zeiss Vario-Tessar",
+    "screensize": "3.3 Inches",
+    "pictureangle": "26 mm Wide Angle",
+    "autofocus": "Yes",
+    "builtinflash": "Yes",
+    "facedetection": "Yes",
+    "continuousshots": "Up to 10 fps"
+}

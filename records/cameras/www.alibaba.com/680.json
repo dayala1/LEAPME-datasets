@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "systemrequirement": "CPU: Intel Pentium D Processor",
+    "imageenhancement": "Panoramic image enhancement: Brightness/Saturation/Exposure/Sharpness/White Balance",
+    "netweight": "325g",
+    "infraredled": "850infrared LED",
+    "power": "7W",
+    "videocompression": "H.264 high profile, support dual stream",
+    "operatinghumidity": "20%~80% RH",
+    "powersupply": "AC/DC transformer, input: AC100~240V, output: DC12V/2A",
+    "eventmanagement": "Displacement Detection",
+    "networkinterface": "10BASE-T/100BASE-TX",
+    "lens": "Fish Eye Lens, F=2.5mm, f=1.7mm",
+    "modelno": "IP-LD360",
+    "localstorage": "Micro SD Card (optional)",
+    "sensorchip": "1/3\" Progressive Scan CMOS",
+    "security": "Passport protection, HTTPS Encryption, User access control",
+    "dimension": "185X185mm",
+    "lightsensitivity": "0.5Lux/F1.2 (Color), 0.1Lux/F1.2 (B/W)",
+    "operatingtemperature": "0\u00baC~70\u00baC"
+}

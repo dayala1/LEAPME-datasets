@@ -1,0 +1,1573 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="www.garricks.com.au:www.garricks.com.au#"
+     xml:base="www.garricks.com.au:www.garricks.com.au"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:www="www.garricks.com.au:"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="www.garricks.com.au:www.garricks.com.au"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.garricks.com.au:autofocus-array -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:autofocus-array">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">autofocus array</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:flash-unit -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:flash-unit">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">flash unit</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:image-format -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:image-format">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">image format</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:image-stabilization -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:image-stabilization">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">image stabilization</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:lens-mount -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:lens-mount">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lens mount</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:memory-type -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:memory-type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">memory type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:resolution -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:resolution">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">resolution</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:sensor-details -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:sensor-details">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sensor details</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:special-attribute -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:special-attribute">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">special attribute</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:video-recording-format -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:video-recording-format">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">video recording format</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:viewfinder-type -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:viewfinder-type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">viewfinder type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:weight -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:weight">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- www.garricks.com.au:zoom-range -->
+
+    <owl:DatatypeProperty rdf:about="www.garricks.com.au:zoom-range">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zoom range</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- www.garricks.com.au:0 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:0">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:1 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:1">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Expeed 4 Processor
+Wi-Fi Enabled</www:special-attribute>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:10 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:10">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36.3mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900g</www:weight>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual CF/SD Card Slots</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No Anti Aliasing Filter</www:special-attribute>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:11 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:11">
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:12 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:12">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.4mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30x</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:13 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:13">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30x Optical Zoom</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:14 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:14">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36.4</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full 1080p HD</www:video-recording-format>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo / Memory Stick PRO-HG Duo/ SD memory card / SDHC memory card / SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony E</www:lens-mount>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:15 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:15">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:16 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:16">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:17 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:17">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:18 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:18">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">480g</www:weight>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:19 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:19">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.1mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:2 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:2">
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:20 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:20">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36.3mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900g</www:weight>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual CF/SD Card Slots</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:21 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:21">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bundled Clip On</www:flash-unit>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:22 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:22">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:23 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:23">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mp</www:resolution>
+        <www:autofocus-array rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45</www:autofocus-array>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MPEG4</www:video-recording-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:24 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:24">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.3</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full 1080p HD</www:video-recording-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo / Memory Stick PRO-HG Duo/ SD memory card / SDHC memory card / SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony E</www:lens-mount>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:25 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:25">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.8x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:26 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:26">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:27 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:27">
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p-30</www:video-recording-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.2mb</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CX-13.2 mm x 8.8 mm</www:image-format>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electronic</www:viewfinder-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Integrated</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon 1</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:28 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:28">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MPEG4</www:video-recording-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:29 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:29">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:3 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:3">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:30 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:30">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.1mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full 1080p HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hot Shoe Accessory</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo / Memory Stick PRO-HG Duo/ SD memory card / SDHC memory card / SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony E</www:lens-mount>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:31 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:31">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:32 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:32">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">460gm</www:weight>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:33 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:33">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual Pixel CMOS Sendor
+WI-FI Enabled</www:special-attribute>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens Specific</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:34 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:34">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bundled Clip On</www:flash-unit>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:35 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:35">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:36 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:36">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Flash</www:memory-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MPEG4</www:video-recording-format>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:37 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:37">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.2mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electronic</www:viewfinder-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon VR (Lens)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Other</www:image-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:38 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:38">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:39 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:39">
+        <www:autofocus-array rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11 af points</www:autofocus-array>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">690g exc. Battery</www:weight>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALL-I H264 .MOV</www:video-recording-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF</www:lens-mount>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:4 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:4">
+        <www:autofocus-array rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11 af points</www:autofocus-array>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">690g exc. Battery</www:weight>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALL-I H264 .MOV</www:video-recording-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF</www:lens-mount>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:40 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:40">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:41 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:41">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Expeed 4 Processor
+Wi-Fi Enabled</www:special-attribute>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:42 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:42">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:43 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:43">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Flash</www:memory-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MPEG4</www:video-recording-format>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:44 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:44">
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1/2&quot;</www:image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weatherproof</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:45 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:45">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:46 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:46">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:47 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:47">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual Pixel CMOS Sendor
+WI-FI Enabled</www:special-attribute>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens Specific</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:48 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:48">
+        <www:autofocus-array rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11 af points</www:autofocus-array>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">690g exc. Battery</www:weight>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALL-I H264 .MOV</www:video-recording-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF</www:lens-mount>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:49 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:49">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:5 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:5">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electronic</www:viewfinder-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:50 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:50">
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1/3&quot;</www:image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">565</www:weight>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AVCHD</www:video-recording-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:51 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:51">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Other</www:image-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waterproof to 15mtr</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:52 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:52">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36.3mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900g</www:weight>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual CF/SD Card Slots</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:53 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:53">
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p</www:video-recording-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.2mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28mm (equiv.) Prime Nikkor Lens</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Large DX Sensor</www:special-attribute>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:54 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:54">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.1mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:55 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:55">
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:sensor-details>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Up to 7m waterproof</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:56 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:56">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.3 mp</www:resolution>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AVCHD</www:video-recording-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">High Res XGA OLED Tru-Finder</www:viewfinder-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hot Shoe Accessory</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick XC-HG Duo, SD memory card, SDHC memory card, SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony A</www:lens-mount>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Translucent Mirror Technology</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:57 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:57">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:58 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:58">
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10x Optical</www:zoom-range>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD 720</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligent IS</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:59 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:59">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:6 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:6">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.3 mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick XC-HG Duo, SD memory card, SDHC memory card, SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony A</www:lens-mount>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:60 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:60">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.1mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD 1080p</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon VR Lens Stabilization</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:61 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:61">
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:62 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:62">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:63 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:63">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon VR Lens Stabilization</www:image-stabilization>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:64 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:64">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36.3mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900g</www:weight>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual CF/SD Card Slots</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No Anti Aliasing Filter</www:special-attribute>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:65 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:65">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18mp</www:resolution>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALL-I H264 .MOV</www:video-recording-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Flash</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:66 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:66">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bundled Clip On</www:flash-unit>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:67 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:67">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:68 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:68">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.1mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:69 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:69">
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1180g</www:weight>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DUAL - Compact Flash and XQD</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:7 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:7">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36.4</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full 1080p HD</www:video-recording-format>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo / Memory Stick PRO-HG Duo/ SD memory card / SDHC memory card / SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony E</www:lens-mount>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wi-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:70 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:70">
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10x Optical Constant F/2.8 Aperture</www:zoom-range>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:71 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:71">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual Pixel CMOS Sendor
+WI-FI Enabled</www:special-attribute>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lens Specific</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:72 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:72">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:73 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:73">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CCD</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compact Flash</www:memory-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:74 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:74">
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">165g</www:weight>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.2mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:75 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:75">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MPEG4</www:video-recording-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:76 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:76">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Constant f2.8 aperture</www:special-attribute>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:77 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:77">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.3</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full 1080p HD</www:video-recording-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo / Memory Stick PRO-HG Duo/ SD memory card / SDHC memory card / SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony E</www:lens-mount>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:78 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:78">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:79 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:79">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:8 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:8">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.2mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penta-Mirror</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:80 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:80">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:81 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:81">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.1mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD 1080p</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:82 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:82">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:83 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:83">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick XC-HG Duo, SD memory card, SDHC memory card, SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony A</www:lens-mount>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:84 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:84">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:85 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:85">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.3mp</www:resolution>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALL-I H264 .MOV</www:video-recording-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual CF/SD Card Slots</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:86 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:86">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.3mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame, NO AA filter</www:special-attribute>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:87 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:87">
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12x Optical</www:zoom-range>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electronic</www:viewfinder-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:88 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:88">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.2mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.6x Optical</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:89 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:89">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20 mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EVF - Electronic OLED</www:viewfinder-type>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick XC-HG Duo, SD memory card, SDHC memory card, SDXC memory card</www:memory-type>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony A</www:lens-mount>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:9 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:9">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:90 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:90">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36.3mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900g</www:weight>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual CF/SD Card Slots</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:91 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:91">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">575g</www:weight>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MPEG4</www:video-recording-format>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:92 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:92">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18mp</www:resolution>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">APS-C</www:image-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF-S</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:93 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:93">
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.5&quot;</www:image-format>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.3mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4x Optical Zoom</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Large Image Sensor</www:special-attribute>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical</www:viewfinder-type>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical IS</www:image-stabilization>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:94 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:94">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.1 mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IBIS (In Body Stabilization)</www:image-stabilization>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LCD</www:viewfinder-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">M-43</www:image-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Micro 4/3</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-Fi Enabled</www:special-attribute>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:95 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:95">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36.3mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900g</www:weight>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual CF/SD Card Slots</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:96 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:96">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.1mp</www:resolution>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DX -23.5 × 15.6mm</www:image-format>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD 1080p</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nikon</www:lens-mount>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pentaprism</www:viewfinder-type>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:97 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:97">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22mp</www:resolution>
+        <www:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#string">860g</www:weight>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ALL-I H264 .MOV</www:video-recording-format>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:lens-mount rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Canon EF</www:lens-mount>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dual CF/SD Card Slots</www:memory-type>
+        <www:image-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full Frame - FX</www:image-format>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:98 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:98">
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.4mp</www:resolution>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50x</www:zoom-range>
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CMOS</www:sensor-details>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:flash-unit rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inbuilt</www:flash-unit>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Optical Steady Shot</www:image-stabilization>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- www.garricks.com.au:99 -->
+
+    <owl:NamedIndividual rdf:about="www.garricks.com.au:99">
+        <www:sensor-details rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.1mp</www:sensor-details>
+        <www:resolution rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16mp</www:resolution>
+        <www:special-attribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24mm Equivalent Wide Angle</www:special-attribute>
+        <www:zoom-range rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50x Optical Zoom</www:zoom-range>
+        <www:viewfinder-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Electronic EVF</www:viewfinder-type>
+        <www:video-recording-format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Full HD</www:video-recording-format>
+        <www:image-stabilization rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intelligent IS</www:image-stabilization>
+        <www:memory-type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SDHC-SDXC</www:memory-type>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

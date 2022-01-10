@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "meteringrange": "EV 1-20 (at 73\u00b0F/23\u00b0C with EF50mm f/1.8 II lens, ISO 100)",
+    "eyepoint": "Approx. 21mm (At -1m-1 from the eyepiece lens center)",
+    "weight": "Approx. 7.23 oz. (205g) (camera only), Approx. 8.04 oz. (228g) (including the battery and memory card)",
+    "compatiblelenses": "Canon EF lenses (except EF-S and EF-M lenses)",
+    "operatinghumidity": "10-90%",
+    "aspectratio": "3:2",
+    "whitebalancecontrol": "Auto, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, Flash, Underwater, Custom",
+    "recordingmedia": "SD card, SDHC card, SDXC memory card",
+    "magnification": "Approx. 0.71x / 33.3degrees",
+    "operatingtemperature": "32-104degreesF/0-40degreesC",
+    "filesize": "1. Large: Approx. 20 megapixels (5472x3648), 2. Medium: Approx 8.9 megapixels (3648x232) 3. Small 1: Approx 5 megapixels (2736x1824) 4. Small 2: Approx. 2.5 megapixels (1920 x 1280) 5. Small 3: Approx. 350,000 pixels (720 x 480) 6. RAW: Approx. 20.0 megapixels (5,472 x 3,648), M RAW: Approx. 11.0 megapixels (4,104 x 2,736), S RAW: Approx. 5.0 megapixels (2,736 x 1,824)",
+    "totalpixels": "Approx 20.6 megapixels",
+    "dimensions": "(W x H x D) 4.42 x 2.79 x 1.10 in. / 112.3 x 70.8 x 28.0 mm",
+    "lensmount": "Canon EF mount",
+    "pixelunit": "6.55 \u00b5m square",
+    "type": "Digital AF/AE single-lens reflex camera",
+    "pixels": "Effective Approx. 20.2 megapixels",
+    "imageformat": "35.8mm x 23.9mm (Full-Frame)"
+}

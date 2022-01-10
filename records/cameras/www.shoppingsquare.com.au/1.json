@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "compatiblelenses": "Autofocus is available with AF-S and AF-I lenses; autofocus is not available with other type G and D lenses, AF lenses (IX NIKKOR and lenses for the F3AF are not supported), and AI-P lenses; non-CPU lenses can be used in mode , but the camera exposure meter will not function",
+    "audiorecordingformat": "Linear PCM",
+    "isosensitivity": "ISO 100 to 6400; can also be set to approx. 0.3, 0.7, 1, or 2 EV (ISO 25600 equivalent) above ISO 6400",
+    "effectiveangleofview": "Nikon DX format; focal length equivalent to approx. 1.5x that of lenses with FX-format angle of view",
+    "videocompression": "H.264/MPEG-4 Advanced Video Coding",
+    "effectivepixels": "24.1 million",
+    "audiorecordingdevice": "Built-in monaural or external stereo microphone; sensitivity adjustable",
+    "lensmount": "Nikon F mount (with AF contacts)",
+    "type": "Single-lens reflex digital camera",
+    "imagesensor": "23.5 x 15.6 mm CMOS sensor"
+}

@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "attr10": "18,79\u00a0\u20ac187,89\u00a0\u20ac9,47 %9,9 %",
+    "touchscreen": "Nein",
+    "attr12": "15,78\u00a0\u20ac189,36\u00a0\u20ac9,47 %9,9 %",
+    "wlan": "Ja",
+    "usb": "Ja",
+    "hdmi": "Ja",
+    "farbe": "wei\u00df",
+    "selbstauslser": "Ja",
+    "attr18": "10,76\u00a0\u20ac193,68\u00a0\u20ac9,47 %9,9 %",
+    "stromversorgung": "Spezialakku",
+    "microdrive": "Nein",
+    "memorystick": "Nein",
+    "sensorchip": "CMOS",
+    "attr6": "30,83\u00a0\u20ac184,98\u00a0\u20ac9,47 %9,9 %",
+    "typ": "LCD",
+    "mmc": "Nein",
+    "sd": "SD / SDHC / SDXC"
+}

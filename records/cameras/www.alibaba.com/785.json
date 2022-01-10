@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1.0vp-p.75\u03a9,BNG Connector",
+    "gammacharacteristic": "0.45",
+    "minimumillumination": "IR\u00a0 ON\u00a0 0\u00a0 lux",
+    "snratio": "More than 48dB",
+    "autowhitebalance": "Auto",
+    "pickupdevice": "1/3\"SONY Super HAD CCD1/4''SHARP",
+    "powersupply": "DC 12V \u00b110%",
+    "backlightcompensation": "Auto",
+    "horizontalresolution": "420TVL600TVL700TVL420TVL",
+    "model": "WPC129S31WPC129S36WPC129S37WPC129P41",
+    "currentconsumption": "90mA(IR ON MAX 470mA)",
+    "irdistance": "20 \u00a0Meters",
+    "autogaincontrol": "Auto",
+    "lensmount": "Standard\u00a0 6mm\u00a0\u00a0\u00a0 3.6/6/8 mm Can choice",
+    "autoelectronicshutter": "PAL:1/50s-1/100.000s",
+    "tvsystem": "PAL/NTSC",
+    "synchronoussystem": "Internal Synchronization"
+}

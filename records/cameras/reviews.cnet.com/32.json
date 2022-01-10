@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "opticalsensortype": "BSI-CMOS",
+    "imagestabilizer": "optical (Intelligent IS with 5-axis Enhanced Dynamic Mode)",
+    "opticalzoom": "30 x",
+    "fileformatstillvideo": "JPEG/H.264 AAC (MOV)JPEG/H.264 AAC (MP4)",
+    "opticalsensorsize": "1/2.3\"",
+    "storagemedia": "SD/SDHC/SDXCSD/SDHC/SDXC",
+    "imagestabilizationtype": "Optical and digitalOptical and digital",
+    "dimensionswhd": "4.3x2.5x1.4 inches (110x63.5x34.5mm)4.4x2.6x1.4 inches (112.7x65.8x34.8mm)",
+    "sensorresolution": "16.1 Megapixel"
+}

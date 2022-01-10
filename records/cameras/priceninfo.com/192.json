@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "sensortype": "CCD",
+    "dimensions": "105.9 x 75.9 x 73.5 mm",
+    "weight": "413 gm",
+    "battery": "LI-50B Lithium-Ion Battery",
+    "imagestabilizer": "CCD Shift",
+    "opticalzoom": "36x",
+    "lcdscreensize": "3.0? Inch 230K TFT Color LCD With Touch Panel",
+    "internalmemory": "14MB",
+    "connectivity": "HDMI (Type D)",
+    "digitalzoom": "144x",
+    "maximumisosensitivity": "1600",
+    "effectivepixels": "14 Megapixels",
+    "movieformat": "MPEG-4 AVC/H.264",
+    "removablememory": "SD/SDHC/SDXC Card",
+    "afmode": "Face Detect iESP/Spot/Tracking"
+}

@@ -1,0 +1,10 @@
+{
+    "videoframerate": "30fps (QVGA), 15fps (VGA)",
+    "category": "camera",
+    "lightfrequency": "50Hz, 60Hz or Outdoor",
+    "networkprotocols": "HTTP / TCP / IP / UDP / STMP / DDNS / SNTP / DHCP / FTP",
+    "upc": "892721002469",
+    "nightvision": "Yes",
+    "resolution": "640x480 (VGA), 320x240 (QVGA)",
+    "manufacturer": "Rocky Mountain Ventures"
+}

@@ -1,0 +1,22 @@
+{
+    "effectivepixelshxv": "PAL:976\u00d7582PAL:752\u00d7582PAL:752\u00d7582PAL:500\u00d7582",
+    "videooutput": "1.0V P-P,75\u03a9",
+    "horizontalresolution": "700TVL600TVL540TVL420TVL",
+    "osd": "OSDOSD--",
+    "guarantee": "2 years",
+    "category": "camera",
+    "nightvision": "40M",
+    "dnr": "3D-DNR2D-DNR--",
+    "blc": "On/OffOn/OffOnOn",
+    "snratio": "> 48dB ( Auto Gain Off )",
+    "lens": "2.8-12MM 2.0megapixel varifocus lens",
+    "signalsystem": "PAL / NTSC",
+    "irleds": "5X42PCS",
+    "operatingtemperature": "-10 ~ 50 \u00b0C ( relative humidity: max95% )",
+    "imagesensor": "1/3\"SONY 672/673 CCD1/3\"Sony 638/639 CCD1/3\"Sony 638/639 CCD1/3\"Sony 632/633 CCD",
+    "agc": "Auto/Manual/OffAuto/Manual/OffAutoAuto",
+    "wdr": "D-WDRD-WDR--",
+    "miniillumination": "0.03lux0.08lux0.05lux0.01lux",
+    "model": "PT-133",
+    "whitebalance": "ATW/Manual/AutoATW/Manual/AutoATWATW"
+}

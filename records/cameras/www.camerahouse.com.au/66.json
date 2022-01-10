@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "dimensions": "109.4 x 68.0 x 27.5 mm",
+    "power": "Rechargeable Li-ion Battery NB-6LH",
+    "memorysize": "SD, SDHC, SDXC Memory Card",
+    "sensitivity": "AUTO, 100, 200, 400, 800, 1600, 3200",
+    "flash": "Built-In Flash",
+    "storage": "SD, SDHC, SDXC Memory Card",
+    "zoom": "5 x Optical Zoom",
+    "weight": "Approx. 218 g",
+    "megapixel": "12.1 Megapixel",
+    "standoutfeature1": "GPS",
+    "screensize": "3.0\" LCD Screen",
+    "ccd": "1/2.3 type back-illuminated CMOS Sensor",
+    "exposuresystem": "+/- 2 EV in 1/3 stop increments. Enhanced i-Contrast for automatic dynamic range correction.",
+    "shutterspeed": "1 \u2013 1/1600 sec. (factory default) 15 \u2013 1/1600 sec. (total range \u2013 varies by shooting mode)"
+}

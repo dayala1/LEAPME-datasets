@@ -1,0 +1,22 @@
+{
+    "wifi": "Yes",
+    "isosensitivity": "AUTO, 100 - 12800 (expandable to 52 - 51200 equivalent)",
+    "audiofileformats": "Linear PCM",
+    "videomode": "Yes, with sound",
+    "size": "35.9 x 24.0 mm",
+    "category": "camera",
+    "hotshoeadapter": "Yes",
+    "builtin": "Yes",
+    "pictbridgedirectprinting": "Yes",
+    "maximumvideoresolution": "1920 x 1080p",
+    "type": "CMOS",
+    "cleaning": "Image sensor cleaning",
+    "interface": "- USB - Type C HDMI",
+    "videofileformats": "MOV",
+    "benefits": "Care Plan",
+    "guidenumber": "12 m at ISO 100",
+    "timelapse": "Yes",
+    "exposuremodes": "Auto modes (auto; auto [flash off]), scene modes (portrait; landscape;  child;  sports; close up;  night portrait;  night landscape;  party/indoor;  beach/snow;  sunset; dusk/dawn;  pet portrait;  candlelight;  blossom;  autumn colors;  food), special effects modes (night vision;  colour sketch;  miniature effect;  selective colour; silhouette;  high key;  low key), programmed auto with flexible program(P), shutter-priority auto (S), aperture-priority auto (A), manual (M), U1(user settings 1), U2(user settings 2)",
+    "resolution": "24.3 megapixels",
+    "whitebalance": "Auto (2 types), incandescent, fluorescent (7 types), direct sunlight, flash, cloudy, shade, preset manual (up to 6 values can be stored, spot white balance measurement available during live view), choose color temperature (2500 K to 10000 K), all with fine-tuning"
+}

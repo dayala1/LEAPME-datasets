@@ -1,0 +1,23 @@
+{
+    "shuttertime": "1 / 5 ~ 1 / 16000 sec.",
+    "framerate": "Up to 30 FPS at 640x480",
+    "focusingrange": "1 m ~ INF",
+    "powersupply": "DC 5V / 2A",
+    "audiocommunication": "Built-in microphone",
+    "imagesettings": "Adjustable image size and quality",
+    "category": "camera",
+    "dimensions": "64 x 74.7 x 110 mm (including bracket)",
+    "firmware": "Support UPnP",
+    "resolutionframerate": "160x120, 320x240, 640x480",
+    "productcode": "WC-CTN30W",
+    "wirelesslan": "Built-in 802.11n wireless module and antenna (TN30W model only)td>",
+    "minimumillumination": "IR Mode: 0 lux with built-in IR LEDs on (3 LEDs in total; effective distance up to 6m)",
+    "protocols": "TCP / IP, HTTP, UDP, FTP, ICMP, ARP, DHCP, NTP, DDNS, UPnP, RTP, RTSP, RTCP, SMTP, IGMP, 3GPP, IPv4",
+    "operatingcondition": "0 \u00b0C ~ 40 \u00b0C(32 \u00b0F ~ 104 \u00b0F)",
+    "imagesensor": "1 / 7\" progressive scan CMOS sensor",
+    "audiocompression": "G.711 PCM 64Kbit / sec",
+    "zoom": "10x digital zoom",
+    "ethernet": "10 / 100 Base-T, autosensing, RJ-45",
+    "security": "User name / Password Protection",
+    "pirsensor": "Effective distance up to 6M (horizontal)"
+}

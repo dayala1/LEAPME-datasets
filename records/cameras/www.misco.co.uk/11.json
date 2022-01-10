@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "imageresolution": "4416x3312(14MP In.) 4:3 4000x3000(12MP In.) 4:3 3648x2736(10MP In.) 4:3 3264x2448(8MP) 4:3 2592x1944(5MP) 4:3 2048x1536(3MP) 4:3 640x480(VGA) 4:3 3648x2048(7MP) 16:9 HD",
+    "flashrange": "1~2 m",
+    "battery": "3x AAA (1.5v)",
+    "tripodmount": "Yes",
+    "mic": "Analog Mic",
+    "externalmemory": "SD card (Up to 32GB)",
+    "lens": "Fix Focus Lens",
+    "digitalzoom": "4x",
+    "lcd": "2.7\" TFT",
+    "imageformat": "JPEG",
+    "usbinterface": "USB 2.0 (FS)",
+    "videoformat": "AVI (With Audio)",
+    "resolution": "14.1 Megapixel",
+    "videoresolution": "640x480(VGA) 320x240(QVGA)",
+    "builtinmemory": "32MB DDR1(Buffer)"
+}

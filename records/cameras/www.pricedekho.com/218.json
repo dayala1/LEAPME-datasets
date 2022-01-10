@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "selftimer": "2 sec, 10 sec",
+    "whitebalancing": "Automatic Scene Detection",
+    "videodisplayresolution": "640 x 480 pixels (VGA) @ 30 fps",
+    "focallength": "6.8 - 20.4 mm",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600",
+    "imagestabilizer": "Digital",
+    "microphone": "Monaural Microphone",
+    "metering": "256-Segment",
+    "colorfilter": "Primary Color",
+    "displaytype": "LCD",
+    "lenstype": "Fujinon Lens",
+    "screensize": "2.4 Inches",
+    "autofocus": "Yes",
+    "imagedisplayresolution": "110000 dots",
+    "facedetection": "Yes"
+}

@@ -1,0 +1,11 @@
+{
+    "category": "camera",
+    "focusadjustment": "Autofocus & Manual Focus",
+    "brand": "Fujifilm",
+    "sensortype": "CMOS",
+    "displaytype": "LCD",
+    "additionalfeatures": "HDMI",
+    "supportedflashmemory": "SDXC Card",
+    "type": "Bridge Camera",
+    "hdmioutput": "Yes"
+}

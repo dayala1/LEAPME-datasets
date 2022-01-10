@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "weight": "395g",
+    "minimumfocusdistance": "0.28m",
+    "resolution": "29.0 Megapixels",
+    "isosensitivity": "ISO 100 - 6400",
+    "lensconstruction": "8 Elements in 6 Groups",
+    "recordingmedia": "SD/SDHC/SDXC",
+    "shutterspeed": "30 sec. - 1/2000 sec.",
+    "screensize": "3.0\" LCD Monitor",
+    "powersource": "BP-51 Li-ion Battery Pack",
+    "dimensionswxhxd": "161.4mm x 67mm x 81.6mm",
+    "autofocuspoints": "9 Point AF",
+    "minimumaperture": "f16",
+    "sensor": "23.5mm x 15.7mm Foveon",
+    "maximumaperture": "f2.8"
+}

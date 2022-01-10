@@ -1,0 +1,22 @@
+{
+    "wirelessconnection": "IEEE 802.11b/g/n",
+    "minfocusdistance": "50 cm",
+    "weight": "206 g",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1920 x 1080",
+    "category": "camera",
+    "avinterfaces": "HDMI",
+    "memorycardslot": "SD card",
+    "dimensionswxdxh": "10.86 cm x 3.16 cm x 6.1 cm",
+    "productdescription": "Nikon Coolpix S9600 - digital camera",
+    "imagestabiliser": "Optical",
+    "imageprocessor": "EXPEED C2",
+    "focusadjustment": "Automatic",
+    "colour": "White",
+    "lenssystem": "22 x zoom lens - 4.5 - 99 mm - f/3.4-6.3",
+    "cameraflash": "Pop-up flash",
+    "digitalzoom": "4 x",
+    "sensorresolution": "16.0 Megapixel",
+    "supportedbattery": "1 x Nikon EN-EL12 Li-ion rechargeable battery ( included )",
+    "display": "LCD display - 3\""
+}

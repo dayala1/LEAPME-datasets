@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "lcdscreensize": "3 in. or more",
+    "focusingtype": "25 Point Auto, Active Auto, Active Infra-Red Auto, Manual, Manual/Automatic, Passive Auto, TTL Contrast Detection, TTL Phase Detection",
+    "flashtype": "Pop-up",
+    "color": "Black",
+    "isosensitivity": "100 - 3200, 100 - More than 3200, Auto, ISO",
+    "opticalzoom": "Over 13x",
+    "megapixel": "12 Megapixels",
+    "viewfindertype": "LCD Screen",
+    "maxzoom": "More than 15x",
+    "productfeatures": "Face Detection, Image Stabilization, Panorama Mode",
+    "batterytype": "Rechargeable"
+}

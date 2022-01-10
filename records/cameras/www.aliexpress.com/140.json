@@ -1,0 +1,14 @@
+{
+    "videoframerate": "30fps",
+    "category": "camera",
+    "iscustomized": "yes",
+    "package": "Yes",
+    "opticalzoom": "< 10x",
+    "highdefinitionsupport": "480P",
+    "supportingsystem": "Windows 2003/2000/me/xp/vista",
+    "memorycardtype": "MicroSD / TF",
+    "modelnumber": "C21",
+    "brandname": "OEM",
+    "type": "Mini",
+    "theratioofimage": "4:3"
+}

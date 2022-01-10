@@ -1,0 +1,13 @@
+{
+    "videoframerate": "30fps",
+    "category": "camera",
+    "operatingtemperature": "0 \u00b0C -60 \u00b0C",
+    "imagingsensor": "1/4 inch Sony CMOS",
+    "powersupply": "Li-battery(3.7V/2200mAH)",
+    "videocompressionformat": "H.264",
+    "effectivepixels": "1 Mega",
+    "chargetime": ">5hours",
+    "cameralens": "5 Mega",
+    "viewangle": "100\u00b0",
+    "videoformat": "AVI"
+}

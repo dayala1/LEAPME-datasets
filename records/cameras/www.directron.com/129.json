@@ -1,0 +1,17 @@
+{
+    "ledindicators": "- Status, LAN, USB, hard drive LEDs",
+    "videooutput": "- 1x HDMI - 1x VGA",
+    "lanport": "- 2 x Gigabit RJ-45 Ethernet port",
+    "usb": "- 2 x USB 3.0 (front",
+    "certification": "- CE, FCC, VCCI, BSMI, C-Tick",
+    "powersupply": "- Input",
+    "powerconsumptionw": "- 101W Write/Read (with 8 x 1TB HDD installed)",
+    "buttons": "- System",
+    "lcdpanel": "- Mono-LCD display with backlight - Enter button, Select button for configuration",
+    "hdd": "- 8 x 3.5-inch SATA 6Gb/s, SATA 3Gb/s hard drive NOTE",
+    "fan": "- 2 x 12cm smart cooling fan",
+    "formfactor": "- Tower",
+    "category": "camera",
+    "cpu": "- Intel Core i3-2120 processor",
+    "dimensions": "- 217.5(H) x 327(W) x 321.2(D) mm - 8.56(H) x 12.8(W) x 12.65(D) inch"
+}

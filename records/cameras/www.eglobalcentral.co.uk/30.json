@@ -1,0 +1,15 @@
+{
+    "exposurecontrolsystem": "E-TTL II/E-TTL autoflash, manual flash",
+    "attr": "High-speed sync: Approx. 0.7-9.6m (at 1/250sec)",
+    "flashcoverage": "EF lens: 28mm/50mm equivalent angle of view",
+    "releasemode": "Release after 2 sec.",
+    "flashrange": "Normal flash: Approx. 0.7-19.3m",
+    "battery": "Two size-AA Alkaline/Ni-MH/lithium batteries",
+    "colortemperatureinformationtransmission": "Flash color temperature information transmitted to camera when flash is fired",
+    "dimensionswxhxdmm": "65.8 x 65.2 x 77mm",
+    "transmissionmethod": "Optical pulse",
+    "category": "camera",
+    "type": "Intermittent flash firing",
+    "powersaving": "Power off after 90sec. of idle operation (60 min. if set as slave)",
+    "flashreadyindicator": "Flash-ready lamp lights"
+}

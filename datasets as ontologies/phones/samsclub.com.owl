@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="samsclub.com:samsclub.com#"
+     xml:base="samsclub.com:samsclub.com"
+     xmlns:samsclub2="samsclub.com:----"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:samsclub="samsclub.com:">
+    <owl:Ontology rdf:about="samsclub.com:samsclub.com"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- samsclub.com:Autofocus- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Autofocus-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Autofocus </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Battery -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Battery">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Battery-size- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Battery-size-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Battery size </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Camera -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Camera">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Camera- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Camera-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Camera </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Color-Options -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Color-Options">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Color Options</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Contrast- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Contrast-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Contrast </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:External-Memory -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:External-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">External Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Flash- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Flash-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flash </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:HDR- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:HDR-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HDR </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Internal-Memory -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Internal-Memory">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal Memory</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Internal-Memory- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Internal-Memory-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal Memory </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Internal-Memory-Options -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Internal-Memory-Options">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Internal Memory Options</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Location-Technology -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Location-Technology">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Location Technology</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Memory- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Memory-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Memory </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:OS -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:OS">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OS</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Operating-System- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Operating-System-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating System </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:PPI- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:PPI-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PPI </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Processor -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Processor">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Processor- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Processor-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Processor </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:RAW-capture- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:RAW-capture-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RAW capture </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Removable-Battery- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Removable-Battery-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Removable Battery </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Resolution- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Resolution-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Resolution </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Sensor-Type -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Sensor-Type">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sensor Type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Smart-Charging -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Smart-Charging">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Smart Charging</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Speed- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Speed-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Speed </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Video -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Video">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Video-Features -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Video-Features">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Video Features</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Whats-in-the-Box -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Whats-in-the-Box">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">What&apos;s in the Box?</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Whats-included-in-the-box -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Whats-included-in-the-box">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">What&apos;s included in the box</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:Wireless-Charging -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:Wireless-Charging">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wireless Charging</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:tagline -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:tagline">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tagline</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:&#45;&#45;&#45;&#45;Camera-features- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:----Camera-features-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">    Camera features </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- samsclub.com:&#45;&#45;&#45;&#45;Display- -->
+
+    <owl:DatatypeProperty rdf:about="samsclub.com:----Display-">
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">    Display </rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- samsclub.com:0 -->
+
+    <owl:NamedIndividual rdf:about="samsclub.com:0">
+        <samsclub:Speed- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1.8GHz 64:bit Hexa:Core CPU</samsclub:Speed->
+        <samsclub:Contrast- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 1500:1</samsclub:Contrast->
+        <samsclub:Camera- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 16MP rear with f/1.8 aperture : 8MP front camera</samsclub:Camera->
+        <samsclub:Resolution- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 2560 x 1440</samsclub:Resolution->
+        <samsclub:Battery-size- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3,000 mAh</samsclub:Battery-size->
+        <samsclub:Internal-Memory- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 32GB (Available user memory will be less)</samsclub:Internal-Memory->
+        <samsclub2:Display- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 5.5” Quad HD display</samsclub2:Display->
+        <samsclub:PPI- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 538</samsclub:PPI->
+        <samsclub:Operating-System- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Android� 5.1 Lollipop</samsclub:Operating-System->
+        <samsclub:HDR- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Available</samsclub:HDR->
+        <samsclub:Whats-included-in-the-box rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> LG G4, Battery, Travel Charger, USB data cable, Quick Start Guide</samsclub:Whats-included-in-the-box>
+        <samsclub:Autofocus- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Laser</samsclub:Autofocus->
+        <samsclub2:Camera-features- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Manual Mode; Gesture shot; Gesture view; &amp; Front Facing Soft Light</samsclub2:Camera-features->
+        <samsclub:Processor- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Qualcomm� Snapdragon� 808 processor with X10 LTE</samsclub:Processor->
+        <samsclub:Memory- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Ram = 3 GB</samsclub:Memory->
+        <samsclub:Flash- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Single LE</samsclub:Flash->
+        <samsclub:External-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Up to 2 TB microSD card Support (card not included)</samsclub:External-Memory>
+        <samsclub:Removable-Battery- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</samsclub:Removable-Battery->
+        <samsclub:RAW-capture- rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Yes</samsclub:RAW-capture->
+    </owl:NamedIndividual>
+    
+
+
+    <!-- samsclub.com:1 -->
+
+    <owl:NamedIndividual rdf:about="samsclub.com:1">
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1080p full HD video recording, 720p playback</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16MP rear-facing camera</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5.7&quot; Quad HD Super AMOLED</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5MP front-facing, wide-angle camera</samsclub:tagline>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- samsclub.com:2 -->
+
+    <owl:NamedIndividual rdf:about="samsclub.com:2">
+        <samsclub:Smart-Charging rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 10 minutes = 4 hrs of Regular Use or 2 hrs of HD Video</samsclub:Smart-Charging>
+        <samsclub:Internal-Memory-Options rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 32GB, 64GB or 128GB Hard Drive</samsclub:Internal-Memory-Options>
+        <samsclub:Internal-Memory rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> 3GB RAM, 32GB, 64GB or 128GB Hard Drive</samsclub:Internal-Memory>
+        <samsclub:OS rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Android 5.0, Lollipop</samsclub:OS>
+        <samsclub:Battery rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Built-In Lithium Ion, 2600 mAH</samsclub:Battery>
+        <samsclub:Sensor-Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Fingerprint, Accelerometer, Light, Gyroscope, Proximity, Compass, Barometer, Fingerprint, Hall, Heart Rate Monitor</samsclub:Sensor-Type>
+        <samsclub:Camera rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Front Auto HDR 5MP, Rear Auto HDR 16MP, Advanced 8x Digital zoom, 0.7 Second Activation for Faster Response, Auto Real-Time HDR</samsclub:Camera>
+        <samsclub:Location-Technology rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> GPS, Glonass</samsclub:Location-Technology>
+        <samsclub:Whats-in-the-Box rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Galaxy S 6 Edge USB Cable USB Power Adapter Wired Stereo Headset</samsclub:Whats-in-the-Box>
+        <samsclub:Video-Features rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Low Light Video (Front and Back), High Clear Zoom, IR Detect White balance, Virtual Shot, Slow Motion, Fast Motion, Pro Mode and Selective Focus</samsclub:Video-Features>
+        <samsclub:Processor rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Quad 2.1GHz + Quad 1.5Ghz, Octacore Application Processor</samsclub:Processor>
+        <samsclub:Video rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Shoot Video in Ultra HD</samsclub:Video>
+        <samsclub:Wireless-Charging rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> WPC1.1(4.6W Output) &amp; PMA 1.0(4.2W) Compatible</samsclub:Wireless-Charging>
+        <samsclub:Color-Options rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> White Pearl, Black Sapphire or Gold Platinum</samsclub:Color-Options>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2560 x 1440 Quad HD Resolution, 577ppi</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ANT+</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Android Smartphone with spacious 5.1-inch HD touchscreen for videos, web browsing, and more</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bluetooth 4.1</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Built in wireless charging and fast charging capabilities </samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Front-facing camera features 5MP and an industry-leading 120� wide angle lens</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Offers Google&apos;s Android 5.0 (Lollipop) to support your favorite apps, widgets and games</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Open two apps side by side and easily switch between them with multi window</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad 2.1GHz + Quad 1.5Ghz, Octacore application processor to quickly switch between apps and HD gaming on a lightning-fast browser</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Quad HD Super AMOLED Plus display making text, video, and games look crisp, vibrant and rich</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snap panoramic pictures and record HD video with the 16MP primary camera with LED flash</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USB 2.0 compatible, IR LED, MHL 2</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WI-FI- 802.11 a/b/g/n/ac</samsclub:tagline>
+        <samsclub:tagline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">WiFi Direct</samsclub:tagline>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.10-SNAPSHOT) http://owlapi.sourceforge.net -->
+

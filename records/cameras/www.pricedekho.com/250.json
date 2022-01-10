@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD)",
+    "audioformats": "AC3",
+    "flashrange": "(ISO Auto) : Wide : 0.4 - 7.1m, Telephoto : 1.7 - 3.9m, (ISO 3200) : Wide : 10.0m, Telephoto : 5.5m",
+    "focallength": "4.45 - 89 mm (35 mm Equivalent to 25 - 500 mm)",
+    "builtinflash": "Yes",
+    "manualfocus": "Yes",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "displaytype": "XtraFine LCD TruBlack Technology",
+    "lenstype": "Sony G Lens",
+    "screensize": "3 Inches",
+    "imageformat": "JPEG (DCF, DPOF)",
+    "autofocus": "Contrast Detection AF",
+    "imagedisplayresolution": "921600 dots",
+    "flashmodes": "Auto, Slow Sync Flash",
+    "videoformat": "AVC, AVCHD, MP4"
+}

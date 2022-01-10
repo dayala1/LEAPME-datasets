@@ -1,0 +1,23 @@
+{
+    "weight": "405 gm",
+    "isosensitivity": "Auto / High Auto 100/200/400/800/1600",
+    "lcdpanel": "3.0? inch 460K TFT Display",
+    "ioports": "SNS upload, USB2.0 High Speed, DC-In, Combined A/V & USB output",
+    "label16": "LI-50B Lithium-Ion Battery",
+    "category": "camera",
+    "dimensions": "107.4 x 72.6 x 73.2 mm",
+    "lightmetering": "Spot metering, ESP Light Metering",
+    "selftimer": "2/12 sec Pet auto shutter",
+    "imageprocessing": "TruePic III+",
+    "sensortype": "1/2.3? inch CMOS Sensor",
+    "shutterspeed": "1/4 \u2013 1/1300 sec (up to 4 sec in Night scene)",
+    "exposurecompensation": "+/- 2 EV / 1/3 Steps",
+    "flashmodes": "Red-eye reduction, Fill-in, AUTO, Off",
+    "aperturerange": "f/3.2 \u2013 f/5.6",
+    "opticalzoom": "26x",
+    "focusmode": "Face Detection AF, iESP, Spot, AF Tracking",
+    "digitalzoom": "4x / 104x",
+    "lensconfiguration": "4.7 \u2013 121.2mm (26 \u2013 676mm equivalent)",
+    "effectivepixels": "14 Megapixels",
+    "usermemory": "59 MB"
+}

@@ -1,0 +1,8 @@
+{
+    "category": "camera",
+    "pictbridge": "Yes",
+    "facedetection": "Yes",
+    "redeyereduction": "Yes",
+    "metering": "NA",
+    "selftimer": "2 sec, 10 sec Delay"
+}

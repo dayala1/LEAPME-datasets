@@ -1,0 +1,6 @@
+{
+    "category": "camera",
+    "usb": "USB_HOST x2",
+    "filesystem": "Angstrom file system",
+    "type": "FunctionDescription"
+}

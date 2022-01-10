@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "communicationinterface": "Support AITHINK , PELCO-D/P , Baud rate : 1200/2400/4800/9600/19200 , Address range : 1 ~ 255",
+    "minillumination": "Color 0.5Lx ( F1.35 ), B/W 0.03 ( F1.35 )",
+    "weight": "Net wight 38KG",
+    "camera": "Image Sensor1/3 CMOS , 3.1 MP",
+    "environment": "Manual defogging and defrostingON/OFF",
+    "rotationangle": "Horizontal 360\u00b0continuous rotation , vertical 40\u00b0 ~- 70\u00b0 , without blind area",
+    "privacymask": "ON/OFF ( 8 region )",
+    "imageformat": "H.264 video coding , main stream : 20fps(2592\u00d71920)",
+    "interface": "Video outputHD 10/100M self adaptive Ethernet and PAL analog video dual-output",
+    "daynight": "Photosensitization/camera/timing, IR-Cut ICR",
+    "osd": "Chinese and English, support ABC input, abc input, digital input, Smart pinyin input, Character input"
+}

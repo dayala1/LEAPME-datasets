@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "exposuremeteringsystem": "TTL center-weighted average metering",
+    "dimensions": "135.5(W) x 81(H) x 33.5(D) mm",
+    "weight": "430g",
+    "cameratype": "35mm camera with electronically controlled focal plane shutter and TTL metering system featuring LED display",
+    "mount": "M mount",
+    "shutter": "Electronic controlled metal focal plane shutter with vertical operation B, 8-1/2000 sec. (with Auto mode)",
+    "filmformat": "35mm film, 24x36mm",
+    "powersource": "Two 1.5V Alkaline batteries (LR44) or Silver oxide batteries (SR44)",
+    "focusing": "Coincidence type",
+    "flashterminal": "X synchronic contact, synchronized at 1/125sec or slower speed"
+}

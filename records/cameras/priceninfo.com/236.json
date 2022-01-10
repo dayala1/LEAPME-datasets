@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "exposurecontrol": "TTL 256-zones metering, Multi / Spot / Average",
+    "aperturerange": "F2.8 \u2013 F11(Wide)",
+    "focallength": "f=6.1 \u2013 158.6 mm, equivalent to 24 \u2013 624 mm on a 35 mm camera",
+    "label1": "ISO 12800 Sensitivity",
+    "exposuremode": "Programmed AE, Aperture Priority AE, Shutter Priority AE, Manual",
+    "label3": "Aspherical Lenses",
+    "label4": "Full HD video recording",
+    "label5": "3.0 Inch LCD Monitor",
+    "label6": "EXR Auto",
+    "lcdscreensize": "3.0-inch, approx. 460,000 dots, TFT color, approx. 100% coverage LCD monitor",
+    "lens": "Fujinon 26x optical zoom lens",
+    "label0": "12MP Effective Pixels",
+    "effectivepixels": "12.0 million pixels",
+    "label2": "26X Manual Zoom",
+    "exporsurecompensation": "-2.0EV \u2013 +2.0EV 1/3EV step",
+    "focusdistance": "Normal- Wide",
+    "imagesensor": "2/3-inch EXR CMOS with primary color filter"
+}

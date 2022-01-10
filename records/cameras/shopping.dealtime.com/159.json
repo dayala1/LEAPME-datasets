@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "displayrotation": "Built-in",
+    "facedetection": "Yes",
+    "focusadjustment": "Automatic      \u2022           Manual",
+    "flashtype": "Pop-up Flash",
+    "shootingmodes": "Frame Movie Mode",
+    "redeyereduction": "Yes",
+    "brand": "Fujifilm",
+    "exposuremodes": "Automatic      \u2022           Manual      \u2022           Shutter-Priority      \u2022           Program      \u2022           Aperture-Priority",
+    "displaytype": "LCD",
+    "autofocustype": "TTL contrast detection",
+    "additionalfeatures": "YouTube Capture Mode      \u2022           Resizing an Image      \u2022           Exif Print Support      \u2022           RGB Primary Color Filter      \u2022           Digital Image Rotation      \u2022           DPOF Support      \u2022           USB 2.0 Compatibility      \u2022           Audio Recording      \u2022           Cropping An Image      \u2022           Histogram Display      \u2022           Automatic Face Tracking      \u2022           Direct Print      \u2022           1080p Full HD Movie Recording      \u2022           Built-In GPS      \u2022           Red eye Fix      \u2022           Built-In Speaker      \u2022           Automatic Scene Recognition (SR Auto)",
+    "digitalvideoformat": "H.264",
+    "supportedflashmemory": "SDXC Memory Card      \u2022           SDHC Memory Card      \u2022           SD Memory Card",
+    "exposuremetering": "Multi-Segment      \u2022           Average      \u2022           Spot",
+    "type": "Point & Shoot",
+    "hdmioutput": "Yes"
+}

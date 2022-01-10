@@ -1,0 +1,23 @@
+{
+    "protocol": "TCP/IP/UDP/FTP/HTTP/SMTP/DHCP DNS/ARP/ICMP/POP3/NTP",
+    "weight": "About\u00a01kg",
+    "audiocompression": "G.721",
+    "exposuremode": "ATE,ATW,AGC",
+    "size": "270x100x90mm",
+    "category": "camera",
+    "consumption": "<6W",
+    "videoinput": "RJ45\u00a010M/100M",
+    "power": "DC12V\u00a01A\u00a0/POE(OPTIONAL)",
+    "dualstream": "Support",
+    "lens": "2.8-12mm 3Mega Pixel Lens",
+    "videocompression": "H.264",
+    "irdistance": "50M",
+    "daynightmode": "IR-CUT",
+    "imagesensor": "1/2.5\"CMOS",
+    "framerate": "PAL:1-25fps,NTSC:1-30fps",
+    "worktemperature": "-20\u201470\u00b0C",
+    "controlprotocol": "Maxvi\u00a0IP\u00a0Control\u00a0Protocol",
+    "miniillumination": "0.01Lux/F1.2(Color)",
+    "coderate": "500K\u20144Mbps",
+    "model": "MIP-813Y1"
+}

@@ -1,0 +1,22 @@
+{
+    "operationtemperature": "-10 \u00b0C ~ 60\u00b0C",
+    "powerconsumption": "<5W",
+    "powersupply": "DC12\u00b110%",
+    "category": "camera",
+    "electronicshutter": "PAL: 1/50~1/100,000 Sec NTSC: 1/60~1/100,000 Sec",
+    "daynight": "Color/\u00a0B&W\u00a0(IR-CUT\u00a0)",
+    "pixel": "PAL/NTSC: 1280*720PAL/NTSC: 1280*960",
+    "material": "Metal",
+    "minimumillumination": "Color: 0.1Lux@(F1.2, AGC ON)",
+    "label3": "HD-SDI products required special cable as RG179, and more expensive, and it transmit only 100 meters.",
+    "lens": "3.6mm/6mm/8mm Lens",
+    "modelno": "VG-AHD100580VG-AHD130581",
+    "label2": "and it transmit as long as 500 meters.",
+    "irdistance": "20m",
+    "a": "AHD product can work with your present analog cable system, do not have special requirement on cables,",
+    "imagesensor": "1/4\" COMS,1.0M Pixel1/3\" COMS,1.3M Pixel",
+    "agc": "Auto",
+    "q": "Which one is better among HD-SDI and AHD products?",
+    "snratio": ">58db",
+    "syncsystem": "Internal"
+}

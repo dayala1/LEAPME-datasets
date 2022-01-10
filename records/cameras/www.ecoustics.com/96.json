@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "additionalfeatures": "Built-in Pop-up flash",
+    "imagesensor": "20.3 effective megapixel APS-C CMOS",
+    "network": "4G LTE4G (LTE Cat3 100/50Mbps) : 800/850/900/1800/2100/2600 (Dependent on Market)",
+    "battery": "4,360 mAh",
+    "attr3g": "3G (HSPA\uff0b42Mbps) : 850/900/1900/2100",
+    "is": "(Lens Shift \u2013 depends on Lens type)",
+    "display": "121.2mm (4.8inch) HD TFT LCD SVGA EVF",
+    "connectivity": "WiFi a/b/g/n 2.4GHz, 5GHz Bluetooth 4.0 (LE) GPS, GLONASS (Support A-GPS)",
+    "os": "Android 4.2 (Jelly Bean)",
+    "video": "Codec: MPEG4, H.263, H.264, VC-1, Sorenson Spark, WMV7/8, MP43, VP8 Format: MP4/3GP, AVI, WMV/ASF, FLV, MKV, WEBM Size: 1920\u00d71080/25fps, 1920\u00d7810/24fps, 1280\u00d7720/50fps, 1280\u00d7720/25fps, 640\u00d7480/50fps, 640\u00d7480/25fps, 320\u00d7240/25fps for Sharing",
+    "memory": "16GB Internal memory \uff0b microSD slot (up to 64GB) 2.0GB RAM \uff0aUser memory may differ by region, carrier, and supporting language, and may change after software upgrade.",
+    "dimensionwxhxd": "136.5 x 101.2 x 25.7 (37.65) mm, 410g (without battery) / 495g (with standard battery)",
+    "iso": "Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600",
+    "audio": "Codec: MP3, AAC LC/AAC\uff0b/eAAC\uff0b, WMA, FLAC, Vorbis, AMR-NB/WB Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, IMY, RTTTL, RTX, OTA",
+    "sensor": "Accelerometer, Geomagnetic, Proximity, Gyro, RGB Light",
+    "image": "JPEG (3:2): 20.0M (5472\u00d73648), 10.1M (3888\u00d72592), 5.9M (2976\u00d71984), 2.0M (1728\u00d71152) JPEG (16:9): 16.9M (5472\u00d73080), 7.8M (3712\u00d72088), 4.9M (2944\u00d71656), 2.1M (1920\u00d71080) JPEG (1:1): 13.3M (3648\u00d73648), 7.0M (2640\u00d72640), 4.0M (2000\u00d72000), 1.1M (1024\u00d71024) RAW: 20.0M (5472 x 3648) \uff0a 3D Image: JPEG JPEG (16:9): 4.1M (2688\u00d71512), 2.1M (1920\u00d71080)"
+}

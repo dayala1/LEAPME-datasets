@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "colorfilter": "Primary (RGB) Color Filter",
+    "whitebalancing": "Auto, Fluorescent-1, Fluorescent-2, Fluorescent-3, Overcast, Sunlight, Tungsten",
+    "imagedisplayresolution": "230000 dots",
+    "videodisplayresolution": "1280 x 720 pixels (HD)",
+    "flashrange": "(ISO 800) : Wide : 0.2 - 4.7m, Telephoto : 0.9 - 2.4m",
+    "flashmodes": "Auto, Fill-in Flash",
+    "isorating": "Auto / 80 / 200 / 400 / 800 / 1600",
+    "imagestabilizer": "CCD Shift",
+    "redeyereduction": "Yes",
+    "metering": "ESP Light",
+    "selftimer": "2 sec, 12 sec",
+    "focallength": "4.2 - 52.5 mm (35 mm Equivalent to 24 - 300 mm)",
+    "screensize": "3 Inches",
+    "builtinflash": "Yes",
+    "autofocus": "iESP AF",
+    "shootingmodes": "Intelligent Auto, Program Auto, Magic Mode, Scene Modes (Portrait, Landscape, Night Scene, Night Scene with portrait, Sports, Indoor, Candle, Self-portrait, Sunset, Fireworks, Cuisine, Documents, Beach and Snow, Pet)",
+    "facedetection": "Yes"
+}

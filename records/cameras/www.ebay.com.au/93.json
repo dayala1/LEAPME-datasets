@@ -1,0 +1,15 @@
+{
+    "category": "camera",
+    "iris": "Auto / Manual",
+    "label9": "Zoom",
+    "minimumillumination": "6 lx (Scene Mode OFF 1/30), 2 lx (Scene Mode Low Light 1/15)",
+    "imagestabilizer": "Active Image Stabilizer",
+    "focus": "Auto / Munual",
+    "opticalzoom": "5x",
+    "label5": "Shutter Speed",
+    "digitalzoom": "120x (Motion Image), 120x (Still Image at 0.3M/2M)",
+    "motionimage": "Miniature Effect, One Point Color, Old Movie, Time Lapse  Rec, Ghost Effect, Fish-eye Effect, Soft Skin, Monochrome, Sepia, Vivid,  Soft",
+    "label13": "Creative Control",
+    "whitebalance": "Auto / Indoor1 / Indoor2 / Sunny / Cloudy / White set",
+    "stillimage": "Miniature Effect, One Point Color, Old  Movie, Fish-eye Effect, HDR Paint, Soft Skin, Monochrome, Sepia, Vivid,  Soft"
+}

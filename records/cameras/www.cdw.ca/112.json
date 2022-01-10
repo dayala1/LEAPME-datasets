@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "formfactor": "Plug-in module",
+    "productline": "Canon",
+    "type": "10/100",
+    "brand": "Canon",
+    "totalqty": "1",
+    "qty": "1",
+    "compatiblewith": "Canon N 2000",
+    "connectivitytechnology": "Wired",
+    "interface": "Ethernet 10Base-T/100Base-TX",
+    "datalinkprotocol": "Ethernet , Fast Ethernet",
+    "model": "NB-11FB",
+    "packagedquantity": "1",
+    "connectortype": "RJ-45",
+    "compatibility": "PC",
+    "manufacturer": "Canon"
+}

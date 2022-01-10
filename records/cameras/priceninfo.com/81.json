@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videorecordingformat": "AVCHD (MPEG-4 AVC / H.264 standard)",
+    "microphone": "Stereo Condenser Microphone",
+    "analogoutput": "Yes",
+    "dimensions": "60x61x121mm",
+    "weight": "270 gm",
+    "shootingmodes": "Smart Auto, P, CINE, Portrait, Sports, Night, Low light, Snow, Beach, Sunset, Spotlight, Fireworks, Low Light",
+    "imagesensor": "1/4.85-inch HD CMOS sensor",
+    "imagestabilizer": "Electronic stabilizer",
+    "inputoutput": "Mini HDMI, Component, AV Cable",
+    "digitalzoom": "360x (Movie mode only)",
+    "lensconfiguration": "10 elements in 8 groups, 1 aspherical lens used",
+    "shutterspeedrange": "1/12.5 \u2013 1/2000 (P mode) and 1/2 \u2013 1/500 (Low light mode)",
+    "memory": "SD / SDHC/ SDXC memory card",
+    "lcdmonitor": "3.0-inch with Touch Panel",
+    "battery": "Rechargeable lithium battery BP110"
+}

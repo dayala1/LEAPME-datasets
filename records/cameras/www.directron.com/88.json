@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1.0Vp-p 75\u03a9",
+    "sensingarea": "4.9mm x 3.7mm",
+    "infraredled": "36 Pcs",
+    "minillumination": "0.0 Lux (IR on)",
+    "imagesensor": "1/3\" Sony High Resolution CCD",
+    "infraredwavelength": "850nm",
+    "snratio": "More than 48 dB",
+    "powersupply": "DC 12V, 500mA Min. (1A Recommended)",
+    "effectivepixels": "768 (H) x 582 (V)",
+    "infrareddistance": "98FT",
+    "signalsystem": "NTSC",
+    "autoelectronicshutter": "1/60 to 1/100,000 sec",
+    "resolution": "540 TV lines",
+    "dimension": "4.7\" x 3.6\""
+}

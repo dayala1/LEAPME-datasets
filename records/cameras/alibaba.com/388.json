@@ -1,0 +1,22 @@
+{
+    "videooutput": "1Vp-p,75ohm, BNC",
+    "operationtemperature": "-10\u00b0C ~ 50\u00b0C",
+    "color": "Grey/White",
+    "horizontalresolution": "1200TVL",
+    "lenstype": "3.6mm 2M Pixels Lens",
+    "storagetemperature": "-20\u00b0C ~ 60\u00b0C",
+    "category": "camera",
+    "dimensions": "196X83X73mm",
+    "gammacorrection": ">0.45",
+    "gaincontrol": "Auto",
+    "tvsystem": "PAL/NTSC",
+    "blc": "Auto",
+    "infraredled": "36pcs x \u03c68 Leds",
+    "snratio": ">48dB",
+    "modelno": "ES500-MR-2720O4/H",
+    "synchronization": "Internal",
+    "irdistance": "30 Meters",
+    "imagedevice": "1/2.8'' Sony Cmos",
+    "minillumination": "0 Lux (LED on)",
+    "scanningsystem": "2:1 Interlace"
+}

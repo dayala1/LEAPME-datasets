@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "battery": "Battery capacity1 500mAh, (works for 3 hours)",
+    "wifi": "System requirementSupport Iphone(IOS), Android, Windows all",
+    "framerate": "5 to 30fps(Adjustable in computer client end)",
+    "supportedprotocols": "HTTP,DNS,DHCP,PPPOE,SMTP,FIP,SSL,TFTP,NTP,ARP, PARP,IVFS,RTSP,RTP,RTCP etc",
+    "lens": "Viewing angle90\u00b0 ultra-wide angle",
+    "packing": "Unit Size 82*48mm\u00a0 Weights 122g",
+    "chargingtime": "8hours (with circuit protection for overcharge, it can work during charging )",
+    "memory": "Type of memory cardTF flash card(supports 512MB to 32GB)",
+    "interface": "InputDC 5V 1A",
+    "wirelessstandard": "IEEE 802.11b/g/n",
+    "videoformat": "AVI ( with H.264 compressed format)"
+}

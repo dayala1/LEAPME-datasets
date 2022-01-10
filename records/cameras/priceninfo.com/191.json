@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "slowestshutterspeed": "30 sec. in steps of 1/3",
+    "shuttertype": "Electronically controlled vertical-travel focal-plane",
+    "weight": "690gm",
+    "imagesensortype": "CMOS",
+    "batterylifeshotspercharge": "1,050 shots (CIPA)",
+    "compatiblelenses": "Type G or D AF NIKKOR",
+    "fastestshutterspeed": "1/8000 sec. in steps of 1/3",
+    "selftimer": "2, 5, 10, 20 sec. Timer duration electronically controlled",
+    "effectivepixels": "16.2 million",
+    "imagesensorformat": "DX",
+    "storagemedia": "SD, SDHC, SDXC memory cards",
+    "interface": "Hi-speed USB, NTSC, HDMI, Stereo Microphone Input, Audio/Video out",
+    "viewfinder": "Eye-level pentaprism single-lens reflex viewfinder",
+    "sensorsize": "23.6 x 15.6mm",
+    "fileformat": "NEF (RAW)",
+    "battery": "EN-EL15 Lithium-ion Battery"
+}

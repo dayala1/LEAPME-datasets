@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "model": "Ref No.SensorLEDLensPower",
+    "baudrate": "9600",
+    "paymentterms": "L/C,T/T",
+    "protocol": "PELCO D",
+    "operatingtemp": "-10\u00b0C ~ 50\u00b0C",
+    "weight": "0.3kg",
+    "communication": "N/A",
+    "ir": "100mA",
+    "humidity": "0% to 90%",
+    "fobprice": "Get Latest Price",
+    "storagetemp": "0\u00b0C ~ 50\u00b0C",
+    "camera": "150mA",
+    "construction": "Plastic",
+    "dimension": "104.8mm\u00d7104.8mm\u00d792.2mm",
+    "port": "INCHEON"
+}

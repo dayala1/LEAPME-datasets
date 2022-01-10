@@ -1,0 +1,12 @@
+{
+    "category": "camera",
+    "spectralband": "\u00c2\u00a07.5 - 13.5 \u00c2\u00b5m",
+    "dimensions": "\u00c2\u00a07.3\" x 4.0\" x 10\" (L x W x H)",
+    "powerconsumption": "\u00c2\u00a05 W nominal, 30 W (max)",
+    "fieldofview": "\u00c2\u00a035\u00c2\u00b0 H x 27\u00c2\u00b0 V",
+    "connectortypes": "\u00c2\u00a0BNC at primary cable end",
+    "sensortype": "\u00c2\u00a0320 x 240 Microbolometer",
+    "video": "\u00c2\u00a0NTSC",
+    "powerrequirements": "\u00c2\u00a012 VDC",
+    "cameraweight": "\u00c2\u00a010 lb"
+}

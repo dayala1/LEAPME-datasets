@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "dimensions": "108.3 x 58.9 x 27.7 mm",
+    "power": "Li-ion Battery Pack (3.6V, 1,250 mAh, 4.5 Wh)",
+    "memorysize": "Built-in Memory, SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "sensitivity": "Auto / i.ISO / 100 / 200 / 400 / 800 / 1600 / 3200 / 6400* (*Extended ISO) High Sensitivity Mode (ISO1600 - 6400)",
+    "flash": "Built-In Flash",
+    "storage": "Built-in Memory, SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "zoom": "20 x Optical Zoom",
+    "weight": "Approx. 172g",
+    "megapixel": "18.1 Megapixel",
+    "standoutfeature1": "GPS",
+    "screensize": "3.0\" LCD Touch Screen",
+    "ccd": "MOS Sensor",
+    "exposuresystem": "1/3 EV step, \u00b12 EV",
+    "shutterspeed": "Approx. 4 - 1/2,000 sec Starry Sky Mode"
+}

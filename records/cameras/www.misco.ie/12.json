@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Canon PowerShot D20 - digital camera",
+    "focusadjustment": "Automatic, manual",
+    "weight": "228 g",
+    "memorycardslot": "SD card",
+    "colour": "Blue",
+    "lenssystem": "5 x zoom lens - 5 - 25 mm - f/3.9-4.8",
+    "minfocusrange": "1 cm",
+    "microsoftcertification": "Compatible with Windows 7",
+    "digitalzoom": "4 x",
+    "sensorresolution": "12.1 Megapixel",
+    "cameraflash": "Built-in flash",
+    "producttype": "Digital camera - compact",
+    "imagestabiliser": "Optical",
+    "dimensionswxdxh": "11.2 cm x 2.8 cm x 7.1 cm",
+    "imageprocessor": "DIGIC 4",
+    "display": "LCD display - 3\"",
+    "supportedbattery": "1 x Li-ion rechargeable battery ( included )"
+}

@@ -1,0 +1,20 @@
+{
+    "wirelesscontrol": "Not available",
+    "category": "camera",
+    "audioout": "Stereo",
+    "continuousshooting": "-\u00a0 Normal",
+    "computerinterface": "Hi-Speed USB 2.0 (Dedicated connector (female) with   unified type of digital, audio and video*1) *1 mini-B compatible",
+    "shootingmodes": "C1, C2, M, Av, Tv, P, Auto*1, SCN*2, Creative Filters*3,   Movie*4 - Shooting movies is possible with the movie button *1 Smart   Auto also available for movies *2 Movie Digest, Portrait, Landscape, Kids   & Pets, Sports, Smart Shutter*5, High-Speed Burst HQ, Handheld Night   Scene, Beach, Underwater, Foliage, Snow, Fireworks, Stitch Assist *3 High   Dynamic Range, Nostalgic, Fish-eye Effect, Miniature Effect, Toy Camera   Effect, Monochrome, Super Vivid, Poster Effect, Color Accent, Color Swap *4   Standard, iFrame Movie *5 Smile, Wink Self-timer, Face Self-timer",
+    "powersource": "-\u00a0 1. Rechargeable Lithium-ion Battery Pack   NB-10L -\u00a0 2. Compact Power Adapter CA-PS700 (included with AC   Adapter Kit ACK-DC80)",
+    "photoeffects": "My Colors Off, Vivid, Neutral, Sepia, Black & White,   Positive Film, Lighter Skin, Darker Skin, Vivid Blue, Vivid Green, Vivid Red,   Custom Color* * Adjustment of contrast, sharpness, saturation, red,   green, blue and skin tone are available. - Not available in RAW and   RAW+JPEG",
+    "selftimer": "Approx. 10-sec. delay, Approx. 2-sec. delay, Custom* *   Delay time (0 - 15 sec. (in one-second increments), 20/25/30 sec.) and number   of shots (1-10 shots (in one-shot increments)) can be specified.",
+    "numberofrecordingpixels": "-\u00a0 Still   Images",
+    "other": "-\u00a0 Memory card slot -\u00a0\u00a0Direct   connection to Canon SELPHY Compact Photo Printers, PIXMA Inkjet Photo Printers   and PictBridge-compatible printers via camera's USB 2.0 Hi-Speed Cable",
+    "playbacktime": "Approx. 7 hours",
+    "shootingcapacity": "-\u00a0 LCD Monitor on",
+    "storagemedia": "SD Memory Card, SDHC Memory Card, SDXC Memory Card",
+    "jpegcompressionmode": "-\u00a0 Still Image",
+    "fileformat": "Design rule for Camera File system, DPOF (Version 1.1)   compliant",
+    "imagerecordingformat": "Normal, Fine, RAW",
+    "videoout": "-\u00a0 Analog"
+}

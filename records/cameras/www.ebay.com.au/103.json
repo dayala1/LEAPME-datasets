@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "audio": "24000Hz 192 kb/s (1 channel)",
+    "photoresolution": "1280 x 960",
+    "color": "Silver",
+    "material": "Stainless Steel",
+    "builtinmic": "Yes",
+    "filesize": "1 hour of audio/video will use about 2.5Gb memory",
+    "powersource": "300mAh built in rechargeable lithium polymer battery (recharge directly from USB port)",
+    "videorecordingformat": "AVI",
+    "videoresolution": "640 x 480",
+    "whitebalance": "Auto"
+}

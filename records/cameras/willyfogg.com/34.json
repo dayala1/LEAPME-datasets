@@ -1,0 +1,9 @@
+{
+    "category": "camera",
+    "certifications": "EMC / CE EN 55022 Class B EN 55024 Class A",
+    "usb": "Up to 4 devices if connected to a hub USB1.1/2.0 High-Speed Host conectroller Up to 10MBytes/sec throughput",
+    "powersupply": "1.8V @ ~120mA core 3.3V @ ~110mA I/O",
+    "supportedprotocols": "IP TCP UDP ICMP ARP LPR DHCP BOOTP HTML HTTP",
+    "temperaturerange": "-10\u00c2\u00b0C to +70\u00c2\u00b0C",
+    "dimensions": "32 \u00c3\u0097 22 mm"
+}

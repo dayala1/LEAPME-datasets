@@ -1,0 +1,14 @@
+{
+    "category": "camera",
+    "cameratype": "Compact",
+    "brand": "Samsung",
+    "opticalzoom": "5x",
+    "displaytype": "LCD",
+    "sensorresolution": "16.2 MP",
+    "screensize": "2.7\"",
+    "displaysize": "2.7\"",
+    "supportedflashmemory": "microSD Card, microSDHC Card",
+    "model": "DV150F",
+    "hdmioutput": "Yes",
+    "maxvideoresolution": "1280 x 720"
+}

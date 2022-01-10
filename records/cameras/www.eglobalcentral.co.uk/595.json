@@ -1,0 +1,23 @@
+{
+    "battery": "Nikon EN-EL12 Lithium-Ion battery",
+    "isosensitivity": "Auto, 125, 200, 400, 800, 1600 (3200, 6400 available in Auto mode)",
+    "effectivepixels": "16 megapixels",
+    "manualfocus": "Yes (with 99 focus areas)",
+    "category": "camera",
+    "usb": "USB 2.0 (480 Mbit/sec)",
+    "weightincbatteries": "213 g (0.47 lb / 7.51 oz)",
+    "sensorsize": "1/2.3\" (6.17 x 4.55 mm)",
+    "moviesize": "1920x1080 (30p, 25p, 60i, 50i), 1280x720 (30p, 25p), 1920x1080 (15p, 12.5p), 640x480 (120p, 100p), 1280x720 (60p, 50p), 320x240 (240p, 200p), iFrame 720 (30p, 25p), 640x480 (30p, 25p)",
+    "dimensionswxhxd": "110 x 66 x 26 mm (4.33 x 2.6 x 1.02\u2033)",
+    "gps": "Build-In",
+    "hdmi": "N/A",
+    "sensortype": "CMOS",
+    "imagestabilisation": "Optical, Lens-shift and Electronic VR (still pictures), Lens-shift VR (movies)",
+    "shutterspeed": "4-1/4000sec",
+    "wireless": "Build-In",
+    "storagetype": "SD / SDHC/SDXC, internal storage of 3.6 GB",
+    "opticalzoom": "5\u00d7",
+    "digitalzoom": "Yes (up to 4x)",
+    "maxresolution": "4608 x 3456",
+    "lcdtype": "Fixed"
+}

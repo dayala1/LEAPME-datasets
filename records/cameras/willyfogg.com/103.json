@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "datatransfer": "adc_adc10Demonstrate ADC",
+    "drivers": "Ethernet, Serial port (USART1, DBGU), USB (USB_HOST x2, USB_OTG), SD card, SMD, SPI, TWI, DMA, LCD+Touchscreen, GPIO",
+    "rs485": "RS485 test",
+    "system": "getting-startedBoot up chip and configure peripherals",
+    "lcd": "Configure LCD controller",
+    "filesystem": "FormatUBIFS file system",
+    "lcddisplay": "none 4.3 in. (+US$60.00) 7 in. (+US$99.00)"
+}

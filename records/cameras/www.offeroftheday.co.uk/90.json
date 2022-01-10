@@ -1,0 +1,22 @@
+{
+    "wirelessconnection": "IEEE 802.11b/g/n",
+    "minfocusdistance": "50 cm",
+    "weight": "138 g",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1920 x 1080",
+    "category": "camera",
+    "avinterfaces": "HDMI",
+    "memorycardslot": "SD card",
+    "dimensionswxdxh": "9.69 cm x 2.09 cm x 5.8 cm",
+    "productdescription": "Nikon Coolpix S5300 - digital camera",
+    "imagestabiliser": "Optical",
+    "imageprocessor": "EXPEED C2",
+    "focusadjustment": "Automatic",
+    "colour": "Black",
+    "lenssystem": "8 x zoom lens - 4.5 - 36 mm - f/3.7-6.6",
+    "cameraflash": "Built-in flash",
+    "digitalzoom": "4 x",
+    "sensorresolution": "16.0 Megapixel",
+    "supportedbattery": "1 x Nikon EN-EL19 Li-ion rechargeable battery ( included )",
+    "display": "LCD display - 3\""
+}

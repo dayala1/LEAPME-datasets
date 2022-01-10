@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "networking": "How to configure the CAN peripheral to send and receive CAN frames in normal mode. The sent frames are used to control LEDs by pressing buttons.",
+    "name": "Description",
+    "timestamp": "How to use the RTC peripheral and the Time Stamp feature.",
+    "flash": "ProgramHow to program the STM32F2xx FLASH.",
+    "currentconsumption": "How to configure the STM32F2xx system to measure different Low Power modes' current consumption.",
+    "gpio": "IOToggleGPIO ports are connected on AHB bus, using BSRRH and BSRRL registers. One cycle is required to set a pin and another cycle to reset it. So GPIO pins can toggle at AHB clock divided by 2.",
+    "audio": "Use board as audio device, similar to USB acoustics; you can play music on PC and output sound through board"
+}

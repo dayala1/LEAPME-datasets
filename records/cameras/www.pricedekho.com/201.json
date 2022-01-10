@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "whitebalancing": "Auto, Cloudy, Daylight, Flash, Fluorescent, Incandescent, One Push, One Push Set, White Balance Shift",
+    "facedetection": "Yes",
+    "flashrange": "(ISO Auto) : Wide : 0.25 - 5.6m, Telephoto : 1.2 - 3.0m, (ISO 3200 ): Wide : 7.9m, Telephoto : 4.4m",
+    "flashmodes": "Auto, Slow Sync Flash",
+    "isorating": "Auto / 100 / 200 / 400 / 800 / 1600 / 3200",
+    "pictureangle": "24 mm Wide Angle",
+    "redeyereduction": "Yes",
+    "metering": "Center-Weighted, Multi-pattern, Spot",
+    "selftimer": "2 sec, 10 sec",
+    "screensize": "3 Inches",
+    "builtinflash": "Yes",
+    "imagedisplayresolution": "921000 dots",
+    "videodisplayresolution": "1920 x 1080 pixels (Full HD)"
+}

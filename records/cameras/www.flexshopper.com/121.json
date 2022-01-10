@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "productdescription": "Canon EOS 60D - digital camera - body only",
+    "memorycardslot": "SD card",
+    "weight": "1.5 lbs",
+    "cameraflash": "Pop-up flash",
+    "microsoftcertification": "Compatible with Windows 7",
+    "sensorresolution": "18.0 Megapixel",
+    "supportedbattery": "1 x Canon LP-E6 Li-ion rechargeable battery ( included )",
+    "producttype": "Digital camera - SLR with Live View mode, movie recording",
+    "dimensionswxdxh": "5.7 in x 3.1 in x 4.2 in",
+    "lensincluded": "Body only",
+    "viewfinder": "Optical - fixed eye-level pentaprism",
+    "imageprocessor": "DIGIC 4",
+    "display": "LCD display - 3\"",
+    "maxvideoresolution": "1920 x 1080"
+}

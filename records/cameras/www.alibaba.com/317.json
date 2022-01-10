@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "shutter": "1/50(1/60)s - \u00a01/10,000 s",
+    "operatingcondition": "-20 to 70 degree, 90% or less(non-condensing)",
+    "protocol": "TCP/IP,HTTP,DHCP,DNS,DDNS, PPPOE,SMTP,NTP(HTTPS, RTP/RTSP,\u00a0SIP ,802.1x,IPv6 )",
+    "minillumination": "Color:0.1Lux @(F1.2,AGC ON) Black/white:0.2 Lux @ (F1.2,AGC ON)",
+    "maximageresolution": "1280*720",
+    "framerate": "50Hz:25fps (1280*720) 60Hz:30fps (1280*720)",
+    "imagesensor": "1/4\" HI3518C+OV9712 CMOS",
+    "storage": "Network storage",
+    "powersupply": "DC12V\u00b110%",
+    "intelligentalarm": "Motion detection, video loss, cable break, IP address conflicts",
+    "lens": "HD professional varifocal lens 4-9mm(2.8-12mm optional)",
+    "videocompression": "H.264 HighProfile, JPEG snapshot",
+    "imagesetting": "Saturation, brightness and contrast are adjustable through IE browser or client.",
+    "basic": "anti-flicker, dual-stream, heartbeat, password protection",
+    "model": "1.0Megapixel Dome Varifocal IP Camera ELP-IP5100VD",
+    "daynight": "36PCS IR LED with IR Cut"
+}

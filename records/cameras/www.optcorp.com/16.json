@@ -1,0 +1,17 @@
+{
+    "warranty": "1 Year Warranty",
+    "category": "camera",
+    "shuttertype": "Digital",
+    "computerinterface": "Built-in USB 2.0",
+    "fullwellcapacity": "Greater than 15,000 e- (unbinned)",
+    "series": "Starlight Xpress Oculus",
+    "colororbw": "Monochrome (B&W)",
+    "spectralresponse": "QE max at 520nM (~50%), 30% at 420nM and 670nM",
+    "interface": "USB 2.0",
+    "sensormanufacturer": "Sony",
+    "sku": "SX-OCULUS-W180",
+    "darkcurrent": "Less than 0.1 electrons/second @ + 10C ambient",
+    "ccdtype": "ICX205AL Sony SuperHAD interline CCD with low dark current and vertical anti-blooming",
+    "powerrequirements": "Camera is USB powered, dew heater requires 12v at 1 amp max",
+    "manufacturer": "Starlight Xpress"
+}

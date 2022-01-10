@@ -1,0 +1,12 @@
+{
+    "videoframerate": "30fps",
+    "category": "camera",
+    "storagesupport": "TF card",
+    "imageformat": "JPG",
+    "chargingvoltage": "DC-5V",
+    "playersoftware": "the mainstream video player software",
+    "supportsystem": "Windows me/2000/xp/2003/vista ; Mac os ; Linux ;",
+    "batterycapacity": "420mA",
+    "workingtime": "70-80 minutes",
+    "videoformat": "H.264"
+}

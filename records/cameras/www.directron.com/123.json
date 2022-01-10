@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p composite output (75 \u03a9/BNC)",
+    "weatherproofrating": "IP66",
+    "minillumination": "0.1 Lux @ (F1.2,AGC ON),0 Lux with IR",
+    "powerconsumption": "Max.1.5W(Max.4.5W with IR cut filter on)",
+    "daynight": "IR cut filter with auto switch",
+    "imagesensor": "1/3\"Sensor",
+    "snratio": "More than 62dB",
+    "powersupply": "12V DC",
+    "lens": "3.6mm",
+    "irrange": "100ft(30m)",
+    "synchronization": "Internal synchronization",
+    "effectivepixels": "1280(H)x960(V)",
+    "signalsystem": "NTSC / PAL",
+    "workingtemperature": "-40 \u00b0C - 60 \u00b0C (-40 \u00b0F - 140\u00b0F)",
+    "humidity": "90% or less (non-condensing)",
+    "shutterspeed": "NTSC",
+    "infraredredlamps": "24 pcs",
+    "dimension": "\u03a689.5x69.8mm(\u03a63.52\"x2.75\")"
+}

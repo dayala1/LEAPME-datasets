@@ -1,0 +1,11 @@
+{
+    "weightg": "480",
+    "closestfocusingdistancem": "1.5",
+    "minimumaperture": "32 - 45",
+    "noofdiaphragmblades": "7",
+    "filterdiametermm": "58",
+    "maximummagnificationx": "0.25 (at 300mm)",
+    "lensconstructionelementsgroups": "13/9",
+    "category": "camera",
+    "afactuator": "Micro USM"
+}

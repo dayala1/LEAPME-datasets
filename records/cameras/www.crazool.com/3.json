@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "imageresolution": "2880 x 1620",
+    "movieresolution": "1920 x 1080",
+    "label0": "1920 x 1080 Full HD recording; superior image quality appears clear on your HDTV",
+    "label1": "37mm wide-angle lens; Optical Image Stabilizer",
+    "label2": "4.7-megapixel digital still photo capability",
+    "label3": "Capture HD video to SDHC cards",
+    "label4": "High resolution, touch-panel LCD",
+    "opticalzoom": "10x",
+    "recordingdefinition": "High Definition",
+    "moviefileformat": "AVCHD",
+    "sensor": "CMOS",
+    "storagemediatype": "Memory Card",
+    "compressedformat": "JPEG",
+    "size": "1/4.5 inches"
+}

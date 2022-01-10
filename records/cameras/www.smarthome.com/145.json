@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "backlightcompensation": "Auto",
+    "tiltrange": "90\u00b0",
+    "powerrequirement": "12V 1000mA",
+    "dimensions": "5.5\" dia x 5.75\" (140 x 146mm)",
+    "imagesensor": "1/4\" CCD",
+    "snratio": ">54dB",
+    "panrange": "360\u00b0",
+    "upc": "841808011603",
+    "cablelength": "100' (30m)",
+    "effectivepixels": "542x492",
+    "viewingangle": "56\u00b0",
+    "signalsystem": "NTSC",
+    "irrange": "Up to 50' (15m)",
+    "operatingtemperature": "-14\u00b0 to 122\u00b0F (-10\u00b0 to 50\u00b0C)",
+    "resolution": "420TV Lines",
+    "minimumillumination": "0 lux IR On",
+    "lens": "6mm Fixed",
+    "manufacturer": "Night Owl"
+}

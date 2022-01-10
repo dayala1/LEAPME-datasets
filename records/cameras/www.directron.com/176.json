@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "videooutput": "1 Vp-p / 75 Ohms. BNC or F connector.",
+    "gammacharacteristic": "0.45",
+    "operatingtemp": "-10 o C to 50 o C (14 o F to 122 o F)",
+    "minimumillumination": "0.5 LUX @ F2.0",
+    "snratio": "More than 48 dB",
+    "autowhitebalance": "Yes",
+    "powersupply": "12V DC+/-10% / 120 mA. / 1.44W",
+    "pickupelement": "SONY 1/3\" SuperHAD COLOR CCD sensor",
+    "horizontalresolution": "420 TV lines",
+    "synchronoussystem": "Internal, Negative sync.",
+    "autogaincontrol": "Yes",
+    "effectivepictureelements": "NTSC",
+    "model": "UC7615AD.",
+    "autoelectronicshutter": "NTSC"
+}

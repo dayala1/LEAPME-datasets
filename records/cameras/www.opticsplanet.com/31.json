@@ -1,0 +1,13 @@
+{
+    "category": "camera",
+    "touchscreen": "no",
+    "batterylife": "16 hours (2 AA batteries)",
+    "weight": "9.3 oz (262.1 g) with batteries",
+    "waterproof": "yes (IPX7)",
+    "battery": "2 AA NiMH batteries (included)",
+    "displaytype": "transflective, 65-K color TFT",
+    "camera": "yes (5 megapixel with autofocus; automatic geo-tagging)",
+    "builtinmemory": "3.5 GB",
+    "interface": "high-speed USB and NMEA 0183 compatible",
+    "electroniccompass": "yes (tilt-compensated, 3-axis)"
+}

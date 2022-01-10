@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "microphone": "ECM-XM1 Shotgun type monoaural mic",
+    "videorecordingformat": "HD: HD MPEG-4 AVCHD format compatible SD: MPEG-2 PS (same as DVD)",
+    "memorycardslot": "SD/SDHC/SDXC Memory card Memory Stick Pro",
+    "weight": "8 lbs (2.76kg)",
+    "powerconsumption": "5.6W",
+    "imagesensor": "4K Exmor Super 35 CMOS",
+    "signalsystem": "50/60Hz (NTSC/PAL)",
+    "framerates": "60p, 50p, 24p, 30p, 25p",
+    "dimensionswxhxd": "Body only: 5 x 4 x 7 5/8\" (126.5 x 101.5 x 193.5 mm)",
+    "inputsoutputs": "Audio In: (2) XLR, Line/Mic/Mic and +48V phantom power Audio Out: (2) RCA L&R Component Out: HDMI 1.4, RCA type via AV jack Earphone: 3.5mm Stereo Lens Connector: E-Mount hot shoe MIC In: (2) XLR Monitor Speaker: Yes Timecode Out: HDMI 1.4 (embedded SPTE TC Out) Test Out: HDMI 1.4 USB: Mini-AB/Hi-speed",
+    "lcdmonitor": "3.5\" Wide LCD (approx. 921,600 dots) (1920 x 480), 16:9 aspect",
+    "powerrequirements": "AC adapter / battery 8.4V / 7.2V",
+    "hdmioutput": "HDMI 4:2:2 8-bit (59.97p & 50p, 29.97p, 25p, 23.98p)"
+}

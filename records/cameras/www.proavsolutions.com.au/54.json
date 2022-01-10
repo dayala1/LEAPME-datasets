@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "lens": "Lens with optical image stabilizer, 12x zoom,",
+    "operatingtemperature": "0 \u00b0C to 40 \u00b0C (32 \u00b0F to 104 \u00b0F)",
+    "weight": "Approx. 275 g (Approx. 0.61 lb.)",
+    "powerconsumption": "3.5 W",
+    "minimumshootingdistance": "Approx. 0.9 m (Approx. 35.43 inches)",
+    "pictureelements": "Effective: Approx. 2.51 megapixels x 3 (16:9)",
+    "internalmicrophone": "Stereo microphone",
+    "powersupply": "DC8 V-9 V (Supplied from the AG-HMR10)",
+    "pickupdevice": "3MOS (1/4.1 type progressive modes supported)",
+    "gainselection": "0 dB to +34 dB (Variable in 1-dB steps)",
+    "attr35mmequivalent": "40.8 mm to 490 mm (16:9)",
+    "digitalzoom": "2x/5x/10x (When set to 59.94 Hz: 1080/60i, 720/60p only; when set to 50 Hz: 1080/50i, 720/50p only)",
+    "ndfilter": "Auto On/Off by IRIS",
+    "filterdiameter": "43 mm",
+    "dimensionswxhxd": "53.5 x 56 x 123.8 mm (2-1/8 inches x 2-1/4 inches x 4-7/8 inches)",
+    "whitebalance": "ATW, preset 3200 K, preset 5600 K, W.set"
+}

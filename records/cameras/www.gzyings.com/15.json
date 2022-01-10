@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videooutput": "1080/60i, 1080/50i, 480/60p, 576/50p * Switches automatically to 1, 2, 3, or 4 to suit the TV",
+    "recordingsize": null,
+    "fullhd1920x108030fps25fps24fps": "330 MB/min.",
+    "thecoordinatesofthedustadheringtothelowpassfilteraredetectedbyatestshotandappendedtosubsequentimages": "The dust coordinate data appended to the image is used by the provided software to automatically erase the dust spots.",
+    "shutterlagtime": "During SW-1 ON, time lag between SW-2 ON and start of exposure: approx. 0.075 sec. * Approx. 0.168 seconds in case of silent shooting. Time lag between simultaneous SW-1/SW-2 ON and start of exposure: Approx. 0.150 sec. * Approx. 0.242 seconds in case of silent shooting. * Time lag with the aperture stopped down by 3 stops or less (Excludes AF operation time).",
+    "label1": "Type C (Switches automatically to suit the resolution)",
+    "attr1280x72060fps50fps": "44 min.",
+    "shutterspeeds": "1/4000 to 30 sec. (total shutter speed range; available range varies by shooting mode), bulb, X-sync at 1/200 sec. * Settable in 1/3- or 1/2-stop increments.",
+    "attr640x48030fps25fps": "3 hr. 4 min. * If recording time reaches 29 min. 59 sec., movie shooting stops automatically.",
+    "basedon8gbmemorycard1920x108030fps25fps24fps": "22 min. [1280 x 720] 60 fps/50 fps",
+    "removesdustadheringtothelowpassfilter": "Self-cleaning executed automatically (taking approx. 2 sec.) when power is turned on or off. Manual execution also possible (taking approx. 5 sec.).",
+    "attr1920x108030fps25fps24fps": "44 min.",
+    "hd1280x72060fps50fps": "330 MB/min.",
+    "sd640x48030fps25fps": "82.5 MB/min. * If the file size exceeds 4GB, a new file will be automatically created. ** SD Class 6 or higher required.",
+    "type": "Vertical-travel, mechanical, focal-plane shutter with all speeds electronically-controlled * Electronic 1st curtain and mechanical 2nd curtain"
+}

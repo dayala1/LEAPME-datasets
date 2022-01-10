@@ -1,0 +1,22 @@
+{
+    "videooutput": "1Vpp, 75\u03a9",
+    "irpoweron": "CDS AUTO Control",
+    "horizontalresolution": "720P",
+    "illumination": "0Lux (with IR LED ON)",
+    "autogaincontrol": "Auto",
+    "storagetemperature": "-30~+60 \u2103",
+    "powercurrent": "DC12V/9000mA",
+    "category": "camera",
+    "dimensionmm": "240(W)x90(H)x85(D)mm",
+    "autoelectronicshutter": "NTSC: 1/60s~1/100,000s, PAL: 1/50s~1/100,000s",
+    "snratio": "More than 48dB",
+    "lens": "2.8-12mm Varifocal Lens",
+    "synchronoussystem": "Internal, Negative sync.",
+    "irdistance": "40 Meters (with 5X42PCS Infrared LED)",
+    "weightg": "1400",
+    "gamacharacteristic": "0.45",
+    "operatingtemperature": "-10~+50 \u2103",
+    "pickupelement": "1/4 OV9712",
+    "scanningsystem": "2:1 interface",
+    "model": "TSKG40-9712"
+}

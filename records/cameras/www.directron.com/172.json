@@ -1,0 +1,19 @@
+{
+    "ledindicators": "- USB, Status, HDD 1, HDD 2, HDD 3, HDD 4, LAN",
+    "category": "camera",
+    "lanport": "2 x Gigabit RJ-45 Ethernet port",
+    "dimensions": "1.73(H) x 16.93(W) x 18.11(D) inch",
+    "certification": "CE, FCC, VCCI, BSMI",
+    "cpu": "Intel Atom processor",
+    "vga": "Reserved",
+    "buttons": "Power, one touch auto video backup, reset",
+    "hdd": "4 x 3.5\" or 2.5\" SATA I/II HDD",
+    "powersupply": "Output",
+    "temperature": "0~40\u00b0C / 32-104\u00b0F",
+    "fan": "4 x cooling fan (12V DC)",
+    "formfactor": "Rackmount",
+    "humidity": "0~95% R.H.",
+    "flashmemory": "128MB DOM",
+    "operatingsystem": "Linux-embedded system",
+    "usb": "- 3 x USB 2.0 - Front"
+}

@@ -1,0 +1,19 @@
+{
+    "category": "camera",
+    "videooutput": "BNC (HD-SDI), SD:BNC (Composite Monitor)",
+    "microphone": "Waterproof Microphone: lower part of the camera/0dBm/600\u03a9 unbalanced output (with limiter)",
+    "noise": "Noise NC30 (40\u00b0/s), NC45 (60\u00b0/s)",
+    "angleofview": "W59.4\u00b0-T3.0\u00b0 (1920\u00d71080)",
+    "operatingspeed": "Pan/Tilt: 0.3~40\u00b0/ sec (normal speed mode) Pan/Tilt: 0.3~60\u00b0/ sec (high speed mode)",
+    "pickupdevice": "Image Sensor 1/3CMOS",
+    "controlinterface": "D-sub9 (RS-232) \u00d71, RJ-45 (RS-422) \u00d71",
+    "zoomratio": "20x Max. 240x during digital zooming",
+    "minimumilluminationlux": "0.6 (F1.6, 1/60, +42dB, 50IRE)",
+    "gain": "AUTO/MANU(0~+32dB)",
+    "powersource": "DC12V\u00b110% - 20W",
+    "operatingtemperature": "Ambient -15~40\u00b0C / ~90% (non-condensing)",
+    "shutterspeed": "2sec~1/10,000sec",
+    "whitebalance": "AUTO/OUTDOOR/INDOOR/MANU/ATW",
+    "shootingmode": "AUTO/MANU/NIGHT/Shutter priority/Aperture priority",
+    "focusingsystem": "AUTO/MANUAL/INF"
+}

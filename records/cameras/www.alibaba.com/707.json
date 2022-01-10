@@ -1,0 +1,16 @@
+{
+    "videoframerate": "30fps",
+    "category": "camera",
+    "storagesupport": "Micro SD (TF)",
+    "theratioofimage": "4:3",
+    "videoresolution": "1280*720P VGA",
+    "videoencoding": "M-JPEG",
+    "mediaplayingsoftware": "Attached software of the operating system or Mainstream audio and video media playing software, recommend Kmplayer",
+    "supportingsystem": "Windows me/2000/xp/2003/vista;Mac OS10.4",
+    "item": "Parameters",
+    "interfacetype": "Mini\u00a08 pin USB",
+    "workingtime": "About 100 minutes",
+    "chargepressure": "DC-5V",
+    "batterytype": "high-capacity lithium polymer",
+    "videoformat": "AVI"
+}

@@ -1,0 +1,21 @@
+{
+    "category": "camera",
+    "audiobitrate": "64 Kbps",
+    "audiooutput": "1-ch, RCA (Linear, 1K\u03a9)",
+    "capacity": "- Up to 4 TB capacity for each disk",
+    "workinghumidity": "10% ~ 90%",
+    "modelno": "LTD7204-FT",
+    "usbport": "2 x USB2.0",
+    "audiocompression": "G.711u",
+    "framerate": "- Main stream",
+    "powersupply": "12V DC",
+    "videocompression": "H.264",
+    "networkinterface": "- 1; 10M / 100M / 1000M self-adaptive Ethernet interface",
+    "dualstream": "Support",
+    "audioinput": "- 4-ch - RCA (2.0 Vp-p, 1 K\u03a9)",
+    "remoteconnection": "128",
+    "workingtemperature": "-10 \u00b0C ~ +55 \u00b0C (14 \u00b0F ~ 131 \u00b0F)",
+    "dimensionswxdxh": "- 315 x 230 x 45 mm x(12.4 x 9.1 x 1.8 inch)",
+    "networkprotocols": "- TCP/IP, PPPoE, DHCP, DNS, DDNS, NTP, SADP, SMTP, SNMP, NFS, iSCSI, UPnP",
+    "videobitrate": "32 Kbps-16 Mbps"
+}

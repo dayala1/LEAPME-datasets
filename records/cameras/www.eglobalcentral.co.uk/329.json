@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "minimumfocusdistance": "1.48'\u00a0(45 cm)",
+    "tiltshift": "None",
+    "weight": "1.47 lb (670 g)",
+    "dimensionsdxl": "Approx. 3.3 x 4.2\" (8.38 x 10.67 cm)",
+    "angleofview": "84\u00b0 - 23\u00b0\u00a020'",
+    "filterthread": "Front:77 mm",
+    "formatcompatibility": "35mm Film / Full-Frame Digital Sensor",
+    "focallength": "24 - 105mm",
+    "magnification": "0.23x",
+    "diaphragmblades": "8",
+    "elementsgroups": "18/13",
+    "imagestabilization": "Yes",
+    "aperture": "Maximum: f/4",
+    "autofocus": "Yes",
+    "cameramounttype": "Canon EF",
+    "maximumreproductionratio": "1:04",
+    "tripodcollar": "No"
+}

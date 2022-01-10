@@ -1,0 +1,10 @@
+{
+    "category": "camera",
+    "compression": "H.264, MJPEG",
+    "cameratype": "IP",
+    "type": "Cameras",
+    "wireless": "Yes",
+    "camerasincluded": "1",
+    "sensor": "1/2.8\" CMOS Sensor",
+    "cameraresolution": "1080p"
+}

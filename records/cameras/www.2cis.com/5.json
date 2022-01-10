@@ -1,0 +1,23 @@
+{
+    "videooutput": "CVBS : 1.0 Vp-p / 75 composite",
+    "protocol": "Samsung-T/E, Pelco-D",
+    "aperturesize": "1:1.4",
+    "powerconsumption": "Max. 10.5W / 22W (With heater)",
+    "communication": "RS-485",
+    "sharpness": "6 levels : Off - 5",
+    "thermalsensitivitynetd": "85mK@F1.4",
+    "category": "camera",
+    "imagemodes": "Color 1 / Color 2 / ISO / B&W",
+    "imagingdevice": "320(H) x 240(H) uncooled VOX microbolometer",
+    "ingressprotection": "IP66",
+    "focallength": "14mm (Fixed)",
+    "material": "Aluminum",
+    "minimumobjectdistancemod": "0.5m",
+    "weightapprox": "4.85 lb (2.2Kg)",
+    "color": "Ivory",
+    "dimensions": "4.09 x 4.84 x 13.86\" (\u00d8104 x 123 x 352 mm)",
+    "operatingtemperature": "-22 to 131\u00b0 F (-30 to 55\u00b0 C)",
+    "digitalzoom": "Off / On (2x to 4x)",
+    "focuscontrol": "Manual",
+    "inputvoltage": "24VAC \u00b110%"
+}

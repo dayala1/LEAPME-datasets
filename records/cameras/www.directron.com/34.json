@@ -1,0 +1,16 @@
+{
+    "ledindicators": "- Status, LAN, USB, eSATA, Power, HDD 1, HDD 2, HDD 3, HDD 4",
+    "category": "camera",
+    "lanport": "- 2 x Gigabit RJ-45 Ethernet port",
+    "dimensions": "- 177 (H) x 180 (W) x 235 (D) mm - 6.97 (H) x 7.09 (W) x 9.25 (D) inch",
+    "formfactor": "- Tower",
+    "powerconsumptionw": "- Sleep mode",
+    "powersupply": "- Input",
+    "buttons": "- System",
+    "lcdpanel": "- Mono-LCD display with backlight - Enter button, Select button for configuration",
+    "hdd": "- 2.5/ 3.5\" SATA x4 NOTE",
+    "fan": "- 1 x quiet cooling fan (9 cm, 12V DC)",
+    "flashmemory": "- 512MB DOM",
+    "cpu": "- Dual-core Intel Atom processor",
+    "usb": "- 5 x USB 2.0 port (Front"
+}

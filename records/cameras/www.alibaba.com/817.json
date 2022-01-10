@@ -1,0 +1,20 @@
+{
+    "category": "camera",
+    "videooutput": "1vp-p Composite Output",
+    "lens": "3.6mm/F2.0(4.8mm,6mm)",
+    "weight": "300g",
+    "shuttertime": "1/25s ~ 1/30,000s",
+    "powerconsumption": "max. 1.5W (max. 4.5 W with IR cut filter on)",
+    "wdr": "YES",
+    "snratio": "52db",
+    "powersupply": "12 VDC \u00b1 10%",
+    "operatingconditions": "-30 \u00b0C ~ 60 \u00b0C Humidity 90% or less (non-condensing)",
+    "weatherproof": "IP66",
+    "synchronization": "internal synchronization",
+    "dynamicrange": "63.5dB",
+    "irrange": "Approx.30meters",
+    "osdmenu": "YES,With OSD cable",
+    "lensmount": "C/CS/M12",
+    "daynight": "IR cut filter with auto switch",
+    "sensormodel": "PC1099"
+}

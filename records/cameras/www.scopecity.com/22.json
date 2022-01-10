@@ -1,0 +1,16 @@
+{
+    "category": "camera",
+    "productcode": "DFK 21AU04.AS",
+    "supplyvoltage": "4.5 V to 5.5 V via the cable",
+    "resolution": "640 x 480 pixel",
+    "format": "1/4\"",
+    "type": "progressive scan",
+    "currentconsumption": "approx 500 mA @ 5 VDC",
+    "connection": "USB",
+    "mass": "265 g",
+    "gain": "0 dB to 36 dB",
+    "dynamicrange": "8 bit",
+    "lensmount": "C/CS mount",
+    "sensor": "CCD",
+    "manufacturer": "The Imaging Source"
+}

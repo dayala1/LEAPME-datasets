@@ -1,0 +1,21 @@
+{
+    "videoframerate": "720,25 fps \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 / \u00a0\u00a0\u00a0\u00a0720,30 fps",
+    "videooutput": "1-channel BNC HDCVI high definition video output",
+    "maxirledslength": "10-20M",
+    "minillumination": "0.01Lux/F1.2(0Lux IR LED on)",
+    "ingressprotection": "IP66",
+    "powerconsumption": "Max 3.5W",
+    "transmissiondistance": "Over 500m via 75-3 coaxial cable",
+    "imagesensor": "1/2.9\" 1Megapixel CMOS",
+    "noisereduction": "2D",
+    "powersupply": "DC12V\u00b110%",
+    "electronicshutter": "1/50s~1/100,000s\u00a0 \u00a0/\u00a0 1/60~1/100,000s",
+    "focallength": "4mm",
+    "synchronization": "Internal",
+    "effectivepixels": "1280(H)\u00d7720(V)",
+    "workingenvironment": "-30\u00b0C~+60\u00b0C/ Less than 95%RH (no condensation)",
+    "model": "GID18C1-2CV",
+    "category": "camera",
+    "daynight": "Auto(ICR)/B&W/Color",
+    "mounttype": "M12"
+}

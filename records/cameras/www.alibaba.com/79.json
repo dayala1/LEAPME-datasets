@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "irled": "36\u00a0units\u00a0SUPER\u00a0IR\u00a0LEDs",
+    "iprating": "IP66",
+    "videooutput": "1.0Vp-p composite 75 ohm",
+    "powerconsumption": "45 0mA",
+    "syncsystem": "Internal",
+    "minimumillumination": "0 LUX ( IR\u00a0ON )",
+    "snratio": "\u226548dB",
+    "agc": "AUTO",
+    "powersupply": "DC12V",
+    "len": "4-9MM/2.8-12MM\u00a0(F1.6)",
+    "backlightcompensation": "AUTO",
+    "electronicshutter": "Auto\u00a0E\u00a0Shutter:1/60(1/50)~1/100000\u00a0Sec(PAL) 1/60~-1/120,000\u00a0Sec(NTSC)",
+    "gaincontrol": "Auto",
+    "operationtemp": "-10 \u00b0C ~+50 \u00b0C",
+    "whitebalance": "Auto( 2500\u00b0K~9500\u00b0K )"
+}

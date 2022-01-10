@@ -1,0 +1,22 @@
+{
+    "wirelessconnection": "IEEE 802.11b/g/n",
+    "minfocusdistance": "50 cm",
+    "weight": "213 g",
+    "producttype": "Digital camera - compact",
+    "maxvideoresolution": "1920 x 1080",
+    "category": "camera",
+    "avinterfaces": "Composite video/audio, HDMI",
+    "memorycardslot": "SD card",
+    "dimensionswxdxh": "11.01 cm x 2.58 cm x 6.6 cm",
+    "productdescription": "Nikon Coolpix AW120 - digital camera",
+    "imagestabiliser": "Optical",
+    "imageprocessor": "EXPEED C2",
+    "focusadjustment": "Automatic",
+    "colour": "Black",
+    "lenssystem": "5 x zoom lens - 4.3 - 21.5 mm - f/2.8-4.9",
+    "cameraflash": "Built-in flash",
+    "digitalzoom": "4 x",
+    "sensorresolution": "16.0 Megapixel",
+    "supportedbattery": "1 x Nikon EN-EL12 Li-ion rechargeable battery ( included )",
+    "display": "OLED display - 3\""
+}

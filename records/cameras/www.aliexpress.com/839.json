@@ -1,0 +1,18 @@
+{
+    "category": "camera",
+    "videoframerate": "30fps",
+    "builtinmemorysize": "Non",
+    "iscustomized": "no",
+    "package": "Yes",
+    "items": "Related parameters",
+    "playersoftware": "Operating system comes with or mainstream video player software",
+    "supportsystem": "Windows me/2000/xp/2003/vista;Mac os;Linux",
+    "memorycardtype": "MicroSD / TF",
+    "modelnumber": "na",
+    "batterycapacity": "300mAh",
+    "opticalzoom": "< 10x",
+    "brandname": "BMT",
+    "type": "Mini",
+    "highdefinitionsupport": "720P (HD)",
+    "videoformat": "AVI"
+}

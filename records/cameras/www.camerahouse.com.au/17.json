@@ -1,0 +1,17 @@
+{
+    "category": "camera",
+    "dimensions": "121.92 x 60.96 x 50.8mm",
+    "power": "Rechargeable Li-Ion battery D-Li106",
+    "memorysize": "SD, SDHC, SDXC",
+    "sensitivity": "ISO 100-200, ISO 100-400, ISO 100-800, ISO 100-1600, ISO 100-3200, ISO 100-6400, ISO 100-12800",
+    "flash": "Built-In Flash",
+    "storage": "SD, SDHC, SDXC",
+    "weight": "Approx. 363g",
+    "zoom": "4 x Optical Zoom",
+    "standoutfeature1": "Full HD Video Recording",
+    "screensize": "3.0\" Tilt LCD Screen",
+    "interface": "USB 2.0 Hi-Speed, PC/ AV out, HDMI (Type D) out",
+    "ccd": "CMOS Sensor",
+    "megapixel": "12 Megapixel",
+    "shutterspeed": "1/2000 sec. - 1/4 sec., max. 30 sec. (1/8000 sec. - 30 sec. with Shutter Priority, Aperture Priority,Manual Exposure, and combination of electronic shutter enabled), Bulb"
+}
